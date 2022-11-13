@@ -1,0 +1,320 @@
+
+SD_Hero_QueenOfHearts_Skin2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 420, 451
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+Lhaircrown
+  rotate: true
+  xy: 275, 362
+  size: 54, 56
+  orig: 54, 56
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 0, 437
+  size: 36, 94
+  orig: 36, 94
+  offset: 0, 0
+  index: -1
+Lponytail
+  rotate: true
+  xy: 0, 0
+  size: 77, 301
+  orig: 77, 301
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 94, 432
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: true
+  xy: 89, 473
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 412, 411
+  size: 40, 58
+  orig: 40, 58
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 147, 427
+  size: 36, 95
+  orig: 36, 95
+  offset: 0, 0
+  index: -1
+Rminicrownback
+  rotate: false
+  xy: 470, 396
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+Rminicrownfront
+  rotate: true
+  xy: 331, 358
+  size: 58, 68
+  orig: 58, 68
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 242, 421
+  size: 38, 61
+  orig: 38, 63
+  offset: 0, 2
+  index: -1
+backhair
+  rotate: false
+  xy: 0, 252
+  size: 99, 72
+  orig: 99, 72
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: true
+  xy: 222, 77
+  size: 113, 131
+  orig: 113, 131
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 147
+  size: 92, 116
+  orig: 92, 116
+  offset: 0, 0
+  index: -1
+crownback
+  rotate: false
+  xy: 110, 383
+  size: 72, 44
+  orig: 72, 44
+  offset: 0, 0
+  index: -1
+crownfront
+  rotate: false
+  xy: 182, 376
+  size: 93, 45
+  orig: 93, 45
+  offset: 0, 0
+  index: -1
+dressbow
+  rotate: false
+  xy: 303, 416
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+dressbow2
+  rotate: true
+  xy: 180, 463
+  size: 26, 104
+  orig: 26, 104
+  offset: 0, 0
+  index: -1
+dressbow3
+  rotate: true
+  xy: 319, 454
+  size: 35, 101
+  orig: 35, 101
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 110, 313
+  size: 111, 63
+  orig: 111, 63
+  offset: 0, 0
+  index: -1
+eyeflinch
+  rotate: false
+  xy: 284, 190
+  size: 98, 79
+  orig: 98, 79
+  offset: 0, 0
+  index: -1
+eyefurious
+  rotate: false
+  xy: 399, 337
+  size: 106, 59
+  orig: 106, 59
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 0, 324
+  size: 110, 65
+  orig: 110, 65
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 331, 269
+  size: 115, 68
+  orig: 115, 68
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 382, 187
+  size: 89, 82
+  orig: 89, 82
+  offset: 0, 0
+  index: -1
+eyewink
+  rotate: false
+  xy: 221, 293
+  size: 110, 69
+  orig: 110, 69
+  offset: 0, 0
+  index: -1
+famiiliarflame2
+  rotate: true
+  xy: 134, 470
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+familiar
+  rotate: false
+  xy: 99, 239
+  size: 95, 74
+  orig: 95, 74
+  offset: 0, 0
+  index: -1
+familiar_faceflinch
+  rotate: false
+  xy: 0, 397
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+familiar_faceidle
+  rotate: false
+  xy: 347, 416
+  size: 65, 38
+  orig: 65, 38
+  offset: 0, 0
+  index: -1
+familiar_fire
+  rotate: true
+  xy: 194, 216
+  size: 77, 90
+  orig: 77, 90
+  offset: 0, 0
+  index: -1
+familiarflame1
+  rotate: true
+  xy: 157, 467
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+heart
+  rotate: false
+  xy: 60, 389
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+mouthgrit
+  rotate: false
+  xy: 8, 481
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 0, 485
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 26, 476
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 106, 471
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+neckbow
+  rotate: true
+  xy: 40, 474
+  size: 15, 49
+  orig: 15, 49
+  offset: 0, 0
+  index: -1
+staff_charm
+  rotate: false
+  xy: 284, 459
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+staffbackwing
+  rotate: false
+  xy: 116, 121
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: -1
+
+SD_Hero_QueenOfHearts_Skin22.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rponytail
+  rotate: true
+  xy: 0, 0
+  size: 90, 308
+  orig: 90, 308
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: true
+  xy: 311, 312
+  size: 176, 170
+  orig: 176, 170
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 311, 139
+  size: 164, 173
+  orig: 164, 173
+  offset: 0, 0
+  index: -1
+staff
+  rotate: false
+  xy: 0, 90
+  size: 311, 398
+  orig: 311, 398
+  offset: 0, 0
+  index: -1
