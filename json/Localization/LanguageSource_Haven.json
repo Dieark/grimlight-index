@@ -1,0 +1,6005 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7816424887579163056
+  },
+  "m_Name": "LanguageSource_Haven",
+  "mSource": {
+    "UserAgreesToHaveItOnTheScene": 0,
+    "UserAgreesToHaveItInsideThePluginsFolder": 0,
+    "GoogleLiveSyncIsUptoDate": 1,
+    "mTerms": [
+      {
+        "Term": "HavenUI/Donation_Category_CompletedText",
+        "TermType": 0,
+        "Languages": [
+          "Completed",
+          "획득",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Donation_Category_CostLabel",
+        "TermType": 0,
+        "Languages": [
+          "Donate",
+          "기부",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Donation_FooterText",
+        "TermType": 0,
+        "Languages": [
+          "Your support will be of great help as we rebuild Haven!",
+          "길드원 여러분의 지원이 우리들의 도시를 재건하는데 큰 도움이 될 거에요.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Donation_Menu_Button",
+        "TermType": 0,
+        "Languages": [
+          "Donate",
+          "기부하기",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Donation_Menu_Header",
+        "TermType": 0,
+        "Languages": [
+          "Haven Restoration Fund",
+          "길드에 기부하기",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/GuildHall_CategoryButton_Donation",
+        "TermType": 0,
+        "Languages": [
+          "Donation",
+          "길드 기부",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/GuildHall_CategoryButton_Expansion",
+        "TermType": 0,
+        "Languages": [
+          "Expansion",
+          "길드 명성치, 숙소 확장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/GuildHall_CategoryButton_StoreManage",
+        "TermType": 0,
+        "Languages": [
+          "Store, Manage",
+          "길드 상점, 매니지먼트",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/GuildHall_Map",
+        "TermType": 0,
+        "Languages": [
+          "Map",
+          "숙소 이동",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/GuildHall_Map_YouAreHere",
+        "TermType": 0,
+        "Languages": [
+          "You are here",
+          "현재 위치",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Library_CollectionView_HeaderTab",
+        "TermType": 0,
+        "Languages": [
+          "Hero Skin List",
+          "메르헨 스킨 리스트",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Library_Label_UnlockReward",
+        "TermType": 0,
+        "Languages": [
+          "Unlock Reward",
+          "해금 보상",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Library_StoryView_HeaderTab",
+        "TermType": 0,
+        "Languages": [
+          "Story List",
+          "스토리 리스트",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Library_StoryLevelRequirement_Format",
+        "TermType": 0,
+        "Languages": [
+          "Lv. {0} {1} Required",
+          "{1} 레벨 {0} 필요",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Library_FooterText",
+        "TermType": 0,
+        "Languages": [
+          "You can change outfits and read stories here.",
+          "이곳에선 메르헨의 스킨을 변경하거나 스토리를 열람할 수 있어.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Library_SideTab_Skins",
+        "TermType": 0,
+        "Languages": [
+          "Skins",
+          "스킨",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Library_SideTab_Stories",
+        "TermType": 0,
+        "Languages": [
+          "Stories",
+          "스토리",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Library_SkinPurchaseConfirmation_Header",
+        "TermType": 0,
+        "Languages": [
+          "Skin Unlock",
+          "스킨 구매",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Library_SkinPurchaseConfirmation_Prompt",
+        "TermType": 0,
+        "Languages": [
+          "Do you want to unlock skin<br> [{0}]?",
+          "[{0}] <br>스킨을 구매 할까요?",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Library_StoryPurchaseConfirmation_Header",
+        "TermType": 0,
+        "Languages": [
+          "Story Unlock",
+          "스토리 해금",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Library_StoryPurchaseConfirmation_Prompt",
+        "TermType": 0,
+        "Languages": [
+          "Do you want to unlock<br> [{0}]?",
+          "[{0}] <br>스토리를 해금 할까요?",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Library_StorySideWindow_DetailText_Locked",
+        "TermType": 0,
+        "Languages": [
+          "Unlock",
+          "해금",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Library_StorySideWindow_HeaderTab",
+        "TermType": 0,
+        "Languages": [
+          "Memory Stories",
+          "메르헨 스토리",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Library_StorySideWindow_ProgressFormat",
+        "TermType": 0,
+        "Languages": [
+          "Progress {0}/{1}",
+          "스토리 진행 {0}/{1}",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Library_StorySideWindow_UnlockButton",
+        "TermType": 0,
+        "Languages": [
+          "Unlock Story",
+          "스토리 해금",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Library_StorySideWindow_ShowStoryButton",
+        "TermType": 0,
+        "Languages": [
+          "Show Story",
+          "스토리 보기",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Libary_Button_SkinEquip",
+        "TermType": 0,
+        "Languages": [
+          "Equip",
+          "스킨 적용",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Library_Label_SkinEquipped",
+        "TermType": 0,
+        "Languages": [
+          "Equipped",
+          "현재 스킨",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Library_Label_SkinNotOwned",
+        "TermType": 0,
+        "Languages": [
+          "Not Owned",
+          "미보유",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/SkinViewer_Label_PressToPreview",
+        "TermType": 0,
+        "Languages": [
+          "(Hold to Preview)",
+          "(눌러서 스킨 미리보기)",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Management_Category_CheckIn",
+        "TermType": 0,
+        "Languages": [
+          "Check In",
+          "성과 보고",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Management_Category_Evaluation",
+        "TermType": 0,
+        "Languages": [
+          "Evaluation",
+          "우아함 평가",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Management_Category_Store",
+        "TermType": 0,
+        "Languages": [
+          "Guild Store",
+          "길드 상점",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Management_FooterText",
+        "TermType": 0,
+        "Languages": [
+          "I'm in charge of keeping things organized here. You better be careful around the merchandise!",
+          "길드의 관리는 내가 책임지고 있어. 협조하는 게 좋을거야.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Management_Menu_Header",
+        "TermType": 0,
+        "Languages": [
+          "Management",
+          "매니지먼트",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/MenuName_GuildHall",
+        "TermType": 0,
+        "Languages": [
+          "Guild Hall",
+          "오피뉴 길드 로비",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/MenuName_GuildShop",
+        "TermType": 0,
+        "Languages": [
+          "Guild Shop",
+          "길드 상점",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/MenuName_Library",
+        "TermType": 0,
+        "Languages": [
+          "Library",
+          "길드 도서관",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/MenuName_Lobby",
+        "TermType": 0,
+        "Languages": [
+          "Lobby",
+          "로비",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/MenuName_Rooms",
+        "TermType": 0,
+        "Languages": [
+          "Rooms",
+          "객실 005호",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/MenuName_Atelier",
+        "TermType": 0,
+        "Languages": [
+          "Atelier",
+          "아틀리에",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Management_CheckIn_ComfortLevel",
+        "TermType": 0,
+        "Languages": [
+          "Comfort Level",
+          "업무 기여",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Management_CheckIn_Compensation",
+        "TermType": 0,
+        "Languages": [
+          "Compensation",
+          "성과 보상",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Management_CheckIn_FlavorText",
+        "TermType": 0,
+        "Languages": [
+          "For Adventurer's Guild Approval",
+          "오피뉴 길드의 성과 보고 승인",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Management_CheckIn_PerformanceReport",
+        "TermType": 0,
+        "Languages": [
+          "Performance Report",
+          "성과 보고",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Management_CheckIn_ReportAvailable",
+        "TermType": 0,
+        "Languages": [
+          "A report is available!",
+          "성과 보고를 받을 수 있습니다!",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Management_CheckIn_TotalWorkingHours",
+        "TermType": 0,
+        "Languages": [
+          "Total Working Hours",
+          "총 업무 시간",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Management_Evaluation_ExtraLabel",
+        "TermType": 0,
+        "Languages": [
+          "Extra",
+          "추가",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Management_CheckIn_ComfortLevel_Prefix",
+        "TermType": 0,
+        "Languages": [
+          "Total Room Score",
+          "객실 총합 기여도",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Management_CheckIn_Compensation_Prefix",
+        "TermType": 0,
+        "Languages": [
+          "Bonus",
+          "보너스 성과 보상",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Management_CheckIn_FinalText",
+        "TermType": 0,
+        "Languages": [
+          "Contract Ready",
+          "계약 준비",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Management_CheckIn_AccruedTime",
+        "TermType": 0,
+        "Languages": [
+          "Accrued Time",
+          "업무 시간",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Management_CheckIn_MaxedTime",
+        "TermType": 0,
+        "Languages": [
+          "Maxed",
+          "최대 시간 도달",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Management_CheckIn_PressToSubmit",
+        "TermType": 0,
+        "Languages": [
+          "Press To Submit",
+          "선택 후 진행",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Management_Evaluation_Confirmation_Header",
+        "TermType": 0,
+        "Languages": [
+          "Additional Evaluation",
+          "추가 우아함 평가",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Management_Evaluation_Confirmation_Body",
+        "TermType": 0,
+        "Languages": [
+          "More than one evaluation per day costs increasing Gems. Are you sure?",
+          "오늘 추가 평가를 진행하려면 젬이 필요합니다.\n우아함 평가를 받고 보상을 받을까요?",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Management_Evaluation_NextResetTimer",
+        "TermType": 0,
+        "Languages": [
+          "Next Reset",
+          "리셋까지 남은 시간",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Management_CheckIn_Calculating",
+        "TermType": 0,
+        "Languages": [
+          "Calculating...",
+          "계산중...",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Rooms_RoomPrefix",
+        "TermType": 0,
+        "Languages": [
+          "Room",
+          "객실",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Rooms_ComfortLabel",
+        "TermType": 0,
+        "Languages": [
+          "Comfort Level",
+          "우아함 단계",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Rooms_Button_FinishEditing",
+        "TermType": 0,
+        "Languages": [
+          "Save",
+          "저장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Rooms_Button_ClearAll",
+        "TermType": 0,
+        "Languages": [
+          "Clear",
+          "지우기",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Rooms_Button_Heroes",
+        "TermType": 0,
+        "Languages": [
+          "Heroes",
+          "메르헨",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Rooms_Button_Decorate",
+        "TermType": 0,
+        "Languages": [
+          "Decorate",
+          "데코",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Rooms_Button_Environment",
+        "TermType": 0,
+        "Languages": [
+          "Environment",
+          "배경",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Rooms_DecorPicker_Header",
+        "TermType": 0,
+        "Languages": [
+          "Furniture Storage",
+          "데코 배치",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Rooms_HeroPicker_Header",
+        "TermType": 0,
+        "Languages": [
+          "Hero Select",
+          "메르헨 배치",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Rooms_EnvironmentPicker_Header",
+        "TermType": 0,
+        "Languages": [
+          "Environments",
+          "배경 변경",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Rooms_RadialButton_Delete",
+        "TermType": 0,
+        "Languages": [
+          "Delete",
+          "회수",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Rooms_RadialButton_Edit",
+        "TermType": 0,
+        "Languages": [
+          "Edit",
+          "변경",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Rooms_RadialButton_Flip",
+        "TermType": 0,
+        "Languages": [
+          "Flip",
+          "반전",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/NewHeroStory_Name",
+        "TermType": 0,
+        "Languages": [
+          "A Hero's Story",
+          "메르헨 스토리",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/NewHeroStory_Description",
+        "TermType": 0,
+        "Languages": [
+          "Moments are fleeting, but memories are forever.",
+          "순간은 잠시뿐이지만 기억은 오랫동안 남게 돼.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Rooms_DeleteAllPopup_Header",
+        "TermType": 0,
+        "Languages": [
+          "Clear All",
+          "지우기",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Rooms_DeleteAllPopup_Prompt",
+        "TermType": 0,
+        "Languages": [
+          "Remove all the furniture in the room?",
+          "모든 데코를 지울까요?",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Atelier_Tab_TokenBreakdown",
+        "TermType": 0,
+        "Languages": [
+          "Breakdown",
+          "파편 용해",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Atelier_Tab_MemorySummon",
+        "TermType": 0,
+        "Languages": [
+          "Memory Recall",
+          "메모리 소환",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Atelier_Tab_AtelierShop",
+        "TermType": 0,
+        "Languages": [
+          "Atelier Shop",
+          "아틀리에 상점",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Atelier_TokenBreakdown_RewardFormat",
+        "TermType": 0,
+        "Languages": [
+          "<color=#FEC444>{0}</color> {1}",
+          "{1} <color=#FEC444>{0}</color>개",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Atelier_Button_Celeste",
+        "TermType": 0,
+        "Languages": [
+          "Memory Topaz",
+          "메르헨 메모리",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenUI/Atelier_Label_AddShardsForMemoryTopaz",
+        "TermType": 0,
+        "Languages": [
+          "Select unwanted Hero Tokens to merge into Memory Topaz.",
+          "메르헨 파편을 메모리 토파즈로 용해할 수 있습니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicBookPile1_Description",
+        "TermType": 0,
+        "Languages": [
+          "A large stack of books that looks like it might tip over at any moment...",
+          "당장이라도 쓰러질 것 같은 쌓인 책 더미...",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicBookPile1_Name",
+        "TermType": 0,
+        "Languages": [
+          "Large Stack of Books",
+          "책 더미",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicBookPile2_Description",
+        "TermType": 0,
+        "Languages": [
+          "A stack of two blue books.",
+          "두 개의 파란색 책",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicBookPile2_Name",
+        "TermType": 0,
+        "Languages": [
+          "Blue books",
+          "파란 책",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicBookPile3_Description",
+        "TermType": 0,
+        "Languages": [
+          "A thick dictionary, dusty and unopened.",
+          "먼지 투성이에 사용 흔적이 없는 사전",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicBookPile3_Name",
+        "TermType": 0,
+        "Languages": [
+          "Large Dictionary",
+          "큰 사전",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicBookPile4_Description",
+        "TermType": 0,
+        "Languages": [
+          "Books and papers strewned on the ground from late night research.",
+          "늦은 밤, 땅에 흩어져 있던 연구 서류",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicBookPile4_Name",
+        "TermType": 0,
+        "Languages": [
+          "Study Documents",
+          "연구 문서",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicCabinet1_Description",
+        "TermType": 0,
+        "Languages": [
+          "A simple wooden cabinet with two drawers.",
+          "서랍 2개가 있는 심플한 나무 서랍장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicCabinet1_Name",
+        "TermType": 0,
+        "Languages": [
+          "Wooden Cabinet",
+          "나무 서랍장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicCabinet2_Description",
+        "TermType": 0,
+        "Languages": [
+          "A fancy decorative cabinet.",
+          "멋진 형태의 나무 서랍장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicCabinet2_Name",
+        "TermType": 0,
+        "Languages": [
+          "Ornate Cabinet",
+          "화려한 서랍장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicCabinet3_Description",
+        "TermType": 0,
+        "Languages": [
+          "A simple wooden cabinet with a single drawer.",
+          "서랍이 하나 있는 심플한 나무 서랍장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicCabinet3_Name",
+        "TermType": 0,
+        "Languages": [
+          "Small Wooden Cabinet",
+          "작은 나무 서랍장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicCabinet4_Description",
+        "TermType": 0,
+        "Languages": [
+          "A simple wooden cabinet with a house shaped top.",
+          "집 모양 상판이 있는 나무 서랍장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicCabinet4_Name",
+        "TermType": 0,
+        "Languages": [
+          "Homestead Cabinet",
+          "집 서랍장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicChessSet_Description",
+        "TermType": 0,
+        "Languages": [
+          "A game of skill and strategy...",
+          "기술, 전략, 그리고 승리",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicChessSet_Name",
+        "TermType": 0,
+        "Languages": [
+          "Chess Set Table",
+          "체스 테이블",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicCloset_Description",
+        "TermType": 0,
+        "Languages": [
+          "A wardrobe made of weathered driftwood.",
+          "풍화된 나무로 만든 낡은 나무 옷장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicCloset_Name",
+        "TermType": 0,
+        "Languages": [
+          "Driftwood Wardrobe",
+          "나무 옷장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicCoatRack1_Description",
+        "TermType": 0,
+        "Languages": [
+          "A fancy coat rack to hang your coat on.",
+          "코트를 걸 수 있는 멋진 옷걸이",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicCoatRack1_Name",
+        "TermType": 0,
+        "Languages": [
+          "Exquisite Coat Rack",
+          "깔끔한 코트 걸이",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicCoatRack2_Description",
+        "TermType": 0,
+        "Languages": [
+          "A simple coat rack to hang your coat on.",
+          "심플한 나무 옷걸이",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicCoatRack2_Name",
+        "TermType": 0,
+        "Languages": [
+          "Wooden Coat Rack",
+          "나무 옷걸이",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicCoatRack3_Description",
+        "TermType": 0,
+        "Languages": [
+          "A large wooden rack to hang and store your clothes.",
+          "여러 개의 옷을 걸 수 있는 나무 선반형 옷걸이",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicCoatRack3_Name",
+        "TermType": 0,
+        "Languages": [
+          "Garment Rack",
+          "의류 옷걸이",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicCouch1_Description",
+        "TermType": 0,
+        "Languages": [
+          "A simple wooden couch.",
+          "심플한 나무 소파",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicCouch1_Name",
+        "TermType": 0,
+        "Languages": [
+          "Wooden Couch",
+          "나무 소파",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicCouch2_Description",
+        "TermType": 0,
+        "Languages": [
+          "A wooden couch filled with plush pillows.",
+          "푹신한 베개가 가득 있는 나무 소파",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicCouch2_Name",
+        "TermType": 0,
+        "Languages": [
+          "Pillow Couch",
+          "베개 소파",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicDesk1_Description",
+        "TermType": 0,
+        "Languages": [
+          "A nightstand made of wood with a fancy lamp.",
+          "멋진 램프와 나무로 만든 스탠드",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicDesk1_Name",
+        "TermType": 0,
+        "Languages": [
+          "Wooden Nightstand",
+          "나무 탁자",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicDisplayCabinet_Description",
+        "TermType": 0,
+        "Languages": [
+          "A glass cabinet to display your kitchenware.",
+          "주방 그릇을 장식할 수 있는 하얀 캐비넷",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicDisplayCabinet_Name",
+        "TermType": 0,
+        "Languages": [
+          "White Display Cabinet",
+          "하얀 선반 캐비넷",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicDrawingEasel_Description",
+        "TermType": 0,
+        "Languages": [
+          "A white drawing easel.",
+          "하얀색 드로잉 미술판",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicDrawingEasel_Name",
+        "TermType": 0,
+        "Languages": [
+          "White Drawing Easel",
+          "하얀 드로잉판",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicLuggage_Description",
+        "TermType": 0,
+        "Languages": [
+          "Perfect for carrying your items on a long trip.",
+          "장거리 여행 시 필요한 캐리어",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicLuggage_Name",
+        "TermType": 0,
+        "Languages": [
+          "Pile of Luggage",
+          "캐리어 더미",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicRockingChair_Description",
+        "TermType": 0,
+        "Languages": [
+          "Handcrafted rocking chair.",
+          "수제로 만들어진 흔들 의자",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicRockingChair_Name",
+        "TermType": 0,
+        "Languages": [
+          "Wooden Rocking Chair",
+          "나무 흔들 의자",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicSewingMachine_Description",
+        "TermType": 0,
+        "Languages": [
+          "A white sewing machine for the experienced tailor.",
+          "숙련된 재단사를 위한 흰색 재봉틀",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicSewingMachine_Name",
+        "TermType": 0,
+        "Languages": [
+          "Sewing Machine",
+          "재봉틀",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicShipBoat_Description",
+        "TermType": 0,
+        "Languages": [
+          "An ornate bed shaped as a boat to ferry you in your dreams.",
+          "꿈을 실어 나르는 배 모양의 화려한 침대",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicShipBoat_Name",
+        "TermType": 0,
+        "Languages": [
+          "Dreamtide Bed",
+          "드림타이드 침대",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicSignBoard_Description",
+        "TermType": 0,
+        "Languages": [
+          "Filled with tasks for the day.",
+          "오늘의 의뢰로 가득찬 길드의 안내판",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicSignBoard_Name",
+        "TermType": 0,
+        "Languages": [
+          "Guild Signboard",
+          "길드 안내판",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicSmallPlant1_Description",
+        "TermType": 0,
+        "Languages": [
+          "Small house plant in a terra cotta planter.",
+          "테라코타 화분과 식물",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicSmallPlant1_Name",
+        "TermType": 0,
+        "Languages": [
+          "Wide Terra Cotta Planter",
+          "넓은 테라코타 화분",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicSmallPlant2_Description",
+        "TermType": 0,
+        "Languages": [
+          "Small cactus in a terra cotta planter.",
+          "작은 테라코타 화분과 식물",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicSmallPlant2_Name",
+        "TermType": 0,
+        "Languages": [
+          "Terra Cotta Cactus Planter",
+          "테라코타 화분",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicSofa_Description",
+        "TermType": 0,
+        "Languages": [
+          "A large leather sofa chair. Comfortable yet refined.",
+          "편안하고 세련된 가죽 소파 의자",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicSofa_Name",
+        "TermType": 0,
+        "Languages": [
+          "Leather Sofa Chair",
+          "가죽 소파 의자",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicStool1_Description",
+        "TermType": 0,
+        "Languages": [
+          "A simple stool with a teal cushion.",
+          "청록색 쿠션이 붙어있는 스툴",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicStool1_Name",
+        "TermType": 0,
+        "Languages": [
+          "Teal Simple Stool",
+          "청록색 스툴",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicStool2_Description",
+        "TermType": 0,
+        "Languages": [
+          "A foldable stool that is perfect for picnics.",
+          "피크닉에 적합한 분홍색 스툴",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicStool2_Name",
+        "TermType": 0,
+        "Languages": [
+          "Pink Foldable Stool",
+          "분홍 접이식 스툴",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicStool3_Description",
+        "TermType": 0,
+        "Languages": [
+          "A small wooden bench with a pink cushion.",
+          "분홍색 쿠션이 있는 작은 나무 의자",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicStool3_Name",
+        "TermType": 0,
+        "Languages": [
+          "Small Pink Bench",
+          "작은 분홍 의자",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicTable1_Description",
+        "TermType": 0,
+        "Languages": [
+          "A finely crafted white desk.",
+          "정교하게 제작된 하얀색 책상",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicTable1_Name",
+        "TermType": 0,
+        "Languages": [
+          "White Acanthus Desk",
+          "하얀 아칸서스 책상",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicTable2_Description",
+        "TermType": 0,
+        "Languages": [
+          "White table decorated with floral vases.",
+          "꽃병으로 장식된 흰색 테이블",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicTable2_Name",
+        "TermType": 0,
+        "Languages": [
+          "White Floral Coffee Table",
+          "하얀 꽃 커피 테이블",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicTable3_Description",
+        "TermType": 0,
+        "Languages": [
+          "A table with an advanced communication device.",
+          "고급 통신 장치가 있는 테이블",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicTable3_Name",
+        "TermType": 0,
+        "Languages": [
+          "White Telephone Table",
+          "흰색 전화 테이블",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicWheelbarrow_Description",
+        "TermType": 0,
+        "Languages": [
+          "An old wheelbarrow filled with flowers.",
+          "꽃으로 가득찬 하얀 수레",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicWheelbarrow_Name",
+        "TermType": 0,
+        "Languages": [
+          "White Floral Wheelbarrow",
+          "하얀 꽃 수레",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicWhiteBed_Description",
+        "TermType": 0,
+        "Languages": [
+          "Very fancy, very comfy.",
+          "아주 고급 스럽고 편안한 침대",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_BasicWhiteBed_Name",
+        "TermType": 0,
+        "Languages": [
+          "White Angelleaf Bed",
+          "하얀 엔젤리프 침대",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_CuteCabinet1_Description",
+        "TermType": 0,
+        "Languages": [
+          "A cute pink dresser fit for storing your clothes.",
+          "옷을 수납하기 좋은 분홍색 수납장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_CuteCabinet1_Name",
+        "TermType": 0,
+        "Languages": [
+          "Pink Dresser Basic",
+          "분홍 기본 수납장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_CuteCabinet2_Description",
+        "TermType": 0,
+        "Languages": [
+          "A cute pink dresser with picture frames on top.",
+          "액자와 귀여운 장식이 있는 분홍 수납장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_CuteCabinet2_Name",
+        "TermType": 0,
+        "Languages": [
+          "Pink Dresser with Pictures",
+          "장식과 분홍 수납장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_CuteCabinet3_Description",
+        "TermType": 0,
+        "Languages": [
+          "A cute pink dresser with a cute lamp and a flower vase on top.",
+          "램프와 꽃병이 올려진 분홍 수납장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_CuteCabinet3_Name",
+        "TermType": 0,
+        "Languages": [
+          "Pink Dresser with Lamp",
+          "램프와 분홍 수납장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_CuteCatHouse_Description",
+        "TermType": 0,
+        "Languages": [
+          "A cute pink picture frame with your feline friend.",
+          "분홍색 고양이 친구",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_CuteCatHouse_Name",
+        "TermType": 0,
+        "Languages": [
+          "Pink Cat Picture Frame",
+          "분홍 고양이 장식",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_CuteCloset_Description",
+        "TermType": 0,
+        "Languages": [
+          "A cute pink wardrobe to store your clothes and stuffed animals.",
+          "옷과 인형을 보관할 수 있는 분홍색 옷장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_CuteCloset_Name",
+        "TermType": 0,
+        "Languages": [
+          "Pink Rabbit Wardrobe",
+          "분홍 토끼 옷장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_CuteDollRabbit_Description",
+        "TermType": 0,
+        "Languages": [
+          "A big fluffy bunny.",
+          "푹신한 토끼 인형",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_CuteDollRabbit_Name",
+        "TermType": 0,
+        "Languages": [
+          "Rabbit Doll",
+          "토끼 인형",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_CuteLight_Description",
+        "TermType": 0,
+        "Languages": [
+          "A cute pink table lamp with rabbit ears.",
+          "토끼 귀가 달린 분홍색 테이블 램프",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_CuteLight_Name",
+        "TermType": 0,
+        "Languages": [
+          "Pink Rabbit Table Lamp",
+          "분홍 토끼 테이블 램프",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_CutePlushyCat_Description",
+        "TermType": 0,
+        "Languages": [
+          "Perfect for hugs and snuggles.",
+          "이곳, 푹신한 포옹 유효",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_CutePlushyCat_Name",
+        "TermType": 0,
+        "Languages": [
+          "Giant Plushy Cat",
+          "자이언트 플러쉬 고양이",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_CuteRabbitBed_Description",
+        "TermType": 0,
+        "Languages": [
+          "A cute pink bed with rabbit ears.",
+          "토끼 귀가 달린 분홍색 침대",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_CuteRabbitBed_Name",
+        "TermType": 0,
+        "Languages": [
+          "Pink Rabbit Bed",
+          "분홍 토끼 침대",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_CuteRabbitChair_Description",
+        "TermType": 0,
+        "Languages": [
+          "Big, pink, and comfy.",
+          "분홍색의 안락한 토끼 의자",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_CuteRabbitChair_Name",
+        "TermType": 0,
+        "Languages": [
+          "Pink Rabbit Sofa Chair",
+          "분홍 토끼 소파",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_EasternBrushRack_Description",
+        "TermType": 0,
+        "Languages": [
+          "A set of fine brushes.",
+          "고급 붓 세트",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_EasternBrushRack_Name",
+        "TermType": 0,
+        "Languages": [
+          "Paintbrush Set",
+          "붓 세트",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_EasternCabinet1_Description",
+        "TermType": 0,
+        "Languages": [
+          "An ornate table with eastern-style decor.",
+          "동양풍으로 장식된 장식",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_EasternCabinet1_Name",
+        "TermType": 0,
+        "Languages": [
+          "Eastern Basic Table",
+          "동양풍 책상",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_EasternCabinet2_Description",
+        "TermType": 0,
+        "Languages": [
+          "A large eastern-style desk.",
+          "커다란 동양풍의 선반",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_EasternCabinet2_Name",
+        "TermType": 0,
+        "Languages": [
+          "Eastern Style Desk Basic",
+          "동양풍 선반",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_EasternCabinet3_Description",
+        "TermType": 0,
+        "Languages": [
+          "An eastern-style table with books and a vase.",
+          "책과 꽃병이 있는 동양풍 책상",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_EasternCabinet3_Name",
+        "TermType": 0,
+        "Languages": [
+          "Eastern Study Table",
+          "동양풍 공부 책상",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_EasternCabinet4_Description",
+        "TermType": 0,
+        "Languages": [
+          "A large eastern-style desk with calligraphy accessories.",
+          "붓과 서예 도구가 있는 선반",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_EasternCabinet4_Name",
+        "TermType": 0,
+        "Languages": [
+          "Eastern Style Calligraphy Desk",
+          "동양풍 서예 선반",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_EasternScrollpot_Description",
+        "TermType": 0,
+        "Languages": [
+          "A ornate eastern-style pot with rolled up scrolls.",
+          "두루마리가 있는 동양풍 항아리",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_EasternScrollpot_Name",
+        "TermType": 0,
+        "Languages": [
+          "Eastern Scroll Pot",
+          "동양풍 두루마리 항아리",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_EasternShelf_Description",
+        "TermType": 0,
+        "Languages": [
+          "A bookcase filled with scrolls and accessories.",
+          "동양 장식이 포함된 장식장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_EasternShelf_Name",
+        "TermType": 0,
+        "Languages": [
+          "Eastern Bookcase",
+          "동양풍 장식장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_EasternVase_Description",
+        "TermType": 0,
+        "Languages": [
+          "A beautiful porcelain purple vase.",
+          "아름다운 푸른 꽃병",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_EasternVase_Name",
+        "TermType": 0,
+        "Languages": [
+          "Purple Vase",
+          "푸른 꽃병",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenBedLoft_Description",
+        "TermType": 0,
+        "Languages": [
+          "A simple outdoor bed with a wooden gazebo on top to protect you from the rain. ",
+          "비를 피할 수 있는 야외형 나무 침대",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenBedLoft_Name",
+        "TermType": 0,
+        "Languages": [
+          "Outdoor Wooden Bed",
+          "야외 나무 침대",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenBucketPlant_Description",
+        "TermType": 0,
+        "Languages": [
+          "A tin flowerpot filled with vibrant red and white flowers.",
+          "붉은 꽃과 흰 꽃이 있는 양철 화분",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenBucketPlant_Name",
+        "TermType": 0,
+        "Languages": [
+          "Tin Flowerpot",
+          "양철 화분",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenBush1_Description",
+        "TermType": 0,
+        "Languages": [
+          "A garden bush.",
+          "정원의 덤불",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenBush1_Name",
+        "TermType": 0,
+        "Languages": [
+          "Garden Bush",
+          "정원 덤불",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenBush2_Description",
+        "TermType": 0,
+        "Languages": [
+          "A garden bush with thick leaves.",
+          "두꺼운 잎이 있는 정원의 덤불",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenBush2_Name",
+        "TermType": 0,
+        "Languages": [
+          "Garden Leafy Bush",
+          "잎이 많은 정원 덤불",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenDesk2_Description",
+        "TermType": 0,
+        "Languages": [
+          "A table perfect for a picnic outside.",
+          "야외 소풍에 딱 맞는 책상",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenDesk2_Name",
+        "TermType": 0,
+        "Languages": [
+          "Picnic Table",
+          "소풍 책상",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenFence1_Description",
+        "TermType": 0,
+        "Languages": [
+          "A wooden fence made from rope and large branches.",
+          "밧줄과 가지로 만들어진 나무 울타리",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenFence1_Name",
+        "TermType": 0,
+        "Languages": [
+          "Simple Wooden Fence",
+          "나무 울타리",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenFence2_Description",
+        "TermType": 0,
+        "Languages": [
+          "A fence to protect your garden from hungry critters.",
+          "동물로부터 정원을 보호하는 울타리",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenFence2_Name",
+        "TermType": 0,
+        "Languages": [
+          "Wooden Garden Fence",
+          "나무 정원 울타리",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenFence3_Description",
+        "TermType": 0,
+        "Languages": [
+          "A wooden fence with yellow flowers growing over it.",
+          "나무 울타리와 자라난 노란 꽃",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenFence3_Name",
+        "TermType": 0,
+        "Languages": [
+          "Garden Floral Fence",
+          "정원 꽃 울타리",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenFlower1_Description",
+        "TermType": 0,
+        "Languages": [
+          "Vibrant yellow garden flowers.",
+          "활기 넘치는 노란색 정원 꽃",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenFlower1_Name",
+        "TermType": 0,
+        "Languages": [
+          "Yellow Flowers",
+          "노란 꽃",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenFlower2_Description",
+        "TermType": 0,
+        "Languages": [
+          "Vibrant blue garden flowers.",
+          "활기 넘치는 파란색 정원 꽃",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenFlower2_Name",
+        "TermType": 0,
+        "Languages": [
+          "Blue Flowers",
+          "파란 꽃",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenFlower3_Description",
+        "TermType": 0,
+        "Languages": [
+          "Vibrant pink roses.",
+          "분홍색의 작은 종류의 장미",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenFlower3_Name",
+        "TermType": 0,
+        "Languages": [
+          "Pink Rose Bush",
+          "분홍색 작은 장미",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenFlowerRack_Description",
+        "TermType": 0,
+        "Languages": [
+          "A plant stand with various shelves to hold an assortment of planters.",
+          "다양한 화분을 담을 수 있는 하얀 장식장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenFlowerRack_Name",
+        "TermType": 0,
+        "Languages": [
+          "White Garden Plant Stand",
+          "하얀 정원 식물장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenGrove_Description",
+        "TermType": 0,
+        "Languages": [
+          "Perfect for a romantic time outside if you aren't worried about allergies.",
+          "야외의 낭만을 만들어주는 하얀 꽃 그로브",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenGrove_Name",
+        "TermType": 0,
+        "Languages": [
+          "White Floral Grove",
+          "하얀 꽃 그로브",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenHedge1_Description",
+        "TermType": 0,
+        "Languages": [
+          "A nicely trimmed shrub.",
+          "잘 다듬어진 정원의 관목",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenHedge1_Name",
+        "TermType": 0,
+        "Languages": [
+          "Light Green Garden Hedge",
+          "밝은 초록 정원 관목",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenHedge2_Description",
+        "TermType": 0,
+        "Languages": [
+          "A nicely trimmed shrub.",
+          "잘 다듬어진 정원의 관목",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenHedge2_Name",
+        "TermType": 0,
+        "Languages": [
+          "Dark Green Garden Hedge",
+          "어두운 초록 정원 관목",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenLattice1_Description",
+        "TermType": 0,
+        "Languages": [
+          "A garden lattice with overhanging flowers.",
+          "꽃과 식물이 자라난 정원 격자",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenLattice1_Name",
+        "TermType": 0,
+        "Languages": [
+          "White Garden Lattice",
+          "하얀 정원 격자",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenLattice2_Description",
+        "TermType": 0,
+        "Languages": [
+          "A white gazebo with overhanging flowers.",
+          "아름다운 꽃이 핀 정원 전망대",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenLattice2_Name",
+        "TermType": 0,
+        "Languages": [
+          "White Garden Gazebo ",
+          "하얀 정원 전망대",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenLattice3_Description",
+        "TermType": 0,
+        "Languages": [
+          "A white wall with growing vines and flowers.",
+          "덩굴과 꽃이 자라는 흰 벽",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenLattice3_Name",
+        "TermType": 0,
+        "Languages": [
+          "White Lattice Wall",
+          "하얀 격자 벽",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenMelons_Description",
+        "TermType": 0,
+        "Languages": [
+          "Juicy and delicious.",
+          "달콤한 수박",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenMelons_Name",
+        "TermType": 0,
+        "Languages": [
+          "Watermelons",
+          "수박",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenPlant_Description",
+        "TermType": 0,
+        "Languages": [
+          "A simple garden shrub.",
+          "정원에 흔한 잡초",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenPlant_Name",
+        "TermType": 0,
+        "Languages": [
+          "Garden Shrub",
+          "정원 잡초",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenPottedPlant1_Description",
+        "TermType": 0,
+        "Languages": [
+          "Colorful flowers can brighten the day.",
+          "봄의 화려한 꽃이 있는 화분",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenPottedPlant1_Name",
+        "TermType": 0,
+        "Languages": [
+          "Springtime Bucket Flower Pot",
+          "봄날 양동이 화분",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenPottedPlant2_Description",
+        "TermType": 0,
+        "Languages": [
+          "A wooden planter with colorful roses.",
+          "화려한 봄날 꽃이 핀 화분",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenPottedPlant2_Name",
+        "TermType": 0,
+        "Languages": [
+          "Springtime Floral Planter",
+          "봄날 사각 화분",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenPottedTree1_Description",
+        "TermType": 0,
+        "Languages": [
+          "A small trimmed evergreen tree in a pot.",
+          "꼼꼼하게 관리된 상록수",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenPottedTree1_Name",
+        "TermType": 0,
+        "Languages": [
+          "Trimmed Potted Evergreen",
+          "손질된 상록수",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenPottedTree2_Description",
+        "TermType": 0,
+        "Languages": [
+          "A small evergreen tree in a pot.",
+          "넓은 형태로 손질된 상록수",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenPottedTree2_Name",
+        "TermType": 0,
+        "Languages": [
+          "Wide Potted Evergreen",
+          "넓은 상록수",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenPumpkins_Description",
+        "TermType": 0,
+        "Languages": [
+          "A stack of giant pumpkins.",
+          "커다란 호박 더미",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenPumpkins_Name",
+        "TermType": 0,
+        "Languages": [
+          "Garden Pumpkins",
+          "정원 호박",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenRack_Description",
+        "TermType": 0,
+        "Languages": [
+          "A stand to grow an assortment of plants for your garden.",
+          "정원을 꾸밀 수 있는 재배 선반",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenRack_Name",
+        "TermType": 0,
+        "Languages": [
+          "Garden Planter Stand",
+          "정원 재배 선반",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenStreetlight_Description",
+        "TermType": 0,
+        "Languages": [
+          "A lightpost to illuminate the streets.",
+          "거리를 밝히는 하얀 가로등",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenStreetlight_Name",
+        "TermType": 0,
+        "Languages": [
+          "White Street Light",
+          "하얀 가로등",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenTent_Description",
+        "TermType": 0,
+        "Languages": [
+          "A white tent for camping in the wild.",
+          "야외에서 캠핑 할 수 있는 텐트",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenTent_Name",
+        "TermType": 0,
+        "Languages": [
+          "White Tent",
+          "하얀 텐트",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenTrashcan_Description",
+        "TermType": 0,
+        "Languages": [
+          "It's a good idea to throw out the trash once in a while.",
+          "정원에 배치하면 좋은 쓰레기통",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenTrashcan_Name",
+        "TermType": 0,
+        "Languages": [
+          "Garden Trash Can",
+          "정원 쓰레기통",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenTreeWhite_Description",
+        "TermType": 0,
+        "Languages": [
+          "A white magical tree decorated with hanging ornaments.",
+          "흰색의 마법 같은 장식 나무",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GardenTreeWhite_Name",
+        "TermType": 0,
+        "Languages": [
+          "White Ornamental Tree",
+          "하얀 장식 나무",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GreenHouse_Description",
+        "TermType": 0,
+        "Languages": [
+          "A greenhouse that is perfect for growing your vegetables inside.",
+          "사계절 식물을 재배할 수 있는 온실",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_GreenHouse_Name",
+        "TermType": 0,
+        "Languages": [
+          "Garden Greenhouse",
+          "정원 온실",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_HeroDollAlice_Description",
+        "TermType": 0,
+        "Languages": [
+          "A plushy doll of Alice. So cute!",
+          "귀여운 앨리스 플러쉬 인형",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_HeroDollAlice_Name",
+        "TermType": 0,
+        "Languages": [
+          "Alice Plushy Doll",
+          "앨리스 플러쉬 인형",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_HeroDollAurora_Description",
+        "TermType": 0,
+        "Languages": [
+          "A plushy doll of Aurora. So cute!",
+          "귀여운 오로라 플러쉬 인형",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_HeroDollAurora_Name",
+        "TermType": 0,
+        "Languages": [
+          "Aurora Plushy Doll",
+          "오로라 플러쉬 인형",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_HeroDollCinderella_Description",
+        "TermType": 0,
+        "Languages": [
+          "A plushy doll of Cinderella. So cute!",
+          "귀여운 신데렐라 플러쉬 인형",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_HeroDollCinderella_Name",
+        "TermType": 0,
+        "Languages": [
+          "Cinderella Plushy Doll",
+          "신데렐라 플러쉬 인형",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_HeroDollDorothy_Description",
+        "TermType": 0,
+        "Languages": [
+          "A plushy doll of Dorothy. So cute!",
+          "귀여운 도로시 플러쉬 인형",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_HeroDollDorothy_Name",
+        "TermType": 0,
+        "Languages": [
+          "Dorothy Plushy Doll",
+          "도로시 플러쉬 인형",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_HeroDollSnowWhite_Description",
+        "TermType": 0,
+        "Languages": [
+          "A plushy doll of Snow White. So cute!",
+          "귀여운 백설공주 플러쉬 인형",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_HeroDollSnowWhite_Name",
+        "TermType": 0,
+        "Languages": [
+          "Snow White Plushy Doll",
+          "백설공주 플러쉬 인형",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_HeroDollTamamo_Description",
+        "TermType": 0,
+        "Languages": [
+          "A plushy doll of Tamamo-No-Mae. So cute!",
+          "귀여운 타마모노마에 플러쉬 인형",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_HeroDollTamamo_Name",
+        "TermType": 0,
+        "Languages": [
+          "Tamamo-No-Mae Plushy Doll",
+          "타마모노마에 플러쉬 인형",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_HeroDollBriarRose_Description",
+        "TermType": 0,
+        "Languages": [
+          "A plushy doll of Briar Rose. So cute!",
+          "귀여운 브라이어 로즈 플러쉬 인형",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_HeroDollBriarRose_Name",
+        "TermType": 0,
+        "Languages": [
+          "Briar Rose Plushy Doll",
+          "브라이어 로즈 플러쉬 인형",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_KitchenCabinet2_Description",
+        "TermType": 0,
+        "Languages": [
+          "Kitchen end table with a storage compartment underneath.",
+          "수납 공간이 있는 주방 서랍장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_KitchenCabinet2_Name",
+        "TermType": 0,
+        "Languages": [
+          "Kitchen End Table",
+          "짧은 주방 서랍장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_KitchenCabinet3_Description",
+        "TermType": 0,
+        "Languages": [
+          "Medium sized kitchen cabinet filled with drawers.",
+          "수납 공간이 많은 주방 서랍장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_KitchenCabinet3_Name",
+        "TermType": 0,
+        "Languages": [
+          "Medium Kitchen Cabinet Basic",
+          "주방 서랍장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_KitchenCabinet4_Description",
+        "TermType": 0,
+        "Languages": [
+          "Long-sized kitchen cabinet filled with drawers.",
+          "긴 사이즈의 수납 공간이 많은 주방 서랍장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_KitchenCabinet4_Name",
+        "TermType": 0,
+        "Languages": [
+          "Long Kitchen Cabinet Basic",
+          "긴 주방 서랍장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_KitchenCabinet5_Description",
+        "TermType": 0,
+        "Languages": [
+          "Long-sized kitchen cabinet with a cooking pot and a plate stand.",
+          "조리 냄비와 접시가 있는 긴 주방 서랍장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_KitchenCabinet5_Name",
+        "TermType": 0,
+        "Languages": [
+          "Long Kitchen Cabinet with Accessories",
+          "긴 주방 가구 서랍장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_KitchenDishwasher_Description",
+        "TermType": 0,
+        "Languages": [
+          "Be sure to wash your dishes after every meal.",
+          "설거지를 할 수 있는 주방 개수대",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_KitchenDishwasher_Name",
+        "TermType": 0,
+        "Languages": [
+          "Kitchen Dishwasher",
+          "주방 개수대",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_KitchenFruitBasket_Description",
+        "TermType": 0,
+        "Languages": [
+          "A basket of fresh fruit.",
+          "신선한 과일 바구니",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_KitchenFruitBasket_Name",
+        "TermType": 0,
+        "Languages": [
+          "Weaved Fruit Basket",
+          "과일 바구니",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_KitchenOven_Description",
+        "TermType": 0,
+        "Languages": [
+          "The fanciest oven Haven can provide.",
+          "안식의 도시에서 만든 주방 오븐",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_KitchenOven_Name",
+        "TermType": 0,
+        "Languages": [
+          "Ornate Kitchen Oven",
+          "주방 오븐",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_KitchenSteampot_Description",
+        "TermType": 0,
+        "Languages": [
+          "Something smells delicious inside...",
+          "맛있는 냄새가 나는 대형 냄비",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_KitchenSteampot_Name",
+        "TermType": 0,
+        "Languages": [
+          "Large Cooking Pot",
+          "대형 냄비",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_LodgeCabinet_Description",
+        "TermType": 0,
+        "Languages": [
+          "Perfect for storing your clothes during your stay.",
+          "옷을 수납하기에 적합한 나무 수납장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_LodgeCabinet_Name",
+        "TermType": 0,
+        "Languages": [
+          "Lodge Dresser",
+          "별장 수납장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_LodgeLamp_Description",
+        "TermType": 0,
+        "Languages": [
+          "A lamp to help guide you in the darkest of nights.",
+          "어두운 밤을 밝히는 야외 램프",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_LodgeLamp_Name",
+        "TermType": 0,
+        "Languages": [
+          "Outdoor Lamp",
+          "야외 램프",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_LodgeStumpSeat_Description",
+        "TermType": 0,
+        "Languages": [
+          "Simple yet effective.",
+          "다용도의 그루터기 의자",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_LodgeStumpSeat_Name",
+        "TermType": 0,
+        "Languages": [
+          "Tree Stump Stool",
+          "그루터기 의자",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_LodgeTable1_Description",
+        "TermType": 0,
+        "Languages": [
+          "A large wooden table.",
+          "별장의 원형 책상",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_LodgeTable1_Name",
+        "TermType": 0,
+        "Languages": [
+          "Lodge Table Basic",
+          "별장 원형 책상",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_LodgeTable2_Description",
+        "TermType": 0,
+        "Languages": [
+          "A good coffee is the best way to start the morning.",
+          "아침을 깨우는 향긋한 커피와 책상",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_LodgeTable2_Name",
+        "TermType": 0,
+        "Languages": [
+          "Lodge Coffee Table",
+          "별장 커피 책상",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_LodgeTree_Description",
+        "TermType": 0,
+        "Languages": [
+          "A small indoor tree.",
+          "실내 장식용 작은 나무 화분",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_LodgeTree_Name",
+        "TermType": 0,
+        "Languages": [
+          "Small Potted Tree",
+          "작은 나무 화분",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_LodgeWoodenBucket_Description",
+        "TermType": 0,
+        "Languages": [
+          "A simple yet useful accessory in any home.",
+          "유용하게 쓸 수 있는 나무 양동이",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_LodgeWoodenBucket_Name",
+        "TermType": 0,
+        "Languages": [
+          "Wooden Bucket",
+          "나무 양동이",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_MansionBookshelf_Description",
+        "TermType": 0,
+        "Languages": [
+          "A bookshelf packed with knowledge.",
+          "지식이 가득한 공부방 책장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_MansionBookshelf_Name",
+        "TermType": 0,
+        "Languages": [
+          "Study Room Bookshelf",
+          "공부방 책장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_MansionBust_Description",
+        "TermType": 0,
+        "Languages": [
+          "An ornate stone statue bust.",
+          "정교한 석상 흉상",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_MansionBust_Name",
+        "TermType": 0,
+        "Languages": [
+          "Stone Statue Bust",
+          "석상 흉상",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_MansionCabinet1_Description",
+        "TermType": 0,
+        "Languages": [
+          "A well furnished end table.",
+          "정교한 사무용 탁자",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_MansionCabinet1_Name",
+        "TermType": 0,
+        "Languages": [
+          "Office End Table",
+          "사무용 탁자",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_MansionCabinet2_Description",
+        "TermType": 0,
+        "Languages": [
+          "A well furnished office cabinet",
+          "정교한 사무용 수납장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_MansionCabinet2_Name",
+        "TermType": 0,
+        "Languages": [
+          "Office Cabinet",
+          "사무용 수납장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_MansionCandlestand_Description",
+        "TermType": 0,
+        "Languages": [
+          "An ornate lantern stand that can hold multiple candles to light up the room.",
+          "여러 개의 양초를 사용할 수 있는 랜턴 스탠드",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_MansionCandlestand_Name",
+        "TermType": 0,
+        "Languages": [
+          "Ornate Candle Lantern",
+          "화려한 캔들 랜턴",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_MansionChair_Description",
+        "TermType": 0,
+        "Languages": [
+          "An ornate handcrafted wooden chair.",
+          "화려한 수제 나무 의자",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_MansionChair_Name",
+        "TermType": 0,
+        "Languages": [
+          "Ornate Chair",
+          "화려한 의자",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_MansionTable2_Description",
+        "TermType": 0,
+        "Languages": [
+          "An ornate table with a clock to tell the time.",
+          "시계가 있는 화려한 책상",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_MansionTable2_Name",
+        "TermType": 0,
+        "Languages": [
+          "Ornate Clock Table",
+          "화려한 시계 책상",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_MansionTable_Description",
+        "TermType": 0,
+        "Languages": [
+          "An ornate wooden table with books and a small vase.",
+          "책과 작은 꽃병이 있는 화려한 나무 테이블",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_MansionTable_Name",
+        "TermType": 0,
+        "Languages": [
+          "Small Ornate Table",
+          "작고 화려한 책상",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Wall_CuteBlocks1_Description",
+        "TermType": 0,
+        "Languages": [
+          "pink block shelves to decorate your playroom.",
+          "놀이방을 장식할 수 있는 분홍 선반",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Wall_CuteBlocks1_Name",
+        "TermType": 0,
+        "Languages": [
+          "Pink Block Shelf",
+          "분홍 블록 선반",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Wall_CutePictureFrame_Description",
+        "TermType": 0,
+        "Languages": [
+          "A pair of cute pink picture frames.",
+          "귀여운 분홍 액자 한 쌍",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Wall_CutePictureFrame_Name",
+        "TermType": 0,
+        "Languages": [
+          "Pink Picture Frames",
+          "분홍 액자",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Wall_KitchenCabinet1_Description",
+        "TermType": 0,
+        "Languages": [
+          "Wall cabinet to hold your kitchen accessories and spices.",
+          "주방 용품과 향신료를 보관할 수 있는 수납장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Wall_KitchenCabinet1_Name",
+        "TermType": 0,
+        "Languages": [
+          "Kitchen Wall Cabinet",
+          "주방 벽 수납장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Wall_KitchenRack1_Description",
+        "TermType": 0,
+        "Languages": [
+          "Kitchen shelf that holds plates.",
+          "접시를 수납할 수 있는 주방 선반",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Wall_KitchenRack1_Name",
+        "TermType": 0,
+        "Languages": [
+          "Kitchen Shelf Basic",
+          "주방 벽 선반",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Wall_KitchenRack2_Description",
+        "TermType": 0,
+        "Languages": [
+          "Kitchen shelf that holds plates and pans.",
+          "접시를 수납할 수 있는 주방 선반과 팬",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Wall_KitchenRack2_Name",
+        "TermType": 0,
+        "Languages": [
+          "Kitchen Shelf with Pans",
+          "주방 팬 선반",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Wall_KitchenWallpipe_Description",
+        "TermType": 0,
+        "Languages": [
+          "A pipe to bring in hot water for your home.",
+          "온수를 공급하기 위한 파이프",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Wall_KitchenWallpipe_Name",
+        "TermType": 0,
+        "Languages": [
+          "Wall Pipe",
+          "벽 파이프",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Wall_KitchenWindows1_Description",
+        "TermType": 0,
+        "Languages": [
+          "Glass kitchen windows.",
+          "격자 유리 주방 창문",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Wall_KitchenWindows1_Name",
+        "TermType": 0,
+        "Languages": [
+          "Kitchen Window",
+          "주방 창문",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Wall_LodgeLedge_Description",
+        "TermType": 0,
+        "Languages": [
+          "A wooden wall shelf.",
+          "별장의 나무 선반",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Wall_LodgeLedge_Name",
+        "TermType": 0,
+        "Languages": [
+          "Lodge Wooden Shelf",
+          "별장 나무 선반",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Wall_LodgeWindow1_Description",
+        "TermType": 0,
+        "Languages": [
+          "A simple window with red drapes.",
+          "빨간 커튼이 달린 심플한 창문",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Wall_LodgeWindow1_Name",
+        "TermType": 0,
+        "Languages": [
+          "Day Time Haven Lodge Window",
+          "안식의 낮 창문",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Wall_LodgeWindow2_Description",
+        "TermType": 0,
+        "Languages": [
+          "A simple window with red drapes.",
+          "빨간 커튼이 달린 심플한 창문",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Wall_LodgeWindow2_Name",
+        "TermType": 0,
+        "Languages": [
+          "Night Time Lodge Window",
+          "안식의 밤 창문",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Wall_MansionMirror_Description",
+        "TermType": 0,
+        "Languages": [
+          "A fancy wall mirror.",
+          "화려한 벽 장식용 거울",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Wall_MansionMirror_Name",
+        "TermType": 0,
+        "Languages": [
+          "Mansion Wall Mirror",
+          "벽 거울",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Wall_MansionPicture1_Description",
+        "TermType": 0,
+        "Languages": [
+          "A golden picture frame with the silhouette of the March Hare",
+          "삼월 토끼의 실루엣이 보이는 금색 액자",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Wall_MansionPicture1_Name",
+        "TermType": 0,
+        "Languages": [
+          "Golden Picture Frame",
+          "금색 액자",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Wall_MansionPicture2_Description",
+        "TermType": 0,
+        "Languages": [
+          "A bronze picture frame with a silhouette of the infamous Gretel.",
+          "그레텔의 실루엣이 보이는 동색 액자",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Wall_MansionPicture2_Name",
+        "TermType": 0,
+        "Languages": [
+          "Bronze Picture Frame",
+          "동색 액자",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Wall_MansionPicture3_Description",
+        "TermType": 0,
+        "Languages": [
+          "A silver picture frame with a silhouette of curious Mad Hatter",
+          "매드 해터의 실루엣이 보이는 은색 액자",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Wall_MansionPicture3_Name",
+        "TermType": 0,
+        "Languages": [
+          "Silver Picture Frame",
+          "은색 액자",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Wall_MansionWallCandle_Description",
+        "TermType": 0,
+        "Languages": [
+          "A gold decorative sconce to illuminate your home.",
+          "환하게 밝힐 수 있는 금장식 양초대",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Wall_MansionWallCandle_Name",
+        "TermType": 0,
+        "Languages": [
+          "Refined Candle Sconce",
+          "세련된 양초대",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_HeroDollCeleste_Name",
+        "TermType": 0,
+        "Languages": [
+          "Celeste Plushy Doll",
+          "셀레스티 플러쉬 인형",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_HeroDollCeleste_Description",
+        "TermType": 0,
+        "Languages": [
+          "A plushy doll of Celeste. So cute!",
+          "귀여운 셀레스티 플러쉬 인형",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_HeroDollDracula_Name",
+        "TermType": 0,
+        "Languages": [
+          "Dracula Plushy Doll",
+          "드라큘라 플러쉬 인형",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_HeroDollDracula_Description",
+        "TermType": 0,
+        "Languages": [
+          "A plushy doll of Dracula. So cute!",
+          "귀여운 드라큘라 플러쉬 인형",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_HeroDollHook_Name",
+        "TermType": 0,
+        "Languages": [
+          "Hook Plushy Doll",
+          "후크 선장 플러쉬 인형",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_HeroDollHook_Description",
+        "TermType": 0,
+        "Languages": [
+          "A plushy doll of Hook. So cute!",
+          "귀여운 후크 선장 플러쉬 인형",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_HeroDollKaguya_Name",
+        "TermType": 0,
+        "Languages": [
+          "Kaguya Plushy Doll",
+          "카구야 플러쉬 인형",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_HeroDollKaguya_Description",
+        "TermType": 0,
+        "Languages": [
+          "A plushy doll of Kaguya. So cute!",
+          "귀여운 카구야 플러쉬 인형",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_HeroDollLis_Name",
+        "TermType": 0,
+        "Languages": [
+          "Lis Plushy Doll",
+          "리즈 플러쉬 인형",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_HeroDollLis_Description",
+        "TermType": 0,
+        "Languages": [
+          "A plushy doll of Lis. So cute!",
+          "귀여운 리즈 플러쉬 인형",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_HeroDollMal_Name",
+        "TermType": 0,
+        "Languages": [
+          "Mal Plushy Doll",
+          "말 플러쉬 인형",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_HeroDollMal_Description",
+        "TermType": 0,
+        "Languages": [
+          "A plushy doll of Mal. So cute!",
+          "귀여운말 플러쉬 인형",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_HeroDollOzma_Name",
+        "TermType": 0,
+        "Languages": [
+          "Ozma Plushy Doll",
+          "왕녀 오즈마 플러쉬 인형",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_HeroDollOzma_Description",
+        "TermType": 0,
+        "Languages": [
+          "A plushy doll of Ozma. So cute!",
+          "귀여운 왕녀 오즈마 플러쉬 인형",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_HeroDollQueenOfHearts_Name",
+        "TermType": 0,
+        "Languages": [
+          "Queen of Hearts Plushy Doll",
+          "퀸 오브 하트 플러쉬 인형",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_HeroDollQueenOfHearts_Description",
+        "TermType": 0,
+        "Languages": [
+          "A plushy doll of Queen Of Hearts. So cute!",
+          "귀여운 퀸 오브 하트 플러쉬 인형",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_HeroDollThumbelina_Name",
+        "TermType": 0,
+        "Languages": [
+          "Thumbelina Plushy Doll",
+          "엄지공주 플러쉬 인형",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_HeroDollThumbelina_Description",
+        "TermType": 0,
+        "Languages": [
+          "A plushy doll of Thumbelina. So cute!",
+          "귀여운 엄지공주 플러쉬 인형",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_HeroDollWinterQueen_Name",
+        "TermType": 0,
+        "Languages": [
+          "Winter Queen Plushy Doll",
+          "눈의 여왕 플러쉬 인형",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Furniture/Furniture_Ground_HeroDollWinterQueen_Description",
+        "TermType": 0,
+        "Languages": [
+          "A plushy doll of Winter Queen. So cute!",
+          "귀여운 눈의 여왕 플러쉬 인형",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenEnvironment/HousingEnvironment_GuildHall_Name",
+        "TermType": 0,
+        "Languages": [
+          "Guild Hall",
+          "길드 로비",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenEnvironment/HousingEnvironment_HousingClockroom_Name",
+        "TermType": 0,
+        "Languages": [
+          "Clockroom",
+          "시계의 방",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenEnvironment/HousingEnvironment_HousingEastern_Name",
+        "TermType": 0,
+        "Languages": [
+          "Traditional",
+          "전통 가옥",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenEnvironment/HousingEnvironment_HousingKitchen_Name",
+        "TermType": 0,
+        "Languages": [
+          "Kitchen",
+          "주방",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenEnvironment/HousingEnvironment_HousingLodge_Name",
+        "TermType": 0,
+        "Languages": [
+          "Lodge",
+          "통나무 집",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenEnvironment/HousingEnvironment_HousingMansion_Name",
+        "TermType": 0,
+        "Languages": [
+          "Exquisite",
+          "객실",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenEnvironment/HousingEnvironment_HousingPlayroom_Name",
+        "TermType": 0,
+        "Languages": [
+          "Playroom",
+          "토끼 놀이방",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenEnvironment/HousingEnvironment_GuildHall_Description",
+        "TermType": 0,
+        "Languages": [
+          "The grand chamber that all visitors of the Guild must walk through.",
+          "오피뉴 길드의 커다란 로비",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenEnvironment/HousingEnvironment_HousingClockroom_Description",
+        "TermType": 0,
+        "Languages": [
+          "Tick tock... tick tock...",
+          "시간을 달리는 기억",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenEnvironment/HousingEnvironment_HousingEastern_Description",
+        "TermType": 0,
+        "Languages": [
+          "An oriental arrangement that could use a creative touch.",
+          "집중과 휴식, 그리고 전통",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenEnvironment/HousingEnvironment_HousingKitchen_Description",
+        "TermType": 0,
+        "Languages": [
+          "Just tell your Heroes that dinner is ready!",
+          "메르헨과 함께 사용하는 주방",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenEnvironment/HousingEnvironment_HousingLodge_Description",
+        "TermType": 0,
+        "Languages": [
+          "A cozy log cabin that feels like a vacation in the woods.",
+          "숲 속 휴가를 부르는 아늑한 통나무집",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenEnvironment/HousingEnvironment_HousingMansion_Description",
+        "TermType": 0,
+        "Languages": [
+          "Absolutely exquisite.",
+          "휴식을 취할 수 있는 객실",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HavenEnvironment/HousingEnvironment_HousingPlayroom_Description",
+        "TermType": 0,
+        "Languages": [
+          "Put the weapons down and have fun!",
+          "함께 놀 수 있는 토끼 놀이방",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "LibraryStory/LibraryStoryData_TinKnight_Description",
+        "TermType": 0,
+        "Languages": [
+          "The Missing Heart",
+          "잃어버린 심장",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "LibraryStory/LibraryStoryData_TinKnight_Name",
+        "TermType": 0,
+        "Languages": [
+          "Tin Knight Story",
+          "양철 나무꾼 도서관 스토리",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "LibraryStory/LibraryStoryData_Scarecrow_Description",
+        "TermType": 0,
+        "Languages": [
+          "Smarter Than She Looks",
+          "생각보다 똑똑한 그녀",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "LibraryStory/LibraryStoryData_Scarecrow_Name",
+        "TermType": 0,
+        "Languages": [
+          "Scarecrow Story",
+          "허수아비 도서관 스토리",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "LibraryStory/LibraryStoryData_Aurora_Description",
+        "TermType": 0,
+        "Languages": [
+          "A Princess and Her Prince",
+          "어느 공주와 왕자 이야기",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "LibraryStory/LibraryStoryData_Aurora_Name",
+        "TermType": 0,
+        "Languages": [
+          "Aurora Story",
+          "오로라 도서관 스토리",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "LibraryStory/LibraryStoryData_Dorothy_Description",
+        "TermType": 0,
+        "Languages": [
+          "A Picnic Dream",
+          "소풍이라는 꿈",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "LibraryStory/LibraryStoryData_Dorothy_Name",
+        "TermType": 0,
+        "Languages": [
+          "Dorothy Story",
+          "도로시 도서관 스토리",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "LibraryStory/LibraryStoryData_Esme_Description",
+        "TermType": 0,
+        "Languages": [
+          "Passion of the Heartstone",
+          "하트스톤의 열정",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "LibraryStory/LibraryStoryData_Esme_Name",
+        "TermType": 0,
+        "Languages": [
+          "Esme Story",
+          "에스메 도서관 스토리",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "LibraryStory/LibraryStoryData_Kaguya_Description",
+        "TermType": 0,
+        "Languages": [
+          "A Walk Under the Moonlight",
+          "달빛 아래의 산책",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "LibraryStory/LibraryStoryData_Kaguya_Name",
+        "TermType": 0,
+        "Languages": [
+          "Kaguya Story",
+          "카구야 도서관 스토리",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "LibraryStory/LibraryStoryData_SnowWhite_Description",
+        "TermType": 0,
+        "Languages": [
+          "Harmony of Nature",
+          "자연의 조화",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "LibraryStory/LibraryStoryData_SnowWhite_Name",
+        "TermType": 0,
+        "Languages": [
+          "Snow White Story",
+          "백설공주 도서관 스토리",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "LibraryStory/LibraryStoryData_QueenOfHearts_Description",
+        "TermType": 0,
+        "Languages": [
+          "A Queen's Pride",
+          "여왕의 긍지",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "LibraryStory/LibraryStoryData_QueenOfHearts_Name",
+        "TermType": 0,
+        "Languages": [
+          "Queen of Hearts Story",
+          "퀸 오브 하트 도서관 스토리",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "LibraryStory/LibraryStoryData_BriarRose_Description",
+        "TermType": 0,
+        "Languages": [
+          "Curse of the Sleeping Maiden",
+          "잠자는 소녀의 저주",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "LibraryStory/LibraryStoryData_BriarRose_Name",
+        "TermType": 0,
+        "Languages": [
+          "Briar Rose Story",
+          "브라이어 로즈 도서관 스토리",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "LibraryStory/LibraryStoryData_Vita_Description",
+        "TermType": 0,
+        "Languages": [
+          "The Strawberry Dilemma",
+          "딸기의 딜레마",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "LibraryStory/LibraryStoryData_Vita_Name",
+        "TermType": 0,
+        "Languages": [
+          "Vita Story",
+          "비타 도서관 스토리",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "LibraryStory/LibraryStoryData_Thumbelina_Description",
+        "TermType": 0,
+        "Languages": [
+          "Song of Spring",
+          "봄빛의 노래",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "LibraryStory/LibraryStoryData_Thumbelina_Name",
+        "TermType": 0,
+        "Languages": [
+          "Thumbelina Story",
+          "엄지공주 도서관 스토리",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "LibraryStory/LibraryStoryData_Ozma_Description",
+        "TermType": 0,
+        "Languages": [
+          "A Glimpse of the Past",
+          "과거의 일람",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "LibraryStory/LibraryStoryData_Ozma_Name",
+        "TermType": 0,
+        "Languages": [
+          "Ozma Story",
+          "오즈마 도서관 스토리",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "LibraryStory/LibraryStoryData_Goldilocks_Description",
+        "TermType": 0,
+        "Languages": [
+          "The Ultimate Cake",
+          "궁극의 케이크",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "LibraryStory/LibraryStoryData_Goldilocks_Name",
+        "TermType": 0,
+        "Languages": [
+          "Goldilocks Story",
+          "골디락스 도서관 스토리",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      }
+    ],
+    "CaseInsensitiveTerms": 0,
+    "OnMissingTranslation": 1,
+    "mTerm_AppName": "",
+    "mLanguages": [
+      {
+        "Name": "English",
+        "Code": "en",
+        "Flags": 0
+      },
+      {
+        "Name": "Korean",
+        "Code": "ko",
+        "Flags": 0
+      },
+      {
+        "Name": "Japanese",
+        "Code": "ja",
+        "Flags": 0
+      }
+    ],
+    "IgnoreDeviceLanguage": 0,
+    "_AllowUnloadingLanguages": 0,
+    "Google_WebServiceURL": "https://script.google.com/macros/s/AKfycbwFv2D9sGfFquY8SX2dnWIyPhy-awtf603LGDXVkE_OhcCx3VJFXuu9RGlNhWcBWrJt/exec",
+    "Google_SpreadsheetKey": "1u4KImq23_cjmQTwqZwUw0idnGjwLYtg2iJaC3TLjLCQ",
+    "Google_SpreadsheetName": "I2Loc ProjectR Haven",
+    "Google_LastUpdatedVersion": "1666974327727",
+    "GoogleUpdateFrequency": 1,
+    "GoogleInEditorCheckFrequency": 2,
+    "GoogleUpdateSynchronization": 0,
+    "GoogleUpdateDelay": 0.0,
+    "Assets": []
+  }
+}

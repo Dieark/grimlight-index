@@ -1,0 +1,2095 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7816424887579163056
+  },
+  "m_Name": "LanguageSource_Tutorial",
+  "mSource": {
+    "UserAgreesToHaveItOnTheScene": 0,
+    "UserAgreesToHaveItInsideThePluginsFolder": 0,
+    "GoogleLiveSyncIsUptoDate": 1,
+    "mTerms": [
+      {
+        "Term": "Tutorial/Combat_Prompt_Next",
+        "TermType": 0,
+        "Languages": [
+          "Press to Continue",
+          "다음",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Menu_Prompt_Home",
+        "TermType": 0,
+        "Languages": [
+          "Celeste has invited you into her shop. Let's take a look!",
+          "셀레스티가 자신의 상점으로 부릅니다. 어서 따라가 보죠!",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_ActivateUltimate_Text1",
+        "TermType": 0,
+        "Languages": [
+          "My Active skill is ready! Press the icon to trigger it and turn the tide of battle!",
+          "제 액티브 스킬이 준비됐어요! <br>스킬 아이콘을 터치하여 액티브 스킬을 발동하고 전세를 역전 시켜주세요!",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_AddFriends_Text1",
+        "TermType": 0,
+        "Languages": [
+          "We can summon heroes from other dream worlds to assist us. After winning the battle, send them a friend request to call upon them again!",
+          "다른 꿈의 세계 메르헨들을 소환해 도움을 받을 수도 있답니다.<br>전투에서 승리한 후 그들에게 친구 요청을 보낼 수 있어요.<br>그러면 다른 세계의 메르헨들을 후에 다시 소환할 수 있어요!",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_AddUnitToSquad_Text1",
+        "TermType": 0,
+        "Languages": [
+          "We just unearthed the memory of Scarecrow! Equip her to the party to help in the next fight!",
+          "허수아비의 기억 파편을 찾았어요! 그녀를 파티에 추가하여<br>다음 전투에 함께 싸울 수 있도록 만들어주세요!",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_ArenaHomeClick_Text1",
+        "TermType": 0,
+        "Languages": [
+          "The Arena of Souls is this way!",
+          "영혼의 아레나로 가는 길이에요!",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_AutoDeploy_Text1",
+        "TermType": 0,
+        "Languages": [
+          "If you're in a pinch, use Deploy to quickly get units onto the field.",
+          "자동 배치 버튼을 사용하여<br>메르헨을 필드에<br>자동 배치 해주세요.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_AutoDeploy_Text2",
+        "TermType": 0,
+        "Languages": [
+          "This option will let your Heroes automatically use their Active skills.",
+          "이 버튼은 메르헨들이<br>자동으로 액티브 스킬들을 발동하도록 만들어줍니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_DailyQuestClick_Text1",
+        "TermType": 0,
+        "Languages": [
+          "Select Daily Quests to see what's out there!",
+          "일일 던전을 확인해보자!",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_DragHeroToTile_Text1",
+        "TermType": 0,
+        "Languages": [
+          "There's a wave of Dreamless ahead! But don't worry, I can help you fight.",
+          "저 앞에 드림리스 무리가 보여요.<br>제가 도움 드릴 수 있어요.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_DragHeroToTile_Text2",
+        "TermType": 0,
+        "Languages": [
+          "You are able to summon brave souls from the past and present... I'll help you tap into that power!",
+          "당신은 과거와 현재의 용맹한 영혼들을 불러낼 수 있는 힘을 가지고 있어요. 그 힘을 이끌어낼 수 있도록 제가 도와드릴게요.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_DragHeroToTile_Text3",
+        "TermType": 0,
+        "Languages": [
+          "Be aware of your Deployment Points - this represents how many Heroes you can sustain on the battlefield.",
+          "배치 코스트 제한에 주의해 주세요.<br>이 숫자에 따라 필드에 소환할 수 있는<br>메르헨의 수가 결정됩니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_DragHeroToTile_Text4",
+        "TermType": 0,
+        "Languages": [
+          "This number in the corner of their cards determines their cost to deploy.",
+          "이 숫자는 각 메르헨들이 필드에 배치되기 위해<br>필요한 코스트를 말해요.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_DragHeroToTile_Text5",
+        "TermType": 0,
+        "Languages": [
+          "Let's summon the brave Tin Knight, who will defend you with every ounce of her being!",
+          "용감한 양철 나무꾼을 소환해 주세요!<br>그녀는 전력을 다해 맞서 싸울 거예요.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_DragHeroToTile_Text6",
+        "TermType": 0,
+        "Languages": [
+          "Excellent. Keep summoning Heroes until we run out of Deployment Points! Once you're ready, start the battle.",
+          "배치 코스트 제한에 다다를 때까지 메르헨들을 계속 소환할 수 있어요.<br>모든 준비를 마치셨다면 전투를 시작해 주세요!",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_DungeonHomeClick_Text1",
+        "TermType": 0,
+        "Languages": [
+          "Clearing the local Dungeons is a good way for us to make some money! Let's check it out!",
+          "던전들을 클리어하는 건 골드를 벌 수 있는 효과적인 방법이지!",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_Assassins_Text1",
+        "TermType": 0,
+        "Languages": [
+          "The Assassin class focuses on high damage and the ability to sneak behind enemy lines to take out critical opponents.",
+          "어쌔신 클래스는 높은 공격력으로 적진 뒤에 몰래 숨어들어<br>까다로운 적부터 제거하는 능력에 특화되어 있습니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_Assassins_Text2",
+        "TermType": 0,
+        "Languages": [
+          "If a row is open, assassins will naturally run forward and attack the enemy backline. This allow them to prioritize fragile enemies such as healers and powerful spellcasters.",
+          "길이 열리면 어쌔신들은 적의 후방으로 달려가,<br>힐러나 메이지와 같은 원거리형 적들부터 노리게 됩니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_Assassins_Text3",
+        "TermType": 0,
+        "Languages": [
+          "Deploy your assassins to avoid enemy tanks and attack their healer!",
+          "근접형의 적들을 피해 어쌔신을 배치하여 전략적으로 대응해 주세요!",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_Awaken_Text1",
+        "TermType": 0,
+        "Languages": [
+          "Use duplicate Hero Shards to awaken latent powers within your Heroes. Unused Hero Shards can be combined in Shard Fusion to randomly roll for new shards.",
+          "중복된 메르헨 조각을 사용하여 메르헨 안에 잠재된 힘을 깨울 수 있습니다.\n별자리를 잠금 해제하면 무작위 스탯이 생성됩니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_Awaken_Text2",
+        "TermType": 0,
+        "Languages": [
+          "Unlocking nodes will randomly generate a random stat. Red applies to offensive stats, Blue applies to defensive stats, and Purple can be a hybrid. Getting three of the same colors in a row or having all nine nodes in the same color will result in an additional Mastery bonus.",
+          "빨간색은 공격 스탯, 파란색은 방어 스탯 그리고 보라색은 공격, 방어 스탯 이 생성될 수 있습니다.<br>동일한 색상을 연속으로 3개 만들거나 9개의 노드를<br>모두 동일한 색상으로 배치하면 추가 보너스를 획득하실 수 있어요.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_Awaken_Text3",
+        "TermType": 0,
+        "Languages": [
+          "You can Reroll your nodes to randomly generate new stats. To increase your Reroll odds of getting set bonuses, you can tap a node to lock it. This will prevent it from changing type when you reroll. However, locking nodes will increase the cost to Reroll.",
+          "별자리를 다시 리셋하여 새 스탯을 무작위로 생성할 수 있어요.<br>노드를 탭하여 잠금할 수 있으며 잠금된 노드는 리셋할 때에도 현재 스탯을 유지합니다.<br>더 많은 노드를 잠금하면 리셋 비용이 증가하니 주의해주세요!",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_BriarRoseEvents_Text1",
+        "TermType": 0,
+        "Languages": [
+          "During the event, you can use Rose Compass to fight battles in the Event story mode. This resource will regenerate over time - up to 20 every 24 hours.",
+          "이벤트 스토리 전투를 하기 위해선 로즈의 나침반이 필요합니다. 이 아이템은 매 24시간마다 최대 20개까지 충전됩니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_BriarRoseEvents_Text2",
+        "TermType": 0,
+        "Languages": [
+          "Clearing the event's main story battles will grant you one-time rewards of 20 Nightmare shards. Keep fighting the hardest one you can beat to earn more shards.",
+          "이벤트 스토리 전투를 클리어 할 때마다 최초 클리어 보상으로 나이트메어 파편을 20개씩 획득할 수 있습니다. 나이트메어 파편을 획득하고 싶다면 더 강한 적들과 전투하세요!",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_BriarRoseEvents_Text3",
+        "TermType": 0,
+        "Languages": [
+          "Challenge mode story battles open up later in the event. Defeat these battles to acquire one-time bonus loot. ",
+          "이벤트 스토리의 챌린지 모드는 나중에 해금됩니다. 챌린지 모드를 클리어하여 최초 보상을 꼭 획득하세요.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_BriarRoseEvents_Text4",
+        "TermType": 0,
+        "Languages": [
+          "Nightmare shards can be spent at the event shop, which will remain open for 7 days after the event battles are closed.",
+          "나이트메어 파편은 이벤트 상점에서 재화로 사용할 수 있으며 이벤트가 종료된 후에도 7일간 더 운영됩니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_ElementalDamage_Text1",
+        "TermType": 0,
+        "Languages": [
+          "Keep an eye on enemy element type. Dealing damage against a vulnerable opponent deals 25% bonus damage.",
+          "상성 속성으로 공격 시, 25%의 추가 데미지를 줄 수 있어요.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_ElementalDamage_Text2",
+        "TermType": 0,
+        "Languages": [
+          "Also keep in mind that enemies can also deal more damage to you if your type is vulnerable.",
+          "반대로 적에게 상성 속성으로 피해를 받을 시,<br>25%의 추가 피해를 받을 수 있으니 주의해주세요!",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_ElementalDamage_Text3",
+        "TermType": 0,
+        "Languages": [
+          "Light and Dark do bonus damage to each other. This is important for unit positioning!",
+          "빛 속성과 어둠 속성은 서로에게 추가 피해를 주니<br>메르헨을 배치하실 때 주의해주세요.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_Equipment_Text1",
+        "TermType": 0,
+        "Languages": [
+          "You can increase your Heroes' stats by equipping them with weapons, armor, and accessories. Select one of four slots and pick an available item!",
+          "무기, 방어구, 장신구를 장착하여 메르헨의 능력치를 높일 수 있어요.<br>4개의 슬롯 중 하나를 선택하고 보유한 장비를 선택해 주세요.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_Equipment_Text2",
+        "TermType": 0,
+        "Languages": [
+          "The menu on the left displays your selected items' information. You can Equip it from there.",
+          "왼쪽 메뉴에서 현재 선택된 아이템을 확인하고 장착할 수 있어요.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_Equipment_Text3",
+        "TermType": 0,
+        "Languages": [
+          "You can also increase item level with the Upgrade button, then Level Up button. ",
+          "강화 버튼을 선택한 후에 장비 강화로 장비 레벨을 올릴 수 있습니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_Equipment_Text4",
+        "TermType": 0,
+        "Languages": [
+          "In the Upgrade screen, select any unwanted equipment or upgrade materials to increase the level of your equipment. All items used for upgrading will be consumed.",
+          "원하지 않는 장비나 강화 재료를 선택하여 장비의 레벨을 올려주세요.<br>장비 강화에 사용된 모든 아이템은 소모됩니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_Equipment_Text5",
+        "TermType": 0,
+        "Languages": [
+          "The other Upgrading option is Refinement. You can increase the potency of the items' substats by feeding it duplicates.",
+          "장비 각인 시스템을 통해 동일한 장비를 사용해서<br>보조 스탯을 강화할 수 있어요.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_Equipment_Text6",
+        "TermType": 0,
+        "Languages": [
+          "You can Refine your item with duplicates up to 5 times. All items used for Refining will be consumed.",
+          "장비 각인은 총 5번까지 가능하며, 같은 장비 아이템이 소모됩니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_LimitBreak_Text1",
+        "TermType": 0,
+        "Languages": [
+          "At fixed intervals, your heroes will reach a level cap. You can limit break them using Elemental Fragments and Gold. This will increase their level cap by 10.",
+          "메르헨이 최고 레벨을 달성하면,<br>초월을 통해 최대 레벨을 상승 시킬 수 있습니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_LimitBreak_Text2",
+        "TermType": 0,
+        "Languages": [
+          "Limit break occurs between levels 20, 30, 40, 50, and 60 with a max cap of 70.",
+          "메르헨은 레벨 20, 30, 40, 50, 60 레벨에서 초월할 수 있어요.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_LineAttack_Text1",
+        "TermType": 0,
+        "Languages": [
+          "Some enemies, such as the Flaming Eye, have abilities that can hit all enemies in a line.",
+          "플레이밍 아이와 같은 일부 적들은 자신과 같은 라인에 있는 모든 이들에게 피해를 입힐 수 있으니 각별히 조심해야해요.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_LineAttack_Text2",
+        "TermType": 0,
+        "Languages": [
+          "To minimize the damage to your team, try deploying your heroes to other lanes to reduce your casualties.",
+          "피해를 최소화하고 싶다면 동일한 라인에 배치된 메르헨들을 다른 라인에 배치하여 피해를 경감시킬 수 있어요.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_MagicResistance_Text1",
+        "TermType": 0,
+        "Languages": [
+          "Some enemies have a high Magic Resistance, making it difficult for magic damage heroes to take them down.",
+          "어떤 적들은 뛰어난 마법 저항력으로<br>마법 피해 메르헨들의 공격을 효과적으로 받아냅니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_MagicResistance_Text2",
+        "TermType": 0,
+        "Languages": [
+          "To take down these enemies, use heroes with physical damage such as Warrior or Ranger classes. Be sure to line up heroes with the appropriate damage type against enemies with the correct vulnerability.",
+          "이런 적들에게 대응하기 위해선 워리어 또는 레인저 클래스와 같은<br>물리 피해 메르헨들을 선택해 주세요. 물론 적절한 배치도 중요하답니다!",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_Orphan_Text1",
+        "TermType": 0,
+        "Languages": [
+          "Dreamless Orphans are a light caster-style enemy that can channel a curse to stun your Heroes.",
+          "드림리스 오르펜은 캐스터 스타일의 적으로 무장은 비약해 보일지라도<br>메르헨들에게 저주를 걸어 기절시킬 수 있어요.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_Orphan_Text2",
+        "TermType": 0,
+        "Languages": [
+          "They will target the first hero within their range. Take them out by overwhelming the lane, or utilize a Guardian hero in the front while an Assassin sneaks to the back!",
+          "그들은 자신들의 사거리에 처음으로 닿는 아군 메르헨을 공격 대상으로 삼아요. 메르헨들을 드림리스 오르펜과 동일한 라인에 배치하여 수적 우위를 점하거나 가디언 계열의 메르헨들이 드림리스 오르펜의 공격을 받는 사이 어쌔신 계열의 메르헨으로 적들을 쓰러뜨리세요.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_PhysicalResistance_Text1",
+        "TermType": 0,
+        "Languages": [
+          "Some enemies have a high Physical Resistance, making it difficult for physical damage heroes to take them down.",
+          "일부 적들은 뛰어난 물리 저항으로<br>물리 피해 메르헨들의 공격을 효과적으로 받아냅니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_PhysicalResistance_Text2",
+        "TermType": 0,
+        "Languages": [
+          "Mage class heroes deal Magic damage that can bypass this Physical Resistance.",
+          "물리 저항이 높은 적들에게는 메이지 클래스의 메르헨들로 대응해 주세요!",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_PhysicalResistance_Text3",
+        "TermType": 0,
+        "Languages": [
+          "Be sure to line up mages and other magic dealing heroes so they can prioritize these targets first in battle.",
+          "메이지 클래스 메르헨들이 적절한 공격 우선 순위를<br>가질 수 있도록 신중히 배치해 주세요.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_Tome_Text1",
+        "TermType": 0,
+        "Languages": [
+          "Every Hero can unlock additional Potential stat bonuses by using Tomes. ATK, DEF, and HP are all upgradable with tomes.",
+          "고서를 사용해 잠재력을 강화할 수 있습니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_Tome_Text2",
+        "TermType": 0,
+        "Languages": [
+          "Use the right tomes and a small gold cost to upgrade your Heroes' potential. Tomes can be found in the Grand Library Dungeon.",
+          "각 스탯과 재료가 되는 고서, 그리고 골드를 사용하여 \n메르헨의 잠재력을 강화할 수 있습니다.<br>고서는 [일일던전-고서 발굴]에서 획득할 수 있습니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_UpgradeSkill_Text1",
+        "TermType": 0,
+        "Languages": [
+          "Both Passive and Active abilities can be enhanced with elemental shards and gold. ",
+          "패시브 스킬과 액티브 스킬들은 모두 속성 조각들과 골드를 사용해 강화할 수 있어요. ",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_UpgradeSkill_Text2",
+        "TermType": 0,
+        "Languages": [
+          "You can upgrade each skill to Level 5. This is a crucial way to increase their strength!",
+          "각각의 스킬들을 레벨 5까지 올릴 수 있어요. 메르헨들의 잠재된 힘을 끌어모으는데 매우 중요한 방법이죠!",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_WeaponRefine_Text1",
+        "TermType": 0,
+        "Languages": [
+          "You can increase the potency of your equipment's substats by feeding it duplicates.",
+          "동일한 장비를 각인 재료로 사용해서<br>장비의 보조 스탯을 강화할 수 있습니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_WeaponRefine_Text2",
+        "TermType": 0,
+        "Languages": [
+          "Each duplicate item will increase the substats of the item. You can only Refine an item 5 times. All items used for Refining will be consumed.",
+          "각인에 사용된 중복 장비마다 보조 스탯이 상승합니다.<br>각인은 최대 5번 진행 가능하며<br>각인에 사용된 모든 장비는 소모됩니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_WeeklyTower_Text1",
+        "TermType": 0,
+        "Languages": [
+          "In the Path of Midnight Tears, you will fight a gauntlet of challenging battles to acquire equipment and equipment upgrade materials.",
+          "차원 자각몽에서 장비 및 업그레이드 재료를 획득하기 위해선<br>여러 차례의 도전을 치뤄야 합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_WeeklyTower_Text2",
+        "TermType": 0,
+        "Languages": [
+          "Select a rift to begin. Each consecutive rift will field higher level enemies. But the stronger the enemy, the better the reward!",
+          "시작할 관문을 선택해 주세요. 관문을 계속 진행하다 보면 더 강력한 적과 맞서게 됩니다. 적이 강할수록 더 좋은 보상을 받을 수 있습니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_WeeklyTower_Text3",
+        "TermType": 0,
+        "Languages": [
+          "Every day, random buffs and challenges are assigned to a rift. Every battle within the rift will have these modifiers. ",
+          "매일마다 무작위의 버프가 관문에 부여됩니다.<br>관문 내 모든 전투에는 버프가 지속 적용됩니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_WeeklyTower_Text4",
+        "TermType": 0,
+        "Languages": [
+          "To attempt the rift without using Keys, you can select Practice mode. You can fight the battles within the Rift at no cost with no rewards.",
+          "열쇠를 사용하지 않고 관문에 도전하고 싶다면 연습 모드를 통해 도전할 수 있습니다. 조건 없이 관문을 시도할 수 있지만 보상 또한 획득하지 못합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_WeeklyTower_Text5",
+        "TermType": 0,
+        "Languages": [
+          "Each rift will have up to 5 battles. Plan wisely, as losing a battle will eject you from the Rift!",
+          "각 관문은 최대 5번의 전투가 존재합니다. 전투에서 패배하면 도전하고 있는 관문에서 퇴출되니 전략적으로 전투에 임해야 합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_WeeklyTower_Text6",
+        "TermType": 0,
+        "Languages": [
+          "The final battle in each rift will drop equipment - so make sure to fight to the end!",
+          "관문의 마지막 전투에서 높은 보상의 장비를 획득할 수 있습니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_MainMenu_Celeste_Text1",
+        "TermType": 0,
+        "Languages": [
+          "Celeste has invited you into her shop. Let's take a look!",
+          "셀레스티의 상점에 초대 받으셨군요.<br>한 번 둘러보죠!",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_MainMenu_DungeonsButton_Text1",
+        "TermType": 0,
+        "Languages": [
+          "This is the way towards the dungeons available to us.",
+          "던전으로 가는 길이야!",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_MainMenu_PvpButton_Text1",
+        "TermType": 0,
+        "Languages": [
+          "The Arena of Souls allows us to face other Dreamers from across dimensions. Perhaps we should participate!",
+          "영혼의 아레나에서는 또 다른 꿈꾸는 자들과<br>경쟁할 수 있습니다. 한 번 참여해보죠!",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_MainMenu_SummonButton_Text1",
+        "TermType": 0,
+        "Languages": [
+          "Right this way, Dreamer.",
+          "이쪽이야, 꿈꾸는 자.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_NewWave_Text1",
+        "TermType": 0,
+        "Languages": [
+          "We have to beat this new wave of enemies! Luckily our <u>Deployment Points increase each wave</u> so we can summon more heroes.",
+          "전방에 새로운 적의 무리가 나타났어요!<br>배치 코스트는 웨이브마다 증가하니<br>더 많은 메르헨들을 전장에 배치할 수 있어요.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_NewWave_Text2",
+        "TermType": 0,
+        "Languages": [
+          "Go ahead and place more heroes on the field before starting the wave.",
+          "전투를 시작하기 전에<br>아군 진영에 메르헨을 추가 배치해 주세요.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_OpenUnitDetails_Text1",
+        "TermType": 0,
+        "Languages": [
+          "Let's upgrade our heroes to make them stronger.",
+          "메르헨들을 강화시켜 더 강하게 만들어볼까요?",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_UpgradeSkill_Prompt",
+        "TermType": 0,
+        "Languages": [
+          "Your heroes' abilities can be upgraded when you gather enough resources. Just click on their ability description to see what you need!",
+          "메르헨의 스킬들은 충분한 자원이 있으면 강화할 수 있어요. 스킬을 터치하여 어떤 자원이 업그레이드하는데 필요한지 볼 수 있어요!",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_WeeklyTowerHomeClick_Text1",
+        "TermType": 0,
+        "Languages": [
+          "We should explore this Midnight Tear... I'll show you how to access it.",
+          "이 차원문을 탐험해보자.<br>어떻게 접근해야할지 알려줄게.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HavenPrompt_Home",
+        "TermType": 0,
+        "Languages": [
+          "The Adventurer's Guild is now open, let's check it out!",
+          "오피뉴 길드를 이용할 수 있게되었어요.<br>한 번 둘러보도록 해요!",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HavenGoToRoom_Text1",
+        "TermType": 0,
+        "Languages": [
+          "Let's visit your assigned room first. You can place some furniture to make it feel like home!",
+          "배정 받은 객실로 가보자. 이 방에서는 가구를 배치해서 나만의 공간을 꾸밀 수 있어.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HavenClickDecor_Text1",
+        "TermType": 0,
+        "Languages": [
+          "Press here to access your furniture stash. Select an icon to place, then drag them around.",
+          "가구는 이곳을 터치해서 볼 수 있어. 배치하고 싶은 가구 아이콘을 선택해서 원하는 곳에 드래그해봐.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_HavenRoom_Text1",
+        "TermType": 0,
+        "Languages": [
+          "Welcome Dreamer! This is your own personal room that you can decorate.",
+          "환영해, 꿈꾸는 자! 이 방은 네가 원하는데로 꾸밀 수 있는 개인 숙소실이야.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_HavenRoom_Text2",
+        "TermType": 0,
+        "Languages": [
+          "You can choose which heroes stay and wander around your room!",
+          "메르헨들 또한 숙소실에 배치하여 숙소실을 둘러보게 만들 수 있어.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_HavenRoom_Text3",
+        "TermType": 0,
+        "Languages": [
+          "To decorate your room with furniture click the Decorate tab. More quantity and quality of furniture will boost your Comfort Level.",
+          "숙소를 꾸미고 싶으면 버튼을 터치해. 가구의 수량과 품질에 따라 우아함 수치가 결정 돼.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_HavenRoom_Text4",
+        "TermType": 0,
+        "Languages": [
+          "If you want to change the backdrop of your room, that can be done from the Environment tab. They can be bought in the Guild Store.",
+          "숙소의 스킨을 변경하고 싶다면 배경 탭에서 변경할 수 있어. 새로운 걸 구입하고 싶다면 길드 상점을 이용해줘.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_HavenLobby_Text1",
+        "TermType": 0,
+        "Languages": [
+          "Here is the main Guild Hall! You can access everything from here.",
+          "이곳이 바로 메인 로비야. 길드에 관련된 모든 것을 이용할 수 있어.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_HavenLobby_Text2",
+        "TermType": 0,
+        "Languages": [
+          "If you want to navigate back to your Room or Library, press the Map button in the bottom right.",
+          "개인 숙소나 도서관에 가고 싶으면 우측 하단 숙소 이동 버튼을 누르면 돼.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_HavenLobby_Text3",
+        "TermType": 0,
+        "Languages": [
+          "For other management tasks and the guild store, talk to me, Lynn!",
+          "다른 관리 업무나 길드 상점 이용은 나, 린 디오네에게 말만 해!",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_HavenManagement_Text1",
+        "TermType": 0,
+        "Languages": [
+          "You can access the administrative duties through me.",
+          "나를 통해 행정 업무에 관련된 사항을 확인할 수 있어.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_HavenManagement_Text2",
+        "TermType": 0,
+        "Languages": [
+          "Every so often, you can submit inspection reports and have your room evaluated for rewards.",
+          "시간마다 내게 검사 보고서를 제출하여 당신의 숙소실을 평가받아 그에 합당한 보상을 받을 수 있어.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_HavenManagement_Text3",
+        "TermType": 0,
+        "Languages": [
+          "The rewards you earn will be based off of comfort level and heroes used. Check in every day for the Evaluations.",
+          "보상은 우아함과 네가 배치한 메르헨에 따라 달라져. 매일 보상을 받을 수 있으니 자주 확인하는게 좋을거야.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_HavenManagement_Text4",
+        "TermType": 0,
+        "Languages": [
+          "In the guild store, you can buy furniture, environments, and goodies with Arbor Checks!",
+          "길드 상점에서는 가구, 배경, 그리고 나머지 중요한 물건들이 있고 길드 명성치라는 재화를 통해 길드 상점의 물건을 구입할 수 있어.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_HavenLibrary_Text1",
+        "TermType": 0,
+        "Languages": [
+          "You can unlock Hero skins and Stories here using resources provided by Lynn.",
+          "매니저 린 디오네가 지급하는 재화를 통해 메르헨 스킨이나 도서관 스토리를 해금할 수 있습니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_HavenLibrary_Text2",
+        "TermType": 0,
+        "Languages": [
+          "Skins are unlocked by using elemental affinity stones.",
+          "메르헨 스킨은 속성 친화 파편을 통해 해금할 수 있습니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_HavenLibrary_Text3",
+        "TermType": 0,
+        "Languages": [
+          "Stories are discovered through Memory Puzzle pieces. Unlocking these stories will provide additional rewards!",
+          "도서관 스토리는 메모리 퍼즐을 통해 해금할 수 있습니다. 스토리 해금 시 추가 보상을 획득할 수 있습니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_BriarRoseEvent_Text1",
+        "TermType": 0,
+        "Languages": [
+          "Embark on a journey to find Briar Rose. Fight through battles and collect Nightmare Fragments to acquire valuable resources.",
+          "브라이어 로즈를 찾기 위향 여정이 시작됐어.<br>전투를 통해 나이트메어 파편과 자원을 획득할 수 있지.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_BriarRoseEvent_Text2",
+        "TermType": 0,
+        "Languages": [
+          "Rose Compasses regenerate one every 72 minutes. They are used to enter battles during the event.",
+          "로즈의 나침반은 72분마다 1개가 생성돼.<br>나침반을 사용해서 이벤트 기간 동안 전투를 진행할 수 있어.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_BriarRoseEvent_Text3",
+        "TermType": 0,
+        "Languages": [
+          "You can exchange Nightmare Fragments at the Event Shop to acquire goodies throughout the duration of the event.",
+          "이벤트 상점이 열려있는 기간 동안 나이트메어 파편을 사용하여 아이템을 구매할 수 있어.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_BriarRoseEvent_Text4",
+        "TermType": 0,
+        "Languages": [
+          "Later in the event, Challenge Track will unlock. These battles will test your mettle, while granting valuable one-time rewards.",
+          "챌린지는 강력한 적들이 꿈꾸는 자의 강함을 시험할 거야. 강함을 증명하면 챌린지 추가 보상을 얻을 수 있어.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_OzmaEvent_Text1",
+        "TermType": 0,
+        "Languages": [
+          "Dorothy has sent you on a quest to find her old friend, Princess Ozma. Seek her out in the Story mode.",
+          "도로시가 자신의 옛 친구인 오즈마를 찾기 위해 도와줘야 해. <br>전투를 통해 잊혀진 왕국의 수표를 획득할 수 있지.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_OzmaEvent_Text2",
+        "TermType": 0,
+        "Languages": [
+          "Black Roses regenerate once every 72 minutes. They are used to enter battles during the event.",
+          "검은 장미는 72분마다 1개가 생성돼. <br> 검은 장미를 사용해서 이벤트 기간 동안 전투를 진행할 수 있어.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_OzmaEvent_Text3",
+        "TermType": 0,
+        "Languages": [
+          "You can exchange Oz Tickets at the Event Shop to acquire elegant items throughout the duration of the event.",
+          "이벤트 상점이 열려있는 기간 동안 잊혀진 왕국의 수표를 사용하여 아이템을 구매할 수 있어.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_OzmaEvent_Text4",
+        "TermType": 0,
+        "Languages": [
+          "Later in the event, Challenge Track will unlock. These battles will test your mettle, while granting valuable one-time rewards.",
+          "챌린지는 강력한 적들이 꿈꾸는 자의 강함을 시험할 거야. 강함을 증명하면 챌린지 추가 보상을 얻을 수 있어.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_EventOzmaMechanic_Text1",
+        "TermType": 0,
+        "Languages": [
+          "In this scenario, Exhaustion will overwhelm your heroes after each wave, setting their HP to 1.",
+          "탈진 디버프는 메르헨들을 피로 상태에 빠지게 해. 웨이브가 끝날 때마다 전투에 참여한 메르헨의 생명력을 1로 만들어.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_EventOzmaMechanic_Text2",
+        "TermType": 0,
+        "Languages": [
+          "Keep an eye on your squad and make sure you have backup units to switch into!",
+          "메르헨의 생명력을 각별히 주시하고 웨이브마다 자리를 바꿀 수 있는 후속 메르헨들이 있는지 꼭 확인해 주어야 해.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_EvilQueenEvent_Text1",
+        "TermType": 0,
+        "Languages": [
+          "A dark force has been awakened. It's up to you to find the source and vanquish it.",
+          "사악한 힘이 안식의 도시 너머에서 깨어났어. 저 힘의 근원을 조사해야해.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_EvilQueenEvent_Text2",
+        "TermType": 0,
+        "Languages": [
+          "Mirror Shards regenerate once every 72 minutes. They are used to enter battles during the event.",
+          "거울의 파편은 72분마다 1개가 생성돼. <br> 거울의 파편을 사용해서 이벤트 기간 동안 전투를 진행할 수 있어.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_EvilQueenEvent_Text3",
+        "TermType": 0,
+        "Languages": [
+          "You can exchange Poison Apples at the Event Shop to earn rewards throughout the duration of the event.",
+          "이벤트 상점이 열려있는 기간 동안 독사과를 사용하여 아이템을 구매할 수 있어.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_HavenAtelier_Text1",
+        "TermType": 0,
+        "Languages": [
+          "Welcome to the Atelier! In this room, you can alchemize certain materials into others.",
+          "아틀리에 상점에 온 것을 환영해! 이 방에서는 특정 재료를 용해시켜 다른 재료로 만들 수 있어.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_HavenAtelier_Text2",
+        "TermType": 0,
+        "Languages": [
+          "Celeste can help you break down unwanted Hero Tokens to Memory Topaz that you can use to exchange for heroes. Keep in mind, rarer heroes will convert to more Topaz.",
+          "필요치 않은 메르헨 파편을 용해시켜 메모리 토파즈로 만들 수 있어. 희귀한 메르헨 기억 파편은 더 많은 양의 토파즈를 만들 수 있어. 내가 토파즈를 이용해 다른 메르헨으로 소환하는 데 도움을 줄 수 있지.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_HavenAtelier_Text3",
+        "TermType": 0,
+        "Languages": [
+          "You can use Memory Topaz to do Memory Recall summons to call upon new heroes. This includes previous pickup summon heroes!",
+          "메모리 토파즈를 사용해서 메르헨들을 소환할 수 있어.\n메모리 토파즈로는 모든 메르헨을 불러낼 수 있어.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HelpSlides_HavenAtelier_Text4",
+        "TermType": 0,
+        "Languages": [
+          "You can also exchange Memory Topaz in the Atelier Shop for specific Hero Tokens and other items. Be sure to stop by often as the Hero Tokens change daily!",
+          "아틀리에 상점에서 메모리 토파즈를 통해 특정 메르헨과 다른 아이템으로 교환할 수 있어. 교환할 수 있는 메르헨 파편은 매일 바뀌니까 참고해둬.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_AbyssIntro_Text0",
+        "TermType": 0,
+        "Languages": [
+          "An ancient forgotten tower awaits exploration. You can descend into the depths in pursuit of powerful artifacts.",
+          "잊혀진 고대의 흔적, 심연의 탑이 널 기다리고 있어. 더 깊은 곳으로 내려갈수록 강력한 유물을 획득할 수 있을 거야.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_AbyssIntro_Text1",
+        "TermType": 0,
+        "Languages": [
+          "You will use Abyss Keys to enter battles. They regenerate 1 per hour.",
+          "심연의 열쇠를 사용해서 전투에 참가할 수 있어. 심연의 열쇠는 60분마다 1개 생성돼.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_AbyssIntro_Text2",
+        "TermType": 0,
+        "Languages": [
+          "Each week, a random \"Curse\" will restrict a part of your team from entering.",
+          "매주 \"심연의 저주\"는 사용할 수 있는 메르헨 범위를 일부 제한할 거야.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_AbyssIntro_Text3",
+        "TermType": 0,
+        "Languages": [
+          "The deeper you proceed, the more Amethysts you can earn.",
+          "시련을 뚫고 더 깊이 내려간다면, 더 많은 자수정을 획득할 수 있을 거야.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_AbyssIntro_Text4",
+        "TermType": 0,
+        "Languages": [
+          "Once you collect enough Amethyst, you can spend it in the shop for resources or Abyss Fragments.",
+          "충분한 양의 자수정을 모았다면 심연 상점에서 심연 파편으로 교환하거나 다른 재료를 구매할 수 있어.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_AbyssIntro_Text5",
+        "TermType": 0,
+        "Languages": [
+          "Abyss Summon lets you get new equipment, including exclusive artifacts found only in the Abyss.",
+          "심연 소환을 통해 탑에서만 등장하는 특별한 장비를 획득할 수 있어.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_AbyssIntro_Text6",
+        "TermType": 0,
+        "Languages": [
+          "At the beginning of the next week, your progress will reset by a fixed amount, so try to make it as far as possible!",
+          "매주 시작 날, 너의 시작 층은 일정량 재설정되니까 가능한 깊이 진입하는 게 좋을 거야.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_AbyssIntro_Text7",
+        "TermType": 0,
+        "Languages": [
+          "If Autobattle is ON, the Abyss tower will continue to fight through floors until you reach a Defeat screen.",
+          "자동 전투를 활성화하면 패배할 때까지 진입하여 전투를 하게돼.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HalloweenEvent_Text1",
+        "TermType": 0,
+        "Languages": [
+          "Experimental monsters are loose, and ancient specters roam the Sleepy Hallow. Innocent lives need protecting!",
+          "실험실의 실험체들이 풀려났고 고대의 유령들이 배회하기 시작했어! 도시 외곽의 주민들을 지켜줘야 해!",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HalloweenEvent_Text2",
+        "TermType": 0,
+        "Languages": [
+          "Will-O-Wisps regenerate once every 72 minutes. They are used to enter battles during the event.",
+          "유령 영혼은 72분마다 1개가 생성돼. <br> 유령 영혼을 사용해서 이벤트 기간 동안 전투를 진행할 수 있어.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HalloweenEvent_Text3",
+        "TermType": 0,
+        "Languages": [
+          "You can exchange Jack-O-Lanterns at the Event Shop to acquire spooky rewards throughout the duration of the event.",
+          "이벤트 상점이 열려있는 기간 동안 잭오랜턴을 사용하여 아이템을 구매할 수 있어.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "Tutorial/Tutorial_HalloweenEvent_Text4",
+        "TermType": 0,
+        "Languages": [
+          "Later in the event, Challenge Track will unlock. These battles will test your mettle, while granting valuable one-time rewards.",
+          "챌린지는 강력한 적들이 꿈꾸는 자의 강함을 시험할 거야. 강함을 증명하면 챌린지 추가 보상을 얻을 수 있어.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HelpWindows/HeroCollection_Count",
+        "TermType": 0,
+        "Languages": [
+          "This number indicates how many Heroes have been collected thus far.",
+          "현재까지 소환에 응한 메르헨의 수입니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HelpWindows/UnitDetail_Cost",
+        "TermType": 0,
+        "Languages": [
+          "The amount of deployment points required to place this unit in battle.",
+          "메르헨 배치 시 소모되는 코스트입니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HelpWindows/UnitDetail_Awakening",
+        "TermType": 0,
+        "Languages": [
+          "When constellations are connected in sequence, hidden Mastery talents are unlocked.",
+          "별자리가 같은 색으로 이어지면 마스터리 효과가 발동됩니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HelpWindows/Story_FirstClearRewards",
+        "TermType": 0,
+        "Languages": [
+          "These rewards are earned the first time you win the battle.",
+          "스테이지 최초 클리어 시 지급되는 보상입니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HelpWindows/Story_MainRewards",
+        "TermType": 0,
+        "Languages": [
+          "These are possible rewards to be earned after each battle.",
+          "확률적으로 획득할 수 있는 보상입니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HelpWindows/DailyDungeon_AcquirableItems",
+        "TermType": 0,
+        "Languages": [
+          "These are possible rewards to be earned after each battle.",
+          "확률적으로 획득할 수 있는 보상입니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HelpWindows/WeeklyTower_AcquirableItems",
+        "TermType": 0,
+        "Languages": [
+          "These are possible rewards to be found after each battle. They will accumulate in a temporary inventory until the Floor is cleared.",
+          "확률적으로 획득할 수 있는 보상입니다. 이 보상들은 관문을 클리어하기 직전까지 누적됩니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HelpWindows/WeeklyTower_Progress",
+        "TermType": 0,
+        "Languages": [
+          "The further you progress in the Midnight Tear, the better the rewards will be.",
+          "해방이 진행될수록 더 높은 보상을 획득합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HelpWindows/WeeklyTower_FinalRewards",
+        "TermType": 0,
+        "Languages": [
+          "These rewards are added to your inventory once the Floor is completely cleared.",
+          "최종 관문 클리어 시 확정적으로 받을 수 있는 보상입니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HelpWindows/Summon_Pity_Pickup",
+        "TermType": 0,
+        "Languages": [
+          "A Legendary rarity is guaranteed at least once every 100 Summons. The tracker will reset when you receive the featured character/weapon on this banner, or when the banner ends.",
+          "매 100회 소환 후 전설 장비 혹은 픽업 메르헨을 확정으로 획득합니다. 배너의 최고 보상을 획득하거나 픽업 기간 종료 시 게이지는 초기화됩니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HelpWindows/Summon_Pity_Equipment",
+        "TermType": 0,
+        "Languages": [
+          "A Legendary rarity is guaranteed at least once every 100 Summons. The tracker will reset when you receive the featured character/weapon on this banner, or when the banner ends.",
+          "매 100회 소환 후 전설 장비 혹은 픽업 메르헨을 확정으로 획득합니다. 배너의 최고 보상을 획득하거나 픽업 기간 종료 시 게이지는 초기화됩니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HelpWindows/Summon_Pity",
+        "TermType": 0,
+        "Languages": [
+          "A Legendary rarity is guaranteed at least once every 100 Summons. The tracker will reset when you receive the featured character/weapon on this banner, or when the banner ends.",
+          "매 100회 소환 후 전설 장비 혹은 픽업 메르헨을 확정으로 획득합니다. 배너의 최고 보상을 획득하거나 픽업 기간 종료 시 게이지는 초기화됩니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HelpWindows/Summon_Pity_MemoryRecall",
+        "TermType": 0,
+        "Languages": [
+          "A Legendary rarity is guaranteed at least once every 5 Summons. The tracker will reset when you receive a Legendary.",
+          "매 5회 소환 후 다음 소환에서 5성 메르헨을 확정 획득합니다.\n5성 메르헨 획득 시 게이지는 초기화됩니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HelpWindows/BattlePass_SeasonEnd",
+        "TermType": 0,
+        "Languages": [
+          "You can earn rewards during the Battle Pass season. After the season ends, the Battle Pass will reset along with all progress from this season.",
+          "배틀패스 시즌 내에서 보상을 획득할 수 있습니다. \n배틀패스는 시즌 종료 후 갱신됩니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HelpWindows/Marketplace_Rotation",
+        "TermType": 0,
+        "Languages": [
+          "The Marketplace selection will rotate with new items every 8 hours.",
+          "젬을 소모하여 즉시 변경할 수 있습니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HelpWindows/Arena_EndingTime",
+        "TermType": 0,
+        "Languages": [
+          "The season ends at this time and rewards are granted. \nArena Points will reduce by -300 each reset.",
+          "아레나 시즌 기간입니다. \n시즌 종료 후에는 랭크가 \n매치 포인트로 하락됩니다. (-300 포인트)",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HelpWindows/Arena_Rewards",
+        "TermType": 0,
+        "Languages": [
+          "Rewards based on Arena ranking will be distributed shortly after the season ends. ",
+          "시즌 마다 보상을 획득할 수 있습니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HelpWindows/ElementalDaily_Schedule",
+        "TermType": 0,
+        "Languages": [
+          "The elements available each day is on a rotation:\n\nMonday - <color=#9EC32D>Nature</color>/<color=#EE421A>Fire</color>\nTuesday - <color=#2FADFF>Water</color>/<color=#FBCB08>Light</color>\nWednesday - <color=#EE421A>Fire</color>/<color=#8A4EE3>Dark</color>\nThursday - <color=#FBCB08>Light</color>/<color=#9EC32D>Nature</color>\nFriday - <color=#8A4EE3>Dark</color>/<color=#2FADFF>Water</color>\nSaturday - All Available\nSunday - All Available",
+          "매일 속성이 변경됩니다.\n\n월요일 - <color=#9EC32D>자연</color>/<color=#EE421A>불</color>\n화요일 - <color=#2FADFF>물</color>/<color=#FBCB08>빛</color>\n수요일 - <color=#EE421A>불</color>/<color=#8A4EE3>어둠</color>\n목요일 - <color=#FBCB08>빛</color>/<color=#9EC32D>자연</color>\n금요일 - <color=#8A4EE3>어둠</color>/<color=#2FADFF>물</color>\n토요일 - 모든 속성\n일요일 - 모든 속성",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HelpWindows/BattlePass_XP",
+        "TermType": 0,
+        "Languages": [
+          "Battle Pass XP is earned from every battle that consumes Stamina or Arena Passes.\n\nFor every Key spent, you will earn 10 XP.",
+          "배틀패스 경험치는 열쇠를 사용하거나 \n아레나 깃발을 사용하여 획득할 수 있습니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HelpWindows/BattlePrep_BattleSweep",
+        "TermType": 0,
+        "Languages": [
+          "After achieving 3-Stars on this stage, you can set the amount of times the Autobattle will farm this stage.",
+          "한 번의 전투로 여러 번의 보상을 획득 할 수 있습니다. (3성 달성 필요)",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HelpWindows/MaximumHeroCapacity",
+        "TermType": 0,
+        "Languages": [
+          "Maximum hero capacity for this room.",
+          "배치할 수 있는 최대 메르헨 수를 나타냅니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HelpWindows/AbyssTower_ResetTime",
+        "TermType": 0,
+        "Languages": [
+          "At the beginning of each week, your progress will fall back -20 Depth levels from your furthest recorded progress. A new Curse awaits.",
+          "매주 최대 도달 층 -20의 위치로 리셋 됩니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "HelpWindows/AbyssTower_ProtectionSpells",
+        "TermType": 0,
+        "Languages": [
+          "Buffs and debuffs will change on every floor. Adjust your team accordingly!",
+          "매 층 버프와 디버프가 변경됩니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      }
+    ],
+    "CaseInsensitiveTerms": 0,
+    "OnMissingTranslation": 1,
+    "mTerm_AppName": "",
+    "mLanguages": [
+      {
+        "Name": "English",
+        "Code": "en",
+        "Flags": 0
+      },
+      {
+        "Name": "Korean",
+        "Code": "ko",
+        "Flags": 0
+      },
+      {
+        "Name": "Japanese",
+        "Code": "ja",
+        "Flags": 0
+      }
+    ],
+    "IgnoreDeviceLanguage": 0,
+    "_AllowUnloadingLanguages": 0,
+    "Google_WebServiceURL": "https://script.google.com/macros/s/AKfycbwFv2D9sGfFquY8SX2dnWIyPhy-awtf603LGDXVkE_OhcCx3VJFXuu9RGlNhWcBWrJt/exec",
+    "Google_SpreadsheetKey": "1LheEDvm_Msk3vThA633HD60mPi1nbaO_5yI-d7YXgHU",
+    "Google_SpreadsheetName": "I2Loc ProjectR Tutorial",
+    "Google_LastUpdatedVersion": "1666221730945",
+    "GoogleUpdateFrequency": 1,
+    "GoogleInEditorCheckFrequency": 2,
+    "GoogleUpdateSynchronization": 0,
+    "GoogleUpdateDelay": 0.0,
+    "Assets": [
+      {
+        "m_FileID": 1,
+        "m_PathID": 7777158860745831597
+      }
+    ]
+  }
+}
