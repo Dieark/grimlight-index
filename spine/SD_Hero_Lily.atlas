@@ -1,0 +1,314 @@
+
+SD_Hero_Lily.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 4, 132
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+Ldresstail
+  rotate: false
+  xy: 293, 84
+  size: 40, 84
+  orig: 40, 84
+  offset: 0, 0
+  index: -1
+Lfingers
+  rotate: false
+  xy: 477, 218
+  size: 29, 30
+  orig: 29, 31
+  offset: 0, 1
+  index: -1
+Lleg
+  rotate: true
+  xy: 102, 78
+  size: 41, 113
+  orig: 41, 113
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 492, 427
+  size: 14, 18
+  orig: 14, 19
+  offset: 0, 1
+  index: -1
+Lupperarm
+  rotate: true
+  xy: 454, 369
+  size: 34, 57
+  orig: 34, 57
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: 270
+  xy: 449, 43
+  size: 44, 53
+  orig: 44, 53
+  offset: 0, 0
+  index: -1
+Rdresstail
+  rotate: true
+  xy: 366, 51
+  size: 51, 83
+  orig: 51, 83
+  offset: 0, 0
+  index: -1
+Rfingers
+  rotate: false
+  xy: 400, 336
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+Rhumb
+  rotate: false
+  xy: 497, 467
+  size: 15, 24
+  orig: 15, 26
+  offset: 0, 1
+  index: -1
+Rleg
+  rotate: true
+  xy: 398, 86
+  size: 36, 113
+  orig: 58, 113
+  offset: 22, 0
+  index: -1
+Rupperarm
+  rotate: 270
+  xy: 275, 33
+  size: 33, 58
+  orig: 33, 58
+  offset: 0, 0
+  index: -1
+backdressaccessory
+  rotate: false
+  xy: 102, 323
+  size: 47, 40
+  orig: 47, 41
+  offset: 0, 1
+  index: -1
+backdresstail1
+  rotate: true
+  xy: 275, 44
+  size: 41, 80
+  orig: 41, 80
+  offset: 0, 0
+  index: -1
+backdresstail2
+  rotate: 180
+  xy: 480, 125
+  size: 32, 88
+  orig: 32, 88
+  offset: 0, 0
+  index: -1
+backhair1
+  rotate: false
+  xy: 454, 402
+  size: 46, 110
+  orig: 46, 110
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: true
+  xy: 188, 108
+  size: 60, 105
+  orig: 60, 105
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: true
+  xy: 375, 109
+  size: 56, 106
+  orig: 56, 106
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: true
+  xy: 0, 78
+  size: 48, 103
+  orig: 48, 103
+  offset: 0, 0
+  index: -1
+body
+  rotate: 270
+  xy: 318, 255
+  size: 109, 118
+  orig: 109, 118
+  offset: 0, 0
+  index: -1
+bottomhair
+  rotate: true
+  xy: 324, 363
+  size: 149, 130
+  orig: 149, 131
+  offset: 0, 1
+  index: -1
+collarneckback
+  rotate: false
+  xy: 407, 260
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+collarrufflesback
+  rotate: 180
+  xy: 152, 47
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+collarrufflesfront
+  rotate: false
+  xy: 216, 66
+  size: 59, 43
+  orig: 59, 43
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 192, 169
+  size: 114, 68
+  orig: 114, 68
+  offset: 0, 0
+  index: -1
+eyehappy
+  rotate: false
+  xy: 0, 279
+  size: 103, 85
+  orig: 103, 85
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 0, 224
+  size: 98, 54
+  orig: 98, 54
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: true
+  xy: 436, 248
+  size: 116, 68
+  orig: 116, 68
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 192, 236
+  size: 116, 68
+  orig: 116, 68
+  offset: 0, 0
+  index: -1
+eyshocked
+  rotate: false
+  xy: 102, 224
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+hairaccessory
+  rotate: false
+  xy: 493, 445
+  size: 16, 22
+  orig: 17, 22
+  offset: 1, 0
+  index: -1
+hairstrand1
+  rotate: true
+  xy: 0, 168
+  size: 57, 166
+  orig: 57, 166
+  offset: 0, 0
+  index: -1
+hairstrand2
+  rotate: true
+  xy: 0, 58
+  size: 20, 106
+  orig: 21, 107
+  offset: 0, 0
+  index: -1
+hairstrand3
+  rotate: true
+  xy: 329, 165
+  size: 39, 164
+  orig: 39, 164
+  offset: 0, 0
+  index: -1
+hairstrand4
+  rotate: 270
+  xy: 308, 204
+  size: 50, 169
+  orig: 50, 169
+  offset: 0, 0
+  index: -1
+hairstrand5
+  rotate: true
+  xy: 152, 305
+  size: 56, 166
+  orig: 56, 166
+  offset: 0, 0
+  index: -1
+hairtail
+  rotate: false
+  xy: 0, 363
+  size: 168, 149
+  orig: 168, 149
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 168, 359
+  size: 153, 157
+  orig: 153, 157
+  offset: 0, 0
+  index: -1
+mouthgrit
+  rotate: false
+  xy: 492, 404
+  size: 17, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 498, 493
+  size: 14, 4
+  orig: 16, 5
+  offset: 1, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 492, 412
+  size: 14, 15
+  orig: 15, 16
+  offset: 1, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 384, 255
+  size: 23, 19
+  orig: 23, 20
+  offset: 0, 1
+  index: -1
+topbangs
+  rotate: true
+  xy: 332, 81
+  size: 84, 34
+  orig: 85, 34
+  offset: 1, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 45, 118
+  size: 143, 59
+  orig: 143, 59
+  offset: 0, 0
+  index: -1

@@ -171,6 +171,39 @@
           }
         ],
         "replacementCost": []
+      },
+      {
+        "primaryCosts": [
+          {
+            "objectReference": {
+              "objectType": 2,
+              "objectID": "Coin"
+            },
+            "itemCount": 42000
+          },
+          {
+            "objectReference": {
+              "objectType": 1,
+              "objectID": "MaterialItem_ElementShardDay_Tier3"
+            },
+            "itemCount": 30
+          },
+          {
+            "objectReference": {
+              "objectType": 1,
+              "objectID": "MaterialItem_ClassMat_Ranger"
+            },
+            "itemCount": 70
+          },
+          {
+            "objectReference": {
+              "objectType": 1,
+              "objectID": "MaterialItem_LimitBreakMat70"
+            },
+            "itemCount": 1
+          }
+        ],
+        "replacementCost": []
       }
     ],
     "duplicateReplacement": {

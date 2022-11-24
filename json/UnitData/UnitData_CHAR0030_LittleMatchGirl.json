@@ -171,6 +171,39 @@
           }
         ],
         "replacementCost": []
+      },
+      {
+        "primaryCosts": [
+          {
+            "objectReference": {
+              "objectType": 2,
+              "objectID": "Coin"
+            },
+            "itemCount": 42000
+          },
+          {
+            "objectReference": {
+              "objectType": 1,
+              "objectID": "MaterialItem_ElementShardHeart_Tier3"
+            },
+            "itemCount": 30
+          },
+          {
+            "objectReference": {
+              "objectType": 1,
+              "objectID": "MaterialItem_ClassMat_Mage"
+            },
+            "itemCount": 70
+          },
+          {
+            "objectReference": {
+              "objectType": 1,
+              "objectID": "MaterialItem_LimitBreakMat70"
+            },
+            "itemCount": 1
+          }
+        ],
+        "replacementCost": []
       }
     ],
     "duplicateReplacement": {
@@ -637,7 +670,28 @@
   "skinAssetNames": [
     "UnitSkinAssets_Char0030_LittleMatchGirl"
   ],
-  "storyDatas": [],
+  "storyDatas": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5457160968190006074
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6990323064143137528
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4663507458695471739
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8953335539051947494
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7596904594054132525
+    }
+  ],
   "unitStatData": {
     "id": "CHAR0030",
     "displayName": "Little Match Girl",

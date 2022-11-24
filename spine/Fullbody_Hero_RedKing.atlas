@@ -1,0 +1,552 @@
+
+Fullbody_Hero_RedKing.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 402, 253
+  size: 243, 266
+  orig: 254, 266
+  offset: 11, 0
+  index: -1
+Lbicep
+  rotate: true
+  xy: 1648, 288
+  size: 153, 205
+  orig: 153, 205
+  offset: 0, 0
+  index: -1
+Leyebrow
+  rotate: true
+  xy: 2039, 2020
+  size: 28, 6
+  orig: 28, 6
+  offset: 0, 0
+  index: -1
+Leyelash_bottom
+  rotate: true
+  xy: 2025, 1977
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+Leyelash_top
+  rotate: false
+  xy: 1180, 1282
+  size: 39, 11
+  orig: 39, 11
+  offset: 0, 0
+  index: -1
+Leyelid
+  rotate: false
+  xy: 2021, 1445
+  size: 25, 5
+  orig: 25, 5
+  offset: 0, 0
+  index: -1
+Leyelid_skin
+  rotate: false
+  xy: 1850, 1489
+  size: 29, 7
+  orig: 29, 7
+  offset: 0, 0
+  index: -1
+Leyespark
+  rotate: false
+  xy: 2039, 2009
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+Leyewhite
+  rotate: false
+  xy: 2021, 1449
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+Lfingers
+  rotate: true
+  xy: 1927, 1045
+  size: 42, 53
+  orig: 48, 59
+  offset: 6, 6
+  index: -1
+Lfringe
+  rotate: true
+  xy: 712, 958
+  size: 36, 83
+  orig: 38, 85
+  offset: 2, 2
+  index: -1
+Lleg
+  rotate: true
+  xy: 1009, 856
+  size: 437, 837
+  orig: 437, 837
+  offset: 0, 0
+  index: -1
+Lmiddle
+  rotate: false
+  xy: 1655, 1045
+  size: 69, 38
+  orig: 69, 42
+  offset: 0, 4
+  index: -1
+Lpupil
+  rotate: false
+  xy: 2025, 1953
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 2009, 1472
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 1445, 345
+  size: 224, 299
+  orig: 224, 299
+  offset: 0, 0
+  index: -1
+Reyebrow
+  rotate: false
+  xy: 562, 1044
+  size: 58, 30
+  orig: 58, 30
+  offset: 0, 0
+  index: -1
+Reyelash_bottom
+  rotate: false
+  xy: 1141, 1264
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+Reyelash_top
+  rotate: false
+  xy: 1674, 1240
+  size: 47, 30
+  orig: 47, 30
+  offset: 0, 0
+  index: -1
+Reyelid
+  rotate: false
+  xy: 969, 1200
+  size: 41, 22
+  orig: 41, 22
+  offset: 0, 0
+  index: -1
+Reyelid_skin
+  rotate: false
+  xy: 1748, 1253
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+Reyespark
+  rotate: true
+  xy: 2039, 2012
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+Reyewhite
+  rotate: false
+  xy: 2000, 1488
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+Rforearm
+  rotate: true
+  xy: 0, 286
+  size: 144, 189
+  orig: 144, 189
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 402, 520
+  size: 87, 113
+  orig: 101, 113
+  offset: 0, 0
+  index: -1
+Rhand_guard
+  rotate: false
+  xy: 986, 829
+  size: 121, 102
+  orig: 121, 102
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 392, 605
+  size: 470, 938
+  orig: 470, 938
+  offset: 0, 0
+  index: -1
+Rpupil
+  rotate: false
+  xy: 2025, 1962
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: true
+  xy: 1588, 1210
+  size: 23, 73
+  orig: 23, 73
+  offset: 0, 0
+  index: -1
+SS_chair
+  rotate: false
+  xy: 768, 1293
+  size: 452, 755
+  orig: 455, 755
+  offset: 3, 0
+  index: -1
+ahoge
+  rotate: false
+  xy: 1813, 1414
+  size: 30, 56
+  orig: 30, 56
+  offset: 0, 0
+  index: -1
+ahoge_back
+  rotate: false
+  xy: 874, 1276
+  size: 39, 17
+  orig: 39, 17
+  offset: 0, 0
+  index: -1
+angry
+  rotate: false
+  xy: 1222, 769
+  size: 103, 87
+  orig: 103, 87
+  offset: 0, 0
+  index: -1
+annoy
+  rotate: false
+  xy: 1674, 1270
+  size: 106, 89
+  orig: 106, 89
+  offset: 0, 0
+  index: -1
+bang_L
+  rotate: false
+  xy: 353, 268
+  size: 83, 162
+  orig: 83, 169
+  offset: 0, 7
+  index: -1
+bang_R
+  rotate: false
+  xy: 1107, 776
+  size: 116, 131
+  orig: 116, 132
+  offset: 0, 1
+  index: -1
+bang_middle
+  rotate: true
+  xy: 1218, 1039
+  size: 103, 149
+  orig: 103, 149
+  offset: 0, 0
+  index: -1
+cape
+  rotate: false
+  xy: 1846, 971
+  size: 81, 184
+  orig: 81, 184
+  offset: 0, 0
+  index: -1
+capeL
+  rotate: 270
+  xy: 768, 930
+  size: 364, 296
+  orig: 364, 296
+  offset: 0, 0
+  index: -1
+cape_bottom
+  rotate: 180
+  xy: 1809, 908
+  size: 235, 609
+  orig: 235, 609
+  offset: 0, 0
+  index: -1
+cape_dangle
+  rotate: true
+  xy: 661, 234
+  size: 77, 436
+  orig: 77, 436
+  offset: 0, 0
+  index: -1
+chair_arm
+  rotate: true
+  xy: 517, 420
+  size: 291, 352
+  orig: 294, 352
+  offset: 0, 0
+  index: -1
+crest1
+  rotate: false
+  xy: 938, 1221
+  size: 69, 73
+  orig: 69, 73
+  offset: 0, 0
+  index: -1
+crown_back
+  rotate: false
+  xy: 1826, 466
+  size: 58, 113
+  orig: 58, 113
+  offset: 0, 0
+  index: -1
+crown_front
+  rotate: false
+  xy: 1674, 1359
+  size: 110, 165
+  orig: 110, 165
+  offset: 0, 0
+  index: -1
+crown_jewel
+  rotate: false
+  xy: 1524, 1164
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+crown_jewel2
+  rotate: false
+  xy: 1818, 1469
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+earring
+  rotate: false
+  xy: 2025, 2000
+  size: 16, 48
+  orig: 17, 48
+  offset: 1, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 1834, 908
+  size: 105, 62
+  orig: 105, 62
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1853, 271
+  size: 155, 153
+  orig: 155, 153
+  offset: 0, 0
+  index: -1
+fringeR
+  rotate: false
+  xy: 1163, 1100
+  size: 121, 180
+  orig: 121, 181
+  offset: 0, 1
+  index: -1
+fringeR2
+  rotate: false
+  xy: 1777, 447
+  size: 73, 120
+  orig: 73, 120
+  offset: 0, 0
+  index: -1
+happy
+  rotate: false
+  xy: 869, 615
+  size: 101, 87
+  orig: 101, 87
+  offset: 0, 0
+  index: -1
+head_back
+  rotate: false
+  xy: 1834, 724
+  size: 192, 185
+  orig: 192, 185
+  offset: 0, 0
+  index: -1
+mouth_idle
+  rotate: false
+  xy: 2016, 1461
+  size: 29, 11
+  orig: 29, 11
+  offset: 0, 0
+  index: -1
+pauldron
+  rotate: false
+  xy: 1328, 651
+  size: 242, 211
+  orig: 242, 211
+  offset: 0, 0
+  index: -1
+pauldron_back
+  rotate: true
+  xy: 1850, 1495
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+pauldron_cape
+  rotate: false
+  xy: 189, 275
+  size: 164, 155
+  orig: 164, 155
+  offset: 0, 0
+  index: -1
+rope1
+  rotate: false
+  xy: 1998, 533
+  size: 42, 190
+  orig: 46, 197
+  offset: 0, 7
+  index: -1
+rope2
+  rotate: true
+  xy: 392, 839
+  size: 40, 182
+  orig: 45, 182
+  offset: 0, 0
+  index: -1
+rope_main
+  rotate: false
+  xy: 643, 330
+  size: 155, 91
+  orig: 158, 91
+  offset: 3, 0
+  index: -1
+sad
+  rotate: false
+  xy: 641, 987
+  size: 106, 87
+  orig: 106, 87
+  offset: 0, 0
+  index: -1
+shy
+  rotate: false
+  xy: 517, 724
+  size: 146, 112
+  orig: 146, 112
+  offset: 0, 0
+  index: -1
+stain
+  rotate: false
+  xy: 0, 429
+  size: 403, 203
+  orig: 403, 203
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: false
+  xy: 1494, 566
+  size: 103, 84
+  orig: 103, 84
+  offset: 0, 0
+  index: -1
+sword
+  rotate: false
+  xy: 0, 831
+  size: 392, 1217
+  orig: 392, 1225
+  offset: 0, 8
+  index: -1
+sword1
+  rotate: true
+  xy: 0, 632
+  size: 199, 517
+  orig: 275, 619
+  offset: 0, 102
+  index: -1
+sword3
+  rotate: true
+  xy: 869, 302
+  size: 149, 560
+  orig: 149, 563
+  offset: 0, 0
+  index: -1
+sword4
+  rotate: false
+  xy: 392, 1074
+  size: 376, 974
+  orig: 383, 1017
+  offset: 7, 43
+  index: -1
+sword5
+  rotate: false
+  xy: 1872, 1516
+  size: 153, 532
+  orig: 153, 534
+  offset: 0, 0
+  index: -1
+sword6
+  rotate: false
+  xy: 1674, 1524
+  size: 198, 524
+  orig: 243, 635
+  offset: 45, 111
+  index: -1
+sword6x
+  rotate: true
+  xy: 869, 451
+  size: 154, 625
+  orig: 154, 628
+  offset: 0, 0
+  index: -1
+sword7
+  rotate: false
+  xy: 1524, 1232
+  size: 150, 816
+  orig: 150, 816
+  offset: 0, 0
+  index: -1
+sword8
+  rotate: false
+  xy: 1884, 424
+  size: 114, 299
+  orig: 139, 362
+  offset: 0, 63
+  index: -1
+sword_cloth
+  rotate: true
+  xy: 1235, 272
+  size: 47, 275
+  orig: 60, 290
+  offset: 8, 15
+  index: -1
+sword_cloth2
+  rotate: false
+  xy: 1779, 1247
+  size: 38, 279
+  orig: 38, 284
+  offset: 0, 5
+  index: -1
+swords2
+  rotate: false
+  xy: 1220, 1140
+  size: 304, 908
+  orig: 304, 921
+  offset: 0, 0
+  index: -1
+torso
+  rotate: 180
+  xy: 1500, 545
+  size: 384, 515
+  orig: 386, 515
+  offset: 2, 0
+  index: -1

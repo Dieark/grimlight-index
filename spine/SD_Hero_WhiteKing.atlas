@@ -1,0 +1,439 @@
+
+SD_Hero_WhiteKing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Head
+  rotate: true
+  xy: 360, 1
+  size: 133, 136
+  orig: 133, 136
+  offset: 0, 0
+  index: -1
+Learring
+  rotate: false
+  xy: 216, 298
+  size: 7, 18
+  orig: 7, 18
+  offset: 0, 0
+  index: -1
+Lfingers
+  rotate: false
+  xy: 118, 3
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 177, 133
+  size: 40, 97
+  orig: 40, 97
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 197, 299
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+Rearring
+  rotate: false
+  xy: 207, 298
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+Rfingers
+  rotate: false
+  xy: 368, 199
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+Rlegtoparmor
+  rotate: false
+  xy: 329, 2
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 333, 288
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+Rupperarm
+  rotate: true
+  xy: 447, 172
+  size: 33, 57
+  orig: 33, 57
+  offset: 0, 0
+  index: -1
+backhair1
+  rotate: true
+  xy: 0, 3
+  size: 23, 72
+  orig: 23, 72
+  offset: 0, 0
+  index: -1
+backhair2
+  rotate: false
+  xy: 178, 230
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+backhair3
+  rotate: true
+  xy: 250, 4
+  size: 29, 79
+  orig: 29, 79
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: true
+  xy: 401, 136
+  size: 34, 103
+  orig: 34, 103
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: false
+  xy: 341, 65
+  size: 12, 61
+  orig: 12, 61
+  offset: 0, 0
+  index: -1
+collar1
+  rotate: true
+  xy: 71, 6
+  size: 20, 47
+  orig: 20, 47
+  offset: 0, 0
+  index: -1
+crown
+  rotate: false
+  xy: 250, 32
+  size: 91, 72
+  orig: 91, 72
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: true
+  xy: 345, 222
+  size: 85, 47
+  orig: 85, 47
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: true
+  xy: 447, 205
+  size: 98, 61
+  orig: 98, 61
+  offset: 0, 0
+  index: -1
+flagglow
+  rotate: true
+  xy: 178, 104
+  size: 204, 223
+  orig: 212, 228
+  offset: 8, 5
+  index: -1
+flagpole
+  rotate: false
+  xy: 403, 169
+  size: 44, 344
+  orig: 44, 344
+  offset: 0, 0
+  index: -1
+mouth idle
+  rotate: false
+  xy: 178, 296
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+mouthgrit
+  rotate: false
+  xy: 61, 134
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 178, 256
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 178, 300
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+slash3
+  rotate: true
+  xy: 0, 141
+  size: 175, 178
+  orig: 179, 182
+  offset: 2, 2
+  index: -1
+slash4
+  rotate: false
+  xy: 227, 307
+  size: 176, 205
+  orig: 180, 209
+  offset: 2, 2
+  index: -1
+slash5
+  rotate: false
+  xy: 0, 316
+  size: 227, 196
+  orig: 231, 201
+  offset: 2, 2
+  index: -1
+sword
+  rotate: false
+  xy: 0, 26
+  size: 250, 101
+  orig: 250, 101
+  offset: 0, 0
+  index: -1
+swordglow
+  rotate: true
+  xy: 447, 303
+  size: 210, 61
+  orig: 210, 61
+  offset: 0, 0
+  index: -1
+toppelvis
+  rotate: false
+  xy: 0, 128
+  size: 61, 14
+  orig: 61, 14
+  offset: 0, 0
+  index: -1
+
+SD_Hero_WhiteKing2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 159, 262
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+Llegbottomarmor
+  rotate: false
+  xy: 446, 382
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+Llegtoparmor
+  rotate: false
+  xy: 248, 335
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+Lupperarm
+  rotate: false
+  xy: 287, 139
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 475, 289
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 399, 165
+  size: 51, 99
+  orig: 51, 99
+  offset: 0, 0
+  index: -1
+Rlegbottomarmor
+  rotate: false
+  xy: 209, 141
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: 270
+  xy: 0, 237
+  size: 68, 160
+  orig: 68, 160
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: true
+  xy: 143, 201
+  size: 59, 144
+  orig: 59, 144
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: false
+  xy: 148, 392
+  size: 31, 68
+  orig: 31, 68
+  offset: 0, 0
+  index: -1
+bangs6
+  rotate: false
+  xy: 282, 440
+  size: 31, 72
+  orig: 31, 72
+  offset: 0, 0
+  index: -1
+bangs7
+  rotate: true
+  xy: 0, 139
+  size: 54, 81
+  orig: 54, 81
+  offset: 0, 0
+  index: -1
+body
+  rotate: 180
+  xy: 92, 152
+  size: 61, 70
+  orig: 61, 70
+  offset: 0, 0
+  index: -1
+bottomhair
+  rotate: false
+  xy: 0, 366
+  size: 149, 146
+  orig: 149, 146
+  offset: 0, 0
+  index: -1
+cloakbackflap
+  rotate: true
+  xy: 326, 278
+  size: 102, 149
+  orig: 102, 149
+  offset: 0, 0
+  index: -1
+cloakfrontflap
+  rotate: true
+  xy: 19, 160
+  size: 31, 70
+  orig: 31, 70
+  offset: 0, 0
+  index: -1
+collar2
+  rotate: false
+  xy: 153, 141
+  size: 56, 58
+  orig: 56, 58
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 414, 217
+  size: 97, 61
+  orig: 97, 61
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: true
+  xy: 446, 414
+  size: 98, 61
+  orig: 98, 61
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 19, 192
+  size: 78, 73
+  orig: 78, 73
+  offset: 0, 0
+  index: -1
+flag
+  rotate: true
+  xy: 148, 364
+  size: 148, 181
+  orig: 148, 181
+  offset: 0, 0
+  index: -1
+hairstrand1
+  rotate: 270
+  xy: 287, 191
+  size: 42, 112
+  orig: 42, 112
+  offset: 0, 0
+  index: -1
+hairstrand2
+  rotate: 270
+  xy: 193, 173
+  size: 45, 94
+  orig: 45, 94
+  offset: 0, 0
+  index: -1
+hairstrand3
+  rotate: false
+  xy: 327, 231
+  size: 87, 72
+  orig: 87, 72
+  offset: 0, 0
+  index: -1
+hairtail
+  rotate: false
+  xy: 329, 380
+  size: 117, 132
+  orig: 117, 132
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 202, 337
+  size: 47, 28
+  orig: 47, 28
+  offset: 0, 0
+  index: -1
+slash1
+  rotate: false
+  xy: 202, 260
+  size: 125, 74
+  orig: 129, 79
+  offset: 2, 3
+  index: -1
+slash2
+  rotate: false
+  xy: 0, 304
+  size: 202, 62
+  orig: 206, 65
+  offset: 2, 2
+  index: -1
+topbangs
+  rotate: false
+  xy: 319, 153
+  size: 80, 37
+  orig: 80, 37
+  offset: 0, 0
+  index: -1
+underjacket
+  rotate: false
+  xy: 475, 334
+  size: 34, 81
+  orig: 34, 81
+  offset: 0, 0
+  index: -1

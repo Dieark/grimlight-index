@@ -171,6 +171,39 @@
           }
         ],
         "replacementCost": []
+      },
+      {
+        "primaryCosts": [
+          {
+            "objectReference": {
+              "objectType": 2,
+              "objectID": "Coin"
+            },
+            "itemCount": 42000
+          },
+          {
+            "objectReference": {
+              "objectType": 1,
+              "objectID": "MaterialItem_ElementShardMind_Tier3"
+            },
+            "itemCount": 30
+          },
+          {
+            "objectReference": {
+              "objectType": 1,
+              "objectID": "MaterialItem_ClassMat_Mage"
+            },
+            "itemCount": 70
+          },
+          {
+            "objectReference": {
+              "objectType": 1,
+              "objectID": "MaterialItem_LimitBreakMat70"
+            },
+            "itemCount": 1
+          }
+        ],
+        "replacementCost": []
       }
     ],
     "duplicateReplacement": {
@@ -636,7 +669,8 @@
   },
   "skinAssetNames": [
     "UnitSkinAssets_Char0022_WhiteRabbit",
-    "UnitSkinAssets_Char0022_WhiteRabbit_Skin2"
+    "UnitSkinAssets_Char0022_WhiteRabbit_Skin2",
+    "UnitSkinAssets_Char0022_WhiteRabbit_Skin3"
   ],
   "storyDatas": [],
   "unitStatData": {

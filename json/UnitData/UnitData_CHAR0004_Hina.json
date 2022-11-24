@@ -9,7 +9,7 @@
     "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0004_Hina",
-  "removeFromGame": 1,
+  "removeFromGame": 0,
   "unitData": {
     "unitID": "CHAR0004",
     "startingTier": 4,
@@ -26,14 +26,14 @@
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ElementShardMind_Tier1"
+              "objectID": "MaterialItem_ElementShardDay_Tier1"
             },
             "itemCount": 15
           },
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ClassMat_Mage"
+              "objectID": "MaterialItem_ClassMat_Warrior"
             },
             "itemCount": 5
           }
@@ -52,14 +52,14 @@
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ElementShardMind_Tier1"
+              "objectID": "MaterialItem_ElementShardDay_Tier1"
             },
             "itemCount": 30
           },
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ClassMat_Mage"
+              "objectID": "MaterialItem_ClassMat_Warrior"
             },
             "itemCount": 10
           },
@@ -85,14 +85,14 @@
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ElementShardMind_Tier2"
+              "objectID": "MaterialItem_ElementShardDay_Tier2"
             },
             "itemCount": 10
           },
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ClassMat_Mage"
+              "objectID": "MaterialItem_ClassMat_Warrior"
             },
             "itemCount": 20
           },
@@ -118,14 +118,14 @@
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ElementShardMind_Tier2"
+              "objectID": "MaterialItem_ElementShardDay_Tier2"
             },
             "itemCount": 15
           },
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ClassMat_Mage"
+              "objectID": "MaterialItem_ClassMat_Warrior"
             },
             "itemCount": 35
           },
@@ -151,14 +151,14 @@
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ElementShardMind_Tier3"
+              "objectID": "MaterialItem_ElementShardDay_Tier3"
             },
             "itemCount": 20
           },
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ClassMat_Mage"
+              "objectID": "MaterialItem_ClassMat_Warrior"
             },
             "itemCount": 50
           },
@@ -166,6 +166,39 @@
             "objectReference": {
               "objectType": 1,
               "objectID": "MaterialItem_LimitBreakMat60"
+            },
+            "itemCount": 1
+          }
+        ],
+        "replacementCost": []
+      },
+      {
+        "primaryCosts": [
+          {
+            "objectReference": {
+              "objectType": 2,
+              "objectID": "Coin"
+            },
+            "itemCount": 42000
+          },
+          {
+            "objectReference": {
+              "objectType": 1,
+              "objectID": "MaterialItem_ElementShardDay_Tier3"
+            },
+            "itemCount": 30
+          },
+          {
+            "objectReference": {
+              "objectType": 1,
+              "objectID": "MaterialItem_ClassMat_Warrior"
+            },
+            "itemCount": 70
+          },
+          {
+            "objectReference": {
+              "objectType": 1,
+              "objectID": "MaterialItem_LimitBreakMat70"
             },
             "itemCount": 1
           }
@@ -400,13 +433,202 @@
       "bonusStats": []
     },
     "skillComponentData": {
-      "skillDataList": []
+      "skillDataList": [
+        {
+          "skillID": "Ability_Hina_Active",
+          "maxLevel": 0,
+          "upgradeRequirements": [
+            {
+              "levelRequirement": 15,
+              "costData": {
+                "primaryCosts": [
+                  {
+                    "objectReference": {
+                      "objectType": 1,
+                      "objectID": "MaterialItem_ElementShardDay_Tier1"
+                    },
+                    "itemCount": 10
+                  },
+                  {
+                    "objectReference": {
+                      "objectType": 2,
+                      "objectID": "Coin"
+                    },
+                    "itemCount": 1000
+                  }
+                ],
+                "replacementCost": []
+              }
+            },
+            {
+              "levelRequirement": 30,
+              "costData": {
+                "primaryCosts": [
+                  {
+                    "objectReference": {
+                      "objectType": 1,
+                      "objectID": "MaterialItem_ElementShardDay_Tier1"
+                    },
+                    "itemCount": 20
+                  },
+                  {
+                    "objectReference": {
+                      "objectType": 2,
+                      "objectID": "Coin"
+                    },
+                    "itemCount": 2500
+                  }
+                ],
+                "replacementCost": []
+              }
+            },
+            {
+              "levelRequirement": 45,
+              "costData": {
+                "primaryCosts": [
+                  {
+                    "objectReference": {
+                      "objectType": 1,
+                      "objectID": "MaterialItem_ElementShardDay_Tier2"
+                    },
+                    "itemCount": 15
+                  },
+                  {
+                    "objectReference": {
+                      "objectType": 2,
+                      "objectID": "Coin"
+                    },
+                    "itemCount": 5000
+                  }
+                ],
+                "replacementCost": []
+              }
+            },
+            {
+              "levelRequirement": 60,
+              "costData": {
+                "primaryCosts": [
+                  {
+                    "objectReference": {
+                      "objectType": 1,
+                      "objectID": "MaterialItem_ElementShardDay_Tier3"
+                    },
+                    "itemCount": 15
+                  },
+                  {
+                    "objectReference": {
+                      "objectType": 2,
+                      "objectID": "Coin"
+                    },
+                    "itemCount": 10000
+                  }
+                ],
+                "replacementCost": []
+              }
+            }
+          ]
+        },
+        {
+          "skillID": "Ability_Hina_Passive1",
+          "maxLevel": 0,
+          "upgradeRequirements": [
+            {
+              "levelRequirement": 15,
+              "costData": {
+                "primaryCosts": [
+                  {
+                    "objectReference": {
+                      "objectType": 1,
+                      "objectID": "MaterialItem_ElementShardDay_Tier1"
+                    },
+                    "itemCount": 10
+                  },
+                  {
+                    "objectReference": {
+                      "objectType": 2,
+                      "objectID": "Coin"
+                    },
+                    "itemCount": 1000
+                  }
+                ],
+                "replacementCost": []
+              }
+            },
+            {
+              "levelRequirement": 30,
+              "costData": {
+                "primaryCosts": [
+                  {
+                    "objectReference": {
+                      "objectType": 1,
+                      "objectID": "MaterialItem_ElementShardDay_Tier1"
+                    },
+                    "itemCount": 20
+                  },
+                  {
+                    "objectReference": {
+                      "objectType": 2,
+                      "objectID": "Coin"
+                    },
+                    "itemCount": 2500
+                  }
+                ],
+                "replacementCost": []
+              }
+            },
+            {
+              "levelRequirement": 45,
+              "costData": {
+                "primaryCosts": [
+                  {
+                    "objectReference": {
+                      "objectType": 1,
+                      "objectID": "MaterialItem_ElementShardDay_Tier2"
+                    },
+                    "itemCount": 15
+                  },
+                  {
+                    "objectReference": {
+                      "objectType": 2,
+                      "objectID": "Coin"
+                    },
+                    "itemCount": 5000
+                  }
+                ],
+                "replacementCost": []
+              }
+            },
+            {
+              "levelRequirement": 60,
+              "costData": {
+                "primaryCosts": [
+                  {
+                    "objectReference": {
+                      "objectType": 1,
+                      "objectID": "MaterialItem_ElementShardDay_Tier3"
+                    },
+                    "itemCount": 15
+                  },
+                  {
+                    "objectReference": {
+                      "objectType": 2,
+                      "objectID": "Coin"
+                    },
+                    "itemCount": 10000
+                  }
+                ],
+                "replacementCost": []
+              }
+            }
+          ]
+        }
+      ]
     },
     "havenRewards": [
       {
         "objectReference": {
           "objectType": 1,
-          "objectID": "MaterialItem_HavenElementAffinityWater"
+          "objectID": "MaterialItem_HavenElementAffinityLight"
         },
         "itemCount": 1,
         "dropOptionExtension": {
@@ -426,7 +648,7 @@
       {
         "objectReference": {
           "objectType": 1,
-          "objectID": "MaterialItem_ClassMat_Mage"
+          "objectID": "MaterialItem_ClassMat_Warrior"
         },
         "itemCount": 1,
         "dropOptionExtension": {
@@ -456,25 +678,25 @@
       "m_FileID": 0,
       "m_PathID": 0
     },
-    "unitElement": 1,
-    "classType": 1,
+    "unitElement": 3,
+    "classType": 5,
     "deployCost": 4,
     "hp": {
       "statType": 1,
-      "yIntercept": 750.0,
+      "yIntercept": 1050.0,
       "hasExponentialScale": 0
     },
     "attackDamage": {
-      "DamageType": 1,
+      "DamageType": 0,
       "damageScaling": {
         "statType": 1,
-        "yIntercept": 38.0,
+        "yIntercept": 50.0,
         "hasExponentialScale": 0
       }
     },
     "defense": {
       "statType": 1,
-      "yIntercept": 22.0,
+      "yIntercept": 30.0,
       "hasExponentialScale": 0
     },
     "critChance": 1.0,
@@ -485,9 +707,9 @@
     "baseEvasionPercent": 0.0,
     "baseAccuracyPercent": 0.0,
     "resilience": 0.0,
-    "attackSpeed": 1.2,
-    "attackRange": 50.0,
-    "energyGainPerAttack": 10,
+    "attackSpeed": 1.0,
+    "attackRange": 10.0,
+    "energyGainPerAttack": 14,
     "moveSpeed": 15.0,
     "laneSearch": 5,
     "aggroRange": 50.0,
@@ -499,20 +721,29 @@
   },
   "awakeningRareMat": {
     "objectType": 0,
-    "objectID": "CHAR0049"
+    "objectID": "CHAR0004"
   },
   "talkData": {
     "m_FileID": 0,
     "m_PathID": 2173586990418349345
   },
-  "traits": [],
+  "traits": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2250875918415178877
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8369681805475229292
+    }
+  ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 0
+    "m_PathID": -930861017439793096
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 0
+    "m_PathID": -6330397343376384608
   },
   "Gender": 0,
   "Age": 0

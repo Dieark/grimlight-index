@@ -171,6 +171,39 @@
           }
         ],
         "replacementCost": []
+      },
+      {
+        "primaryCosts": [
+          {
+            "objectReference": {
+              "objectType": 2,
+              "objectID": "Coin"
+            },
+            "itemCount": 42000
+          },
+          {
+            "objectReference": {
+              "objectType": 1,
+              "objectID": "MaterialItem_ElementShardLife_Tier3"
+            },
+            "itemCount": 30
+          },
+          {
+            "objectReference": {
+              "objectType": 1,
+              "objectID": "MaterialItem_ClassMat_Ranger"
+            },
+            "itemCount": 70
+          },
+          {
+            "objectReference": {
+              "objectType": 1,
+              "objectID": "MaterialItem_LimitBreakMat70"
+            },
+            "itemCount": 1
+          }
+        ],
+        "replacementCost": []
       }
     ],
     "duplicateReplacement": {
@@ -635,9 +668,31 @@
     ]
   },
   "skinAssetNames": [
-    "UnitSkinAssets_Char0036_Goldilocks"
+    "UnitSkinAssets_Char0036_Goldilocks",
+    "UnitSkinAssets_Char0036_Goldilocks_Skin1"
   ],
-  "storyDatas": [],
+  "storyDatas": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5427133795762092226
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4176709378124086125
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3668799971985268443
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2407299967700969585
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9034640649098105013
+    }
+  ],
   "unitStatData": {
     "id": "CHAR0036",
     "displayName": "Goldilocks",

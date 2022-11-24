@@ -1,0 +1,425 @@
+
+SD_Hero_RedQueen.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 135, 2
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+Lfingers
+  rotate: false
+  xy: 487, 285
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Lhandback
+  rotate: false
+  xy: 294, 259
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 0, 5
+  size: 27, 86
+  orig: 27, 86
+  offset: 0, 0
+  index: -1
+Ltail1
+  rotate: false
+  xy: 487, 181
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+Ltail2
+  rotate: false
+  xy: 487, 202
+  size: 23, 73
+  orig: 23, 73
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 461, 259
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 85, 1
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+Rfingers
+  rotate: false
+  xy: 411, 1
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+Rgloveaccesory
+  rotate: false
+  xy: 442, 4
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+Rhandback
+  rotate: false
+  xy: 419, 262
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+Rtail1
+  rotate: false
+  xy: 487, 160
+  size: 11, 22
+  orig: 11, 22
+  offset: 0, 0
+  index: -1
+Rtail2
+  rotate: true
+  xy: 180, 5
+  size: 27, 72
+  orig: 27, 72
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: false
+  xy: 465, 348
+  size: 37, 86
+  orig: 37, 86
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: false
+  xy: 479, 10
+  size: 31, 140
+  orig: 31, 140
+  offset: 0, 0
+  index: -1
+dust1
+  rotate: true
+  xy: 487, 306
+  size: 42, 18
+  orig: 42, 18
+  offset: 0, 0
+  index: -1
+dust2
+  rotate: false
+  xy: 294, 268
+  size: 125, 77
+  orig: 126, 77
+  offset: 0, 0
+  index: -1
+dust3
+  rotate: false
+  xy: 294, 345
+  size: 171, 167
+  orig: 171, 167
+  offset: 0, 0
+  index: -1
+dust8
+  rotate: false
+  xy: 360, 9
+  size: 51, 19
+  orig: 51, 19
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: true
+  xy: 419, 275
+  size: 70, 69
+  orig: 70, 69
+  offset: 0, 0
+  index: -1
+eyeshurt
+  rotate: true
+  xy: 465, 434
+  size: 79, 44
+  orig: 79, 44
+  offset: 0, 0
+  index: -1
+hataccessory
+  rotate: false
+  xy: 252, 2
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+mouthgrit
+  rotate: false
+  xy: 313, 262
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 327, 265
+  size: 9, 4
+  orig: 9, 4
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 180, 7
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 445, 261
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+slash3
+  rotate: false
+  xy: 262, 28
+  size: 225, 230
+  orig: 227, 230
+  offset: 1, 0
+  index: -1
+slash4
+  rotate: true
+  xy: 0, 32
+  size: 226, 262
+  orig: 227, 262
+  offset: 0, 0
+  index: -1
+slash5
+  rotate: false
+  xy: 0, 258
+  size: 294, 254
+  orig: 295, 254
+  offset: 0, 0
+  index: -1
+topbangs
+  rotate: false
+  xy: 292, 3
+  size: 68, 25
+  orig: 68, 25
+  offset: 0, 0
+  index: -1
+
+SD_Hero_RedQueen2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hat
+  rotate: true
+  xy: 275, 39
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+Lbackhair
+  rotate: false
+  xy: 118, 179
+  size: 33, 67
+  orig: 33, 67
+  offset: 0, 0
+  index: -1
+Lgloveaccesory
+  rotate: false
+  xy: 87, 104
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 226, 219
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+Ltail3
+  rotate: true
+  xy: 0, 112
+  size: 38, 114
+  orig: 38, 114
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 61, 32
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 161, 307
+  size: 33, 90
+  orig: 33, 90
+  offset: 0, 0
+  index: -1
+Rtail3
+  rotate: true
+  xy: 363, 55
+  size: 44, 110
+  orig: 44, 110
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: true
+  xy: 0, 51
+  size: 53, 120
+  orig: 53, 120
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: true
+  xy: 211, 60
+  size: 42, 152
+  orig: 42, 152
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: 270
+  xy: 156, 30
+  size: 43, 94
+  orig: 43, 94
+  offset: 0, 0
+  index: -1
+bangs6
+  rotate: true
+  xy: 120, 55
+  size: 49, 91
+  orig: 49, 91
+  offset: 0, 0
+  index: -1
+bangshighlight
+  rotate: true
+  xy: 325, 44
+  size: 34, 56
+  orig: 34, 56
+  offset: 0, 0
+  index: -1
+braid
+  rotate: 270
+  xy: 212, 102
+  size: 58, 111
+  orig: 58, 111
+  offset: 0, 0
+  index: -1
+collar
+  rotate: false
+  xy: 263, 367
+  size: 60, 49
+  orig: 60, 49
+  offset: 0, 0
+  index: -1
+collarback
+  rotate: false
+  xy: 100, 30
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
+dust4
+  rotate: false
+  xy: 334, 353
+  size: 135, 148
+  orig: 135, 148
+  offset: 0, 0
+  index: -1
+dust5
+  rotate: false
+  xy: 392, 214
+  size: 99, 139
+  orig: 99, 139
+  offset: 0, 0
+  index: -1
+dust6
+  rotate: true
+  xy: 0, 149
+  size: 96, 118
+  orig: 97, 118
+  offset: 1, 0
+  index: -1
+dust7
+  rotate: true
+  xy: 421, 90
+  size: 67, 68
+  orig: 67, 68
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 404, 157
+  size: 95, 57
+  orig: 95, 57
+  offset: 0, 0
+  index: -1
+eyesclosed
+  rotate: false
+  xy: 118, 103
+  size: 95, 57
+  orig: 95, 57
+  offset: 0, 0
+  index: -1
+eyesopen
+  rotate: false
+  xy: 306, 157
+  size: 98, 57
+  orig: 98, 57
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 263, 227
+  size: 126, 130
+  orig: 126, 130
+  offset: 0, 0
+  index: -1
+slash1
+  rotate: false
+  xy: 0, 245
+  size: 161, 94
+  orig: 162, 95
+  offset: 1, 1
+  index: -1
+slash2
+  rotate: false
+  xy: 0, 339
+  size: 263, 76
+  orig: 264, 76
+  offset: 0, 0
+  index: -1
+tophair
+  rotate: true
+  xy: 160, 158
+  size: 147, 146
+  orig: 147, 146
+  offset: 0, 0
+  index: -1
+torso
+  rotate: true
+  xy: 323, 99
+  size: 58, 98
+  orig: 58, 105
+  offset: 0, 7
+  index: -1
+weapon
+  rotate: false
+  xy: 0, 415
+  size: 334, 86
+  orig: 334, 86
+  offset: 0, 0
+  index: -1
