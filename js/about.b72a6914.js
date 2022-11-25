@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkgrimlight_index"]=self["webpackChunkgrimlight_index"]||[]).push([[443],{7381:function(n,i,t){t.r(i),t.d(i,{default:function(){return o}});var e=t(6252);const r={class:"about"},u=(0,e._)("h1",null,"This is an about page",-1),a=[u];function s(n,i){return(0,e.wg)(),(0,e.iD)("div",r,a)}var c=t(3744);const l={},h=(0,c.Z)(l,[["render",s]]);var o=h}}]);
+//# sourceMappingURL=about.b72a6914.js.map
