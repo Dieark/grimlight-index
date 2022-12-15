@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": -7118662915785212894
+    "m_PathID": 374
   },
   "m_Name": "Ability_JackFrost_Active_Frostbitten",
   "abilityID": "Ability_JackFrost_Active",
@@ -34,7 +34,7 @@
         {
           "status": {
             "m_FileID": 0,
-            "m_PathID": -1788557362890402965
+            "m_PathID": 2345
           },
           "chanceToApplyPercent": 100
         }
@@ -75,7 +75,7 @@
     "displayType": 0,
     "abilityIcon": {
       "m_FileID": 0,
-      "m_PathID": 1273733680119362503
+      "m_PathID": 578
     }
   },
   "abilityUpgradeCostElement": 0,
@@ -103,7 +103,7 @@
           "scaler": 5.0,
           "statusReference": {
             "m_FileID": 0,
-            "m_PathID": -1788557362890402965
+            "m_PathID": 2345
           },
           "valueType": 0,
           "modifiedStat": 25,

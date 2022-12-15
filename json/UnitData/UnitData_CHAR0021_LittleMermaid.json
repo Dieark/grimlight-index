@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 390
   },
   "m_Name": "UnitData_CHAR0021_LittleMermaid",
   "removeFromGame": 0,
@@ -726,25 +726,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 8152013187777304900
+    "m_PathID": 2600
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 4521452628932610151
+      "m_PathID": 2201
     },
     {
       "m_FileID": 0,
-      "m_PathID": 1398980421682705541
+      "m_PathID": 2200
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 8081557710058708804
+    "m_PathID": 2199
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 5742754950642546699
+    "m_PathID": 2198
   },
   "Gender": 0,
   "Age": 28

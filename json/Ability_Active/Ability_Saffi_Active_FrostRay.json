@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": -7118662915785212894
+    "m_PathID": 374
   },
   "m_Name": "Ability_Saffi_Active_FrostRay",
   "abilityID": "Ability_Saffi_Active",
@@ -76,14 +76,14 @@
       "StatusRequied": [
         {
           "m_FileID": 0,
-          "m_PathID": 4271279085587980841
+          "m_PathID": 2335
         }
       ],
       "StatusOnHit": [
         {
           "status": {
             "m_FileID": 0,
-            "m_PathID": 5090225525033865578
+            "m_PathID": 2480
           },
           "chanceToApplyPercent": 100
         }
@@ -124,7 +124,7 @@
     "displayType": 0,
     "abilityIcon": {
       "m_FileID": 0,
-      "m_PathID": 5172707088195737615
+      "m_PathID": 642
     }
   },
   "abilityUpgradeCostElement": 0,

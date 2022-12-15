@@ -1,0 +1,419 @@
+
+Fullbody_NPC_Lynn.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 923, 5
+  size: 167, 67
+  orig: 167, 67
+  offset: 0, 0
+  index: -1
+Lcatear1
+  rotate: false
+  xy: 586, 1381
+  size: 96, 86
+  orig: 96, 86
+  offset: 0, 0
+  index: -1
+Lcatear2
+  rotate: false
+  xy: 383, 1595
+  size: 64, 115
+  orig: 64, 115
+  offset: 0, 0
+  index: -1
+Lcatearfur
+  rotate: false
+  xy: 874, 1605
+  size: 49, 55
+  orig: 49, 55
+  offset: 0, 0
+  index: -1
+Lcuff
+  rotate: false
+  xy: 920, 606
+  size: 90, 72
+  orig: 90, 72
+  offset: 0, 0
+  index: -1
+Lear
+  rotate: false
+  xy: 661, 1467
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+Leyebrow
+  rotate: false
+  xy: 921, 1078
+  size: 64, 13
+  orig: 64, 13
+  offset: 0, 0
+  index: -1
+Leyebrowx
+  rotate: false
+  xy: 634, 1381
+  size: 61, 27
+  orig: 61, 27
+  offset: 0, 0
+  index: -1
+Leyelashbottom
+  rotate: false
+  xy: 925, 576
+  size: 58, 30
+  orig: 58, 30
+  offset: 0, 0
+  index: -1
+Leyelashtop
+  rotate: false
+  xy: 279, 1135
+  size: 66, 29
+  orig: 66, 29
+  offset: 0, 0
+  index: -1
+Leyelid
+  rotate: false
+  xy: 494, 1125
+  size: 55, 27
+  orig: 55, 27
+  offset: 0, 0
+  index: -1
+Leyespark
+  rotate: false
+  xy: 406, 1700
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+Leyewhite
+  rotate: false
+  xy: 425, 1675
+  size: 51, 35
+  orig: 51, 35
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 922, 1129
+  size: 73, 101
+  orig: 73, 101
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 820, 523
+  size: 115, 486
+  orig: 115, 487
+  offset: 0, 1
+  index: -1
+Lpupil
+  rotate: false
+  xy: 521, 1326
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 503, 7
+  size: 158, 240
+  orig: 158, 240
+  offset: 0, 0
+  index: -1
+Lshoulderfrill
+  rotate: false
+  xy: 922, 1391
+  size: 125, 184
+  orig: 125, 184
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: 180
+  xy: 743, 34
+  size: 352, 214
+  orig: 352, 214
+  offset: 0, 0
+  index: -1
+Rcatear1
+  rotate: false
+  xy: 959, 247
+  size: 104, 68
+  orig: 104, 68
+  offset: 0, 0
+  index: -1
+Rcatearfur
+  rotate: false
+  xy: 662, 1538
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+Reyebrow
+  rotate: false
+  xy: 664, 1513
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+Reyelid
+  rotate: false
+  xy: 912, 1092
+  size: 47, 33
+  orig: 47, 33
+  offset: 0, 0
+  index: -1
+Reyelidbottom
+  rotate: false
+  xy: 867, 2028
+  size: 47, 19
+  orig: 47, 19
+  offset: 0, 0
+  index: -1
+Reyelidtop
+  rotate: false
+  xy: 923, 1623
+  size: 54, 37
+  orig: 54, 37
+  offset: 0, 0
+  index: -1
+Reyespark
+  rotate: false
+  xy: 413, 1690
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+Reyewhite
+  rotate: false
+  xy: 383, 1265
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 922, 1544
+  size: 164, 173
+  orig: 164, 173
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 867, 1660
+  size: 146, 387
+  orig: 146, 387
+  offset: 0, 0
+  index: -1
+Rpupil
+  rotate: false
+  xy: 383, 1231
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+Rshoulderfrill
+  rotate: false
+  xy: 902, 408
+  size: 138, 156
+  orig: 138, 156
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 383, 1317
+  size: 47, 74
+  orig: 47, 74
+  offset: 0, 0
+  index: -1
+angry
+  rotate: false
+  xy: 607, 491
+  size: 213, 234
+  orig: 213, 234
+  offset: 0, 0
+  index: -1
+annoy
+  rotate: false
+  xy: 610, 820
+  size: 213, 234
+  orig: 213, 234
+  offset: 0, 0
+  index: -1
+apron
+  rotate: true
+  xy: 0, 0
+  size: 317, 503
+  orig: 317, 503
+  offset: 0, 0
+  index: -1
+backbow
+  rotate: false
+  xy: 426, 1152
+  size: 119, 148
+  orig: 119, 148
+  offset: 0, 0
+  index: -1
+backfrill
+  rotate: false
+  xy: 909, 678
+  size: 156, 207
+  orig: 156, 207
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: false
+  xy: 922, 1201
+  size: 120, 204
+  orig: 120, 204
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: 270
+  xy: 870, 870
+  size: 226, 218
+  orig: 226, 218
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: false
+  xy: 987, 1844
+  size: 102, 121
+  orig: 102, 121
+  offset: 0, 0
+  index: -1
+broom
+  rotate: false
+  xy: 0, 1164
+  size: 383, 883
+  orig: 383, 883
+  offset: 0, 0
+  index: -1
+broomfabric
+  rotate: true
+  xy: 556, 1054
+  size: 327, 153
+  orig: 329, 155
+  offset: 1, 1
+  index: -1
+catear2
+  rotate: false
+  xy: 962, 1875
+  size: 79, 51
+  orig: 79, 51
+  offset: 0, 0
+  index: -1
+chest
+  rotate: false
+  xy: 383, 1300
+  size: 281, 411
+  orig: 281, 420
+  offset: 0, 9
+  index: -1
+dress
+  rotate: false
+  xy: 0, 615
+  size: 443, 549
+  orig: 443, 549
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 654, 1813
+  size: 213, 234
+  orig: 213, 234
+  offset: 0, 0
+  index: -1
+happy
+  rotate: false
+  xy: 661, 1579
+  size: 213, 234
+  orig: 213, 234
+  offset: 0, 0
+  index: -1
+hatfrill
+  rotate: true
+  xy: 743, 165
+  size: 259, 180
+  orig: 259, 180
+  offset: 0, 0
+  index: -1
+headfrill1
+  rotate: false
+  xy: 447, 1638
+  size: 18, 37
+  orig: 18, 37
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 496, 1272
+  size: 52, 28
+  orig: 52, 28
+  offset: 0, 0
+  index: -1
+necklacemedal
+  rotate: false
+  xy: 383, 1564
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+plate
+  rotate: false
+  xy: 0, 317
+  size: 454, 298
+  orig: 456, 300
+  offset: 1, 1
+  index: -1
+ponytail
+  rotate: false
+  xy: 373, 443
+  size: 237, 745
+  orig: 237, 745
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 709, 1345
+  size: 213, 234
+  orig: 213, 234
+  offset: 0, 0
+  index: -1
+shy
+  rotate: true
+  xy: 494, 165
+  size: 278, 249
+  orig: 278, 249
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: false
+  xy: 709, 1111
+  size: 213, 234
+  orig: 213, 234
+  offset: 0, 0
+  index: -1
+teapot
+  rotate: false
+  xy: 383, 1710
+  size: 271, 337
+  orig: 271, 337
+  offset: 0, 0
+  index: -1
+tie1
+  rotate: false
+  xy: 955, 1777
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+tie2
+  rotate: false
+  xy: 923, 288
+  size: 111, 122
+  orig: 111, 122
+  offset: 0, 0
+  index: -1

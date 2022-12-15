@@ -44,7 +44,7 @@
     "equipmentRarity": 4,
     "maxUniqueSecondaryStats": 3,
     "levelPerStack": 10,
-    "startingSubStatsCount": 0,
+    "startingSubStatsCount": 3,
     "startingStats": [],
     "possibleSecondaryStats": []
   },

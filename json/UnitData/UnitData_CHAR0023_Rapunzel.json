@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 423
   },
   "m_Name": "UnitData_CHAR0023_Rapunzel",
   "removeFromGame": 0,
@@ -726,21 +726,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 4250093039325437563
+    "m_PathID": 30532
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 5075516581656069571
+      "m_PathID": 29980
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": -306318174296220549
+    "m_PathID": 29979
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": -2630883564942446202
+    "m_PathID": 29978
   },
   "Gender": 0,
   "Age": 16

@@ -1,0 +1,118 @@
+
+SD_Winter_Doedicurus.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lbackleg
+  rotate: true
+  xy: 119, 127
+  size: 39, 71
+  orig: 39, 71
+  offset: 0, 0
+  index: -1
+Lear
+  rotate: true
+  xy: 0, 1
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+Lfrontleg
+  rotate: false
+  xy: 142, 70
+  size: 46, 57
+  orig: 46, 57
+  offset: 0, 0
+  index: -1
+Rbackleg
+  rotate: false
+  xy: 45, 50
+  size: 49, 75
+  orig: 49, 75
+  offset: 0, 0
+  index: -1
+Rear
+  rotate: false
+  xy: 25, 2
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+Rfrontleg
+  rotate: false
+  xy: 94, 56
+  size: 48, 69
+  orig: 48, 69
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 50, 25
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 50, 0
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 119, 166
+  size: 82, 83
+  orig: 82, 83
+  offset: 0, 0
+  index: -1
+shellback
+  rotate: true
+  xy: 94, 10
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+shellfront
+  rotate: false
+  xy: 0, 249
+  size: 202, 171
+  orig: 202, 171
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 201, 80
+  size: 164, 85
+  orig: 164, 85
+  offset: 0, 0
+  index: -1
+tailarmor1
+  rotate: false
+  xy: 0, 36
+  size: 45, 89
+  orig: 45, 89
+  offset: 0, 0
+  index: -1
+tailarmor2
+  rotate: true
+  xy: 188, 36
+  size: 44, 62
+  orig: 44, 62
+  offset: 0, 0
+  index: -1
+tailspike1
+  rotate: true
+  xy: 0, 125
+  size: 124, 119
+  orig: 124, 119
+  offset: 0, 0
+  index: -1
+tailspike2
+  rotate: true
+  xy: 202, 244
+  size: 176, 164
+  orig: 176, 164
+  offset: 0, 0
+  index: -1

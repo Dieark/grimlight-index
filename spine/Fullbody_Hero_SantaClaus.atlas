@@ -1,0 +1,467 @@
+
+Fullbody_Hero_SantaClaus.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lfingers
+  rotate: true
+  xy: 1191, 1392
+  size: 123, 161
+  orig: 123, 161
+  offset: 0, 0
+  index: -1
+Lthigh
+  rotate: true
+  xy: 182, 1088
+  size: 217, 425
+  orig: 217, 425
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 0, 1863
+  size: 176, 282
+  orig: 176, 282
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 1796, 9
+  size: 242, 699
+  orig: 242, 699
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 32, 1088
+  size: 120, 154
+  orig: 120, 154
+  offset: 0, 0
+  index: -1
+bag
+  rotate: false
+  xy: 1092, 1065
+  size: 912, 974
+  orig: 912, 974
+  offset: 0, 0
+  index: -1
+bag_axe
+  rotate: true
+  xy: 0, 18
+  size: 612, 933
+  orig: 612, 933
+  offset: 0, 0
+  index: -1
+bag_axe_ribbon
+  rotate: false
+  xy: 0, 1636
+  size: 79, 228
+  orig: 79, 228
+  offset: 0, 0
+  index: -1
+bag_back
+  rotate: true
+  xy: 1799, 1066
+  size: 252, 223
+  orig: 252, 223
+  offset: 0, 0
+  index: -1
+bag_sword
+  rotate: false
+  xy: 1570, 708
+  size: 400, 357
+  orig: 400, 357
+  offset: 0, 0
+  index: -1
+brooch
+  rotate: true
+  xy: 283, 1304
+  size: 66, 101
+  orig: 66, 101
+  offset: 0, 0
+  index: -1
+brooch_cloth
+  rotate: 270
+  xy: 282, 1957
+  size: 82, 243
+  orig: 82, 256
+  offset: 0, 0
+  index: -1
+cape2
+  rotate: false
+  xy: 0, 1087
+  size: 1228, 952
+  orig: 1228, 952
+  offset: 0, 0
+  index: -1
+cloth2
+  rotate: true
+  xy: 608, 1110
+  size: 63, 286
+  orig: 63, 286
+  offset: 0, 0
+  index: -1
+hairL2
+  rotate: false
+  xy: 1404, 1235
+  size: 79, 131
+  orig: 79, 131
+  offset: 0, 0
+  index: -1
+hairL3
+  rotate: false
+  xy: 0, 1574
+  size: 38, 64
+  orig: 38, 64
+  offset: 0, 0
+  index: -1
+hairL4
+  rotate: false
+  xy: 0, 1961
+  size: 76, 79
+  orig: 76, 79
+  offset: 0, 0
+  index: -1
+hairL_strand
+  rotate: false
+  xy: 18, 1958
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+hairR2
+  rotate: false
+  xy: 74, 1757
+  size: 53, 69
+  orig: 60, 85
+  offset: 7, 15
+  index: -1
+hairR3
+  rotate: false
+  xy: 384, 1316
+  size: 56, 65
+  orig: 56, 67
+  offset: 0, 2
+  index: -1
+mustacheL
+  rotate: false
+  xy: 77, 1825
+  size: 81, 40
+  orig: 81, 40
+  offset: 0, 0
+  index: -1
+mustacheR
+  rotate: false
+  xy: 502, 2003
+  size: 77, 37
+  orig: 77, 37
+  offset: 0, 0
+  index: -1
+pants_cloth
+  rotate: true
+  xy: 1570, 632
+  size: 77, 203
+  orig: 77, 203
+  offset: 0, 0
+  index: -1
+snow
+  rotate: false
+  xy: 0, 630
+  size: 1570, 457
+  orig: 1570, 457
+  offset: 0, 0
+  index: -1
+staff_bell
+  rotate: 180
+  xy: 1796, 5
+  size: 83, 124
+  orig: 83, 140
+  offset: 0, 0
+  index: -1
+staff_bell2
+  rotate: false
+  xy: 1147, 1578
+  size: 34, 193
+  orig: 34, 194
+  offset: 0, 1
+  index: -1
+staff_ribbon2
+  rotate: 270
+  xy: 1404, 1087
+  size: 108, 229
+  orig: 108, 229
+  offset: 0, 0
+  index: -1
+staff_ribbon_botom2
+  rotate: false
+  xy: 1969, 641
+  size: 48, 433
+  orig: 48, 433
+  offset: 0, 0
+  index: -1
+staff_ribbon_bsck
+  rotate: false
+  xy: 608, 1175
+  size: 159, 120
+  orig: 159, 120
+  offset: 0, 0
+  index: -1
+staff_top
+  rotate: false
+  xy: 932, 37
+  size: 864, 594
+  orig: 864, 594
+  offset: 0, 0
+  index: -1
+strand
+  rotate: false
+  xy: 435, 1304
+  size: 36, 59
+  orig: 36, 59
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: false
+  xy: 1227, 1128
+  size: 176, 259
+  orig: 176, 259
+  offset: 0, 0
+  index: -1
+
+Fullbody_Hero_SantaClaus2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 1818, 361
+  size: 227, 193
+  orig: 227, 204
+  offset: 0, 11
+  index: -1
+Lfingers2
+  rotate: false
+  xy: 868, 1431
+  size: 95, 149
+  orig: 95, 149
+  offset: 0, 0
+  index: -1
+Lforearm
+  rotate: false
+  xy: 1682, 724
+  size: 366, 239
+  orig: 366, 239
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: 270
+  xy: 985, 654
+  size: 284, 679
+  orig: 284, 679
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 1740, 1011
+  size: 106, 132
+  orig: 106, 132
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 702, 515
+  size: 273, 300
+  orig: 273, 300
+  offset: 0, 0
+  index: -1
+angry
+  rotate: true
+  xy: 440, 595
+  size: 187, 202
+  orig: 187, 202
+  offset: 0, 0
+  index: -1
+annoy
+  rotate: true
+  xy: 716, 339
+  size: 176, 197
+  orig: 176, 197
+  offset: 0, 0
+  index: -1
+bag_axe_ribbon2
+  rotate: false
+  xy: 1848, 1921
+  size: 81, 128
+  orig: 81, 128
+  offset: 0, 0
+  index: -1
+bag_rip
+  rotate: false
+  xy: 1157, 1943
+  size: 95, 106
+  orig: 95, 106
+  offset: 0, 0
+  index: -1
+bang
+  rotate: false
+  xy: 685, 1181
+  size: 106, 117
+  orig: 106, 117
+  offset: 0, 0
+  index: -1
+beard
+  rotate: false
+  xy: 868, 1899
+  size: 176, 150
+  orig: 176, 150
+  offset: 0, 0
+  index: -1
+cape
+  rotate: false
+  xy: 792, 847
+  size: 936, 428
+  orig: 936, 428
+  offset: 0, 0
+  index: -1
+cape3
+  rotate: true
+  xy: 685, 1093
+  size: 330, 1182
+  orig: 330, 1182
+  offset: 0, 0
+  index: -1
+capex
+  rotate: true
+  xy: 868, 1387
+  size: 661, 1043
+  orig: 661, 1043
+  offset: 0, 0
+  index: -1
+cloth
+  rotate: true
+  xy: 1470, 566
+  size: 133, 578
+  orig: 133, 578
+  offset: 0, 0
+  index: -1
+dhy
+  rotate: true
+  xy: 57, 338
+  size: 176, 197
+  orig: 176, 197
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 517, 328
+  size: 187, 199
+  orig: 187, 199
+  offset: 0, 0
+  index: -1
+hairL
+  rotate: false
+  xy: 281, 394
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+hairR
+  rotate: false
+  xy: 1032, 1921
+  size: 126, 128
+  orig: 129, 128
+  offset: 3, 0
+  index: -1
+hair_top
+  rotate: false
+  xy: 1381, 351
+  size: 196, 164
+  orig: 196, 164
+  offset: 0, 0
+  index: -1
+happy
+  rotate: true
+  xy: 1846, 966
+  size: 188, 202
+  orig: 188, 202
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 1866, 1201
+  size: 134, 126
+  orig: 134, 126
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: 270
+  xy: 440, 783
+  size: 402, 548
+  orig: 402, 564
+  offset: 0, 0
+  index: -1
+presents
+  rotate: false
+  xy: 0, 1023
+  size: 685, 452
+  orig: 690, 463
+  offset: 5, 0
+  index: -1
+sad
+  rotate: true
+  xy: 1002, 481
+  size: 187, 202
+  orig: 187, 202
+  offset: 0, 0
+  index: -1
+scarf
+  rotate: 270
+  xy: 0, 508
+  size: 163, 518
+  orig: 163, 518
+  offset: 0, 0
+  index: -1
+scarf2
+  rotate: 180
+  xy: 1835, 1327
+  size: 212, 615
+  orig: 212, 615
+  offset: 0, 0
+  index: -1
+staff
+  rotate: false
+  xy: 0, 1475
+  size: 869, 574
+  orig: 869, 574
+  offset: 0, 0
+  index: -1
+staff_ribbon
+  rotate: false
+  xy: 1252, 1968
+  size: 92, 81
+  orig: 92, 81
+  offset: 0, 0
+  index: -1
+staff_ribbon3
+  rotate: false
+  xy: 1909, 1827
+  size: 89, 222
+  orig: 89, 222
+  offset: 0, 0
+  index: -1
+staff_ribbon_bottom
+  rotate: true
+  xy: 1209, 514
+  size: 52, 724
+  orig: 52, 724
+  offset: 0, 0
+  index: -1
+torso
+  rotate: true
+  xy: 0, 666
+  size: 357, 382
+  orig: 357, 382
+  offset: 0, 0
+  index: -1

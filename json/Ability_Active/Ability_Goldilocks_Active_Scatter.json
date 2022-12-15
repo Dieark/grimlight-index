@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": -7118662915785212894
+    "m_PathID": 374
   },
   "m_Name": "Ability_Goldilocks_Active_Scatter",
   "abilityID": "Ability_Goldilocks_Active",
@@ -34,7 +34,7 @@
         {
           "status": {
             "m_FileID": 0,
-            "m_PathID": -2399556829329306502
+            "m_PathID": 2377
           },
           "chanceToApplyPercent": 100
         }
@@ -75,7 +75,7 @@
     "displayType": 1,
     "abilityIcon": {
       "m_FileID": 0,
-      "m_PathID": -4797324087710545080
+      "m_PathID": 485
     }
   },
   "abilityUpgradeCostElement": 0,
@@ -103,7 +103,7 @@
           "scaler": -1.5,
           "statusReference": {
             "m_FileID": 0,
-            "m_PathID": -2399556829329306502
+            "m_PathID": 2377
           },
           "valueType": 0,
           "modifiedStat": 8,

@@ -1,0 +1,286 @@
+
+SD_Celeste.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 142, 169
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+Lcape
+  rotate: 270
+  xy: 16, 97
+  size: 58, 136
+  orig: 58, 136
+  offset: 0, 0
+  index: -1
+Lcapestar
+  rotate: true
+  xy: 366, 363
+  size: 29, 60
+  orig: 29, 60
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 194, 116
+  size: 30, 82
+  orig: 30, 82
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 445, 81
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 457, 478
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+Rcape
+  rotate: true
+  xy: 0, 153
+  size: 71, 143
+  orig: 71, 143
+  offset: 0, 0
+  index: -1
+Rcapestar
+  rotate: true
+  xy: 380, 98
+  size: 33, 65
+  orig: 33, 65
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 338, 131
+  size: 30, 82
+  orig: 30, 82
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 250, 466
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+backcloak
+  rotate: 180
+  xy: 266, 275
+  size: 127, 118
+  orig: 127, 118
+  offset: 0, 0
+  index: -1
+backhair
+  rotate: 270
+  xy: 66, 281
+  size: 112, 118
+  orig: 112, 118
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: false
+  xy: 183, 414
+  size: 67, 99
+  orig: 67, 99
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: 270
+  xy: 300, 206
+  size: 74, 120
+  orig: 74, 120
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: 270
+  xy: 178, 192
+  size: 83, 123
+  orig: 83, 123
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: true
+  xy: 104, 98
+  size: 30, 90
+  orig: 30, 90
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: true
+  xy: 276, 96
+  size: 25, 100
+  orig: 25, 100
+  offset: 0, 0
+  index: -1
+bangs6
+  rotate: false
+  xy: 409, 329
+  size: 103, 147
+  orig: 103, 147
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 364, 161
+  size: 81, 45
+  orig: 81, 45
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 0, 225
+  size: 97, 56
+  orig: 97, 56
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 341, 391
+  size: 117, 122
+  orig: 117, 122
+  offset: 0, 0
+  index: -1
+hairbraid
+  rotate: true
+  xy: 444, 305
+  size: 29, 68
+  orig: 29, 68
+  offset: 0, 0
+  index: -1
+hood
+  rotate: false
+  xy: 153, 343
+  size: 188, 170
+  orig: 188, 170
+  offset: 0, 0
+  index: -1
+hoodx
+  rotate: false
+  xy: 0, 389
+  size: 153, 123
+  orig: 153, 123
+  offset: 0, 0
+  index: -1
+lear1
+  rotate: true
+  xy: 230, 67
+  size: 53, 80
+  orig: 53, 80
+  offset: 0, 0
+  index: -1
+lear2
+  rotate: 270
+  xy: 0, 133
+  size: 50, 107
+  orig: 50, 107
+  offset: 0, 0
+  index: -1
+learfluff
+  rotate: true
+  xy: 276, 120
+  size: 47, 61
+  orig: 47, 61
+  offset: 0, 0
+  index: -1
+learmetal
+  rotate: false
+  xy: 445, 176
+  size: 66, 71
+  orig: 66, 71
+  offset: 0, 0
+  index: -1
+mask
+  rotate: true
+  xy: 0, 293
+  size: 97, 61
+  orig: 97, 61
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 250, 450
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+mouthsmile
+  rotate: false
+  xy: 173, 508
+  size: 16, 4
+  orig: 16, 4
+  offset: 0, 0
+  index: -1
+neckgem
+  rotate: false
+  xy: 457, 458
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 180, 239
+  size: 58, 30
+  orig: 58, 30
+  offset: 0, 0
+  index: -1
+rear1
+  rotate: true
+  xy: 148, 92
+  size: 12, 94
+  orig: 12, 94
+  offset: 0, 0
+  index: -1
+rear2
+  rotate: true
+  xy: 152, 145
+  size: 50, 124
+  orig: 50, 124
+  offset: 0, 0
+  index: -1
+rearfluff
+  rotate: true
+  xy: 445, 126
+  size: 51, 66
+  orig: 51, 66
+  offset: 0, 0
+  index: -1
+rearmetal1
+  rotate: false
+  xy: 184, 268
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+rearmetal2
+  rotate: false
+  xy: 96, 210
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+tail
+  rotate: 180
+  xy: 390, 246
+  size: 105, 99
+  orig: 105, 99
+  offset: 0, 0
+  index: -1
+torso
+  rotate: true
+  xy: 266, 167
+  size: 64, 97
+  orig: 64, 97
+  offset: 0, 0
+  index: -1

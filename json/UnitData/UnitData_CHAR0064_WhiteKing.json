@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 423
   },
   "m_Name": "UnitData_CHAR0064_WhiteKing",
   "removeFromGame": 0,
@@ -725,25 +725,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": -8844583889204588678
+    "m_PathID": 30552
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": -8017406879764473864
+      "m_PathID": 30046
     },
     {
       "m_FileID": 0,
-      "m_PathID": 6719012471153631918
+      "m_PathID": 30047
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 4669060108771455936
+    "m_PathID": 30045
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 5159648174737099565
+    "m_PathID": 30044
   },
   "Gender": 1,
   "Age": -1

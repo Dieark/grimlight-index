@@ -1,0 +1,104 @@
+
+SD_Summon_Gingerbread.png
+size: 316,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 90, 11
+  size: 80, 67
+  orig: 80, 67
+  offset: 0, 0
+  index: -1
+Leye
+  rotate: true
+  xy: 224, 28
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+Leyebrow
+  rotate: false
+  xy: 170, 0
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+Leyedeath
+  rotate: false
+  xy: 132, 109
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+Reyedeath
+  rotate: false
+  xy: 132, 109
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 0, 1
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+Reye
+  rotate: true
+  xy: 224, 1
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+Reyebrow
+  rotate: false
+  xy: 132, 83
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+foot
+  rotate: true
+  xy: 172, 56
+  size: 136, 81
+  orig: 136, 81
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 0, 143
+  size: 172, 171
+  orig: 172, 171
+  offset: 0, 0
+  index: -1
+lolipop
+  rotate: true
+  xy: 0, 78
+  size: 65, 132
+  orig: 65, 132
+  offset: 0, 0
+  index: -1
+mouthsad
+  rotate: true
+  xy: 253, 137
+  size: 55, 26
+  orig: 55, 26
+  offset: 0, 0
+  index: -1
+mouthsmile
+  rotate: false
+  xy: 170, 25
+  size: 54, 31
+  orig: 54, 31
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 172, 192
+  size: 111, 122
+  orig: 111, 122
+  offset: 0, 0
+  index: -1

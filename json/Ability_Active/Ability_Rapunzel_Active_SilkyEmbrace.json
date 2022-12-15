@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": -7118662915785212894
+    "m_PathID": 374
   },
   "m_Name": "Ability_Rapunzel_Active_SilkyEmbrace",
   "abilityID": "Ability_Rapunzel_Active",
@@ -67,7 +67,7 @@
     "displayType": 0,
     "abilityIcon": {
       "m_FileID": 0,
-      "m_PathID": -1122053807467013071
+      "m_PathID": 489
     }
   },
   "abilityUpgradeCostElement": 0,

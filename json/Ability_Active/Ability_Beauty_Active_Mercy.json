@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": -7118662915785212894
+    "m_PathID": 401
   },
   "m_Name": "Ability_Beauty_Active_Mercy",
   "abilityID": "Ability_Beauty_Active",
@@ -67,7 +67,7 @@
     "displayType": 0,
     "abilityIcon": {
       "m_FileID": 0,
-      "m_PathID": 8087320231812529974
+      "m_PathID": 763
     }
   },
   "abilityUpgradeCostElement": 0,

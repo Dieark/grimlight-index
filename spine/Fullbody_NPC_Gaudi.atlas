@@ -1,0 +1,398 @@
+
+Fullbody_NPC_Gaudi.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 591, 251
+  size: 218, 130
+  orig: 218, 130
+  offset: 0, 0
+  index: -1
+Lbackbrancer
+  rotate: false
+  xy: 653, 1172
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+Lbackelbowplate
+  rotate: false
+  xy: 0, 725
+  size: 68, 70
+  orig: 68, 70
+  offset: 0, 0
+  index: -1
+Lbracerplate
+  rotate: false
+  xy: 703, 510
+  size: 139, 100
+  orig: 139, 100
+  offset: 0, 0
+  index: -1
+Lelbowplate
+  rotate: false
+  xy: 1487, 241
+  size: 110, 172
+  orig: 110, 172
+  offset: 0, 0
+  index: -1
+Lfinger1
+  rotate: false
+  xy: 656, 1215
+  size: 46, 62
+  orig: 46, 62
+  offset: 0, 0
+  index: -1
+Lfinger2
+  rotate: false
+  xy: 974, 1096
+  size: 77, 79
+  orig: 77, 79
+  offset: 0, 0
+  index: -1
+Lfinger3
+  rotate: false
+  xy: 143, 269
+  size: 98, 54
+  orig: 98, 54
+  offset: 0, 0
+  index: -1
+Lfinger4
+  rotate: false
+  xy: 715, 183
+  size: 79, 69
+  orig: 79, 71
+  offset: 0, 0
+  index: -1
+Lfingers
+  rotate: false
+  xy: 289, 153
+  size: 88, 85
+  orig: 88, 85
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: 270
+  xy: 626, 381
+  size: 129, 333
+  orig: 129, 333
+  offset: 0, 0
+  index: -1
+Lpalm
+  rotate: false
+  xy: 1290, 174
+  size: 153, 99
+  orig: 153, 99
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 1233, 664
+  size: 188, 311
+  orig: 188, 311
+  offset: 0, 0
+  index: -1
+Lshoulderplate
+  rotate: false
+  xy: 1390, 975
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+Lshoulderplateback
+  rotate: false
+  xy: 645, 1103
+  size: 40, 69
+  orig: 40, 69
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 384, 224
+  size: 114, 90
+  orig: 114, 90
+  offset: 0, 0
+  index: -1
+Rbelt
+  rotate: false
+  xy: 186, 207
+  size: 198, 93
+  orig: 198, 93
+  offset: 0, 0
+  index: -1
+Relbowplate1
+  rotate: false
+  xy: 613, 851
+  size: 83, 133
+  orig: 83, 133
+  offset: 0, 0
+  index: -1
+Relbowplate2
+  rotate: false
+  xy: 624, 984
+  size: 78, 64
+  orig: 78, 64
+  offset: 0, 0
+  index: -1
+Relbowplate3
+  rotate: false
+  xy: 356, 680
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+Relbowplate4
+  rotate: false
+  xy: 631, 790
+  size: 72, 61
+  orig: 72, 61
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: true
+  xy: 1266, 1367
+  size: 251, 171
+  orig: 251, 171
+  offset: 0, 0
+  index: -1
+Rgreaves
+  rotate: false
+  xy: 1266, 975
+  size: 124, 392
+  orig: 124, 392
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 1437, 1180
+  size: 151, 258
+  orig: 151, 258
+  offset: 0, 0
+  index: -1
+Rshoulderplate1
+  rotate: false
+  xy: 965, 974
+  size: 92, 122
+  orig: 92, 122
+  offset: 0, 0
+  index: -1
+Rshoulderplate2
+  rotate: false
+  xy: 330, 508
+  size: 92, 172
+  orig: 92, 172
+  offset: 0, 0
+  index: -1
+Rthigh
+  rotate: false
+  xy: 1487, 413
+  size: 112, 358
+  orig: 112, 358
+  offset: 0, 0
+  index: -1
+angry
+  rotate: true
+  xy: 1437, 1438
+  size: 177, 197
+  orig: 177, 197
+  offset: 0, 0
+  index: -1
+annoy
+  rotate: true
+  xy: 0, 323
+  size: 177, 197
+  orig: 177, 197
+  offset: 0, 0
+  index: -1
+backcape1
+  rotate: 180
+  xy: 399, 491
+  size: 304, 1143
+  orig: 304, 1143
+  offset: 0, 0
+  index: -1
+backcape2
+  rotate: false
+  xy: 703, 635
+  size: 358, 1000
+  orig: 358, 1000
+  offset: 0, 0
+  index: -1
+backcapefold
+  rotate: true
+  xy: 392, 153
+  size: 162, 193
+  orig: 162, 194
+  offset: 0, 1
+  index: -1
+backhair
+  rotate: false
+  xy: 0, 821
+  size: 56, 109
+  orig: 56, 109
+  offset: 0, 0
+  index: -1
+backtailcoat
+  rotate: false
+  xy: 1062, 975
+  size: 204, 648
+  orig: 204, 648
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: false
+  xy: 1072, 160
+  size: 152, 75
+  orig: 155, 75
+  offset: 3, 0
+  index: -1
+beltpin
+  rotate: false
+  xy: 559, 154
+  size: 77, 81
+  orig: 77, 81
+  offset: 0, 0
+  index: -1
+catear1
+  rotate: false
+  xy: 630, 1048
+  size: 63, 55
+  orig: 63, 55
+  offset: 0, 0
+  index: -1
+catear2
+  rotate: false
+  xy: 0, 1083
+  size: 29, 56
+  orig: 29, 56
+  offset: 0, 0
+  index: -1
+chest
+  rotate: false
+  xy: 877, 464
+  size: 356, 511
+  orig: 356, 511
+  offset: 0, 0
+  index: -1
+coatring1
+  rotate: false
+  xy: 205, 1546
+  size: 81, 88
+  orig: 81, 88
+  offset: 0, 0
+  index: -1
+coatring2
+  rotate: false
+  xy: 212, 1372
+  size: 33, 86
+  orig: 33, 86
+  offset: 0, 0
+  index: -1
+handpalm
+  rotate: false
+  xy: 209, 1458
+  size: 62, 88
+  orig: 62, 88
+  offset: 0, 0
+  index: -1
+happy
+  rotate: true
+  xy: 197, 323
+  size: 177, 197
+  orig: 177, 197
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 394, 314
+  size: 177, 197
+  orig: 177, 197
+  offset: 0, 0
+  index: -1
+humanear
+  rotate: false
+  xy: 214, 1312
+  size: 33, 60
+  orig: 33, 60
+  offset: 0, 0
+  index: -1
+neck
+  rotate: 180
+  xy: 798, 186
+  size: 105, 110
+  orig: 105, 111
+  offset: 0, 0
+  index: -1
+sad
+  rotate: true
+  xy: 1290, 272
+  size: 177, 197
+  orig: 177, 197
+  offset: 0, 0
+  index: -1
+scrollback
+  rotate: false
+  xy: 0, 172
+  size: 186, 151
+  orig: 186, 151
+  offset: 0, 0
+  index: -1
+scrollfront
+  rotate: 180
+  xy: 903, 197
+  size: 190, 215
+  orig: 190, 215
+  offset: 0, 0
+  index: -1
+shy
+  rotate: false
+  xy: 1421, 771
+  size: 191, 197
+  orig: 191, 197
+  offset: 0, 0
+  index: -1
+starmedal
+  rotate: false
+  xy: 636, 173
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: true
+  xy: 1093, 236
+  size: 177, 197
+  orig: 177, 197
+  offset: 0, 0
+  index: -1
+sword
+  rotate: true
+  xy: 0, 500
+  size: 193, 330
+  orig: 193, 330
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 959, 407
+  size: 365, 544
+  orig: 365, 585
+  offset: 0, 0
+  index: -1
+tailcoat
+  rotate: false
+  xy: 0, 693
+  size: 400, 941
+  orig: 400, 941
+  offset: 0, 0
+  index: -1
+thumb
+  rotate: false
+  xy: 0, 994
+  size: 33, 49
+  orig: 33, 49
+  offset: 0, 0
+  index: -1

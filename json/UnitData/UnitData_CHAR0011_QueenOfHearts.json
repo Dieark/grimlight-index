@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 390
   },
   "m_Name": "UnitData_CHAR0011_QueenOfHearts",
   "removeFromGame": 0,
@@ -674,23 +674,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 4628970522570250164
+      "m_PathID": 2763
     },
     {
       "m_FileID": 0,
-      "m_PathID": 1042749979222628078
+      "m_PathID": 2764
     },
     {
       "m_FileID": 0,
-      "m_PathID": 5977898183095871393
+      "m_PathID": 2765
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2228719580773932259
+      "m_PathID": 2766
     },
     {
       "m_FileID": 0,
-      "m_PathID": 8300325373696527081
+      "m_PathID": 2767
     }
   ],
   "unitStatData": {
@@ -747,25 +747,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": -3382165616167551899
+    "m_PathID": 2612
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 3824427496398277607
+      "m_PathID": 2239
     },
     {
       "m_FileID": 0,
-      "m_PathID": -1765319912209862238
+      "m_PathID": 2240
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": -1006562992479082086
+    "m_PathID": 2238
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 1611928506083749897
+    "m_PathID": 2237
   },
   "Gender": 0,
   "Age": -1

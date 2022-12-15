@@ -1,0 +1,384 @@
+
+SD_Hero_Nutcracker.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 189, 172
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+Lcape
+  rotate: false
+  xy: 111, 48
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+Lepaulette
+  rotate: false
+  xy: 129, 349
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 328, 163
+  size: 26, 82
+  orig: 26, 82
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 402, 326
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 143, 330
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 384, 55
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+Rcape
+  rotate: true
+  xy: 80, 51
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+Rcape_back
+  rotate: false
+  xy: 346, 51
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+Repaulette
+  rotate: false
+  xy: 76, 317
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 0, 59
+  size: 29, 80
+  orig: 29, 80
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 267, 230
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+bangs
+  rotate: false
+  xy: 379, 260
+  size: 104, 100
+  orig: 104, 100
+  offset: 0, 0
+  index: -1
+bangsR
+  rotate: true
+  xy: 0, 81
+  size: 54, 94
+  orig: 54, 94
+  offset: 0, 0
+  index: -1
+bangs_middle
+  rotate: true
+  xy: 290, 87
+  size: 42, 100
+  orig: 44, 100
+  offset: 2, 0
+  index: -1
+body
+  rotate: 270
+  xy: 362, 164
+  size: 113, 129
+  orig: 113, 129
+  offset: 0, 0
+  index: -1
+brooch_tassels
+  rotate: false
+  xy: 93, 304
+  size: 7, 19
+  orig: 7, 19
+  offset: 0, 0
+  index: -1
+cape_back
+  rotate: 180
+  xy: 0, 136
+  size: 106, 67
+  orig: 106, 67
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 241, 172
+  size: 88, 58
+  orig: 88, 58
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 93, 78
+  size: 79, 44
+  orig: 79, 44
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 93, 181
+  size: 92, 56
+  orig: 92, 56
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 0, 202
+  size: 93, 55
+  orig: 93, 55
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 429, 121
+  size: 72, 68
+  orig: 72, 68
+  offset: 0, 0
+  index: -1
+flash1
+  rotate: false
+  xy: 287, 148
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+flash2
+  rotate: false
+  xy: 189, 76
+  size: 62, 56
+  orig: 62, 56
+  offset: 0, 0
+  index: -1
+flash3
+  rotate: true
+  xy: 0, 258
+  size: 91, 62
+  orig: 91, 62
+  offset: 0, 0
+  index: -1
+flash4
+  rotate: false
+  xy: 155, 300
+  size: 118, 55
+  orig: 118, 55
+  offset: 0, 0
+  index: -1
+flash5
+  rotate: false
+  xy: 273, 296
+  size: 106, 55
+  orig: 106, 55
+  offset: 0, 0
+  index: -1
+flash6
+  rotate: false
+  xy: 189, 132
+  size: 98, 39
+  orig: 98, 39
+  offset: 0, 0
+  index: -1
+fringeL
+  rotate: true
+  xy: 213, 216
+  size: 79, 150
+  orig: 79, 151
+  offset: 0, 1
+  index: -1
+fringeR
+  rotate: true
+  xy: 77, 237
+  size: 77, 141
+  orig: 79, 141
+  offset: 0, 0
+  index: -1
+gun_idle
+  rotate: false
+  xy: 0, 392
+  size: 158, 110
+  orig: 158, 110
+  offset: 0, 0
+  index: -1
+gun_up
+  rotate: false
+  xy: 273, 351
+  size: 173, 34
+  orig: 173, 34
+  offset: 0, 0
+  index: -1
+gunstrap_idle
+  rotate: false
+  xy: 0, 276
+  size: 155, 116
+  orig: 155, 116
+  offset: 0, 0
+  index: -1
+gunstrap_up
+  rotate: false
+  xy: 279, 97
+  size: 170, 52
+  orig: 170, 52
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: true
+  xy: 158, 387
+  size: 115, 118
+  orig: 115, 118
+  offset: 0, 0
+  index: -1
+hairtail
+  rotate: true
+  xy: 106, 122
+  size: 59, 83
+  orig: 59, 83
+  offset: 0, 0
+  index: -1
+hairtassel_L
+  rotate: false
+  xy: 61, 308
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+hairtassel_R
+  rotate: false
+  xy: 61, 278
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 276, 385
+  size: 107, 118
+  orig: 107, 118
+  offset: 0, 0
+  index: -1
+hat_fluff
+  rotate: 270
+  xy: 432, 54
+  size: 58, 66
+  orig: 61, 66
+  offset: 3, 0
+  index: -1
+head
+  rotate: true
+  xy: 384, 390
+  size: 113, 105
+  orig: 113, 105
+  offset: 0, 0
+  index: -1
+mouth_idle
+  rotate: false
+  xy: 0, 389
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+mouthgrit
+  rotate: false
+  xy: 87, 386
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 96, 294
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 102, 377
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+muzzle_fire
+  rotate: false
+  xy: 354, 228
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 206, 359
+  size: 56, 28
+  orig: 56, 28
+  offset: 0, 0
+  index: -1
+star_strap
+  rotate: true
+  xy: 251, 53
+  size: 50, 69
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+strap
+  rotate: 270
+  xy: 150, 48
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+strap_top
+  rotate: false
+  xy: 213, 280
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+sword
+  rotate: true
+  xy: 121, 360
+  size: 27, 85
+  orig: 27, 85
+  offset: 0, 0
+  index: -1
+tasselL
+  rotate: false
+  xy: 136, 341
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+tasselR
+  rotate: false
+  xy: 155, 284
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1

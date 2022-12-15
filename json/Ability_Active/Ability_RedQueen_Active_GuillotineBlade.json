@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": -7118662915785212894
+    "m_PathID": 401
   },
   "m_Name": "Ability_RedQueen_Active_GuillotineBlade",
   "abilityID": "Ability_RedQueen_Active",
@@ -67,7 +67,7 @@
     "displayType": 0,
     "abilityIcon": {
       "m_FileID": 0,
-      "m_PathID": 1047186562173863867
+      "m_PathID": 651
     }
   },
   "abilityUpgradeCostElement": 0,
@@ -95,7 +95,7 @@
           "scaler": 5.0,
           "statusReference": {
             "m_FileID": 0,
-            "m_PathID": -1788557362890402965
+            "m_PathID": 30074
           },
           "valueType": 0,
           "modifiedStat": 25,

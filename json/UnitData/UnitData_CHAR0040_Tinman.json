@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 390
   },
   "m_Name": "UnitData_CHAR0040_Tinman",
   "removeFromGame": 0,
@@ -580,23 +580,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 2902204979947517154
+      "m_PathID": 2783
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2085844277419621605
+      "m_PathID": 2784
     },
     {
       "m_FileID": 0,
-      "m_PathID": -7516665286658544761
+      "m_PathID": 2785
     },
     {
       "m_FileID": 0,
-      "m_PathID": 7976265860071266786
+      "m_PathID": 2786
     },
     {
       "m_FileID": 0,
-      "m_PathID": -1337383491630657053
+      "m_PathID": 2787
     }
   ],
   "unitStatData": {
@@ -653,12 +653,12 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 4316348971635530732
+    "m_PathID": 2630
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": -4230701433008161992
+      "m_PathID": 2299
     }
   ],
   "passiveAbility": {
@@ -667,7 +667,7 @@
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": -301205127352080511
+    "m_PathID": 2298
   },
   "Gender": 0,
   "Age": 27

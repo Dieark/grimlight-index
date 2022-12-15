@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 390
   },
   "m_Name": "UnitData_CHAR0032_Hook",
   "removeFromGame": 0,
@@ -725,25 +725,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 5401820126049370675
+    "m_PathID": 2592
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": -4248042423185786414
+      "m_PathID": 2164
     },
     {
       "m_FileID": 0,
-      "m_PathID": 8056631582714451062
+      "m_PathID": 2163
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": -4576611108585664550
+    "m_PathID": 2162
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": -8894992458384845250
+    "m_PathID": 2161
   },
   "Gender": 0,
   "Age": 33

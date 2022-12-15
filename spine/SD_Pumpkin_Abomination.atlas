@@ -1,0 +1,159 @@
+
+SD_Pumpkin_Abomination.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+backleg1
+  rotate: true
+  xy: 292, 13
+  size: 61, 101
+  orig: 61, 101
+  offset: 0, 0
+  index: -1
+backleg2
+  rotate: true
+  xy: 434, 449
+  size: 64, 77
+  orig: 64, 77
+  offset: 0, 0
+  index: -1
+backleg3
+  rotate: 180
+  xy: 457, 374
+  size: 50, 76
+  orig: 50, 76
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 122
+  size: 458, 390
+  orig: 476, 390
+  offset: 0, 0
+  index: -1
+bodycape
+  rotate: 270
+  xy: 225, 73
+  size: 322, 274
+  orig: 322, 274
+  offset: 0, 0
+  index: -1
+collar2
+  rotate: 180
+  xy: 49, 3
+  size: 243, 125
+  orig: 243, 125
+  offset: 0, 0
+  index: -1
+leaf
+  rotate: false
+  xy: 0, 100
+  size: 76, 86
+  orig: 76, 86
+  offset: 0, 0
+  index: -1
+leafstalk
+  rotate: 180
+  xy: 0, 453
+  size: 64, 59
+  orig: 64, 59
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: false
+  xy: 0, 189
+  size: 54, 96
+  orig: 54, 96
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: true
+  xy: 393, 18
+  size: 55, 91
+  orig: 55, 91
+  offset: 0, 0
+  index: -1
+pumpkintopback
+  rotate: false
+  xy: 364, 334
+  size: 101, 49
+  orig: 101, 49
+  offset: 0, 0
+  index: -1
+redball
+  rotate: false
+  xy: 0, 51
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+tailpointy
+  rotate: false
+  xy: 328, 189
+  size: 149, 145
+  orig: 149, 145
+  offset: 0, 0
+  index: -1
+
+SD_Pumpkin_Abomination2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+collar1front
+  rotate: false
+  xy: 190, 288
+  size: 233, 215
+  orig: 233, 215
+  offset: 0, 0
+  index: -1
+collarback
+  rotate: 180
+  xy: 338, 173
+  size: 139, 189
+  orig: 139, 189
+  offset: 0, 0
+  index: -1
+leg3
+  rotate: false
+  xy: 289, 180
+  size: 63, 92
+  orig: 63, 92
+  offset: 0, 0
+  index: -1
+pumpkinback
+  rotate: true
+  xy: 420, 388
+  size: 115, 82
+  orig: 115, 82
+  offset: 0, 0
+  index: -1
+pumpkinbottom
+  rotate: false
+  xy: 85, 164
+  size: 130, 87
+  orig: 130, 87
+  offset: 0, 0
+  index: -1
+pumpkintop
+  rotate: false
+  xy: 0, 348
+  size: 190, 154
+  orig: 190, 154
+  offset: 0, 0
+  index: -1
+stem
+  rotate: false
+  xy: 347, 130
+  size: 113, 83
+  orig: 113, 83
+  offset: 0, 0
+  index: -1
+tail
+  rotate: 270
+  xy: 0, 165
+  size: 183, 292
+  orig: 183, 292
+  offset: 0, 0
+  index: -1

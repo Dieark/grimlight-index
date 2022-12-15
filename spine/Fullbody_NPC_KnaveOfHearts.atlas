@@ -1,0 +1,573 @@
+
+Fullbody_NPC_KnaveOfHearts.png
+size: 2004,1588
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Kshoulderplateback
+  rotate: false
+  xy: 1825, 14
+  size: 76, 110
+  orig: 76, 110
+  offset: 0, 0
+  index: -1
+Land
+  rotate: false
+  xy: 1510, 308
+  size: 125, 103
+  orig: 125, 103
+  offset: 0, 0
+  index: -1
+Larm
+  rotate: true
+  xy: 1825, 256
+  size: 110, 86
+  orig: 110, 86
+  offset: 0, 0
+  index: -1
+Larm2
+  rotate: false
+  xy: 1605, 92
+  size: 85, 118
+  orig: 85, 118
+  offset: 0, 0
+  index: -1
+Lelbowplate
+  rotate: false
+  xy: 1833, 366
+  size: 76, 67
+  orig: 76, 67
+  offset: 0, 0
+  index: -1
+Lfinger1
+  rotate: false
+  xy: 1909, 388
+  size: 88, 64
+  orig: 88, 64
+  offset: 0, 0
+  index: -1
+Lfinger2
+  rotate: true
+  xy: 1955, 1499
+  size: 89, 49
+  orig: 89, 49
+  offset: 0, 0
+  index: -1
+Lfinger3
+  rotate: false
+  xy: 1545, 210
+  size: 128, 98
+  orig: 128, 98
+  offset: 0, 0
+  index: -1
+Lfinger4
+  rotate: false
+  xy: 1961, 791
+  size: 38, 115
+  orig: 38, 115
+  offset: 0, 0
+  index: -1
+Lfinger5
+  rotate: true
+  xy: 1961, 906
+  size: 98, 43
+  orig: 98, 43
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: false
+  xy: 1880, 782
+  size: 81, 206
+  orig: 81, 206
+  offset: 0, 0
+  index: -1
+Lhelmetfin
+  rotate: true
+  xy: 1672, 418
+  size: 59, 161
+  orig: 59, 161
+  offset: 0, 0
+  index: -1
+Lkneeplate1
+  rotate: false
+  xy: 1909, 452
+  size: 95, 163
+  orig: 95, 163
+  offset: 0, 0
+  index: -1
+Lkneesideplate1
+  rotate: true
+  xy: 592, 0
+  size: 52, 111
+  orig: 52, 111
+  offset: 0, 0
+  index: -1
+Lkneesideplate2
+  rotate: false
+  xy: 282, 11
+  size: 30, 76
+  orig: 30, 76
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 817, 122
+  size: 136, 346
+  orig: 136, 346
+  offset: 0, 0
+  index: -1
+Llegplate
+  rotate: true
+  xy: 1631, 988
+  size: 209, 312
+  orig: 209, 312
+  offset: 0, 0
+  index: -1
+Llegplateback
+  rotate: false
+  xy: 1146, 914
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 1690, 97
+  size: 112, 116
+  orig: 112, 116
+  offset: 0, 0
+  index: -1
+Lshoulderplate
+  rotate: false
+  xy: 953, 37
+  size: 179, 298
+  orig: 179, 298
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 1911, 237
+  size: 71, 151
+  orig: 71, 151
+  offset: 0, 0
+  index: -1
+Rbackheelplate
+  rotate: false
+  xy: 765, 5
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+Rbracer
+  rotate: false
+  xy: 1909, 615
+  size: 95, 167
+  orig: 95, 167
+  offset: 0, 0
+  index: -1
+Rbracerback
+  rotate: false
+  xy: 1991, 1483
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+Rcape
+  rotate: false
+  xy: 685, 954
+  size: 490, 634
+  orig: 490, 634
+  offset: 0, 0
+  index: -1
+Relbow
+  rotate: false
+  xy: 1939, 180
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+Relbowplate1
+  rotate: false
+  xy: 1309, 0
+  size: 79, 95
+  orig: 79, 95
+  offset: 0, 0
+  index: -1
+Relbowplate2
+  rotate: true
+  xy: 1480, 206
+  size: 102, 65
+  orig: 102, 65
+  offset: 0, 0
+  index: -1
+Relbowplate3
+  rotate: true
+  xy: 1545, 525
+  size: 70, 130
+  orig: 70, 130
+  offset: 0, 0
+  index: -1
+Relbowplate4
+  rotate: false
+  xy: 1955, 1270
+  size: 42, 61
+  orig: 42, 61
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: false
+  xy: 1297, 95
+  size: 164, 111
+  orig: 164, 111
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 1939, 127
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+Rheelplate
+  rotate: true
+  xy: 703, 5
+  size: 47, 62
+  orig: 47, 62
+  offset: 0, 0
+  index: -1
+Rhip
+  rotate: false
+  xy: 617, 122
+  size: 200, 346
+  orig: 200, 346
+  offset: 0, 0
+  index: -1
+Rhipplate
+  rotate: false
+  xy: 1146, 311
+  size: 167, 201
+  orig: 167, 201
+  offset: 0, 0
+  index: -1
+Rkneeplate
+  rotate: true
+  xy: 1388, 3
+  size: 92, 167
+  orig: 92, 167
+  offset: 0, 0
+  index: -1
+Rkneesideplate
+  rotate: false
+  xy: 1802, 124
+  size: 74, 114
+  orig: 74, 114
+  offset: 0, 0
+  index: -1
+Rlegplate
+  rotate: false
+  xy: 1536, 595
+  size: 139, 317
+  orig: 139, 317
+  offset: 0, 0
+  index: -1
+Rlegsideplate
+  rotate: false
+  xy: 1635, 367
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+Rshoulderplate1
+  rotate: true
+  xy: 1322, 431
+  size: 134, 199
+  orig: 134, 199
+  offset: 0, 0
+  index: -1
+Rshoulderplate2
+  rotate: true
+  xy: 1555, 2
+  size: 90, 144
+  orig: 90, 144
+  offset: 0, 0
+  index: -1
+Rshoulderplateback
+  rotate: false
+  xy: 794, 6
+  size: 152, 116
+  orig: 152, 116
+  offset: 0, 0
+  index: -1
+backbelt
+  rotate: false
+  xy: 1994, 155
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+backcape1
+  rotate: true
+  xy: 312, 483
+  size: 454, 397
+  orig: 454, 397
+  offset: 0, 0
+  index: -1
+backcape2
+  rotate: true
+  xy: 1675, 561
+  size: 139, 234
+  orig: 139, 234
+  offset: 0, 0
+  index: -1
+backcape3
+  rotate: true
+  xy: 1175, 912
+  size: 196, 456
+  orig: 196, 456
+  offset: 0, 0
+  index: -1
+backrag
+  rotate: false
+  xy: 1842, 433
+  size: 67, 128
+  orig: 67, 128
+  offset: 0, 0
+  index: -1
+backrag1
+  rotate: false
+  xy: 1611, 1197
+  size: 344, 391
+  orig: 344, 391
+  offset: 0, 0
+  index: -1
+backrag2
+  rotate: false
+  xy: 1322, 565
+  size: 214, 347
+  orig: 214, 347
+  offset: 0, 0
+  index: -1
+belt1
+  rotate: false
+  xy: 1297, 206
+  size: 183, 102
+  orig: 183, 102
+  offset: 0, 0
+  index: -1
+belt2
+  rotate: false
+  xy: 1955, 1331
+  size: 36, 168
+  orig: 36, 168
+  offset: 0, 0
+  index: -1
+buckle
+  rotate: false
+  xy: 1876, 173
+  size: 63, 64
+  orig: 63, 64
+  offset: 0, 0
+  index: -1
+cape1
+  rotate: false
+  xy: 0, 87
+  size: 312, 850
+  orig: 312, 850
+  offset: 0, 0
+  index: -1
+eyeglow
+  rotate: false
+  xy: 1779, 238
+  size: 46, 118
+  orig: 46, 118
+  offset: 0, 0
+  index: -1
+handmiasma1
+  rotate: false
+  xy: 312, 120
+  size: 305, 363
+  orig: 305, 363
+  offset: 0, 0
+  index: -1
+handmiasma2
+  rotate: true
+  xy: 1132, 74
+  size: 237, 165
+  orig: 237, 165
+  offset: 0, 0
+  index: -1
+helmet
+  rotate: true
+  xy: 312, 0
+  size: 120, 176
+  orig: 120, 176
+  offset: 0, 0
+  index: -1
+helmetassel5
+  rotate: true
+  xy: 1955, 1222
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+helmetsideplate
+  rotate: true
+  xy: 592, 104
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+helmettassel1
+  rotate: false
+  xy: 1699, 9
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+helmettassel1x
+  rotate: false
+  xy: 1461, 95
+  size: 144, 111
+  orig: 144, 111
+  offset: 0, 0
+  index: -1
+helmettassel2
+  rotate: false
+  xy: 1673, 213
+  size: 106, 143
+  orig: 106, 143
+  offset: 0, 0
+  index: -1
+helmettassel3
+  rotate: true
+  xy: 1672, 356
+  size: 62, 152
+  orig: 62, 152
+  offset: 0, 0
+  index: -1
+helmettassel4
+  rotate: true
+  xy: 488, 0
+  size: 120, 104
+  orig: 120, 104
+  offset: 0, 0
+  index: -1
+hood
+  rotate: true
+  xy: 1521, 411
+  size: 114, 151
+  orig: 114, 151
+  offset: 0, 0
+  index: -1
+loincloth
+  rotate: false
+  xy: 953, 335
+  size: 193, 619
+  orig: 193, 619
+  offset: 0, 0
+  index: -1
+neckplate
+  rotate: true
+  xy: 1313, 308
+  size: 123, 197
+  orig: 123, 197
+  offset: 0, 0
+  index: -1
+rag1
+  rotate: true
+  xy: 1132, 0
+  size: 74, 177
+  orig: 74, 177
+  offset: 0, 0
+  index: -1
+rag2
+  rotate: false
+  xy: 709, 468
+  size: 244, 486
+  orig: 244, 486
+  offset: 0, 0
+  index: -1
+rag3
+  rotate: true
+  xy: 1675, 477
+  size: 84, 167
+  orig: 84, 167
+  offset: 0, 0
+  index: -1
+rag4
+  rotate: false
+  xy: 1146, 512
+  size: 176, 400
+  orig: 176, 400
+  offset: 0, 0
+  index: -1
+scabbard
+  rotate: false
+  xy: 1175, 1108
+  size: 436, 480
+  orig: 436, 480
+  offset: 0, 0
+  index: -1
+sword
+  rotate: false
+  xy: 0, 937
+  size: 685, 651
+  orig: 685, 651
+  offset: 0, 0
+  index: -1
+swordmiasma1
+  rotate: false
+  xy: 1880, 707
+  size: 21, 75
+  orig: 21, 75
+  offset: 0, 0
+  index: -1
+swordmiasma2
+  rotate: true
+  xy: 617, 468
+  size: 15, 81
+  orig: 15, 81
+  offset: 0, 0
+  index: -1
+swordmiasma3
+  rotate: false
+  xy: 1996, 1182
+  size: 8, 88
+  orig: 8, 88
+  offset: 0, 0
+  index: -1
+swordmiasma4
+  rotate: true
+  xy: 1943, 1004
+  size: 193, 53
+  orig: 193, 53
+  offset: 0, 0
+  index: -1
+swordmiasma5
+  rotate: true
+  xy: 617, 52
+  size: 70, 177
+  orig: 70, 177
+  offset: 0, 0
+  index: -1
+swordmiasma6
+  rotate: true
+  xy: 0, 18
+  size: 69, 282
+  orig: 69, 282
+  offset: 0, 0
+  index: -1
+swordmiasma7
+  rotate: false
+  xy: 1631, 917
+  size: 42, 71
+  orig: 42, 71
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 1675, 700
+  size: 205, 288
+  orig: 205, 288
+  offset: 0, 0
+  index: -1

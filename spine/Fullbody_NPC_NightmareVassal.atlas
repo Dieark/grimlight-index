@@ -1,0 +1,251 @@
+
+Fullbody_NPC_NightmareVassal.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm1
+  rotate: false
+  xy: 1251, 245
+  size: 250, 481
+  orig: 250, 481
+  offset: 0, 0
+  index: -1
+Larm2
+  rotate: true
+  xy: 1236, 725
+  size: 444, 314
+  orig: 444, 314
+  offset: 0, 0
+  index: -1
+Lelbowspike
+  rotate: true
+  xy: 489, 117
+  size: 205, 245
+  orig: 205, 245
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: false
+  xy: 1502, 265
+  size: 348, 461
+  orig: 348, 461
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 1183, 1169
+  size: 302, 471
+  orig: 302, 471
+  offset: 0, 0
+  index: -1
+Lhip
+  rotate: false
+  xy: 924, 789
+  size: 259, 666
+  orig: 259, 666
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 1484, 1341
+  size: 343, 369
+  orig: 343, 369
+  offset: 0, 0
+  index: -1
+Rarm1
+  rotate: false
+  xy: 669, 1141
+  size: 189, 337
+  orig: 189, 337
+  offset: 0, 0
+  index: -1
+Rarm2
+  rotate: false
+  xy: 1224, 1672
+  size: 303, 357
+  orig: 303, 357
+  offset: 0, 0
+  index: -1
+Rfinger1
+  rotate: false
+  xy: 1594, 27
+  size: 169, 260
+  orig: 169, 260
+  offset: 0, 0
+  index: -1
+Rfinger2
+  rotate: false
+  xy: 1766, 1088
+  size: 215, 179
+  orig: 215, 179
+  offset: 0, 0
+  index: -1
+Rfinger3
+  rotate: false
+  xy: 1682, 106
+  size: 150, 154
+  orig: 150, 154
+  offset: 0, 0
+  index: -1
+Rfinger4
+  rotate: false
+  xy: 1055, 1907
+  size: 93, 122
+  orig: 93, 122
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: false
+  xy: 1551, 736
+  size: 322, 525
+  orig: 322, 525
+  offset: 0, 0
+  index: -1
+Rhandplate
+  rotate: true
+  xy: 878, 1462
+  size: 69, 279
+  orig: 69, 279
+  offset: 0, 0
+  index: -1
+Rhip
+  rotate: false
+  xy: 0, 673
+  size: 556, 486
+  orig: 556, 486
+  offset: 0, 0
+  index: -1
+Rpalm
+  rotate: false
+  xy: 797, 1000
+  size: 102, 141
+  orig: 102, 141
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 1527, 1747
+  size: 282, 353
+  orig: 282, 353
+  offset: 0, 0
+  index: -1
+Rshoulderspike1
+  rotate: false
+  xy: 1833, 1500
+  size: 130, 277
+  orig: 130, 277
+  offset: 0, 0
+  index: -1
+Rshoulderspike2
+  rotate: false
+  xy: 1879, 1806
+  size: 98, 223
+  orig: 98, 223
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 749, 21
+  size: 184, 364
+  orig: 184, 364
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 520, 315
+  size: 404, 724
+  orig: 404, 746
+  offset: 0, 22
+  index: -1
+chestplate1
+  rotate: false
+  xy: 0, 202
+  size: 490, 471
+  orig: 490, 471
+  offset: 0, 0
+  index: -1
+chestplate2
+  rotate: true
+  xy: 0, 78
+  size: 124, 231
+  orig: 124, 231
+  offset: 0, 0
+  index: -1
+claw1
+  rotate: false
+  xy: 555, 1043
+  size: 242, 99
+  orig: 242, 99
+  offset: 0, 0
+  index: -1
+claw2
+  rotate: false
+  xy: 669, 1941
+  size: 56, 89
+  orig: 56, 89
+  offset: 0, 0
+  index: -1
+claw3
+  rotate: false
+  xy: 669, 1507
+  size: 115, 225
+  orig: 115, 225
+  offset: 0, 0
+  index: -1
+claw4
+  rotate: false
+  xy: 231, 36
+  size: 229, 149
+  orig: 229, 155
+  offset: 0, 6
+  index: -1
+claw5
+  rotate: false
+  xy: 884, 33
+  size: 190, 153
+  orig: 190, 153
+  offset: 0, 0
+  index: -1
+claw6
+  rotate: false
+  xy: 858, 1334
+  size: 59, 129
+  orig: 59, 129
+  offset: 0, 0
+  index: -1
+eyeflame
+  rotate: true
+  xy: 1231, 2
+  size: 263, 355
+  orig: 339, 455
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 0, 1159
+  size: 669, 871
+  orig: 669, 871
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 669, 1474
+  size: 555, 555
+  orig: 555, 555
+  offset: 0, 0
+  index: -1
+tail1
+  rotate: 270
+  xy: 881, 165
+  size: 624, 371
+  orig: 624, 371
+  offset: 0, 0
+  index: -1
+tail2
+  rotate: false
+  xy: 1484, 1243
+  size: 497, 257
+  orig: 497, 257
+  offset: 0, 0
+  index: -1

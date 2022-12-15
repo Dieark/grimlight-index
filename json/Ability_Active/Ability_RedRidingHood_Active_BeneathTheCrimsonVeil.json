@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": -7118662915785212894
+    "m_PathID": 401
   },
   "m_Name": "Ability_RedRidingHood_Active_BeneathTheCrimsonVeil",
   "abilityID": "Ability_RedRidingHood_Active",
@@ -67,7 +67,7 @@
     "displayType": 0,
     "abilityIcon": {
       "m_FileID": 0,
-      "m_PathID": -8607192374158050922
+      "m_PathID": 556
     }
   },
   "abilityUpgradeCostElement": 0,

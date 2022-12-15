@@ -1,0 +1,153 @@
+
+Fullbody_MysteryCharacter.png
+size: 1952,920
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lcoat
+  rotate: false
+  xy: 1301, 201
+  size: 382, 716
+  orig: 382, 716
+  offset: 0, 0
+  index: -1
+Lcoatback
+  rotate: true
+  xy: 0, 6
+  size: 416, 680
+  orig: 416, 680
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: false
+  xy: 1785, 378
+  size: 123, 184
+  orig: 123, 184
+  offset: 0, 0
+  index: -1
+Rfingers1
+  rotate: true
+  xy: 1857, 328
+  size: 50, 61
+  orig: 50, 61
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: false
+  xy: 1683, 299
+  size: 102, 263
+  orig: 102, 263
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 1840, 741
+  size: 176, 110
+  orig: 176, 110
+  offset: 0, 0
+  index: -1
+Rhood1
+  rotate: true
+  xy: 1545, 28
+  size: 173, 204
+  orig: 173, 204
+  offset: 0, 0
+  index: -1
+Rhood2
+  rotate: true
+  xy: 1818, 0
+  size: 41, 55
+  orig: 41, 55
+  offset: 0, 0
+  index: -1
+Rhood3
+  rotate: false
+  xy: 1749, 6
+  size: 69, 198
+  orig: 69, 198
+  offset: 0, 0
+  index: -1
+Rhood4
+  rotate: true
+  xy: 1785, 317
+  size: 61, 72
+  orig: 61, 72
+  offset: 0, 0
+  index: -1
+Rpinky
+  rotate: false
+  xy: 1818, 41
+  size: 68, 43
+  orig: 68, 43
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 1683, 562
+  size: 170, 127
+  orig: 170, 127
+  offset: 0, 0
+  index: -1
+Rsleeve1
+  rotate: false
+  xy: 1298, 9
+  size: 247, 192
+  orig: 247, 192
+  offset: 0, 0
+  index: -1
+Rsleeve2
+  rotate: true
+  xy: 1683, 204
+  size: 95, 131
+  orig: 95, 131
+  offset: 0, 0
+  index: -1
+backcoat1
+  rotate: true
+  xy: 680, 10
+  size: 412, 618
+  orig: 412, 618
+  offset: 0, 0
+  index: -1
+backcoat2
+  rotate: true
+  xy: 1683, 732
+  size: 185, 157
+  orig: 185, 157
+  offset: 0, 0
+  index: -1
+backhood
+  rotate: false
+  xy: 1818, 84
+  size: 101, 120
+  orig: 101, 120
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 422
+  size: 495, 1301
+  orig: 495, 1301
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1810, 594
+  size: 138, 124
+  orig: 138, 124
+  offset: 0, 0
+  index: -1
+scarf1
+  rotate: true
+  xy: 1814, 204
+  size: 113, 121
+  orig: 113, 121
+  offset: 0, 0
+  index: -1
+scarf2
+  rotate: false
+  xy: 1886, 37
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1

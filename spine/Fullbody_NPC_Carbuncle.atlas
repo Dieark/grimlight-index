@@ -1,0 +1,244 @@
+
+Fullbody_NPC_Carbuncle.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lbackleg
+  rotate: 270
+  xy: 0, 208
+  size: 353, 541
+  orig: 353, 541
+  offset: 0, 0
+  index: -1
+Lear
+  rotate: false
+  xy: 541, 207
+  size: 371, 251
+  orig: 371, 251
+  offset: 0, 0
+  index: -1
+Leyeframe
+  rotate: false
+  xy: 392, 901
+  size: 133, 110
+  orig: 207, 110
+  offset: 74, 0
+  index: -1
+Leyespark
+  rotate: false
+  xy: 48, 1759
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+Leyestar
+  rotate: false
+  xy: 102, 1819
+  size: 63, 74
+  orig: 63, 74
+  offset: 0, 0
+  index: -1
+Leyewhite
+  rotate: false
+  xy: 896, 305
+  size: 81, 94
+  orig: 81, 94
+  offset: 0, 0
+  index: -1
+Lfrontleg1
+  rotate: false
+  xy: 0, 1393
+  size: 281, 131
+  orig: 281, 131
+  offset: 0, 0
+  index: -1
+Lfrontleg2
+  rotate: false
+  xy: 828, 399
+  size: 131, 193
+  orig: 131, 193
+  offset: 0, 0
+  index: -1
+Lhorn1
+  rotate: false
+  xy: 827, 693
+  size: 95, 106
+  orig: 95, 106
+  offset: 0, 0
+  index: -1
+Lhorn2
+  rotate: false
+  xy: 0, 1372
+  size: 70, 45
+  orig: 70, 45
+  offset: 0, 0
+  index: -1
+Lpupil
+  rotate: false
+  xy: 908, 918
+  size: 73, 95
+  orig: 73, 95
+  offset: 0, 0
+  index: -1
+Rbackleg
+  rotate: true
+  xy: 0, 64
+  size: 289, 367
+  orig: 289, 367
+  offset: 0, 0
+  index: -1
+Rear
+  rotate: 180
+  xy: 543, 768
+  size: 375, 347
+  orig: 375, 347
+  offset: 0, 0
+  index: -1
+Reyeframe
+  rotate: false
+  xy: 635, 69
+  size: 178, 138
+  orig: 178, 138
+  offset: 0, 0
+  index: -1
+Reyespark
+  rotate: false
+  xy: 165, 1864
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+Reyestar
+  rotate: false
+  xy: 207, 1330
+  size: 84, 77
+  orig: 84, 77
+  offset: 0, 0
+  index: -1
+Reyewhite
+  rotate: false
+  xy: 0, 1788
+  size: 102, 105
+  orig: 102, 105
+  offset: 0, 0
+  index: -1
+Rfrontleg1
+  rotate: false
+  xy: 596, 1760
+  size: 217, 133
+  orig: 217, 133
+  offset: 0, 0
+  index: -1
+Rfrontleg2
+  rotate: false
+  xy: 806, 1114
+  size: 155, 259
+  orig: 155, 259
+  offset: 0, 0
+  index: -1
+Rhorn1
+  rotate: false
+  xy: 0, 88
+  size: 67, 39
+  orig: 67, 39
+  offset: 0, 0
+  index: -1
+Rhorn2
+  rotate: true
+  xy: 891, 799
+  size: 119, 83
+  orig: 119, 83
+  offset: 0, 0
+  index: -1
+Rpupil
+  rotate: false
+  xy: 825, 592
+  size: 100, 101
+  orig: 100, 101
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 736
+  size: 635, 393
+  orig: 635, 393
+  offset: 0, 0
+  index: -1
+head
+  rotate: 180
+  xy: 225, 454
+  size: 603, 443
+  orig: 603, 443
+  offset: 0, 0
+  index: -1
+neckfrill1
+  rotate: 270
+  xy: 788, 1424
+  size: 469, 190
+  orig: 469, 207
+  offset: 0, 6
+  index: -1
+neckfrill2
+  rotate: true
+  xy: 912, 207
+  size: 92, 68
+  orig: 92, 68
+  offset: 0, 0
+  index: -1
+neckfrill3
+  rotate: false
+  xy: 0, 1756
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+neckfrill4
+  rotate: 270
+  xy: 700, 1666
+  size: 106, 94
+  orig: 106, 94
+  offset: 0, 0
+  index: -1
+neckgem
+  rotate: false
+  xy: 0, 917
+  size: 47, 67
+  orig: 47, 67
+  offset: 0, 0
+  index: -1
+snout
+  rotate: false
+  xy: 813, 88
+  size: 154, 119
+  orig: 154, 119
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 0, 995
+  size: 806, 899
+  orig: 806, 899
+  offset: 0, 0
+  index: -1
+tie1
+  rotate: false
+  xy: 339, 75
+  size: 296, 142
+  orig: 296, 142
+  offset: 0, 0
+  index: -1
+tie2
+  rotate: 180
+  xy: 435, 2
+  size: 200, 142
+  orig: 200, 142
+  offset: 0, 0
+  index: -1
+tie3
+  rotate: false
+  xy: 0, 637
+  size: 316, 115
+  orig: 316, 173
+  offset: 0, 50
+  index: -1

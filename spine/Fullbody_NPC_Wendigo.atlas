@@ -1,0 +1,300 @@
+
+Fullbody_NPC_Wendigo.png
+size: 2024,2024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Latm
+  rotate: true
+  xy: 1201, 142
+  size: 252, 228
+  orig: 252, 228
+  offset: 0, 0
+  index: -1
+Lfinger1
+  rotate: true
+  xy: 1575, 321
+  size: 119, 272
+  orig: 119, 272
+  offset: 0, 0
+  index: -1
+Lfinger2
+  rotate: false
+  xy: 1872, 219
+  size: 126, 257
+  orig: 126, 257
+  offset: 0, 0
+  index: -1
+Lfinger3
+  rotate: true
+  xy: 1607, 665
+  size: 190, 237
+  orig: 190, 237
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: false
+  xy: 1728, 1563
+  size: 174, 209
+  orig: 174, 209
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 1784, 476
+  size: 239, 189
+  orig: 239, 189
+  offset: 0, 0
+  index: -1
+Lknee_pad
+  rotate: false
+  xy: 1064, 0
+  size: 116, 147
+  orig: 116, 147
+  offset: 0, 0
+  index: -1
+Lthigh
+  rotate: false
+  xy: 1728, 1772
+  size: 175, 247
+  orig: 175, 247
+  offset: 0, 0
+  index: -1
+Lthigh_armor
+  rotate: true
+  xy: 257, 12
+  size: 190, 171
+  orig: 190, 171
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: true
+  xy: 1180, 23
+  size: 119, 162
+  orig: 119, 162
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 439, 246
+  size: 319, 318
+  orig: 319, 318
+  offset: 0, 0
+  index: -1
+Rfinger
+  rotate: false
+  xy: 1713, 64
+  size: 159, 257
+  orig: 159, 257
+  offset: 0, 0
+  index: -1
+Rfingers2
+  rotate: false
+  xy: 864, 1251
+  size: 138, 216
+  orig: 138, 216
+  offset: 0, 0
+  index: -1
+Rfingers3
+  rotate: false
+  xy: 757, 582
+  size: 95, 131
+  orig: 95, 131
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: false
+  xy: 1429, 97
+  size: 284, 222
+  orig: 284, 222
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 1216, 394
+  size: 249, 237
+  orig: 249, 237
+  offset: 0, 0
+  index: -1
+Rknee_pad
+  rotate: false
+  xy: 757, 874
+  size: 103, 165
+  orig: 103, 165
+  offset: 0, 0
+  index: -1
+Rthigh
+  rotate: false
+  xy: 0, 935
+  size: 493, 532
+  orig: 493, 532
+  offset: 0, 0
+  index: -1
+Rthigh_armor
+  rotate: false
+  xy: 1575, 440
+  size: 209, 191
+  orig: 209, 191
+  offset: 0, 0
+  index: -1
+Rthigh_back
+  rotate: true
+  xy: 864, 1169
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 757, 713
+  size: 102, 161
+  orig: 102, 161
+  offset: 0, 0
+  index: -1
+backhair
+  rotate: true
+  xy: 1009, 1158
+  size: 861, 719
+  orig: 861, 719
+  offset: 0, 0
+  index: -1
+backhair2
+  rotate: false
+  xy: 493, 1039
+  size: 371, 428
+  orig: 371, 428
+  offset: 0, 0
+  index: -1
+backhair3
+  rotate: true
+  xy: 757, 323
+  size: 120, 56
+  orig: 120, 56
+  offset: 0, 0
+  index: -1
+backhair4
+  rotate: true
+  xy: 439, 13
+  size: 233, 343
+  orig: 233, 343
+  offset: 0, 0
+  index: -1
+body_fur
+  rotate: false
+  xy: 0, 1467
+  size: 1009, 552
+  orig: 1009, 552
+  offset: 0, 0
+  index: -1
+bone_haloL
+  rotate: false
+  xy: 493, 565
+  size: 264, 474
+  orig: 264, 474
+  offset: 0, 0
+  index: -1
+bone_haloL2
+  rotate: false
+  xy: 1465, 319
+  size: 110, 312
+  orig: 110, 312
+  offset: 0, 0
+  index: -1
+bone_haloR
+  rotate: true
+  xy: 0, 202
+  size: 363, 439
+  orig: 363, 439
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 0, 3
+  size: 199, 257
+  orig: 199, 257
+  offset: 0, 0
+  index: -1
+fur
+  rotate: false
+  xy: 400, 671
+  size: 83, 264
+  orig: 83, 264
+  offset: 0, 0
+  index: -1
+fur2
+  rotate: false
+  xy: 1064, 307
+  size: 137, 155
+  orig: 137, 155
+  offset: 0, 0
+  index: -1
+furchunk1
+  rotate: true
+  xy: 1728, 1329
+  size: 234, 171
+  orig: 234, 171
+  offset: 0, 0
+  index: -1
+furchunk2
+  rotate: false
+  xy: 1216, 631
+  size: 391, 169
+  orig: 391, 169
+  offset: 0, 0
+  index: -1
+furchunk3
+  rotate: false
+  xy: 1522, 855
+  size: 310, 303
+  orig: 310, 303
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: false
+  xy: 757, 443
+  size: 94, 139
+  orig: 94, 139
+  offset: 0, 0
+  index: -1
+ribs
+  rotate: true
+  xy: 851, 78
+  size: 384, 213
+  orig: 384, 213
+  offset: 0, 0
+  index: -1
+ribs2
+  rotate: true
+  xy: 1064, 147
+  size: 160, 131
+  orig: 160, 131
+  offset: 0, 0
+  index: -1
+ribs3
+  rotate: false
+  xy: 864, 462
+  size: 352, 696
+  orig: 352, 696
+  offset: 0, 0
+  index: -1
+soul
+  rotate: true
+  xy: 0, 601
+  size: 334, 400
+  orig: 334, 400
+  offset: 0, 0
+  index: -1
+spine 2
+  rotate: false
+  xy: 1216, 800
+  size: 306, 358
+  orig: 306, 358
+  offset: 0, 0
+  index: -1
+spine_back
+  rotate: false
+  xy: 864, 1233
+  size: 129, 18
+  orig: 129, 18
+  offset: 0, 0
+  index: -1

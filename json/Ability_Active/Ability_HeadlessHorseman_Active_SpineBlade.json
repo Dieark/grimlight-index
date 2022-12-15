@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": -7118662915785212894
+    "m_PathID": 374
   },
   "m_Name": "Ability_HeadlessHorseman_Active_SpineBlade",
   "abilityID": "Ability_HeadlessHorseman_Active",
@@ -34,7 +34,7 @@
         {
           "status": {
             "m_FileID": 0,
-            "m_PathID": -1334227159802319920
+            "m_PathID": 2333
           },
           "chanceToApplyPercent": 100
         }
@@ -75,7 +75,7 @@
     "displayType": 0,
     "abilityIcon": {
       "m_FileID": 0,
-      "m_PathID": -6745276111677028413
+      "m_PathID": 535
     }
   },
   "abilityUpgradeCostElement": 0,
@@ -103,7 +103,7 @@
           "scaler": 1.1,
           "statusReference": {
             "m_FileID": 0,
-            "m_PathID": -1334227159802319920
+            "m_PathID": 2333
           },
           "valueType": 0,
           "modifiedStat": 3,

@@ -1,0 +1,516 @@
+
+SD_Hero_SantaClaus.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lleg
+  rotate: false
+  xy: 151, 42
+  size: 27, 67
+  orig: 27, 67
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 390, 337
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 475, 350
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 362, 140
+  size: 25, 67
+  orig: 25, 67
+  offset: 0, 0
+  index: -1
+blackslash5
+  rotate: false
+  xy: 199, 336
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+bladeslash1
+  rotate: false
+  xy: 184, 26
+  size: 204, 84
+  orig: 204, 84
+  offset: 0, 0
+  index: -1
+bladeslash2
+  rotate: false
+  xy: 0, 335
+  size: 199, 176
+  orig: 200, 176
+  offset: 0, 0
+  index: -1
+bladeslash3
+  rotate: true
+  xy: 0, 211
+  size: 124, 242
+  orig: 124, 242
+  offset: 0, 0
+  index: -1
+bladeslash4
+  rotate: true
+  xy: 242, 206
+  size: 130, 223
+  orig: 130, 223
+  offset: 0, 0
+  index: -1
+brooch
+  rotate: false
+  xy: 495, 62
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+capeL
+  rotate: true
+  xy: 470, 1
+  size: 59, 34
+  orig: 59, 34
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 388, 3
+  size: 82, 56
+  orig: 82, 56
+  offset: 0, 0
+  index: -1
+impact1
+  rotate: true
+  xy: 465, 237
+  size: 107, 41
+  orig: 123, 50
+  offset: 16, 0
+  index: -1
+impact2
+  rotate: false
+  xy: 0, 6
+  size: 151, 102
+  orig: 166, 103
+  offset: 14, 0
+  index: -1
+impact3
+  rotate: true
+  xy: 374, 344
+  size: 167, 101
+  orig: 183, 113
+  offset: 16, 0
+  index: -1
+impact4
+  rotate: true
+  xy: 388, 59
+  size: 147, 107
+  orig: 173, 108
+  offset: 26, 1
+  index: -1
+mouthgrit
+  rotate: false
+  xy: 374, 339
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 184, 208
+  size: 11, 3
+  orig: 11, 3
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 378, 113
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 168, 30
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: true
+  xy: 465, 207
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+spawn_wpaxe
+  rotate: true
+  xy: 0, 108
+  size: 104, 185
+  orig: 104, 185
+  offset: 0, 0
+  index: -1
+tie
+  rotate: false
+  xy: 495, 80
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1
+weaponspawn1
+  rotate: true
+  xy: 259, 8
+  size: 18, 100
+  orig: 18, 100
+  offset: 0, 0
+  index: -1
+weaponspawn3
+  rotate: false
+  xy: 475, 385
+  size: 31, 126
+  orig: 31, 126
+  offset: 0, 0
+  index: -1
+weaponspawn_stretchlight
+  rotate: false
+  xy: 495, 136
+  size: 14, 101
+  orig: 14, 115
+  offset: 0, 6
+  index: -1
+wp+sword_bladeglow
+  rotate: true
+  xy: 151, 5
+  size: 22, 108
+  orig: 22, 108
+  offset: 0, 0
+  index: -1
+wpaxe
+  rotate: true
+  xy: 184, 110
+  size: 97, 178
+  orig: 97, 178
+  offset: 0, 0
+  index: -1
+wpaxe_ribbon
+  rotate: true
+  xy: 151, 28
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+wpaxe_ribbon2
+  rotate: false
+  xy: 495, 109
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1
+wpspear_bellstring
+  rotate: true
+  xy: 362, 113
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+wpspear_ribbon3
+  rotate: false
+  xy: 359, 8
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+
+SD_Hero_SantaClaus2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 191, 241
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 486, 395
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 486, 475
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+bang_strand
+  rotate: false
+  xy: 229, 51
+  size: 68, 51
+  orig: 68, 51
+  offset: 0, 0
+  index: -1
+capeR
+  rotate: false
+  xy: 140, 240
+  size: 51, 33
+  orig: 51, 33
+  offset: 0, 0
+  index: -1
+cape_back
+  rotate: 180
+  xy: 31, 194
+  size: 146, 101
+  orig: 155, 109
+  offset: 0, 8
+  index: -1
+cape_front
+  rotate: 270
+  xy: 0, 61
+  size: 47, 101
+  orig: 47, 101
+  offset: 0, 0
+  index: -1
+eyefurious
+  rotate: false
+  xy: 324, 133
+  size: 82, 56
+  orig: 82, 56
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 409, 239
+  size: 83, 62
+  orig: 83, 62
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 406, 133
+  size: 82, 56
+  orig: 82, 56
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 174, 128
+  size: 82, 56
+  orig: 82, 56
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 93, 132
+  size: 82, 62
+  orig: 82, 62
+  offset: 0, 0
+  index: -1
+flameslash1
+  rotate: false
+  xy: 0, 119
+  size: 93, 83
+  orig: 94, 84
+  offset: 1, 1
+  index: -1
+flameslash2
+  rotate: true
+  xy: 367, 300
+  size: 72, 129
+  orig: 73, 129
+  offset: 1, 0
+  index: -1
+flameslash3
+  rotate: false
+  xy: 368, 372
+  size: 91, 139
+  orig: 91, 140
+  offset: 0, 0
+  index: -1
+flameslash4
+  rotate: true
+  xy: 266, 373
+  size: 138, 102
+  orig: 142, 136
+  offset: 1, 0
+  index: -1
+flameslash5
+  rotate: false
+  xy: 177, 184
+  size: 147, 53
+  orig: 162, 74
+  offset: 0, 1
+  index: -1
+hair
+  rotate: true
+  xy: 141, 365
+  size: 147, 125
+  orig: 147, 125
+  offset: 0, 0
+  index: -1
+hat
+  rotate: 180
+  xy: 395, 66
+  size: 87, 68
+  orig: 87, 68
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 141, 274
+  size: 92, 99
+  orig: 92, 99
+  offset: 0, 0
+  index: -1
+head_back
+  rotate: false
+  xy: 145, 73
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1
+head_top
+  rotate: false
+  xy: 254, 290
+  size: 113, 84
+  orig: 113, 84
+  offset: 0, 0
+  index: -1
+mustache
+  rotate: false
+  xy: 141, 495
+  size: 65, 17
+  orig: 65, 18
+  offset: 0, 0
+  index: -1
+roomeye_mid
+  rotate: true
+  xy: 257, 102
+  size: 82, 56
+  orig: 82, 56
+  offset: 0, 0
+  index: -1
+roomeye_open
+  rotate: false
+  xy: 313, 77
+  size: 82, 56
+  orig: 82, 56
+  offset: 0, 0
+  index: -1
+scarf
+  rotate: false
+  xy: 486, 428
+  size: 23, 47
+  orig: 23, 47
+  offset: 0, 0
+  index: -1
+scarf2
+  rotate: true
+  xy: 322, 54
+  size: 23, 61
+  orig: 23, 61
+  offset: 0, 0
+  index: -1
+scarf_back
+  rotate: true
+  xy: 260, 57
+  size: 20, 63
+  orig: 20, 63
+  offset: 0, 0
+  index: -1
+spawn_wpspear
+  rotate: false
+  xy: 0, 288
+  size: 74, 224
+  orig: 74, 224
+  offset: 0, 0
+  index: -1
+spawn_wpsword
+  rotate: true
+  xy: 240, 237
+  size: 53, 169
+  orig: 53, 169
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 93, 71
+  size: 53, 61
+  orig: 53, 61
+  offset: 0, 0
+  index: -1
+weaponspawn2
+  rotate: false
+  xy: 459, 390
+  size: 27, 121
+  orig: 27, 121
+  offset: 0, 0
+  index: -1
+wp_sword
+  rotate: true
+  xy: 324, 190
+  size: 48, 163
+  orig: 48, 163
+  offset: 0, 0
+  index: -1
+wp_sword_ribbon
+  rotate: false
+  xy: 0, 203
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+wpspear
+  rotate: false
+  xy: 73, 294
+  size: 68, 218
+  orig: 68, 218
+  offset: 0, 0
+  index: -1
+wpspear_bell
+  rotate: false
+  xy: 141, 381
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+wpspear_ribbon
+  rotate: true
+  xy: 57, 93
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+wpspear_ribbon2
+  rotate: false
+  xy: 0, 241
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+wpspear_ribbon4
+  rotate: false
+  xy: 482, 101
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+wpspear_ribbon5
+  rotate: false
+  xy: 195, 78
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1

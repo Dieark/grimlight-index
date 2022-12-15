@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": -7118662915785212894
+    "m_PathID": 401
   },
   "m_Name": "Ability_Siegfried_Active_RadiantStrike",
   "abilityID": "Ability_Siegfried_Active",
@@ -34,7 +34,7 @@
         {
           "status": {
             "m_FileID": 0,
-            "m_PathID": -6667919976075865291
+            "m_PathID": 30175
           },
           "chanceToApplyPercent": 100
         }
@@ -207,7 +207,7 @@
     "displayType": 0,
     "abilityIcon": {
       "m_FileID": 0,
-      "m_PathID": 7420360724052499654
+      "m_PathID": 602
     }
   },
   "abilityUpgradeCostElement": 0,
@@ -235,7 +235,7 @@
           "scaler": -0.03,
           "statusReference": {
             "m_FileID": 0,
-            "m_PathID": -6667919976075865291
+            "m_PathID": 30175
           },
           "valueType": 0,
           "modifiedStat": 5,

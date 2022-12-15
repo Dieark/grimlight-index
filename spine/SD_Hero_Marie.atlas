@@ -1,0 +1,419 @@
+
+SD_Hero_Marie.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lfingers
+  rotate: false
+  xy: 19, 47
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Lhairbow
+  rotate: false
+  xy: 130, 24
+  size: 36, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 0, 73
+  size: 29, 96
+  orig: 29, 96
+  offset: 0, 0
+  index: -1
+Llowerarm
+  rotate: false
+  xy: 97, 255
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+Lsleeve
+  rotate: false
+  xy: 263, 264
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 0, 358
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+Lupperarm
+  rotate: false
+  xy: 356, 38
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+Rfingers
+  rotate: false
+  xy: 178, 172
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+Rhairbow
+  rotate: false
+  xy: 382, 28
+  size: 29, 58
+  orig: 29, 58
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 480, 84
+  size: 32, 96
+  orig: 32, 96
+  offset: 0, 0
+  index: -1
+Rlowerarm
+  rotate: false
+  xy: 367, 131
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+Rsleeve
+  rotate: false
+  xy: 218, 171
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 0, 339
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+Rupperarm
+  rotate: false
+  xy: 474, 33
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: false
+  xy: 453, 407
+  size: 54, 106
+  orig: 54, 106
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: true
+  xy: 363, 86
+  size: 42, 96
+  orig: 42, 96
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: true
+  xy: 165, 62
+  size: 48, 98
+  orig: 48, 98
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: true
+  xy: 218, 44
+  size: 33, 105
+  orig: 33, 105
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: 270
+  xy: 267, 96
+  size: 61, 96
+  orig: 61, 96
+  offset: 0, 0
+  index: -1
+bangs6
+  rotate: false
+  xy: 125, 248
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+bangs7
+  rotate: false
+  xy: 0, 22
+  size: 20, 51
+  orig: 20, 51
+  offset: 0, 0
+  index: -1
+bgstar1
+  rotate: false
+  xy: 105, 83
+  size: 64, 61
+  orig: 64, 61
+  offset: 0, 0
+  index: -1
+bgstar2
+  rotate: false
+  xy: 351, 309
+  size: 86, 81
+  orig: 86, 81
+  offset: 0, 0
+  index: -1
+bgstar3
+  rotate: false
+  xy: 225, 300
+  size: 80, 76
+  orig: 80, 76
+  offset: 0, 0
+  index: -1
+bun
+  rotate: false
+  xy: 225, 260
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+dresstail1
+  rotate: false
+  xy: 349, 275
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+dresstail2
+  rotate: 180
+  xy: 405, 15
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+dresstail3
+  rotate: false
+  xy: 95, 18
+  size: 53, 65
+  orig: 53, 65
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 178, 111
+  size: 90, 59
+  orig: 90, 59
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: true
+  xy: 453, 322
+  size: 85, 47
+  orig: 85, 47
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 0, 161
+  size: 100, 59
+  orig: 100, 59
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 411, 191
+  size: 101, 59
+  orig: 101, 59
+  offset: 0, 0
+  index: -1
+eyshocked
+  rotate: false
+  xy: 100, 145
+  size: 78, 73
+  orig: 78, 73
+  offset: 0, 0
+  index: -1
+hairbottom
+  rotate: true
+  xy: 225, 376
+  size: 137, 125
+  orig: 137, 125
+  offset: 0, 0
+  index: -1
+hairbow
+  rotate: false
+  xy: 396, 128
+  size: 86, 63
+  orig: 86, 63
+  offset: 0, 0
+  index: -1
+hairbraid
+  rotate: false
+  xy: 248, 154
+  size: 163, 94
+  orig: 163, 94
+  offset: 0, 0
+  index: -1
+hairstrand1
+  rotate: 270
+  xy: 262, 70
+  size: 40, 94
+  orig: 40, 94
+  offset: 0, 0
+  index: -1
+hairstrand2
+  rotate: 270
+  xy: 0, 218
+  size: 69, 185
+  orig: 69, 185
+  offset: 0, 0
+  index: -1
+hairstrand3
+  rotate: false
+  xy: 437, 338
+  size: 16, 52
+  orig: 16, 52
+  offset: 0, 0
+  index: -1
+hairstrand4
+  rotate: true
+  xy: 331, 248
+  size: 68, 181
+  orig: 68, 181
+  offset: 0, 0
+  index: -1
+hairtail
+  rotate: false
+  xy: 0, 286
+  size: 153, 227
+  orig: 153, 227
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 351, 390
+  size: 122, 102
+  orig: 122, 102
+  offset: 0, 0
+  index: -1
+mouthgrit
+  rotate: false
+  xy: 135, 351
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 0, 380
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 141, 381
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 130, 310
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+shirtbow
+  rotate: false
+  xy: 133, 327
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: 180
+  xy: 0, 102
+  size: 105, 59
+  orig: 105, 59
+  offset: 0, 0
+  index: -1
+skirtbow1
+  rotate: false
+  xy: 388, 293
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+skirtbow2
+  rotate: false
+  xy: 499, 324
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+skirtbow3
+  rotate: false
+  xy: 493, 253
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+skirtbow4
+  rotate: false
+  xy: 301, 255
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+skirtbow5
+  rotate: false
+  xy: 138, 358
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+skirtbow6
+  rotate: false
+  xy: 499, 343
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
+skirtruffle
+  rotate: true
+  xy: 305, 270
+  size: 107, 44
+  orig: 107, 44
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 301, 190
+  size: 52, 57
+  orig: 52, 57
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 152, 259
+  size: 253, 73
+  orig: 253, 73
+  offset: 0, 0
+  index: -1
+weaponbow
+  rotate: true
+  xy: 184, 196
+  size: 63, 117
+  orig: 63, 117
+  offset: 0, 0
+  index: -1
+weaponbowback
+  rotate: false
+  xy: 499, 365
+  size: 10, 42
+  orig: 10, 42
+  offset: 0, 0
+  index: -1

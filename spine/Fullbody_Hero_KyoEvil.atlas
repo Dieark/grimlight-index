@@ -1,0 +1,461 @@
+
+Fullbody_Hero_KyoEvil.png
+size: 1620,1620
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 725, 9
+  size: 163, 142
+  orig: 163, 142
+  offset: 0, 0
+  index: -1
+Lcoat
+  rotate: false
+  xy: 1003, 774
+  size: 358, 846
+  orig: 358, 846
+  offset: 0, 0
+  index: -1
+Lcollar
+  rotate: true
+  xy: 1559, 551
+  size: 70, 58
+  orig: 70, 58
+  offset: 0, 0
+  index: -1
+Leyebrow
+  rotate: false
+  xy: 1531, 847
+  size: 38, 11
+  orig: 38, 11
+  offset: 0, 0
+  index: -1
+Leyelashbottom
+  rotate: false
+  xy: 1497, 846
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: -1
+Leyelashtop
+  rotate: true
+  xy: 1601, 982
+  size: 41, 19
+  orig: 41, 19
+  offset: 0, 0
+  index: -1
+Leyelid
+  rotate: true
+  xy: 982, 1054
+  size: 40, 18
+  orig: 40, 18
+  offset: 0, 0
+  index: -1
+Leyespark
+  rotate: false
+  xy: 1606, 852
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+Leyewhite
+  rotate: true
+  xy: 982, 1020
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+Lhip
+  rotate: false
+  xy: 1323, 90
+  size: 136, 508
+  orig: 136, 508
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 912, 253
+  size: 137, 521
+  orig: 137, 521
+  offset: 0, 0
+  index: -1
+Llegfold
+  rotate: false
+  xy: 1325, 647
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Lpupil
+  rotate: false
+  xy: 982, 1002
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+Lshoe
+  rotate: false
+  xy: 1459, 330
+  size: 104, 221
+  orig: 104, 221
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 1049, 643
+  size: 131, 276
+  orig: 131, 276
+  offset: 0, 0
+  index: -1
+Lundersleeve
+  rotate: false
+  xy: 1562, 201
+  size: 49, 69
+  orig: 49, 69
+  offset: 0, 0
+  index: -1
+Lwrist
+  rotate: true
+  xy: 1559, 716
+  size: 67, 59
+  orig: 67, 59
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 736, 329
+  size: 176, 451
+  orig: 176, 451
+  offset: 0, 0
+  index: -1
+Rcuff
+  rotate: true
+  xy: 1242, 4
+  size: 86, 95
+  orig: 86, 95
+  offset: 0, 0
+  index: -1
+Rcuffback
+  rotate: false
+  xy: 1559, 783
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: -1
+Rcuffflap
+  rotate: true
+  xy: 1320, 607
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+Reyebrow
+  rotate: true
+  xy: 888, 103
+  size: 48, 15
+  orig: 48, 15
+  offset: 0, 0
+  index: -1
+Reyelashbottom
+  rotate: true
+  xy: 982, 965
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+Reyelashtop
+  rotate: true
+  xy: 888, 62
+  size: 41, 15
+  orig: 41, 15
+  offset: 0, 0
+  index: -1
+Reyelid
+  rotate: true
+  xy: 1601, 856
+  size: 41, 18
+  orig: 41, 18
+  offset: 0, 0
+  index: -1
+Reyespark
+  rotate: false
+  xy: 1600, 851
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+Reyewhite
+  rotate: true
+  xy: 1601, 949
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+Rfinger1
+  rotate: false
+  xy: 1189, 600
+  size: 63, 43
+  orig: 63, 43
+  offset: 0, 0
+  index: -1
+Rfinger2
+  rotate: false
+  xy: 1562, 270
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 1189, 255
+  size: 88, 205
+  orig: 88, 205
+  offset: 0, 0
+  index: -1
+Rhip
+  rotate: false
+  xy: 1361, 846
+  size: 136, 774
+  orig: 136, 774
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 1337, 6
+  size: 84, 91
+  orig: 84, 91
+  offset: 0, 0
+  index: -1
+Rpupil
+  rotate: false
+  xy: 1601, 897
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+Rshoe
+  rotate: false
+  xy: 1497, 1023
+  size: 113, 221
+  orig: 113, 221
+  offset: 0, 0
+  index: -1
+angry
+  rotate: true
+  xy: 1497, 1430
+  size: 190, 118
+  orig: 190, 118
+  offset: 0, 0
+  index: -1
+annoy
+  rotate: false
+  xy: 0, 27
+  size: 112, 100
+  orig: 112, 100
+  offset: 0, 0
+  index: -1
+backcape1
+  rotate: true
+  xy: 0, 419
+  size: 355, 736
+  orig: 355, 736
+  offset: 0, 0
+  index: -1
+backcape2
+  rotate: true
+  xy: 0, 780
+  size: 314, 827
+  orig: 314, 827
+  offset: 0, 0
+  index: -1
+backcollar
+  rotate: false
+  xy: 1428, 21
+  size: 120, 69
+  orig: 120, 69
+  offset: 0, 0
+  index: -1
+backhair1
+  rotate: false
+  xy: 1325, 724
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+backhair2
+  rotate: false
+  xy: 1559, 621
+  size: 58, 95
+  orig: 58, 95
+  offset: 0, 0
+  index: -1
+backhair3
+  rotate: true
+  xy: 221, 62
+  size: 65, 142
+  orig: 65, 142
+  offset: 0, 0
+  index: -1
+backhair4
+  rotate: true
+  xy: 1569, 851
+  size: 7, 31
+  orig: 7, 31
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: false
+  xy: 1497, 1244
+  size: 115, 186
+  orig: 115, 186
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: false
+  xy: 1497, 858
+  size: 104, 165
+  orig: 104, 165
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: true
+  xy: 1601, 916
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+chest
+  rotate: false
+  xy: 1361, 598
+  size: 198, 248
+  orig: 198, 248
+  offset: 0, 0
+  index: -1
+coatflap1
+  rotate: true
+  xy: 0, 127
+  size: 292, 725
+  orig: 292, 725
+  offset: 0, 0
+  index: -1
+embarass
+  rotate: false
+  xy: 903, 2
+  size: 117, 96
+  orig: 117, 96
+  offset: 0, 0
+  index: -1
+handsmoke1
+  rotate: false
+  xy: 1561, 27
+  size: 52, 139
+  orig: 52, 139
+  offset: 0, 0
+  index: -1
+handsmoke2
+  rotate: true
+  xy: 1252, 610
+  size: 33, 68
+  orig: 33, 68
+  offset: 0, 0
+  index: -1
+handsmoke3
+  rotate: false
+  xy: 888, 21
+  size: 14, 41
+  orig: 14, 41
+  offset: 0, 0
+  index: -1
+happy
+  rotate: false
+  xy: 1129, 5
+  size: 113, 93
+  orig: 113, 93
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 827, 936
+  size: 158, 155
+  orig: 158, 155
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: true
+  xy: 1325, 669
+  size: 55, 31
+  orig: 55, 31
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 1189, 460
+  size: 125, 140
+  orig: 125, 140
+  offset: 0, 0
+  index: -1
+neckspine
+  rotate: false
+  xy: 1459, 98
+  size: 102, 68
+  orig: 102, 68
+  offset: 0, 0
+  index: -1
+neckspineglow
+  rotate: false
+  xy: 725, 151
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 1020, 3
+  size: 109, 95
+  orig: 109, 95
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: false
+  xy: 112, 35
+  size: 109, 92
+  orig: 109, 92
+  offset: 0, 0
+  index: -1
+tailcoatflap1
+  rotate: false
+  xy: 0, 1094
+  size: 1003, 526
+  orig: 1003, 526
+  offset: 0, 0
+  index: -1
+tailcoatflap2
+  rotate: false
+  xy: 903, 98
+  size: 420, 155
+  orig: 420, 155
+  offset: 0, 0
+  index: -1
+tailcoatflap3
+  rotate: true
+  xy: 1459, 166
+  size: 164, 103
+  orig: 164, 103
+  offset: 0, 0
+  index: -1
+waistglow
+  rotate: true
+  xy: 827, 785
+  size: 151, 172
+  orig: 151, 172
+  offset: 0, 0
+  index: -1
+waistspine
+  rotate: false
+  xy: 1049, 255
+  size: 140, 388
+  orig: 140, 388
+  offset: 0, 0
+  index: -1

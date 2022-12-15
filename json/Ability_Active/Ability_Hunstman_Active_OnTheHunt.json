@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": -7118662915785212894
+    "m_PathID": 401
   },
   "m_Name": "Ability_Hunstman_Active_OnTheHunt",
   "abilityID": "Ability_Huntsman_Active",
@@ -34,7 +34,7 @@
         {
           "status": {
             "m_FileID": 0,
-            "m_PathID": -1550155840256072255
+            "m_PathID": 30119
           },
           "chanceToApplyPercent": 100
         }
@@ -75,7 +75,7 @@
     "displayType": 0,
     "abilityIcon": {
       "m_FileID": 0,
-      "m_PathID": 2811874500985534059
+      "m_PathID": 591
     }
   },
   "abilityUpgradeCostElement": 0,
@@ -89,7 +89,7 @@
           "scaler": 1.1,
           "statusReference": {
             "m_FileID": 0,
-            "m_PathID": -1550155840256072255
+            "m_PathID": 30119
           },
           "valueType": 0,
           "modifiedStat": 5,

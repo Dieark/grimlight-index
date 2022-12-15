@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": -7118662915785212894
+    "m_PathID": 401
   },
   "m_Name": "Ability_Hook_Active_Bombardment",
   "abilityID": "Ability_Hook_Active",
@@ -34,7 +34,7 @@
         {
           "status": {
             "m_FileID": 0,
-            "m_PathID": -8073173533465668671
+            "m_PathID": 30225
           },
           "chanceToApplyPercent": 100
         }
@@ -207,7 +207,7 @@
     "displayType": 0,
     "abilityIcon": {
       "m_FileID": 0,
-      "m_PathID": -6784425196950223760
+      "m_PathID": 610
     }
   },
   "abilityUpgradeCostElement": 0,

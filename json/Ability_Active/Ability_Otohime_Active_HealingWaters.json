@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": -7118662915785212894
+    "m_PathID": 401
   },
   "m_Name": "Ability_Otohime_Active_HealingWaters",
   "abilityID": "Ability_Otohime_Active",
@@ -34,7 +34,7 @@
         {
           "status": {
             "m_FileID": 0,
-            "m_PathID": 8090544905006327442
+            "m_PathID": 30151
           },
           "chanceToApplyPercent": 100
         }
@@ -75,7 +75,7 @@
     "displayType": 0,
     "abilityIcon": {
       "m_FileID": 0,
-      "m_PathID": -185986919735754838
+      "m_PathID": 584
     }
   },
   "abilityUpgradeCostElement": 0,
@@ -89,7 +89,7 @@
           "scaler": 1.1,
           "statusReference": {
             "m_FileID": 0,
-            "m_PathID": 8090544905006327442
+            "m_PathID": 30151
           },
           "valueType": 0,
           "modifiedStat": 3,

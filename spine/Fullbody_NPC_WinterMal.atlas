@@ -1,0 +1,405 @@
+
+Fullbody_NPC_WinterMal.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 178, 640
+  size: 288, 173
+  orig: 288, 173
+  offset: 0, 0
+  index: -1
+Lear
+  rotate: false
+  xy: 407, 1314
+  size: 71, 107
+  orig: 71, 107
+  offset: 0, 0
+  index: -1
+Learfluff
+  rotate: true
+  xy: 610, 1049
+  size: 59, 52
+  orig: 59, 52
+  offset: 0, 0
+  index: -1
+Leyebrow
+  rotate: true
+  xy: 660, 1935
+  size: 56, 32
+  orig: 56, 32
+  offset: 0, 0
+  index: -1
+Leyelashtop
+  rotate: false
+  xy: 411, 1
+  size: 74, 30
+  orig: 74, 30
+  offset: 0, 0
+  index: -1
+Leyelid
+  rotate: false
+  xy: 394, 641
+  size: 64, 25
+  orig: 64, 25
+  offset: 0, 0
+  index: -1
+Leyespark
+  rotate: true
+  xy: 324, 2
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+Leyewhite
+  rotate: true
+  xy: 546, 977
+  size: 63, 41
+  orig: 63, 41
+  offset: 0, 0
+  index: -1
+Leylashbottom
+  rotate: false
+  xy: 559, 937
+  size: 54, 40
+  orig: 54, 40
+  offset: 0, 0
+  index: -1
+Lfinger1
+  rotate: true
+  xy: 375, 0
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+Lfinger2
+  rotate: true
+  xy: 449, 66
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+Lfinger4
+  rotate: true
+  xy: 529, 933
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+Lfingers3
+  rotate: false
+  xy: 118, 2
+  size: 49, 20
+  orig: 49, 20
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: false
+  xy: 574, 173
+  size: 195, 237
+  orig: 195, 237
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 546, 1332
+  size: 40, 89
+  orig: 40, 89
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 0, 621
+  size: 178, 691
+  orig: 178, 691
+  offset: 0, 0
+  index: -1
+Lpupil
+  rotate: false
+  xy: 496, 932
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 379, 1628
+  size: 97, 210
+  orig: 97, 210
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 341, 358
+  size: 282, 121
+  orig: 282, 121
+  offset: 0, 0
+  index: -1
+Rear1
+  rotate: true
+  xy: 478, 1331
+  size: 90, 68
+  orig: 90, 68
+  offset: 0, 0
+  index: -1
+Rear2
+  rotate: false
+  xy: 586, 1319
+  size: 88, 120
+  orig: 88, 120
+  offset: 0, 0
+  index: -1
+Rearfur
+  rotate: true
+  xy: 462, 358
+  size: 52, 65
+  orig: 52, 65
+  offset: 0, 0
+  index: -1
+Reyebrow
+  rotate: false
+  xy: 324, 10
+  size: 51, 12
+  orig: 51, 12
+  offset: 0, 0
+  index: -1
+Reyelashbottom
+  rotate: true
+  xy: 688, 1997
+  size: 51, 27
+  orig: 51, 27
+  offset: 0, 0
+  index: -1
+Reyelashtop
+  rotate: true
+  xy: 660, 1991
+  size: 57, 28
+  orig: 57, 28
+  offset: 0, 0
+  index: -1
+Reyelid
+  rotate: true
+  xy: 468, 928
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+Reyespark
+  rotate: false
+  xy: 331, 2
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+Reyewhite
+  rotate: false
+  xy: 527, 369
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+Rfinger
+  rotate: false
+  xy: 167, 3
+  size: 51, 19
+  orig: 51, 19
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: false
+  xy: 462, 410
+  size: 139, 256
+  orig: 139, 256
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 468, 976
+  size: 132, 78
+  orig: 132, 78
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 0, 1312
+  size: 379, 736
+  orig: 379, 736
+  offset: 0, 0
+  index: -1
+Rpupil
+  rotate: true
+  xy: 351, 640
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 379, 1838
+  size: 108, 210
+  orig: 108, 210
+  offset: 0, 0
+  index: -1
+angry
+  rotate: true
+  xy: 379, 1421
+  size: 207, 173
+  orig: 207, 173
+  offset: 0, 0
+  index: -1
+annoy
+  rotate: true
+  xy: 476, 1631
+  size: 207, 173
+  orig: 207, 173
+  offset: 0, 0
+  index: -1
+backhood1
+  rotate: false
+  xy: 546, 1040
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: false
+  xy: 0, 0
+  size: 118, 171
+  orig: 118, 171
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: false
+  xy: 341, 171
+  size: 100, 187
+  orig: 100, 187
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: true
+  xy: 118, 22
+  size: 149, 211
+  orig: 149, 211
+  offset: 0, 0
+  index: -1
+embarass
+  rotate: false
+  xy: 700, 0
+  size: 208, 173
+  orig: 208, 173
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 351, 666
+  size: 231, 262
+  orig: 231, 262
+  offset: 0, 0
+  index: -1
+happy
+  rotate: true
+  xy: 468, 1108
+  size: 206, 174
+  orig: 206, 174
+  offset: 0, 0
+  index: -1
+hood
+  rotate: true
+  xy: 552, 1439
+  size: 192, 122
+  orig: 192, 122
+  offset: 0, 0
+  index: -1
+hood1
+  rotate: true
+  xy: 441, 173
+  size: 185, 133
+  orig: 185, 133
+  offset: 0, 0
+  index: -1
+hood2
+  rotate: false
+  xy: 329, 31
+  size: 120, 140
+  orig: 120, 140
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 178, 629
+  size: 32, 11
+  orig: 32, 11
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 649, 1650
+  size: 139, 191
+  orig: 139, 191
+  offset: 0, 0
+  index: -1
+neckbell
+  rotate: true
+  xy: 449, 33
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+necktie1
+  rotate: false
+  xy: 587, 977
+  size: 27, 63
+  orig: 27, 63
+  offset: 0, 0
+  index: -1
+necktie2
+  rotate: false
+  xy: 449, 108
+  size: 35, 65
+  orig: 35, 65
+  offset: 0, 0
+  index: -1
+necktie3
+  rotate: true
+  xy: 218, 5
+  size: 17, 106
+  orig: 17, 106
+  offset: 0, 0
+  index: -1
+necktie4
+  rotate: false
+  xy: 379, 1313
+  size: 28, 108
+  orig: 28, 108
+  offset: 0, 0
+  index: -1
+sad
+  rotate: true
+  xy: 487, 1841
+  size: 207, 173
+  orig: 207, 173
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: false
+  xy: 485, 0
+  size: 215, 173
+  orig: 215, 173
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 178, 928
+  size: 384, 290
+  orig: 384, 290
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 0, 171
+  size: 341, 450
+  orig: 341, 450
+  offset: 0, 0
+  index: -1

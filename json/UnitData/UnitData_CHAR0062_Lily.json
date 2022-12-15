@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 390
   },
   "m_Name": "UnitData_CHAR0062_Lily",
   "removeFromGame": 0,
@@ -647,26 +647,6 @@
       },
       {
         "objectReference": {
-          "objectType": 7,
-          "objectID": "EquipmentItem_T5_RoyalRing"
-        },
-        "itemCount": 1,
-        "dropOptionExtension": {
-          "applyExtensions": 1,
-          "individualDropPercent": 1,
-          "maxDrop": 1,
-          "minDrop": 1
-        },
-        "activateAllExtensions": 1,
-        "equipmentDataExtension": {
-          "levelSelector": 0,
-          "fixedLevel": 1,
-          "contentLevelModulus": 1,
-          "accountLevelOffset": 0
-        }
-      },
-      {
-        "objectReference": {
           "objectType": 1,
           "objectID": "MaterialItem_ClassMat_Mage"
         },
@@ -745,25 +725,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 1684283568782226856
+    "m_PathID": 2598
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 4476213009786355705
+      "m_PathID": 2194
     },
     {
       "m_FileID": 0,
-      "m_PathID": 4873736541896342764
+      "m_PathID": 2193
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": -1680748879054779522
+    "m_PathID": 2192
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 8984526778260856821
+    "m_PathID": 2191
   },
   "Gender": 0,
   "Age": -1

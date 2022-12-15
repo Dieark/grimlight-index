@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 423
   },
   "m_Name": "UnitData_CHAR0025_Geppetto",
   "removeFromGame": 0,
@@ -725,21 +725,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 6291206524071798358
+    "m_PathID": 30504
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 4686704609700688208
+      "m_PathID": 29877
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": -3622111048171978602
+    "m_PathID": 29876
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 8118579847111740829
+    "m_PathID": 29875
   },
   "Gender": 1,
   "Age": 17

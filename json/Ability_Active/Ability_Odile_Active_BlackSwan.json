@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": -7118662915785212894
+    "m_PathID": 401
   },
   "m_Name": "Ability_Odile_Active_BlackSwan",
   "abilityID": "Ability_Odile_Active",
@@ -34,14 +34,14 @@
         {
           "status": {
             "m_FileID": 0,
-            "m_PathID": 7930041543093916456
+            "m_PathID": 30148
           },
           "chanceToApplyPercent": 100
         },
         {
           "status": {
             "m_FileID": 0,
-            "m_PathID": 7552087686963820869
+            "m_PathID": 30149
           },
           "chanceToApplyPercent": 100
         }
@@ -82,7 +82,7 @@
     "displayType": 0,
     "abilityIcon": {
       "m_FileID": 0,
-      "m_PathID": 4348932394679830088
+      "m_PathID": 675
     }
   },
   "abilityUpgradeCostElement": 0,
@@ -96,7 +96,7 @@
           "scaler": -0.05,
           "statusReference": {
             "m_FileID": 0,
-            "m_PathID": 7930041543093916456
+            "m_PathID": 30148
           },
           "valueType": 0,
           "modifiedStat": 13,

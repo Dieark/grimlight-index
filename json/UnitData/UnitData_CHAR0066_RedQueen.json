@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 390
   },
   "m_Name": "UnitData_CHAR0066_RedQueen",
   "removeFromGame": 0,
@@ -664,26 +664,6 @@
           "contentLevelModulus": 1,
           "accountLevelOffset": 0
         }
-      },
-      {
-        "objectReference": {
-          "objectType": 1,
-          "objectID": "MaterialItem_ClassMat_Assassin"
-        },
-        "itemCount": 1,
-        "dropOptionExtension": {
-          "applyExtensions": 1,
-          "individualDropPercent": 10,
-          "maxDrop": 1,
-          "minDrop": 1
-        },
-        "activateAllExtensions": 1,
-        "equipmentDataExtension": {
-          "levelSelector": 0,
-          "fixedLevel": 1,
-          "contentLevelModulus": 1,
-          "accountLevelOffset": 0
-        }
       }
     ]
   },
@@ -745,29 +725,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": -7762751475957881371
+    "m_PathID": 2617
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": -3992182468070939605
+      "m_PathID": 2258
     },
     {
       "m_FileID": 0,
-      "m_PathID": -8101185873408393667
+      "m_PathID": 2257
     },
     {
       "m_FileID": 0,
-      "m_PathID": 4976275653181390338
+      "m_PathID": 2259
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 424434824772056862
+    "m_PathID": 2256
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": -3794871944820106522
+    "m_PathID": 2255
   },
   "Gender": 0,
   "Age": -1

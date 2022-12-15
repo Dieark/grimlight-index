@@ -1,0 +1,272 @@
+
+Fullbody_NPC_RatSoldier.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lbicep
+  rotate: true
+  xy: 1320, 1128
+  size: 317, 276
+  orig: 317, 276
+  offset: 0, 0
+  index: -1
+Lcape
+  rotate: 270
+  xy: 1616, 1637
+  size: 412, 389
+  orig: 412, 389
+  offset: 0, 0
+  index: -1
+Lepaulette
+  rotate: false
+  xy: 584, 269
+  size: 228, 194
+  orig: 229, 194
+  offset: 1, 0
+  index: -1
+Lfingers
+  rotate: false
+  xy: 1596, 1096
+  size: 143, 176
+  orig: 143, 176
+  offset: 0, 0
+  index: -1
+Lforearm
+  rotate: true
+  xy: 1406, 643
+  size: 262, 642
+  orig: 262, 642
+  offset: 0, 0
+  index: -1
+Lhiparmor
+  rotate: true
+  xy: 1743, 385
+  size: 268, 305
+  orig: 268, 305
+  offset: 0, 0
+  index: -1
+Lhiparmor_back
+  rotate: false
+  xy: 1232, 2003
+  size: 54, 45
+  orig: 54, 46
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 899, 911
+  size: 357, 796
+  orig: 357, 796
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 1423, 1003
+  size: 520, 554
+  orig: 520, 554
+  offset: 0, 0
+  index: -1
+Rcape
+  rotate: false
+  xy: 1529, 320
+  size: 214, 323
+  orig: 214, 323
+  offset: 0, 0
+  index: -1
+Repaulette
+  rotate: false
+  xy: 539, 1001
+  size: 228, 200
+  orig: 234, 219
+  offset: 0, 19
+  index: -1
+Rhiparmor
+  rotate: false
+  xy: 1860, 1378
+  size: 178, 259
+  orig: 183, 259
+  offset: 0, 0
+  index: -1
+Rhiparmor_back
+  rotate: false
+  xy: 594, 2013
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 988, 1247
+  size: 332, 801
+  orig: 332, 801
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 252, 223
+  size: 348, 322
+  orig: 348, 322
+  offset: 0, 0
+  index: -1
+collar_back
+  rotate: false
+  xy: 765, 1109
+  size: 134, 109
+  orig: 134, 109
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 1038, 1790
+  size: 91, 120
+  orig: 91, 120
+  offset: 0, 0
+  index: -1
+head
+  rotate: 270
+  xy: 1049, 430
+  size: 323, 461
+  orig: 323, 461
+  offset: 0, 0
+  index: -1
+head_back
+  rotate: true
+  xy: 678, 298
+  size: 312, 384
+  orig: 312, 384
+  offset: 0, 0
+  index: -1
+head_smoke
+  rotate: false
+  xy: 1648, 839
+  size: 189, 125
+  orig: 202, 125
+  offset: 0, 0
+  index: -1
+head_smoke2
+  rotate: 270
+  xy: 1062, 207
+  size: 237, 381
+  orig: 289, 381
+  offset: 0, 0
+  index: -1
+head_strap
+  rotate: false
+  xy: 539, 1248
+  size: 51, 176
+  orig: 51, 176
+  offset: 0, 0
+  index: -1
+head_strapback
+  rotate: false
+  xy: 623, 2031
+  size: 29, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: false
+  xy: 1642, 1492
+  size: 213, 215
+  orig: 213, 215
+  offset: 0, 0
+  index: -1
+loincloth
+  rotate: false
+  xy: 1320, 1524
+  size: 322, 524
+  orig: 322, 524
+  offset: 0, 0
+  index: -1
+middle_belt
+  rotate: false
+  xy: 667, 608
+  size: 466, 232
+  orig: 466, 232
+  offset: 0, 0
+  index: -1
+rifle
+  rotate: false
+  xy: 0, 544
+  size: 539, 1504
+  orig: 539, 1526
+  offset: 0, 21
+  index: -1
+shirtcollar
+  rotate: false
+  xy: 1921, 934
+  size: 126, 293
+  orig: 126, 293
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 539, 461
+  size: 995, 535
+  orig: 1014, 535
+  offset: 19, 0
+  index: -1
+tail_smoke
+  rotate: false
+  xy: 1943, 1243
+  size: 88, 136
+  orig: 88, 136
+  offset: 0, 0
+  index: -1
+tail_smoke2
+  rotate: false
+  xy: 423, 331
+  size: 154, 215
+  orig: 154, 259
+  offset: 0, 8
+  index: -1
+tail_smoke3
+  rotate: false
+  xy: 539, 1951
+  size: 56, 97
+  orig: 56, 97
+  offset: 0, 0
+  index: -1
+tail_smoke4
+  rotate: false
+  xy: 1738, 1398
+  size: 106, 94
+  orig: 356, 292
+  offset: 250, 0
+  index: -1
+tassel
+  rotate: 180
+  xy: 1284, 246
+  size: 245, 190
+  orig: 245, 190
+  offset: 0, 0
+  index: -1
+tassel2
+  rotate: 180
+  xy: 36, 206
+  size: 261, 224
+  orig: 261, 224
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 539, 1188
+  size: 534, 861
+  orig: 534, 861
+  offset: 0, 0
+  index: -1
+torso_smoke
+  rotate: false
+  xy: 1865, 1866
+  size: 169, 183
+  orig: 643, 550
+  offset: 474, 0
+  index: -1
+visor
+  rotate: false
+  xy: 0, 323
+  size: 252, 221
+  orig: 253, 233
+  offset: 0, 12
+  index: -1

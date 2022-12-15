@@ -1,0 +1,538 @@
+
+Fullbody_NPC_HavenFemale.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larminside
+  rotate: true
+  xy: 1650, 1354
+  size: 186, 301
+  orig: 186, 301
+  offset: 0, 0
+  index: -1
+Lbottomeyelid
+  rotate: false
+  xy: 1704, 1196
+  size: 63, 35
+  orig: 63, 35
+  offset: 0, 0
+  index: -1
+Lbraidchunk1
+  rotate: false
+  xy: 1862, 101
+  size: 50, 79
+  orig: 50, 79
+  offset: 0, 0
+  index: -1
+Lbraidchunk2
+  rotate: true
+  xy: 1775, 876
+  size: 81, 68
+  orig: 81, 68
+  offset: 0, 0
+  index: -1
+Lbraidstrand1
+  rotate: false
+  xy: 1943, 385
+  size: 45, 107
+  orig: 45, 107
+  offset: 0, 0
+  index: -1
+Lbraidstrand2
+  rotate: false
+  xy: 1609, 1367
+  size: 41, 62
+  orig: 41, 62
+  offset: 0, 0
+  index: -1
+Lbraidstrand3
+  rotate: true
+  xy: 1633, 2
+  size: 76, 104
+  orig: 76, 104
+  offset: 0, 0
+  index: -1
+Lear
+  rotate: false
+  xy: 1777, 351
+  size: 120, 155
+  orig: 120, 155
+  offset: 0, 0
+  index: -1
+Lear2
+  rotate: true
+  xy: 1951, 1402
+  size: 147, 77
+  orig: 147, 77
+  offset: 0, 0
+  index: -1
+Leyebrow
+  rotate: false
+  xy: 1787, 706
+  size: 84, 14
+  orig: 84, 14
+  offset: 0, 0
+  index: -1
+Leyelid
+  rotate: false
+  xy: 1808, 77
+  size: 47, 20
+  orig: 47, 20
+  offset: 0, 0
+  index: -1
+Leyespark
+  rotate: false
+  xy: 1777, 344
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+Leyewhite
+  rotate: true
+  xy: 1077, 577
+  size: 60, 31
+  orig: 60, 31
+  offset: 0, 0
+  index: -1
+Lfingers
+  rotate: true
+  xy: 1787, 720
+  size: 103, 243
+  orig: 103, 243
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 934, 637
+  size: 174, 506
+  orig: 174, 506
+  offset: 0, 0
+  index: -1
+Lmainbraid
+  rotate: true
+  xy: 1484, 502
+  size: 195, 270
+  orig: 195, 270
+  offset: 0, 0
+  index: -1
+Lpalmbottom
+  rotate: false
+  xy: 1808, 97
+  size: 54, 83
+  orig: 54, 83
+  offset: 0, 0
+  index: -1
+Lpupil
+  rotate: false
+  xy: 1896, 277
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+Lsleeveinside
+  rotate: true
+  xy: 1622, 322
+  size: 180, 155
+  orig: 180, 155
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: true
+  xy: 1609, 1193
+  size: 38, 95
+  orig: 38, 95
+  offset: 0, 0
+  index: -1
+Ltoparmsleeve
+  rotate: true
+  xy: 1047, 1193
+  size: 236, 562
+  orig: 236, 562
+  offset: 0, 0
+  index: -1
+Ltopeyelid
+  rotate: true
+  xy: 2012, 506
+  size: 85, 25
+  orig: 85, 25
+  offset: 0, 0
+  index: -1
+Ltopeyelidskin
+  rotate: true
+  xy: 2028, 1470
+  size: 79, 20
+  orig: 79, 20
+  offset: 0, 0
+  index: -1
+Rbottomeyelid
+  rotate: true
+  xy: 1077, 528
+  size: 49, 28
+  orig: 49, 28
+  offset: 0, 0
+  index: -1
+Rbraidchunk1
+  rotate: false
+  xy: 1756, 77
+  size: 52, 88
+  orig: 52, 88
+  offset: 0, 0
+  index: -1
+Rbraidchunk2
+  rotate: false
+  xy: 1737, 3
+  size: 66, 74
+  orig: 66, 74
+  offset: 0, 0
+  index: -1
+Rbraidstrand1
+  rotate: true
+  xy: 1839, 180
+  size: 34, 81
+  orig: 34, 81
+  offset: 0, 0
+  index: -1
+Rbraidstrand2
+  rotate: false
+  xy: 1988, 405
+  size: 26, 87
+  orig: 26, 87
+  offset: 0, 0
+  index: -1
+Rbraidstrand3
+  rotate: true
+  xy: 1047, 1153
+  size: 40, 57
+  orig: 40, 57
+  offset: 0, 0
+  index: -1
+Rear
+  rotate: false
+  xy: 1475, 0
+  size: 158, 78
+  orig: 158, 78
+  offset: 0, 0
+  index: -1
+Reyebrow
+  rotate: false
+  xy: 1609, 1354
+  size: 37, 13
+  orig: 37, 13
+  offset: 0, 0
+  index: -1
+Reyelid
+  rotate: true
+  xy: 1896, 232
+  size: 45, 21
+  orig: 45, 21
+  offset: 0, 0
+  index: -1
+Reyespark
+  rotate: false
+  xy: 2028, 1402
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+Reyewhite
+  rotate: false
+  xy: 1031, 192
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 1934, 1549
+  size: 163, 103
+  orig: 163, 103
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 1108, 520
+  size: 279, 376
+  orig: 279, 376
+  offset: 0, 0
+  index: -1
+Rlowerarm
+  rotate: true
+  xy: 1609, 1231
+  size: 123, 245
+  orig: 123, 245
+  offset: 0, 0
+  index: -1
+Rlowersleeveback
+  rotate: true
+  xy: 1428, 183
+  size: 142, 163
+  orig: 142, 163
+  offset: 0, 0
+  index: -1
+Rlowersleevefront
+  rotate: true
+  xy: 1496, 697
+  size: 178, 291
+  orig: 178, 291
+  offset: 0, 0
+  index: -1
+Rmainbraid
+  rotate: true
+  xy: 1591, 165
+  size: 157, 196
+  orig: 157, 196
+  offset: 0, 0
+  index: -1
+Rmainbraidstrand1
+  rotate: true
+  xy: 1951, 1357
+  size: 45, 86
+  orig: 45, 86
+  offset: 0, 0
+  index: -1
+Rpupil
+  rotate: true
+  xy: 1787, 823
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+Rtopeyelid
+  rotate: true
+  xy: 2028, 1409
+  size: 61, 20
+  orig: 61, 20
+  offset: 0, 0
+  index: -1
+Rtopeyelidskin
+  rotate: false
+  xy: 1787, 855
+  size: 51, 21
+  orig: 51, 21
+  offset: 0, 0
+  index: -1
+Rupperarm
+  rotate: false
+  xy: 905, 222
+  size: 172, 415
+  orig: 172, 415
+  offset: 0, 0
+  index: -1
+angry
+  rotate: false
+  xy: 1087, 2
+  size: 194, 177
+  orig: 194, 177
+  offset: 0, 0
+  index: -1
+annoy
+  rotate: false
+  xy: 1854, 1177
+  size: 194, 177
+  orig: 194, 177
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: true
+  xy: 1912, 109
+  size: 71, 52
+  orig: 71, 52
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: false
+  xy: 1897, 307
+  size: 51, 65
+  orig: 51, 65
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: true
+  xy: 917, 0
+  size: 179, 170
+  orig: 179, 170
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: true
+  xy: 905, 190
+  size: 32, 126
+  orig: 32, 126
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: false
+  xy: 1897, 372
+  size: 46, 120
+  orig: 46, 120
+  offset: 0, 0
+  index: -1
+bangs6
+  rotate: false
+  xy: 1839, 214
+  size: 57, 137
+  orig: 57, 137
+  offset: 0, 0
+  index: -1
+bangs7
+  rotate: false
+  xy: 1787, 180
+  size: 52, 171
+  orig: 52, 171
+  offset: 0, 0
+  index: -1
+bangs8
+  rotate: false
+  xy: 1905, 492
+  size: 107, 99
+  orig: 107, 99
+  offset: 0, 0
+  index: -1
+basketbottom
+  rotate: true
+  xy: 1905, 591
+  size: 129, 121
+  orig: 129, 121
+  offset: 0, 0
+  index: -1
+baskettop
+  rotate: false
+  xy: 1650, 1540
+  size: 284, 508
+  orig: 284, 508
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 1475, 78
+  size: 281, 87
+  orig: 281, 87
+  offset: 0, 0
+  index: -1
+belt1
+  rotate: true
+  xy: 593, 6
+  size: 182, 324
+  orig: 182, 324
+  offset: 0, 0
+  index: -1
+belt2
+  rotate: false
+  xy: 1775, 957
+  size: 76, 274
+  orig: 76, 274
+  offset: 0, 0
+  index: -1
+beltknot
+  rotate: false
+  xy: 1803, 7
+  size: 55, 70
+  orig: 55, 70
+  offset: 0, 0
+  index: -1
+hairback
+  rotate: false
+  xy: 1077, 179
+  size: 351, 341
+  orig: 351, 341
+  offset: 0, 0
+  index: -1
+happy
+  rotate: false
+  xy: 1281, 2
+  size: 194, 177
+  orig: 194, 177
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1496, 875
+  size: 279, 318
+  orig: 279, 318
+  offset: 0, 0
+  index: -1
+headscarffront
+  rotate: true
+  xy: 593, 653
+  size: 490, 341
+  orig: 490, 341
+  offset: 0, 0
+  index: -1
+headscarfinside
+  rotate: true
+  xy: 593, 188
+  size: 465, 312
+  orig: 465, 312
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 1428, 502
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 1754, 506
+  size: 151, 191
+  orig: 151, 191
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 1428, 325
+  size: 194, 177
+  orig: 194, 177
+  offset: 0, 0
+  index: -1
+shy
+  rotate: false
+  xy: 1851, 1000
+  size: 194, 177
+  orig: 194, 177
+  offset: 0, 0
+  index: -1
+skirtbottom
+  rotate: false
+  xy: 0, 1143
+  size: 1047, 905
+  orig: 1047, 905
+  offset: 0, 0
+  index: -1
+skirttop
+  rotate: false
+  xy: 1047, 1429
+  size: 603, 619
+  orig: 603, 619
+  offset: 0, 0
+  index: -1
+skirttrim
+  rotate: true
+  xy: 0, 9
+  size: 1134, 593
+  orig: 1134, 593
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: false
+  xy: 1851, 823
+  size: 194, 177
+  orig: 194, 177
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 1108, 799
+  size: 388, 394
+  orig: 388, 394
+  offset: 0, 0
+  index: -1
+torsoback
+  rotate: false
+  xy: 1934, 1712
+  size: 104, 336
+  orig: 104, 336
+  offset: 0, 0
+  index: -1

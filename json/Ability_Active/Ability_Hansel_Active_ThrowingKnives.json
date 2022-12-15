@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": -7118662915785212894
+    "m_PathID": 374
   },
   "m_Name": "Ability_Hansel_Active_ThrowingKnives",
   "abilityID": "Ability_Hansel_Active",
@@ -67,7 +67,7 @@
     "displayType": 0,
     "abilityIcon": {
       "m_FileID": 0,
-      "m_PathID": -7472642718386913740
+      "m_PathID": 600
     }
   },
   "abilityUpgradeCostElement": 0,

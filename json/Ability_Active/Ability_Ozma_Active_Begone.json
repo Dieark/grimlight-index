@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": -7118662915785212894
+    "m_PathID": 374
   },
   "m_Name": "Ability_Ozma_Active_Begone",
   "abilityID": "Ability_Ozma_Active",
@@ -34,7 +34,7 @@
         {
           "status": {
             "m_FileID": 0,
-            "m_PathID": 4132443235337514055
+            "m_PathID": 2497
           },
           "chanceToApplyPercent": 100
         }
@@ -75,7 +75,7 @@
     "displayType": 1,
     "abilityIcon": {
       "m_FileID": 0,
-      "m_PathID": 424338646293366195
+      "m_PathID": 596
     }
   },
   "abilityUpgradeCostElement": 0,

@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": -7118662915785212894
+    "m_PathID": 374
   },
   "m_Name": "Ability_Ginger_Active_JustDesserts",
   "abilityID": "Ability_Ginger_Active",
@@ -78,7 +78,7 @@
         {
           "status": {
             "m_FileID": 0,
-            "m_PathID": -7580954183914558848
+            "m_PathID": 2498
           },
           "chanceToApplyPercent": 100
         }
@@ -119,7 +119,7 @@
     "displayType": 0,
     "abilityIcon": {
       "m_FileID": 0,
-      "m_PathID": 1577809304358777802
+      "m_PathID": 636
     }
   },
   "abilityUpgradeCostElement": 0,

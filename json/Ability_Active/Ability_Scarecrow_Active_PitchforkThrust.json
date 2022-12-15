@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": -7118662915785212894
+    "m_PathID": 374
   },
   "m_Name": "Ability_Scarecrow_Active_PitchforkThrust",
   "abilityID": "Ability_Scarecrow_Active",
@@ -34,7 +34,7 @@
         {
           "status": {
             "m_FileID": 0,
-            "m_PathID": -4452489384885200190
+            "m_PathID": 2444
           },
           "chanceToApplyPercent": 100
         }
@@ -163,7 +163,7 @@
     "displayType": 0,
     "abilityIcon": {
       "m_FileID": 0,
-      "m_PathID": 4548799346574193813
+      "m_PathID": 693
     }
   },
   "abilityUpgradeCostElement": 0,

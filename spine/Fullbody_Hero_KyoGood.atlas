@@ -1,0 +1,412 @@
+
+Fullbody_Hero_KyoGood.png
+size: 1368,1368
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 959, 214
+  size: 163, 142
+  orig: 163, 142
+  offset: 0, 0
+  index: -1
+Lcoat
+  rotate: false
+  xy: 0, 522
+  size: 358, 846
+  orig: 358, 846
+  offset: 0, 0
+  index: -1
+Lcollar
+  rotate: false
+  xy: 1122, 14
+  size: 70, 58
+  orig: 70, 58
+  offset: 0, 0
+  index: -1
+Leyebrow
+  rotate: false
+  xy: 137, 3
+  size: 38, 11
+  orig: 38, 11
+  offset: 0, 0
+  index: -1
+Leyelashbottom
+  rotate: false
+  xy: 1047, 356
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: -1
+Leyelashtop
+  rotate: false
+  xy: 1319, 1161
+  size: 41, 19
+  orig: 41, 19
+  offset: 0, 0
+  index: -1
+Leyelid
+  rotate: false
+  xy: 784, 13
+  size: 40, 18
+  orig: 40, 18
+  offset: 0, 0
+  index: -1
+Leyespark
+  rotate: false
+  xy: 471, 108
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+Leyewhite
+  rotate: false
+  xy: 1300, 44
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+Lhip
+  rotate: false
+  xy: 137, 14
+  size: 136, 508
+  orig: 136, 508
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 0, 1
+  size: 137, 521
+  orig: 137, 521
+  offset: 0, 0
+  index: -1
+Llegfold
+  rotate: true
+  xy: 937, 219
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Lpupil
+  rotate: false
+  xy: 334, 504
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+Lshoe
+  rotate: true
+  xy: 273, 4
+  size: 104, 221
+  orig: 104, 221
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 471, 225
+  size: 131, 276
+  orig: 131, 276
+  offset: 0, 0
+  index: -1
+Lundersleeve
+  rotate: false
+  xy: 1319, 1299
+  size: 49, 69
+  orig: 49, 69
+  offset: 0, 0
+  index: -1
+Lwrist
+  rotate: false
+  xy: 1192, 13
+  size: 67, 59
+  orig: 67, 59
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 1123, 72
+  size: 136, 146
+  orig: 136, 146
+  offset: 0, 0
+  index: -1
+Reyebrow
+  rotate: false
+  xy: 1047, 368
+  size: 48, 15
+  orig: 48, 15
+  offset: 0, 0
+  index: -1
+Reyelashbottom
+  rotate: false
+  xy: 1319, 1144
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+Reyelashtop
+  rotate: true
+  xy: 1352, 134
+  size: 41, 15
+  orig: 41, 15
+  offset: 0, 0
+  index: -1
+Reyelid
+  rotate: false
+  xy: 1259, 44
+  size: 41, 18
+  orig: 41, 18
+  offset: 0, 0
+  index: -1
+Reyespark
+  rotate: false
+  xy: 937, 214
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+Reyewhite
+  rotate: false
+  xy: 1259, 25
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+Rhip
+  rotate: true
+  xy: 273, 356
+  size: 136, 774
+  orig: 136, 774
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 834, 44
+  size: 84, 91
+  orig: 84, 91
+  offset: 0, 0
+  index: -1
+Rpupil
+  rotate: false
+  xy: 1202, 388
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+Rshoe
+  rotate: true
+  xy: 471, 112
+  size: 113, 221
+  orig: 113, 221
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 672, 492
+  size: 140, 346
+  orig: 140, 346
+  offset: 0, 0
+  index: -1
+Rsleeveback
+  rotate: false
+  xy: 692, 135
+  size: 52, 59
+  orig: 52, 59
+  offset: 0, 0
+  index: -1
+Rwrist
+  rotate: true
+  xy: 1045, 18
+  size: 81, 77
+  orig: 81, 77
+  offset: 0, 0
+  index: -1
+angry
+  rotate: false
+  xy: 747, 128
+  size: 190, 114
+  orig: 190, 114
+  offset: 0, 0
+  index: -1
+annoy
+  rotate: true
+  xy: 494, 0
+  size: 112, 100
+  orig: 112, 100
+  offset: 0, 0
+  index: -1
+backcape1
+  rotate: false
+  xy: 672, 632
+  size: 355, 736
+  orig: 355, 736
+  offset: 0, 0
+  index: -1
+backcape2
+  rotate: false
+  xy: 358, 541
+  size: 314, 827
+  orig: 314, 827
+  offset: 0, 0
+  index: -1
+backcollar
+  rotate: false
+  xy: 925, 30
+  size: 120, 69
+  orig: 120, 69
+  offset: 0, 0
+  index: -1
+backhair1
+  rotate: true
+  xy: 784, 31
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+backhair2
+  rotate: true
+  xy: 689, 5
+  size: 58, 95
+  orig: 58, 95
+  offset: 0, 0
+  index: -1
+backhair3
+  rotate: true
+  xy: 692, 63
+  size: 65, 142
+  orig: 65, 142
+  offset: 0, 0
+  index: -1
+backhair4
+  rotate: true
+  xy: 692, 128
+  size: 7, 31
+  orig: 7, 31
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: true
+  xy: 937, 99
+  size: 115, 186
+  orig: 115, 186
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: false
+  xy: 1122, 218
+  size: 104, 165
+  orig: 104, 165
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: false
+  xy: 1226, 248
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+chest
+  rotate: false
+  xy: 273, 108
+  size: 198, 248
+  orig: 198, 248
+  offset: 0, 0
+  index: -1
+coatflap1
+  rotate: false
+  xy: 1027, 643
+  size: 292, 725
+  orig: 292, 725
+  offset: 0, 0
+  index: -1
+embarass
+  rotate: false
+  xy: 1200, 547
+  size: 117, 96
+  orig: 117, 96
+  offset: 0, 0
+  index: -1
+happy
+  rotate: true
+  xy: 1259, 62
+  size: 113, 93
+  orig: 113, 93
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 1047, 383
+  size: 158, 155
+  orig: 158, 155
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 692, 194
+  size: 55, 31
+  orig: 55, 31
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 1202, 407
+  size: 125, 140
+  orig: 125, 140
+  offset: 0, 0
+  index: -1
+sad
+  rotate: true
+  xy: 594, 3
+  size: 109, 95
+  orig: 109, 95
+  offset: 0, 0
+  index: -1
+scarf1
+  rotate: false
+  xy: 1027, 541
+  size: 173, 102
+  orig: 173, 102
+  offset: 0, 0
+  index: -1
+scarf2
+  rotate: true
+  xy: 747, 242
+  size: 114, 212
+  orig: 114, 212
+  offset: 0, 0
+  index: -1
+scarf2x
+  rotate: true
+  xy: 1319, 1180
+  size: 119, 46
+  orig: 119, 46
+  offset: 0, 0
+  index: -1
+scarfshadow1
+  rotate: false
+  xy: 273, 499
+  size: 61, 23
+  orig: 61, 23
+  offset: 0, 0
+  index: -1
+scarfshadow2
+  rotate: false
+  xy: 358, 526
+  size: 104, 15
+  orig: 104, 15
+  offset: 0, 0
+  index: -1
+scarfshadow3
+  rotate: false
+  xy: 1226, 267
+  size: 119, 140
+  orig: 119, 140
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: false
+  xy: 1259, 175
+  size: 109, 92
+  orig: 109, 92
+  offset: 0, 0
+  index: -1

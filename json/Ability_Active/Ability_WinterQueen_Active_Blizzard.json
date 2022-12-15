@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": -7118662915785212894
+    "m_PathID": 401
   },
   "m_Name": "Ability_WinterQueen_Active_Blizzard",
   "abilityID": "Ability_WinterQueen_Active",
@@ -76,14 +76,14 @@
       "StatusRequied": [
         {
           "m_FileID": 0,
-          "m_PathID": 4271279085587980841
+          "m_PathID": 30071
         }
       ],
       "StatusOnHit": [
         {
           "status": {
             "m_FileID": 0,
-            "m_PathID": 5090225525033865578
+            "m_PathID": 30209
           },
           "chanceToApplyPercent": 100
         }
@@ -124,7 +124,7 @@
     "displayType": 0,
     "abilityIcon": {
       "m_FileID": 0,
-      "m_PathID": -7330072082638786968
+      "m_PathID": 555
     }
   },
   "abilityUpgradeCostElement": 0,

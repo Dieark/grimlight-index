@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": -7118662915785212894
+    "m_PathID": 401
   },
   "m_Name": "Ability_WhiteQueen_Active_QueensBlessing",
   "abilityID": "Ability_WhiteQueen_Active",
@@ -34,7 +34,7 @@
         {
           "status": {
             "m_FileID": 0,
-            "m_PathID": 8917672594804447731
+            "m_PathID": 30204
           },
           "chanceToApplyPercent": 100
         }
@@ -75,7 +75,7 @@
     "displayType": 0,
     "abilityIcon": {
       "m_FileID": 0,
-      "m_PathID": -2275924805017919413
+      "m_PathID": 744
     }
   },
   "abilityUpgradeCostElement": 0,
@@ -103,7 +103,7 @@
           "scaler": 0.0,
           "statusReference": {
             "m_FileID": 0,
-            "m_PathID": 8917672594804447731
+            "m_PathID": 30204
           },
           "valueType": 0,
           "modifiedStat": 5,
