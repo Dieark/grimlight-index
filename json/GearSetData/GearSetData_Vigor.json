@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3440693784601475740
+  },
+  "m_Name": "GearSetData_Vigor",
+  "setID": "Vigor",
+  "oneSetEffect": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "twoSetEffect": {
+    "m_FileID": 0,
+    "m_PathID": 6218092585720128349
+  },
+  "threeSetEffect": {
+    "m_FileID": 0,
+    "m_PathID": 3785218728500574174
+  }
+}

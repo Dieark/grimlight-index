@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 841936780840680214
+  },
+  "m_Name": "SetEffect_Adept3",
+  "statModifiers": [
+    {
+      "statID": "energyUpPercent",
+      "value": 15.0
+    }
+  ]
+}

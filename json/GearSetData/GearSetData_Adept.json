@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3440693784601475740
+  },
+  "m_Name": "GearSetData_Adept",
+  "setID": "Adept",
+  "oneSetEffect": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "twoSetEffect": {
+    "m_FileID": 0,
+    "m_PathID": 1990030473847386140
+  },
+  "threeSetEffect": {
+    "m_FileID": 0,
+    "m_PathID": -4204039159956491782
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3440693784601475740
+  },
+  "m_Name": "GearSetData_Vampiric",
+  "setID": "Vampiric",
+  "oneSetEffect": {
+    "m_FileID": 0,
+    "m_PathID": -2194315335874575271
+  },
+  "twoSetEffect": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "threeSetEffect": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}
