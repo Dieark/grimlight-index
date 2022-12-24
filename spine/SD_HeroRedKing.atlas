@@ -4,214 +4,214 @@ size: 512,512
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
+Lhat2
+  rotate: true
+  xy: 139, 9
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 2, 5
+  size: 27, 78
+  orig: 27, 78
+  offset: 0, 0
+  index: -1
 Lthumb
   rotate: false
-  xy: 395, 190
+  xy: 421, 137
   size: 11, 14
   orig: 11, 14
   offset: 0, 0
   index: -1
-Rfingers
+Rear
   rotate: false
-  xy: 441, 3
-  size: 22, 22
-  orig: 22, 22
+  xy: 178, 7
+  size: 20, 25
+  orig: 20, 25
   offset: 0, 0
   index: -1
 Rhat
-  rotate: false
-  xy: 401, 24
+  rotate: true
+  xy: 407, 35
   size: 64, 81
   orig: 64, 81
   offset: 0, 0
   index: -1
-Rshoulder
+Rleg
   rotate: true
-  xy: 164, 10
-  size: 33, 31
-  orig: 33, 31
+  xy: 296, 10
+  size: 28, 78
+  orig: 28, 78
   offset: 0, 0
   index: -1
 accessorystring1
   rotate: false
-  xy: 419, 244
+  xy: 401, 251
   size: 6, 19
   orig: 6, 19
   offset: 0, 0
   index: -1
 accessorystring2
   rotate: false
-  xy: 497, 295
+  xy: 421, 117
   size: 6, 19
   orig: 6, 19
   offset: 0, 0
   index: -1
 bangs1
   rotate: true
-  xy: 0, 8
+  xy: 201, 4
   size: 34, 94
   orig: 34, 94
   offset: 0, 0
   index: -1
 bangs10
-  rotate: true
-  xy: 386, 9
+  rotate: false
+  xy: 489, 43
   size: 16, 56
   orig: 16, 56
   offset: 0, 0
   index: -1
+bangs5
+  rotate: false
+  xy: 401, 199
+  size: 29, 92
+  orig: 29, 92
+  offset: 0, 0
+  index: -1
 bangs6
-  rotate: 180
-  xy: 399, 181
+  rotate: true
+  xy: 395, 8
   size: 29, 114
   orig: 29, 114
   offset: 0, 0
   index: -1
 bangs7
   rotate: false
-  xy: 415, 127
+  xy: 421, 153
   size: 12, 54
   orig: 12, 54
   offset: 0, 0
   index: -1
 earring
-  rotate: false
-  xy: 497, 278
+  rotate: true
+  xy: 407, 101
   size: 6, 17
   orig: 6, 17
   offset: 0, 0
   index: -1
-eyehurt
-  rotate: false
-  xy: 93, 6
-  size: 71, 37
-  orig: 71, 37
-  offset: 0, 0
-  index: -1
-eyesopen
-  rotate: true
-  xy: 464, 12
-  size: 78, 47
-  orig: 78, 47
-  offset: 0, 0
-  index: -1
 mainsword
   rotate: true
-  xy: 429, 313
+  xy: 435, 311
   size: 199, 75
   orig: 199, 75
   offset: 0, 0
   index: -1
 medallion
   rotate: false
-  xy: 395, 284
+  xy: 401, 186
   size: 11, 12
   orig: 11, 12
   offset: 0, 0
   index: -1
 mouthgrit
   rotate: false
-  xy: 188, 297
+  xy: 84, 27
   size: 12, 6
   orig: 12, 6
   offset: 0, 0
   index: -1
 mouthidle
   rotate: false
-  xy: 200, 299
+  xy: 192, 295
   size: 9, 4
   orig: 9, 4
   offset: 0, 0
   index: -1
-mouthshocked
-  rotate: true
-  xy: 419, 264
-  size: 9, 9
-  orig: 9, 9
-  offset: 0, 0
-  index: -1
 mouthshout
   rotate: false
-  xy: 464, 91
+  xy: 376, 25
   size: 16, 14
   orig: 16, 14
   offset: 0, 0
   index: -1
 slash3
   rotate: true
-  xy: 0, 117
+  xy: 2, 113
   size: 185, 188
   orig: 190, 193
   offset: 2, 3
   index: -1
 slash4
   rotate: false
-  xy: 244, 295
+  xy: 248, 293
   size: 185, 217
   orig: 190, 220
   offset: 2, 1
   index: -1
 slash5
   rotate: false
-  xy: 0, 302
+  xy: 2, 300
   size: 244, 210
   orig: 248, 213
   offset: 1, 2
   index: -1
 sword1a
   rotate: false
-  xy: 188, 188
+  xy: 192, 184
   size: 207, 107
   orig: 217, 139
   offset: 5, 16
   index: -1
-sword1c
-  rotate: false
-  xy: 197, 1
-  size: 189, 47
-  orig: 196, 51
-  offset: 3, 2
-  index: -1
 sword2a
   rotate: false
-  xy: 188, 114
+  xy: 192, 108
   size: 227, 74
   orig: 239, 83
   offset: 9, 4
   index: -1
 sword2c
   rotate: false
-  xy: 197, 48
+  xy: 201, 40
   size: 204, 66
   orig: 215, 78
   offset: 6, 6
   index: -1
 sword3a
   rotate: false
-  xy: 0, 42
+  xy: 2, 34
   size: 197, 72
   orig: 210, 83
   offset: 9, 4
   index: -1
 sword4a
   rotate: true
-  xy: 429, 104
+  xy: 435, 100
   size: 209, 68
   orig: 222, 82
   offset: 9, 7
   index: -1
 swordrag1
-  rotate: true
-  xy: 417, 220
+  rotate: false
+  xy: 376, 8
   size: 25, 9
   orig: 25, 9
   offset: 0, 0
   index: -1
 swordrag2
   rotate: false
-  xy: 401, 103
+  xy: 490, 10
   size: 20, 11
   orig: 20, 11
+  offset: 0, 0
+  index: -1
+topbangs
+  rotate: false
+  xy: 82, 8
+  size: 56, 25
+  orig: 56, 25
   offset: 0, 0
   index: -1
 
@@ -221,303 +221,303 @@ format: RGBA8888
 filter: Linear,Linear
 repeat: none
 Body
-  rotate: true
-  xy: 78, 105
+  rotate: 270
+  xy: 145, 37
   size: 53, 80
   orig: 53, 80
   offset: 0, 0
   index: -1
 Head
   rotate: false
-  xy: 401, 343
+  xy: 349, 402
   size: 106, 109
   orig: 106, 109
   offset: 0, 0
   index: -1
 Larm
-  rotate: true
-  xy: 263, 57
+  rotate: false
+  xy: 405, 172
   size: 21, 36
   orig: 21, 36
   offset: 0, 0
   index: -1
 Layer 2
-  rotate: false
-  xy: 468, 94
+  rotate: true
+  xy: 82, 149
   size: 44, 82
   orig: 44, 82
   offset: 0, 0
   index: -1
 Lcloak
   rotate: true
-  xy: 145, 97
+  xy: 272, 38
   size: 49, 77
   orig: 49, 77
   offset: 0, 0
   index: -1
 Lcloakflap
   rotate: 270
-  xy: 113, 55
+  xy: 129, 3
   size: 44, 96
   orig: 44, 96
   offset: 0, 0
   index: -1
 Lfingers
   rotate: false
-  xy: 490, 231
+  xy: 47, 33
   size: 19, 18
   orig: 19, 18
   offset: 0, 0
   index: -1
 Lhand
-  rotate: true
-  xy: 228, 52
+  rotate: false
+  xy: 99, 10
   size: 25, 34
   orig: 25, 34
   offset: 0, 0
   index: -1
 Lhat1
   rotate: false
-  xy: 494, 453
+  xy: 200, 319
   size: 18, 24
   orig: 18, 24
   offset: 0, 0
   index: -1
-Lhat2
-  rotate: true
-  xy: 192, 56
-  size: 24, 37
-  orig: 24, 37
-  offset: 0, 0
-  index: -1
-Lleg
-  rotate: true
-  xy: 78, 73
-  size: 27, 78
-  orig: 27, 78
-  offset: 0, 0
-  index: -1
 Rarm
   rotate: false
-  xy: 447, 108
+  xy: 349, 321
   size: 21, 39
   orig: 21, 39
   offset: 0, 0
   index: -1
 Rarmplate
-  rotate: true
-  xy: 328, 52
+  rotate: false
+  xy: 349, 363
   size: 22, 38
   orig: 22, 38
   offset: 0, 0
   index: -1
 Rcloak
   rotate: 270
-  xy: 353, 74
+  xy: 344, 10
   size: 49, 77
   orig: 49, 77
   offset: 0, 0
   index: -1
 Rcloakflap
   rotate: true
-  xy: 401, 73
+  xy: 2, 8
   size: 43, 96
   orig: 43, 96
   offset: 0, 0
   index: -1
-Rear
+Rfingers
   rotate: false
-  xy: 0, 59
-  size: 20, 25
-  orig: 20, 25
+  xy: 300, 123
+  size: 22, 22
+  orig: 22, 22
   offset: 0, 0
   index: -1
 Rhand
-  rotate: true
-  xy: 367, 49
+  rotate: false
+  xy: 272, 116
   size: 27, 28
   orig: 27, 28
   offset: 0, 0
   index: -1
-Rleg
-  rotate: true
-  xy: 0, 84
-  size: 28, 78
-  orig: 28, 78
+Rshoulder
+  rotate: false
+  xy: 457, 407
+  size: 33, 31
+  orig: 33, 31
   offset: 0, 0
   index: -1
 backhair1
-  rotate: true
-  xy: 300, 75
+  rotate: false
+  xy: 464, 67
   size: 30, 67
   orig: 30, 67
   offset: 0, 0
   index: -1
 backhair2
   rotate: false
-  xy: 494, 476
+  xy: 200, 344
   size: 16, 36
   orig: 16, 36
   offset: 0, 0
   index: -1
 bangs2
-  rotate: true
-  xy: 374, 211
+  rotate: false
+  xy: 227, 14
   size: 38, 72
   orig: 38, 72
   offset: 0, 0
   index: -1
 bangs3
   rotate: true
-  xy: 193, 146
+  xy: 269, 66
   size: 55, 113
   orig: 55, 113
   offset: 0, 0
   index: -1
-bangs5
-  rotate: true
-  xy: 208, 77
-  size: 29, 92
-  orig: 29, 92
-  offset: 0, 0
-  index: -1
 bangs8
-  rotate: true
-  xy: 353, 113
+  rotate: 180
+  xy: 369, 164
   size: 81, 94
   orig: 111, 109
   offset: 30, 15
   index: -1
 bangs9
   rotate: false
-  xy: 422, 455
+  xy: 198, 87
   size: 72, 58
   orig: 72, 58
   offset: 0, 0
   index: -1
 bottomhair
   rotate: false
-  xy: 373, 144
+  xy: 360, 104
   size: 122, 105
   orig: 134, 105
   offset: 0, 0
   index: -1
+eyehurt
+  rotate: true
+  xy: 457, 440
+  size: 71, 37
+  orig: 71, 37
+  offset: 0, 0
+  index: -1
 eyesclosed
   rotate: false
-  xy: 0, 112
+  xy: 2, 147
   size: 79, 45
   orig: 79, 45
   offset: 0, 0
   index: -1
 eyesmid
-  rotate: true
-  xy: 306, 123
+  rotate: false
+  xy: 2, 53
   size: 77, 47
   orig: 77, 47
   offset: 0, 0
   index: -1
+eyesopen
+  rotate: false
+  xy: 384, 56
+  size: 78, 47
+  orig: 78, 47
+  offset: 0, 0
+  index: -1
 eyshocked
   rotate: false
-  xy: 228, 106
+  xy: 81, 46
   size: 62, 54
   orig: 62, 54
   offset: 0, 0
   index: -1
+mouthshocked
+  rotate: false
+  xy: 209, 502
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
 shirtaccessory
   rotate: false
-  xy: 487, 52
+  xy: 419, 211
   size: 25, 23
   orig: 25, 23
   offset: 0, 0
   index: -1
 slash1
-  rotate: false
-  xy: 369, 249
+  rotate: true
+  xy: 375, 268
   size: 132, 76
   orig: 136, 80
   offset: 2, 2
   index: -1
 slash2
   rotate: false
-  xy: 205, 451
+  xy: 2, 382
   size: 217, 61
   orig: 221, 64
   offset: 2, 2
   index: -1
 sword1
   rotate: false
-  xy: 0, 157
+  xy: 2, 101
   size: 194, 43
   orig: 196, 45
   offset: 1, 1
   index: -1
 sword1b
   rotate: false
-  xy: 0, 217
+  xy: 177, 197
   size: 192, 49
   orig: 198, 53
   offset: 3, 2
   index: -1
+sword1c
+  rotate: true
+  xy: 453, 211
+  size: 189, 47
+  orig: 196, 51
+  offset: 3, 2
+  index: -1
 sword2
-  rotate: false
-  xy: 0, 383
+  rotate: true
+  xy: 221, 313
   size: 197, 64
   orig: 197, 64
   offset: 0, 0
   index: -1
 sword2b
   rotate: false
-  xy: 205, 385
+  xy: 2, 314
   size: 196, 66
   orig: 205, 76
   offset: 5, 5
   index: -1
 sword3
   rotate: false
-  xy: 0, 267
+  xy: 2, 194
   size: 173, 55
   orig: 174, 57
   offset: 1, 1
   index: -1
 sword3b
   rotate: false
-  xy: 0, 322
+  xy: 2, 251
   size: 186, 61
   orig: 194, 69
   offset: 4, 4
   index: -1
 sword3c
   rotate: false
-  xy: 186, 266
+  xy: 190, 248
   size: 183, 59
   orig: 191, 67
   offset: 4, 4
   index: -1
 sword4
   rotate: false
-  xy: 192, 200
+  xy: 177, 146
   size: 181, 49
   orig: 181, 51
   offset: 0, 1
   index: -1
 sword4b
   rotate: false
-  xy: 0, 447
+  xy: 2, 445
   size: 205, 65
   orig: 222, 82
   offset: 11, 8
   index: -1
 sword4c
-  rotate: false
-  xy: 197, 325
+  rotate: true
+  xy: 287, 309
   size: 201, 60
   orig: 215, 77
   offset: 9, 7
-  index: -1
-topbangs
-  rotate: false
-  xy: 22, 61
-  size: 56, 25
-  orig: 56, 25
-  offset: 0, 0
   index: -1
