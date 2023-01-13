@@ -1,0 +1,195 @@
+
+SD_Monster_DreamlessFortress_Day.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 192, 245
+  size: 94, 108
+  orig: 94, 108
+  offset: 0, 0
+  index: -1
+Lbutton
+  rotate: false
+  xy: 480, 234
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+Lcloth
+  rotate: 270
+  xy: 371, 73
+  size: 29, 140
+  orig: 29, 140
+  offset: 0, 0
+  index: -1
+Lcollar
+  rotate: true
+  xy: 274, 56
+  size: 18, 70
+  orig: 18, 70
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: true
+  xy: 282, 75
+  size: 87, 88
+  orig: 87, 88
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 304, 346
+  size: 142, 165
+  orig: 142, 165
+  offset: 0, 0
+  index: -1
+Lshoulder_back
+  rotate: false
+  xy: 117, 164
+  size: 67, 56
+  orig: 67, 64
+  offset: 0, 4
+  index: -1
+Rarm
+  rotate: true
+  xy: 395, 138
+  size: 94, 108
+  orig: 94, 108
+  offset: 0, 0
+  index: -1
+Rbutton
+  rotate: false
+  xy: 445, 233
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+Rcloth
+  rotate: true
+  xy: 371, 101
+  size: 38, 138
+  orig: 38, 138
+  offset: 0, 0
+  index: -1
+Rcollar
+  rotate: true
+  xy: 206, 73
+  size: 36, 68
+  orig: 36, 68
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 117, 75
+  size: 87, 88
+  orig: 87, 88
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 148, 339
+  size: 157, 173
+  orig: 157, 173
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 305
+  size: 149, 206
+  orig: 153, 206
+  offset: 2, 0
+  index: -1
+cannon
+  rotate: false
+  xy: 148, 312
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+capeL
+  rotate: 270
+  xy: 192, 162
+  size: 74, 202
+  orig: 74, 202
+  offset: 0, 0
+  index: -1
+capeR
+  rotate: true
+  xy: 0, 219
+  size: 86, 193
+  orig: 86, 193
+  offset: 0, 0
+  index: -1
+cockpit
+  rotate: false
+  xy: 0, 148
+  size: 118, 74
+  orig: 118, 74
+  offset: 0, 0
+  index: -1
+collar_front
+  rotate: false
+  xy: 304, 232
+  size: 142, 114
+  orig: 142, 114
+  offset: 0, 0
+  index: -1
+lights_glow
+  rotate: false
+  xy: 0, 99
+  size: 112, 49
+  orig: 112, 49
+  offset: 0, 0
+  index: -1
+pilotalive
+  rotate: false
+  xy: 445, 271
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+pilotdead
+  rotate: false
+  xy: 230, 109
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+pin
+  rotate: true
+  xy: 0, 73
+  size: 27, 67
+  orig: 27, 67
+  offset: 0, 0
+  index: -1
+tower
+  rotate: false
+  xy: 446, 324
+  size: 48, 187
+  orig: 48, 187
+  offset: 0, 0
+  index: -1
+towerR
+  rotate: false
+  xy: 446, 324
+  size: 48, 187
+  orig: 48, 187
+  offset: 0, 0
+  index: -1
+towerL_flag
+  rotate: 180
+  xy: 62, 59
+  size: 55, 27
+  orig: 55, 27
+  offset: 0, 0
+  index: -1
+towerR_flag
+  rotate: 180
+  xy: 62, 59
+  size: 55, 27
+  orig: 55, 27
+  offset: 0, 0
+  index: -1

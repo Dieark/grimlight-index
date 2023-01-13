@@ -1,0 +1,152 @@
+
+SD_Monster_HornedGolem.png
+size: 508,507
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lleg1
+  rotate: false
+  xy: 436, 247
+  size: 50, 90
+  orig: 50, 90
+  offset: 0, 0
+  index: -1
+Lleg2
+  rotate: false
+  xy: 449, 337
+  size: 58, 82
+  orig: 58, 82
+  offset: 0, 0
+  index: -1
+Lleg3
+  rotate: 270
+  xy: 422, 437
+  size: 70, 80
+  orig: 70, 80
+  offset: 0, 0
+  index: -1
+Rclaw
+  rotate: false
+  xy: 426, 43
+  size: 51, 105
+  orig: 51, 105
+  offset: 0, 0
+  index: -1
+Rclaw1
+  rotate: false
+  xy: 244, 217
+  size: 51, 103
+  orig: 51, 103
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 244, 196
+  size: 311, 206
+  orig: 311, 226
+  offset: 0, 20
+  index: -1
+leaf1
+  rotate: true
+  xy: 244, 475
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+shrubs
+  rotate: false
+  xy: 0, 0
+  size: 248, 196
+  orig: 248, 205
+  offset: 0, 9
+  index: -1
+skull
+  rotate: false
+  xy: 0, 196
+  size: 244, 311
+  orig: 244, 311
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 248, 21
+  size: 178, 175
+  orig: 179, 181
+  offset: 1, 5
+  index: -1
+vine1
+  rotate: false
+  xy: 426, 148
+  size: 53, 98
+  orig: 53, 98
+  offset: 0, 0
+  index: -1
+vine2
+  rotate: false
+  xy: 476, 60
+  size: 27, 88
+  orig: 27, 88
+  offset: 0, 0
+  index: -1
+vine5
+  rotate: true
+  xy: 426, 3
+  size: 41, 74
+  orig: 41, 74
+  offset: 0, 0
+  index: -1
+
+SD_Monster_HornedGolem2.png
+size: 177,241
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lclaw
+  rotate: false
+  xy: 0, 62
+  size: 159, 179
+  orig: 159, 179
+  offset: 0, 0
+  index: -1
+Rclaw2
+  rotate: true
+  xy: 92, 202
+  size: 39, 77
+  orig: 43, 79
+  offset: 1, 1
+  index: -1
+Rclaw3
+  rotate: true
+  xy: 0, 10
+  size: 35, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+leaf2
+  rotate: 270
+  xy: 60, 2
+  size: 34, 55
+  orig: 34, 55
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 0, 31
+  size: 114, 105
+  orig: 114, 105
+  offset: 0, 0
+  index: -1
+vine3
+  rotate: 180
+  xy: 137, 152
+  size: 40, 51
+  orig: 40, 51
+  offset: 0, 0
+  index: -1
+vine4
+  rotate: true
+  xy: 113, 20
+  size: 42, 63
+  orig: 42, 66
+  offset: 0, 1
+  index: -1

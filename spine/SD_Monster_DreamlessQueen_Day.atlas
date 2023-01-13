@@ -1,0 +1,293 @@
+
+SD_Monster_DreamlessQueen_Day.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 354, 185
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+Larmplateback
+  rotate: false
+  xy: 363, 322
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+Lcape
+  rotate: 180
+  xy: 171, 121
+  size: 90, 113
+  orig: 90, 113
+  offset: 0, 0
+  index: -1
+Lelbow
+  rotate: false
+  xy: 483, 316
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+Lfingers1
+  rotate: false
+  xy: 478, 273
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+Lfingers2
+  rotate: false
+  xy: 498, 456
+  size: 11, 28
+  orig: 11, 28
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: true
+  xy: 459, 70
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+Lhipplateback
+  rotate: false
+  xy: 411, 488
+  size: 13, 24
+  orig: 13, 24
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 325, 72
+  size: 36, 93
+  orig: 36, 93
+  offset: 0, 0
+  index: -1
+Lshoulderplate
+  rotate: true
+  xy: 340, 342
+  size: 54, 74
+  orig: 54, 74
+  offset: 0, 0
+  index: -1
+Ltailcoat
+  rotate: 270
+  xy: 85, 236
+  size: 97, 177
+  orig: 97, 177
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 0, 35
+  size: 43, 59
+  orig: 43, 59
+  offset: 0, 0
+  index: -1
+Rcape1
+  rotate: true
+  xy: 103, 41
+  size: 44, 61
+  orig: 44, 61
+  offset: 0, 0
+  index: -1
+Rcape2
+  rotate: false
+  xy: 417, 27
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+Relbow
+  rotate: true
+  xy: 42, 18
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 414, 368
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 182, 86
+  size: 40, 71
+  orig: 40, 71
+  offset: 0, 0
+  index: -1
+Rshoulderplate
+  rotate: true
+  xy: 42, 47
+  size: 38, 61
+  orig: 38, 61
+  offset: 0, 0
+  index: -1
+Rtailcoat
+  rotate: true
+  xy: 168, 37
+  size: 59, 157
+  orig: 59, 157
+  offset: 0, 0
+  index: -1
+backdress
+  rotate: 270
+  xy: 344, 103
+  size: 83, 137
+  orig: 83, 137
+  offset: 0, 0
+  index: -1
+backhair
+  rotate: false
+  xy: 0, 93
+  size: 65, 58
+  orig: 65, 58
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: true
+  xy: 174, 65
+  size: 21, 111
+  orig: 21, 111
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: true
+  xy: 300, 39
+  size: 34, 70
+  orig: 34, 70
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: true
+  xy: 221, 30
+  size: 15, 80
+  orig: 15, 80
+  offset: 0, 0
+  index: -1
+blackdress
+  rotate: false
+  xy: 85, 332
+  size: 130, 180
+  orig: 130, 180
+  offset: 0, 0
+  index: -1
+cape
+  rotate: true
+  xy: 184, 236
+  size: 119, 211
+  orig: 119, 211
+  offset: 0, 0
+  index: -1
+chest
+  rotate: false
+  xy: 395, 161
+  size: 85, 84
+  orig: 85, 84
+  offset: 0, 0
+  index: -1
+chestlight
+  rotate: false
+  xy: 261, 257
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+clasp
+  rotate: false
+  xy: 478, 250
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+collar1
+  rotate: true
+  xy: 256, 88
+  size: 69, 88
+  orig: 69, 88
+  offset: 0, 0
+  index: -1
+collar2
+  rotate: false
+  xy: 325, 396
+  size: 112, 116
+  orig: 112, 116
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 498, 484
+  size: 13, 29
+  orig: 13, 29
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 261, 166
+  size: 83, 88
+  orig: 83, 88
+  offset: 0, 0
+  index: -1
+helmet
+  rotate: false
+  xy: 215, 354
+  size: 111, 159
+  orig: 111, 159
+  offset: 0, 0
+  index: -1
+hipplate
+  rotate: false
+  xy: 85, 176
+  size: 107, 70
+  orig: 107, 70
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 370, 45
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+staff
+  rotate: false
+  xy: 0, 151
+  size: 85, 362
+  orig: 85, 362
+  offset: 0, 0
+  index: -1
+staffglow
+  rotate: true
+  xy: 65, 85
+  size: 30, 111
+  orig: 30, 111
+  offset: 0, 0
+  index: -1
+tabard
+  rotate: false
+  xy: 425, 341
+  size: 73, 171
+  orig: 73, 171
+  offset: 0, 0
+  index: -1
+visor
+  rotate: false
+  xy: 391, 244
+  size: 87, 98
+  orig: 87, 98
+  offset: 0, 0
+  index: -1
+waist
+  rotate: true
+  xy: 84, 116
+  size: 61, 80
+  orig: 61, 80
+  offset: 0, 0
+  index: -1

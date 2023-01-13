@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 390
+    "m_PathID": 425
   },
   "m_Name": "UnitData_CHAR0066_RedQueen",
   "removeFromGame": 0,
@@ -665,7 +665,9 @@
           "accountLevelOffset": 0
         }
       }
-    ]
+    ],
+    "heroStoriesItemList": [],
+    "heroSkinItemList": []
   },
   "skinAssetNames": [
     "UnitSkinAssets_Char0066_RedQueen"
@@ -725,29 +727,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2617
+    "m_PathID": 30657
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2258
+      "m_PathID": 30106
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2257
+      "m_PathID": 30105
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2259
+      "m_PathID": 30107
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2256
+    "m_PathID": 30104
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2255
+    "m_PathID": 30103
   },
   "Gender": 0,
   "Age": -1

@@ -1,0 +1,284 @@
+
+SD_Monster_DreamlessGiant_Heart.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GiantCheerHeart
+  rotate: false
+  xy: 0, 293
+  size: 303, 219
+  orig: 314, 235
+  offset: 1, 3
+  index: -1
+Lhip
+  rotate: true
+  xy: 0, 13
+  size: 61, 89
+  orig: 61, 89
+  offset: 0, 0
+  index: -1
+Lkneeplate
+  rotate: true
+  xy: 168, 19
+  size: 56, 81
+  orig: 56, 81
+  offset: 0, 0
+  index: -1
+Lleg1
+  rotate: false
+  xy: 303, 318
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+Lleg2
+  rotate: true
+  xy: 386, 316
+  size: 43, 79
+  orig: 43, 79
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 303, 358
+  size: 154, 197
+  orig: 154, 197
+  offset: 0, 0
+  index: -1
+Rkneeplate
+  rotate: true
+  xy: 88, 11
+  size: 63, 79
+  orig: 63, 79
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: 180
+  xy: 442, 10
+  size: 70, 91
+  orig: 79, 102
+  offset: 9, 0
+  index: -1
+Rrag
+  rotate: false
+  xy: 352, 322
+  size: 19, 37
+  orig: 19, 37
+  offset: 0, 0
+  index: -1
+Rshoulderplate3
+  rotate: true
+  xy: 353, 4
+  size: 32, 89
+  orig: 32, 89
+  offset: 0, 0
+  index: -1
+helmet
+  rotate: false
+  xy: 0, 74
+  size: 263, 220
+  orig: 263, 220
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: true
+  xy: 263, 125
+  size: 114, 57
+  orig: 114, 57
+  offset: 0, 0
+  index: -1
+scarf
+  rotate: true
+  xy: 255, 19
+  size: 300, 257
+  orig: 300, 257
+  offset: 0, 0
+  index: -1
+
+SD_Monster_DreamlessGiant_Heart2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 136, 38
+  size: 152, 257
+  orig: 152, 264
+  offset: 0, 0
+  index: -1
+Lbracer
+  rotate: false
+  xy: 299, 217
+  size: 121, 222
+  orig: 121, 222
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: false
+  xy: 243, 1
+  size: 45, 68
+  orig: 45, 68
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 0, 27
+  size: 132, 161
+  orig: 132, 161
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 445, 39
+  size: 48, 83
+  orig: 48, 83
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 0, 188
+  size: 147, 325
+  orig: 147, 325
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: true
+  xy: 445, 121
+  size: 62, 56
+  orig: 62, 56
+  offset: 0, 0
+  index: -1
+Rhip
+  rotate: true
+  xy: 421, 280
+  size: 89, 81
+  orig: 89, 81
+  offset: 0, 0
+  index: -1
+Rleg1
+  rotate: false
+  xy: 421, 220
+  size: 63, 60
+  orig: 63, 60
+  offset: 0, 0
+  index: -1
+Rshoulderfire
+  rotate: true
+  xy: 132, 17
+  size: 38, 85
+  orig: 38, 85
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: true
+  xy: 299, 454
+  size: 59, 96
+  orig: 59, 96
+  offset: 0, 0
+  index: -1
+chestplate
+  rotate: true
+  xy: 146, 294
+  size: 219, 153
+  orig: 219, 153
+  offset: 0, 0
+  index: -1
+collarplate
+  rotate: true
+  xy: 288, 39
+  size: 179, 157
+  orig: 179, 157
+  offset: 0, 0
+  index: -1
+waistplate
+  rotate: true
+  xy: 421, 369
+  size: 144, 79
+  orig: 144, 79
+  offset: 0, 0
+  index: -1
+
+SD_Monster_DreamlessGiant_Heart3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lelbowplate
+  rotate: false
+  xy: 170, 103
+  size: 104, 96
+  orig: 104, 96
+  offset: 0, 0
+  index: -1
+Lshoulderflame1
+  rotate: true
+  xy: 313, 194
+  size: 120, 151
+  orig: 120, 151
+  offset: 0, 0
+  index: -1
+Lshoulderflame2
+  rotate: false
+  xy: 293, 101
+  size: 103, 93
+  orig: 103, 93
+  offset: 0, 0
+  index: -1
+Rbracer
+  rotate: false
+  xy: 144, 296
+  size: 110, 217
+  orig: 110, 217
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 0, 191
+  size: 121, 171
+  orig: 121, 171
+  offset: 0, 0
+  index: -1
+Rshoulderplate1
+  rotate: false
+  xy: 401, 314
+  size: 104, 198
+  orig: 104, 198
+  offset: 0, 0
+  index: -1
+Rshoulderplate2
+  rotate: true
+  xy: 170, 199
+  size: 97, 110
+  orig: 97, 110
+  offset: 0, 0
+  index: -1
+headflame
+  rotate: true
+  xy: 396, 107
+  size: 97, 115
+  orig: 97, 115
+  offset: 0, 0
+  index: -1
+loincloth
+  rotate: true
+  xy: 0, 124
+  size: 78, 152
+  orig: 78, 152
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 0, 341
+  size: 144, 172
+  orig: 144, 172
+  offset: 0, 0
+  index: -1
+waistflame
+  rotate: true
+  xy: 254, 296
+  size: 194, 147
+  orig: 194, 147
+  offset: 0, 0
+  index: -1

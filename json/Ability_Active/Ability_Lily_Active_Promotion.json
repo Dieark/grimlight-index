@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 401
+    "m_PathID": -7118662915785212894
   },
   "m_Name": "Ability_Lily_Active_Promotion",
   "abilityID": "Ability_Lily_Active",
@@ -15,6 +15,7 @@
   "numberOfHits": 0,
   "timeFromStart": 0.0,
   "maximumCasts": 0,
+  "hpRatioPassiveThreshold": 0.0,
   "attackSequence": [
     {
       "attackType": 4,
@@ -34,14 +35,14 @@
         {
           "status": {
             "m_FileID": 0,
-            "m_PathID": 30133
+            "m_PathID": -2108987347930038272
           },
           "chanceToApplyPercent": 100
         },
         {
           "status": {
             "m_FileID": 0,
-            "m_PathID": 30132
+            "m_PathID": -337937570552765792
           },
           "chanceToApplyPercent": 100
         }
@@ -82,7 +83,7 @@
     "displayType": 0,
     "abilityIcon": {
       "m_FileID": 0,
-      "m_PathID": 635
+      "m_PathID": 5882965361050041730
     }
   },
   "abilityUpgradeCostElement": 0,
@@ -96,7 +97,7 @@
           "scaler": 1.1,
           "statusReference": {
             "m_FileID": 0,
-            "m_PathID": 30133
+            "m_PathID": -2108987347930038272
           },
           "valueType": 0,
           "modifiedStat": 0,
@@ -110,7 +111,7 @@
           "scaler": 0.0300000012,
           "statusReference": {
             "m_FileID": 0,
-            "m_PathID": 30132
+            "m_PathID": -337937570552765792
           },
           "valueType": 0,
           "modifiedStat": 5,

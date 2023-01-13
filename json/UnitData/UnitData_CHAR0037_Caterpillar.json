@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 390
+    "m_PathID": 393
   },
   "m_Name": "UnitData_CHAR0037_Caterpillar",
   "removeFromGame": 0,
@@ -665,7 +665,9 @@
           "accountLevelOffset": 0
         }
       }
-    ]
+    ],
+    "heroStoriesItemList": [],
+    "heroSkinItemList": []
   },
   "skinAssetNames": [
     "UnitSkinAssets_Char0037_Caterpillar"
@@ -725,21 +727,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2577
+    "m_PathID": 2601
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2108
+      "m_PathID": 2126
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2107
+    "m_PathID": 2125
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2106
+    "m_PathID": 2124
   },
   "Gender": 0,
   "Age": -1

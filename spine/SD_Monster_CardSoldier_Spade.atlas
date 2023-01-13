@@ -1,0 +1,223 @@
+
+SD_Monster_CardSoldier_Spade.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 404, 182
+  size: 59, 91
+  orig: 59, 91
+  offset: 0, 0
+  index: -1
+Larmpitguard
+  rotate: true
+  xy: 140, 0
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+Larmx
+  rotate: true
+  xy: 393, 123
+  size: 59, 91
+  orig: 59, 91
+  offset: 0, 0
+  index: -1
+Lelbow
+  rotate: true
+  xy: 312, 254
+  size: 59, 76
+  orig: 59, 76
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: false
+  xy: 40, 5
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: true
+  xy: 124, 41
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+Lhip
+  rotate: true
+  xy: 174, 42
+  size: 46, 64
+  orig: 46, 64
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 484, 135
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 400, 412
+  size: 100, 106
+  orig: 100, 106
+  offset: 0, 0
+  index: -1
+Lshoulderplate2
+  rotate: true
+  xy: 91, 10
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+Lshoulderplate2x
+  rotate: false
+  xy: 73, 242
+  size: 61, 71
+  orig: 61, 71
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: true
+  xy: 238, 66
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+Rarmpitguard
+  rotate: false
+  xy: 74, 5
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+Relbow
+  rotate: true
+  xy: 260, 248
+  size: 65, 52
+  orig: 65, 52
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: true
+  xy: 228, 2
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 182, 0
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+Rhip
+  rotate: false
+  xy: 134, 242
+  size: 61, 71
+  orig: 61, 71
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 484, 157
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+Rshoulderplate
+  rotate: true
+  xy: 404, 19
+  size: 54, 74
+  orig: 54, 74
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: true
+  xy: 0, 3
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+backhead
+  rotate: false
+  xy: 195, 246
+  size: 65, 67
+  orig: 65, 67
+  offset: 0, 0
+  index: -1
+backneckflap
+  rotate: false
+  xy: 273, 1
+  size: 131, 116
+  orig: 131, 116
+  offset: 0, 0
+  index: -1
+card
+  rotate: false
+  xy: 0, 39
+  size: 124, 202
+  orig: 124, 202
+  offset: 0, 0
+  index: -1
+chest
+  rotate: true
+  xy: 273, 117
+  size: 131, 120
+  orig: 131, 120
+  offset: 0, 0
+  index: -1
+chestglow
+  rotate: true
+  xy: 238, 42
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+chestplate
+  rotate: false
+  xy: 400, 314
+  size: 101, 98
+  orig: 101, 98
+  offset: 0, 0
+  index: -1
+frontplate
+  rotate: false
+  xy: 400, 241
+  size: 97, 73
+  orig: 97, 73
+  offset: 0, 0
+  index: -1
+helmet
+  rotate: true
+  xy: 124, 88
+  size: 153, 149
+  orig: 153, 149
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 0, 241
+  size: 72, 73
+  orig: 72, 73
+  offset: 0, 0
+  index: -1
+neckflap
+  rotate: true
+  xy: 404, 73
+  size: 50, 79
+  orig: 50, 79
+  offset: 0, 0
+  index: -1
+spear
+  rotate: false
+  xy: 0, 313
+  size: 400, 199
+  orig: 400, 199
+  offset: 0, 0
+  index: -1

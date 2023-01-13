@@ -1,0 +1,257 @@
+
+SD_Monster_ForestGiant.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rarm
+  rotate: true
+  xy: 0, 9
+  size: 101, 176
+  orig: 101, 176
+  offset: 0, 0
+  index: -1
+Rfinger1 Copy
+  rotate: false
+  xy: 243, 102
+  size: 48, 60
+  orig: 48, 60
+  offset: 0, 0
+  index: -1
+Rmoss
+  rotate: false
+  xy: 456, 31
+  size: 55, 104
+  orig: 55, 104
+  offset: 0, 0
+  index: -1
+axehandle1
+  rotate: false
+  xy: 176, 25
+  size: 90, 64
+  orig: 90, 64
+  offset: 0, 0
+  index: -1
+axehead
+  rotate: false
+  xy: 0, 266
+  size: 322, 246
+  orig: 322, 246
+  offset: 0, 0
+  index: -1
+backbranch1
+  rotate: true
+  xy: 272, 29
+  size: 66, 170
+  orig: 77, 170
+  offset: 0, 0
+  index: -1
+backbranch2
+  rotate: false
+  xy: 193, 88
+  size: 95, 178
+  orig: 95, 178
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 439, 266
+  size: 57, 12
+  orig: 57, 12
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 135, 254
+  size: 54, 12
+  orig: 54, 12
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 322, 278
+  size: 234, 181
+  orig: 234, 181
+  offset: 0, 0
+  index: -1
+neckleaf
+  rotate: false
+  xy: 0, 110
+  size: 194, 156
+  orig: 194, 156
+  offset: 0, 0
+  index: -1
+torso
+  rotate: true
+  xy: 291, 88
+  size: 191, 207
+  orig: 191, 207
+  offset: 0, 0
+  index: -1
+vine
+  rotate: 270
+  xy: 329, 8
+  size: 38, 128
+  orig: 38, 128
+  offset: 0, 0
+  index: -1
+
+SD_Monster_ForestGiant2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larmbranch1
+  rotate: 180
+  xy: 353, 167
+  size: 85, 151
+  orig: 85, 151
+  offset: 0, 0
+  index: -1
+Larmmoss
+  rotate: 180
+  xy: 298, 131
+  size: 64, 182
+  orig: 64, 182
+  offset: 0, 0
+  index: -1
+Lelbow
+  rotate: false
+  xy: 0, 306
+  size: 114, 207
+  orig: 114, 207
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: 180
+  xy: 383, 1
+  size: 58, 99
+  orig: 58, 99
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: true
+  xy: 116, 125
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+Lhip
+  rotate: false
+  xy: 121, 257
+  size: 64, 85
+  orig: 64, 85
+  offset: 0, 0
+  index: -1
+Rfinger1
+  rotate: false
+  xy: 236, 80
+  size: 87, 146
+  orig: 88, 146
+  offset: 1, 0
+  index: -1
+Rfinger2
+  rotate: 180
+  xy: 345, 338
+  size: 78, 110
+  orig: 78, 110
+  offset: 0, 0
+  index: -1
+Rfinger3
+  rotate: true
+  xy: 358, 449
+  size: 63, 86
+  orig: 63, 86
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: false
+  xy: 321, 10
+  size: 64, 90
+  orig: 64, 90
+  offset: 0, 0
+  index: -1
+Rhip
+  rotate: false
+  xy: 135, 25
+  size: 85, 99
+  orig: 85, 99
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 114, 341
+  size: 120, 172
+  orig: 120, 172
+  offset: 0, 0
+  index: -1
+Rshoulderplate1
+  rotate: false
+  xy: 191, 227
+  size: 134, 223
+  orig: 134, 223
+  offset: 0, 0
+  index: -1
+Rshoulderplate2
+  rotate: false
+  xy: 444, 451
+  size: 55, 61
+  orig: 55, 61
+  offset: 0, 0
+  index: -1
+Rshoulderx
+  rotate: false
+  xy: 0, 13
+  size: 135, 293
+  orig: 135, 293
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: 270
+  xy: 254, 447
+  size: 66, 105
+  orig: 66, 105
+  offset: 0, 0
+  index: -1
+axehandle2
+  rotate: false
+  xy: 220, 10
+  size: 101, 71
+  orig: 101, 71
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 360, 101
+  size: 42, 120
+  orig: 42, 120
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 422, 301
+  size: 33, 129
+  orig: 33, 129
+  offset: 0, 0
+  index: -1
+hiptwig1
+  rotate: false
+  xy: 426, 196
+  size: 56, 67
+  orig: 56, 67
+  offset: 0, 0
+  index: -1
+loincloth
+  rotate: false
+  xy: 317, 313
+  size: 60, 96
+  orig: 60, 96
+  offset: 0, 0
+  index: -1
+neckplate
+  rotate: true
+  xy: 401, 111
+  size: 56, 58
+  orig: 56, 58
+  offset: 0, 0
+  index: -1

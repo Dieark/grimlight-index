@@ -1,0 +1,118 @@
+
+SD_Monster_FrostEye.png
+size: 496,396
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+backrock
+  rotate: false
+  xy: 336, 259
+  size: 148, 135
+  orig: 148, 135
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 2, 2
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+eyedeath1
+  rotate: false
+  xy: 91, 2
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+eyedeath2
+  rotate: false
+  xy: 407, 170
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+eyedeath3
+  rotate: false
+  xy: 180, 19
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+eyedeath4
+  rotate: false
+  xy: 407, 81
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+fragment1
+  rotate: false
+  xy: 2, 91
+  size: 157, 149
+  orig: 157, 149
+  offset: 0, 0
+  index: -1
+fragment2
+  rotate: false
+  xy: 2, 242
+  size: 173, 152
+  orig: 173, 152
+  offset: 0, 0
+  index: -1
+fragment3
+  rotate: true
+  xy: 286, 125
+  size: 130, 119
+  orig: 130, 119
+  offset: 0, 0
+  index: -1
+fragment4
+  rotate: false
+  xy: 177, 257
+  size: 157, 137
+  orig: 157, 137
+  offset: 0, 0
+  index: -1
+fragment5
+  rotate: false
+  xy: 161, 108
+  size: 123, 132
+  orig: 123, 132
+  offset: 0, 0
+  index: -1
+pupil
+  rotate: true
+  xy: 403, 12
+  size: 67, 69
+  orig: 67, 69
+  offset: 0, 0
+  index: -1
+shard1
+  rotate: false
+  xy: 286, 58
+  size: 74, 65
+  orig: 74, 65
+  offset: 0, 0
+  index: -1
+shard2
+  rotate: false
+  xy: 362, 49
+  size: 39, 74
+  orig: 39, 74
+  offset: 0, 0
+  index: -1
+shard4
+  rotate: true
+  xy: 269, 23
+  size: 33, 58
+  orig: 33, 58
+  offset: 0, 0
+  index: -1
+shard5
+  rotate: false
+  xy: 329, 22
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1

@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 390
+    "m_PathID": 393
   },
   "m_Name": "UnitData_CHAR0063_WhiteQueen",
   "removeFromGame": 0,
@@ -665,7 +665,9 @@
           "accountLevelOffset": 0
         }
       }
-    ]
+    ],
+    "heroStoriesItemList": [],
+    "heroSkinItemList": []
   },
   "skinAssetNames": [
     "UnitSkinAssets_Char0063_WhiteQueen"
@@ -725,29 +727,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2635
+    "m_PathID": 2660
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2317
+      "m_PathID": 2340
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2318
+      "m_PathID": 2341
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2319
+      "m_PathID": 2342
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2316
+    "m_PathID": 2339
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2315
+    "m_PathID": 2338
   },
   "Gender": 0,
   "Age": -1

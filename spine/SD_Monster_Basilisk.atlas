@@ -1,0 +1,76 @@
+
+SD_Monster_Basilisk.png
+size: 508,508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lfrontleg
+  rotate: true
+  xy: 4, 111
+  size: 90, 191
+  orig: 90, 191
+  offset: 0, 0
+  index: -1
+Lhorn
+  rotate: true
+  xy: 354, 231
+  size: 242, 147
+  orig: 244, 149
+  offset: 1, 1
+  index: -1
+Lleg
+  rotate: false
+  xy: 365, 85
+  size: 119, 143
+  orig: 119, 143
+  offset: 0, 0
+  index: -1
+Rbackleg
+  rotate: true
+  xy: 4, 418
+  size: 84, 140
+  orig: 84, 140
+  offset: 0, 0
+  index: -1
+Rfrontleg
+  rotate: true
+  xy: 35, 25
+  size: 90, 162
+  orig: 90, 162
+  offset: 0, 0
+  index: -1
+Rhorn
+  rotate: false
+  xy: 201, 74
+  size: 160, 153
+  orig: 162, 155
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 4, 205
+  size: 369, 297
+  orig: 369, 297
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 147, 462
+  size: 45, 40
+  orig: 47, 42
+  offset: 1, 1
+  index: -1
+eyedeath
+  rotate: false
+  xy: 90, 479
+  size: 26, 23
+  orig: 28, 26
+  offset: 1, 2
+  index: -1
+mouthopen
+  rotate: false
+  xy: 365, 27
+  size: 62, 56
+  orig: 62, 56
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,208 @@
+
+SD_Monster_ImpElder.png
+size: 512,508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lfoot
+  rotate: false
+  xy: 82, 95
+  size: 31, 65
+  orig: 31, 66
+  offset: 0, 0
+  index: -1
+Lhorn
+  rotate: true
+  xy: 166, 23
+  size: 80, 176
+  orig: 86, 176
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 472, 1
+  size: 37, 34
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+Lwing
+  rotate: 270
+  xy: 219, 104
+  size: 218, 293
+  orig: 218, 295
+  offset: 0, 0
+  index: -1
+Rclaw
+  rotate: false
+  xy: 139, 229
+  size: 46, 81
+  orig: 46, 81
+  offset: 0, 0
+  index: -1
+Relbow
+  rotate: false
+  xy: 356, 23
+  size: 36, 114
+  orig: 38, 114
+  offset: 2, 0
+  index: -1
+Rhorn
+  rotate: false
+  xy: 0, 2
+  size: 82, 158
+  orig: 84, 160
+  offset: 1, 1
+  index: -1
+Rleg
+  rotate: true
+  xy: 482, 199
+  size: 50, 30
+  orig: 51, 30
+  offset: 1, 0
+  index: -1
+Rshoulderx
+  rotate: false
+  xy: 454, 414
+  size: 57, 94
+  orig: 57, 94
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: true
+  xy: 185, 290
+  size: 20, 46
+  orig: 21, 46
+  offset: 1, 0
+  index: -1
+Rwing
+  rotate: false
+  xy: 110, 75
+  size: 179, 235
+  orig: 179, 235
+  offset: 0, 0
+  index: -1
+backjaw
+  rotate: true
+  xy: 454, 326
+  size: 88, 45
+  orig: 90, 46
+  offset: 1, 0
+  index: -1
+backribcage
+  rotate: false
+  xy: 82, 9
+  size: 83, 66
+  orig: 84, 66
+  offset: 0, 0
+  index: -1
+chest
+  rotate: false
+  xy: 0, 160
+  size: 139, 150
+  orig: 141, 153
+  offset: 1, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 288, 287
+  size: 81, 23
+  orig: 83, 24
+  offset: 1, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 391, 6
+  size: 81, 29
+  orig: 81, 33
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 431, 156
+  size: 81, 34
+  orig: 81, 35
+  offset: 0, 1
+  index: -1
+head
+  rotate: false
+  xy: 392, 35
+  size: 120, 120
+  orig: 121, 123
+  offset: 0, 0
+  index: -1
+sword
+  rotate: false
+  xy: 0, 310
+  size: 454, 198
+  orig: 454, 198
+  offset: 0, 0
+  index: -1
+
+SD_Monster_ImpElder2.png
+size: 118,384
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lhip
+  rotate: false
+  xy: 63, 29
+  size: 46, 76
+  orig: 47, 77
+  offset: 0, 1
+  index: -1
+Rclawx
+  rotate: true
+  xy: 0, 45
+  size: 60, 63
+  orig: 62, 63
+  offset: 1, 0
+  index: -1
+Relbowx
+  rotate: true
+  xy: 0, 105
+  size: 63, 81
+  orig: 69, 81
+  offset: 6, 0
+  index: -1
+Rfoot
+  rotate: false
+  xy: 81, 105
+  size: 37, 61
+  orig: 40, 62
+  offset: 0, 0
+  index: -1
+Rhip
+  rotate: false
+  xy: 0, 168
+  size: 73, 71
+  orig: 75, 72
+  offset: 2, 1
+  index: -1
+Rjaw
+  rotate: false
+  xy: 0, 239
+  size: 105, 65
+  orig: 105, 66
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 0, 304
+  size: 98, 80
+  orig: 98, 93
+  offset: 0, 0
+  index: -1
+gem
+  rotate: false
+  xy: 0, 0
+  size: 46, 45
+  orig: 47, 47
+  offset: 1, 1
+  index: -1
+pelvis
+  rotate: true
+  xy: 73, 168
+  size: 59, 44
+  orig: 71, 47
+  offset: 11, 1
+  index: -1

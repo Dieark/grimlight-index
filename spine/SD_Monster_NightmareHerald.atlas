@@ -1,0 +1,236 @@
+
+SD_Monster_NightmareHerald.png
+size: 512,508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lclaw1
+  rotate: true
+  xy: 336, 265
+  size: 25, 63
+  orig: 25, 65
+  offset: 0, 1
+  index: -1
+Lclaw2
+  rotate: false
+  xy: 481, 282
+  size: 31, 75
+  orig: 32, 76
+  offset: 0, 1
+  index: -1
+Lclaw3
+  rotate: false
+  xy: 462, 384
+  size: 36, 58
+  orig: 36, 60
+  offset: 0, 1
+  index: -1
+Lfinger1
+  rotate: false
+  xy: 71, 146
+  size: 18, 32
+  orig: 20, 33
+  offset: 1, 1
+  index: -1
+Lfinger2
+  rotate: false
+  xy: 412, 306
+  size: 24, 33
+  orig: 25, 33
+  offset: 1, 0
+  index: -1
+Lfinger3
+  rotate: false
+  xy: 0, 93
+  size: 34, 28
+  orig: 34, 29
+  offset: 0, 1
+  index: -1
+Lfinger4
+  rotate: false
+  xy: 243, 108
+  size: 52, 40
+  orig: 52, 40
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 444, 1
+  size: 68, 57
+  orig: 69, 57
+  offset: 0, 0
+  index: -1
+Rclaw2
+  rotate: false
+  xy: 462, 442
+  size: 48, 66
+  orig: 48, 66
+  offset: 0, 0
+  index: -1
+Rclaw3
+  rotate: false
+  xy: 476, 78
+  size: 36, 55
+  orig: 37, 57
+  offset: 0, 1
+  index: -1
+Rfinger1
+  rotate: true
+  xy: 361, 2
+  size: 26, 30
+  orig: 27, 30
+  offset: 1, 0
+  index: -1
+Rfinger2
+  rotate: false
+  xy: 412, 339
+  size: 28, 30
+  orig: 30, 31
+  offset: 1, 0
+  index: -1
+Rfinger3
+  rotate: false
+  xy: 336, 242
+  size: 26, 23
+  orig: 28, 24
+  offset: 1, 1
+  index: -1
+Rhand
+  rotate: false
+  xy: 0, 121
+  size: 71, 57
+  orig: 73, 57
+  offset: 1, 0
+  index: -1
+Rthumb
+  rotate: true
+  xy: 460, 238
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+backplate
+  rotate: false
+  xy: 336, 290
+  size: 76, 79
+  orig: 77, 81
+  offset: 0, 1
+  index: -1
+bottomjaw
+  rotate: true
+  xy: 336, 369
+  size: 139, 126
+  orig: 140, 127
+  offset: 0, 0
+  index: -1
+centereyelidclosed
+  rotate: false
+  xy: 297, 91
+  size: 30, 56
+  orig: 31, 57
+  offset: 0, 0
+  index: -1
+centereyelidmid
+  rotate: false
+  xy: 405, 2
+  size: 30, 56
+  orig: 31, 57
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 78, 4
+  size: 128, 27
+  orig: 132, 29
+  offset: 2, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 229, 5
+  size: 132, 29
+  orig: 133, 29
+  offset: 1, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 191, 147
+  size: 133, 31
+  orig: 133, 31
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 0, 178
+  size: 336, 330
+  orig: 337, 331
+  offset: 0, 0
+  index: -1
+tentacle1
+  rotate: 270
+  xy: 331, 75
+  size: 189, 181
+  orig: 189, 181
+  offset: 0, 0
+  index: -1
+tentacle2
+  rotate: 270
+  xy: 344, 160
+  size: 223, 168
+  orig: 223, 168
+  offset: 0, 0
+  index: -1
+tentacle3
+  rotate: true
+  xy: 0, 60
+  size: 119, 192
+  orig: 122, 192
+  offset: 0, 0
+  index: -1
+tentacle4
+  rotate: false
+  xy: 190, 28
+  size: 215, 109
+  orig: 215, 109
+  offset: 0, 0
+  index: -1
+tentacle5
+  rotate: true
+  xy: 426, 58
+  size: 143, 86
+  orig: 144, 88
+  offset: 1, 2
+  index: -1
+tentacle6
+  rotate: false
+  xy: 133, 32
+  size: 160, 47
+  orig: 160, 47
+  offset: 0, 0
+  index: -1
+tentacle7
+  rotate: true
+  xy: 6, 23
+  size: 102, 164
+  orig: 102, 164
+  offset: 0, 0
+  index: -1
+
+SD_Monster_NightmareHerald2.png
+size: 51,113
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rclaw1
+  rotate: false
+  xy: 0, 51
+  size: 44, 62
+  orig: 46, 63
+  offset: 1, 1
+  index: -1
+mouthgem
+  rotate: false
+  xy: 0, 0
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+SD_Monster_DreamlessOni.png
+size: 512,178
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: 180
+  xy: 421, 62
+  size: 75, 116
+  orig: 75, 116
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 346, 2
+  size: 44, 73
+  orig: 44, 73
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 401, 21
+  size: 71, 112
+  orig: 130, 138
+  offset: 59, 12
+  index: -1
+Rleg
+  rotate: true
+  xy: 438, 2
+  size: 38, 72
+  orig: 38, 72
+  offset: 0, 0
+  index: -1
+club
+  rotate: false
+  xy: 0, 40
+  size: 117, 138
+  orig: 118, 140
+  offset: 1, 1
+  index: -1
+glow
+  rotate: true
+  xy: 291, 4
+  size: 51, 55
+  orig: 53, 56
+  offset: 2, 0
+  index: -1
+hair
+  rotate: true
+  xy: 117, 51
+  size: 127, 107
+  orig: 128, 108
+  offset: 0, 1
+  index: -1
+head
+  rotate: false
+  xy: 224, 58
+  size: 104, 120
+  orig: 104, 120
+  offset: 0, 0
+  index: -1
+mouth_closed
+  rotate: false
+  xy: 0, 1
+  size: 67, 39
+  orig: 67, 39
+  offset: 0, 0
+  index: -1
+mouth_mid
+  rotate: false
+  xy: 117, 11
+  size: 67, 40
+  orig: 67, 40
+  offset: 0, 0
+  index: -1
+mouth_open
+  rotate: false
+  xy: 224, 15
+  size: 67, 43
+  orig: 67, 43
+  offset: 0, 0
+  index: -1
+necklace
+  rotate: false
+  xy: 67, 5
+  size: 43, 35
+  orig: 44, 36
+  offset: 1, 1
+  index: -1
+torso
+  rotate: 180
+  xy: 327, 55
+  size: 95, 123
+  orig: 95, 123
+  offset: 0, 0
+  index: -1

@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 390
+    "m_PathID": 393
   },
   "m_Name": "UnitData_CHAR0022_WhiteRabbit",
   "removeFromGame": 0,
@@ -665,6 +665,73 @@
           "accountLevelOffset": 0
         }
       }
+    ],
+    "heroStoriesItemList": [],
+    "heroSkinItemList": [
+      {
+        "objectType": 17,
+        "objectID": "WhiteRabbit_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "WhiteRabbit_Skin3"
+      },
+      {
+        "objectType": 17,
+        "objectID": "WhiteRabbit_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "WhiteRabbit_Skin3"
+      },
+      {
+        "objectType": 17,
+        "objectID": "WhiteRabbit_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "WhiteRabbit_Skin3"
+      },
+      {
+        "objectType": 17,
+        "objectID": "WhiteRabbit_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "WhiteRabbit_Skin3"
+      },
+      {
+        "objectType": 17,
+        "objectID": "WhiteRabbit_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "WhiteRabbit_Skin3"
+      },
+      {
+        "objectType": 17,
+        "objectID": "WhiteRabbit_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "WhiteRabbit_Skin3"
+      },
+      {
+        "objectType": 17,
+        "objectID": "WhiteRabbit_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "WhiteRabbit_Skin3"
+      },
+      {
+        "objectType": 17,
+        "objectID": "WhiteRabbit_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "WhiteRabbit_Skin3"
+      }
     ]
   },
   "skinAssetNames": [
@@ -727,21 +794,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2636
+    "m_PathID": 2661
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2322
+      "m_PathID": 2345
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2321
+    "m_PathID": 2344
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2320
+    "m_PathID": 2343
   },
   "Gender": 0,
   "Age": -1

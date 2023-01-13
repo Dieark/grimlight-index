@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 425
   },
   "m_Name": "UnitData_CHAR0045_Beauty",
   "removeFromGame": 0,
@@ -665,7 +665,9 @@
           "accountLevelOffset": 0
         }
       }
-    ]
+    ],
+    "heroStoriesItemList": [],
+    "heroSkinItemList": []
   },
   "skinAssetNames": [
     "UnitSkinAssets_Char0045_Beauty"
@@ -696,7 +698,7 @@
     },
     "defense": {
       "statType": 1,
-      "yIntercept": 10.0,
+      "yIntercept": 18.0,
       "hasExponentialScale": 0
     },
     "critChance": 1.0,
@@ -725,21 +727,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2673557659073463931
+    "m_PathID": 30613
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 7893555365372628670
+      "m_PathID": 29942
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": -626170074155077661
+    "m_PathID": 29941
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 4102252913973328151
+    "m_PathID": 29940
   },
   "Gender": 0,
   "Age": 23

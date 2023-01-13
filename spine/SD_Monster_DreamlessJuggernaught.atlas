@@ -1,0 +1,187 @@
+
+SD_Monster_DreamlessJuggernaught.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lback_leg
+  rotate: 270
+  xy: 319, 42
+  size: 146, 186
+  orig: 146, 186
+  offset: 0, 0
+  index: -1
+Lhead_chain
+  rotate: true
+  xy: 60, 496
+  size: 16, 126
+  orig: 16, 126
+  offset: 0, 0
+  index: -1
+Lstar
+  rotate: false
+  xy: 60, 459
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+Rhead_chain
+  rotate: false
+  xy: 0, 386
+  size: 16, 126
+  orig: 16, 126
+  offset: 0, 0
+  index: -1
+Rstar
+  rotate: false
+  xy: 309, 306
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+back_armor
+  rotate: false
+  xy: 15, 456
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 187
+  size: 362, 326
+  orig: 362, 326
+  offset: 0, 0
+  index: -1
+chain1
+  rotate: true
+  xy: 95, 482
+  size: 14, 86
+  orig: 14, 86
+  offset: 0, 0
+  index: -1
+chain2
+  rotate: true
+  xy: 285, 39
+  size: 54, 75
+  orig: 54, 75
+  offset: 0, 0
+  index: -1
+chain3
+  rotate: 270
+  xy: 0, 190
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+eye1_dark
+  rotate: false
+  xy: 34, 430
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+eye2_dark
+  rotate: false
+  xy: 95, 465
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+front_helmet
+  rotate: false
+  xy: 0, 48
+  size: 154, 139
+  orig: 154, 139
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 168, 61
+  size: 246, 192
+  orig: 246, 192
+  offset: 0, 0
+  index: -1
+lower_armor
+  rotate: true
+  xy: 361, 410
+  size: 102, 145
+  orig: 102, 145
+  offset: 0, 0
+  index: -1
+mouth_goop
+  rotate: false
+  xy: 16, 423
+  size: 19, 33
+  orig: 19, 33
+  offset: 0, 0
+  index: -1
+nostril_dark
+  rotate: false
+  xy: 16, 411
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+upper_armor
+  rotate: false
+  xy: 360, 187
+  size: 152, 218
+  orig: 152, 218
+  offset: 0, 0
+  index: -1
+
+SD_Monster_DreamlessJuggernaught2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lfront_leg
+  rotate: 270
+  xy: 0, 144
+  size: 190, 226
+  orig: 190, 226
+  offset: 0, 0
+  index: -1
+Rback_leg
+  rotate: 180
+  xy: 305, 338
+  size: 91, 154
+  orig: 91, 154
+  offset: 0, 0
+  index: -1
+Rfront_leg
+  rotate: true
+  xy: 0, 2
+  size: 186, 225
+  orig: 186, 225
+  offset: 0, 0
+  index: -1
+attack_leg
+  rotate: false
+  xy: 0, 283
+  size: 226, 209
+  orig: 226, 209
+  offset: 0, 0
+  index: -1
+back_helmet
+  rotate: false
+  xy: 224, 48
+  size: 125, 140
+  orig: 125, 140
+  offset: 0, 0
+  index: -1
+bottom_jaw
+  rotate: 270
+  xy: 310, 189
+  size: 142, 105
+  orig: 142, 105
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 132, 207
+  size: 285, 178
+  orig: 285, 178
+  offset: 0, 0
+  index: -1

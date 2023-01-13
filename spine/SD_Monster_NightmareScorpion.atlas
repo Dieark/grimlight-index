@@ -1,0 +1,279 @@
+
+SD_Monster_NightmareScorpion.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm1
+  rotate: true
+  xy: 331, 57
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+Larm2
+  rotate: false
+  xy: 186, 154
+  size: 119, 54
+  orig: 119, 54
+  offset: 0, 0
+  index: -1
+Lclaw
+  rotate: false
+  xy: 182, 380
+  size: 118, 120
+  orig: 118, 120
+  offset: 0, 0
+  index: -1
+Lleg1joint1
+  rotate: false
+  xy: 0, 157
+  size: 106, 48
+  orig: 106, 48
+  offset: 0, 0
+  index: -1
+Lleg1joint1x
+  rotate: false
+  xy: 171, 101
+  size: 80, 52
+  orig: 80, 52
+  offset: 0, 0
+  index: -1
+Lleg1joint2
+  rotate: true
+  xy: 0, 78
+  size: 36, 97
+  orig: 36, 97
+  offset: 0, 0
+  index: -1
+Lleg1jointcap
+  rotate: false
+  xy: 300, 366
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+Lleg2joint1
+  rotate: false
+  xy: 0, 114
+  size: 98, 43
+  orig: 98, 43
+  offset: 0, 0
+  index: -1
+Lleg2joint1xx
+  rotate: true
+  xy: 305, 142
+  size: 66, 70
+  orig: 66, 70
+  offset: 0, 0
+  index: -1
+Lleg2joint2
+  rotate: true
+  xy: 168, 58
+  size: 36, 93
+  orig: 36, 93
+  offset: 0, 0
+  index: -1
+Lleg2joint2x
+  rotate: true
+  xy: 215, 32
+  size: 26, 85
+  orig: 26, 85
+  offset: 0, 0
+  index: -1
+Lleg2joint2xxx
+  rotate: true
+  xy: 300, 33
+  size: 25, 82
+  orig: 25, 82
+  offset: 0, 0
+  index: -1
+Lleg2jointcap
+  rotate: false
+  xy: 132, 476
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+Lleg3joint1
+  rotate: false
+  xy: 376, 115
+  size: 98, 43
+  orig: 98, 43
+  offset: 0, 0
+  index: -1
+Lleg3joint1x
+  rotate: true
+  xy: 97, 66
+  size: 50, 71
+  orig: 50, 71
+  offset: 0, 0
+  index: -1
+Lleg3joint2
+  rotate: true
+  xy: 251, 94
+  size: 47, 80
+  orig: 47, 80
+  offset: 0, 0
+  index: -1
+Lleg3joint2x
+  rotate: false
+  xy: 477, 422
+  size: 22, 78
+  orig: 22, 78
+  offset: 0, 0
+  index: -1
+Lleg3jointcap
+  rotate: false
+  xy: 45, 383
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+Lleg4joint1
+  rotate: false
+  xy: 0, 34
+  size: 74, 44
+  orig: 74, 44
+  offset: 0, 0
+  index: -1
+Lleg4joint1x
+  rotate: true
+  xy: 73, 29
+  size: 37, 71
+  orig: 37, 71
+  offset: 0, 0
+  index: -1
+Lleg4joint2
+  rotate: true
+  xy: 144, 25
+  size: 34, 70
+  orig: 34, 70
+  offset: 0, 0
+  index: -1
+Lleg4joint2x
+  rotate: false
+  xy: 463, 43
+  size: 22, 73
+  orig: 22, 73
+  offset: 0, 0
+  index: -1
+Lpincer1
+  rotate: false
+  xy: 284, 290
+  size: 126, 71
+  orig: 126, 71
+  offset: 0, 0
+  index: -1
+Lpincer2
+  rotate: true
+  xy: 284, 208
+  size: 82, 97
+  orig: 82, 97
+  offset: 0, 0
+  index: -1
+Rarm1
+  rotate: true
+  xy: 391, 68
+  size: 47, 72
+  orig: 47, 72
+  offset: 0, 0
+  index: -1
+Rarm2
+  rotate: false
+  xy: 391, 24
+  size: 71, 45
+  orig: 71, 45
+  offset: 0, 0
+  index: -1
+Rclaw1
+  rotate: true
+  xy: 0, 207
+  size: 82, 92
+  orig: 82, 92
+  offset: 0, 0
+  index: -1
+Rpincer1
+  rotate: true
+  xy: 92, 205
+  size: 79, 94
+  orig: 79, 94
+  offset: 0, 0
+  index: -1
+Rpincer2
+  rotate: false
+  xy: 186, 211
+  size: 95, 74
+  orig: 95, 74
+  offset: 0, 0
+  index: -1
+body1
+  rotate: false
+  xy: 0, 288
+  size: 106, 87
+  orig: 106, 87
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 0, 364
+  size: 182, 136
+  orig: 182, 136
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 0, 388
+  size: 46, 37
+  orig: 46, 37
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 182, 284
+  size: 96, 102
+  orig: 96, 102
+  offset: 0, 0
+  index: -1
+stinger1
+  rotate: false
+  xy: 405, 361
+  size: 72, 139
+  orig: 72, 139
+  offset: 0, 0
+  index: -1
+stinger2
+  rotate: false
+  xy: 105, 286
+  size: 70, 78
+  orig: 70, 78
+  offset: 0, 0
+  index: -1
+stingerglow
+  rotate: true
+  xy: 380, 158
+  size: 79, 82
+  orig: 79, 82
+  offset: 0, 0
+  index: -1
+tail1
+  rotate: false
+  xy: 300, 371
+  size: 106, 130
+  orig: 107, 130
+  offset: 1, 0
+  index: -1
+tail2
+  rotate: 180
+  xy: 408, 238
+  size: 88, 124
+  orig: 88, 124
+  offset: 0, 0
+  index: -1
+tail3
+  rotate: true
+  xy: 105, 116
+  size: 90, 66
+  orig: 90, 66
+  offset: 0, 0
+  index: -1

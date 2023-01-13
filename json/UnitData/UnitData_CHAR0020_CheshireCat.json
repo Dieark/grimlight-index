@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 423
+    "m_PathID": 425
   },
   "m_Name": "UnitData_CHAR0020_CheshireCat",
   "removeFromGame": 0,
@@ -665,6 +665,25 @@
           "accountLevelOffset": 0
         }
       }
+    ],
+    "heroStoriesItemList": [],
+    "heroSkinItemList": [
+      {
+        "objectType": 17,
+        "objectID": "CheshireCat_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "CheshireCat_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "CheshireCat_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "CheshireCat_Skin1"
+      }
     ]
   },
   "skinAssetNames": [
@@ -726,25 +745,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 30497
+    "m_PathID": 30617
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 29848
+      "m_PathID": 29954
     },
     {
       "m_FileID": 0,
-      "m_PathID": 29849
+      "m_PathID": 29955
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 29847
+    "m_PathID": 29953
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 29846
+    "m_PathID": 29952
   },
   "Gender": 0,
   "Age": -1

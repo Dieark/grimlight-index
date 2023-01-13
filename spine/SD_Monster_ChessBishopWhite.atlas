@@ -1,0 +1,111 @@
+
+SD_Monster_ChessBishopWhite.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lleg
+  rotate: false
+  xy: 109, 158
+  size: 33, 85
+  orig: 33, 85
+  offset: 0, 0
+  index: -1
+Lsleeve
+  rotate: false
+  xy: 118, 17
+  size: 53, 108
+  orig: 53, 108
+  offset: 0, 0
+  index: -1
+Lsleeve2
+  rotate: true
+  xy: 237, 62
+  size: 51, 59
+  orig: 51, 59
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 203, 165
+  size: 34, 78
+  orig: 34, 78
+  offset: 0, 0
+  index: -1
+Rsleeve
+  rotate: false
+  xy: 142, 147
+  size: 61, 96
+  orig: 61, 96
+  offset: 0, 0
+  index: -1
+Rsleeve2
+  rotate: true
+  xy: 237, 179
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+cloth1
+  rotate: true
+  xy: 332, 257
+  size: 41, 168
+  orig: 41, 168
+  offset: 0, 0
+  index: -1
+cloth2
+  rotate: true
+  xy: 314, 78
+  size: 47, 163
+  orig: 47, 163
+  offset: 0, 0
+  index: -1
+collar
+  rotate: true
+  xy: 171, 17
+  size: 130, 66
+  orig: 130, 66
+  offset: 0, 0
+  index: -1
+collarL
+  rotate: true
+  xy: 237, 113
+  size: 66, 77
+  orig: 66, 77
+  offset: 0, 0
+  index: -1
+collarR
+  rotate: true
+  xy: 0, 24
+  size: 134, 118
+  orig: 134, 118
+  offset: 0, 0
+  index: -1
+collar_back
+  rotate: false
+  xy: 109, 243
+  size: 223, 265
+  orig: 223, 265
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 332, 298
+  size: 176, 210
+  orig: 176, 210
+  offset: 0, 0
+  index: -1
+staff
+  rotate: false
+  xy: 0, 158
+  size: 109, 350
+  orig: 109, 350
+  offset: 0, 0
+  index: -1
+torso
+  rotate: true
+  xy: 332, 125
+  size: 132, 167
+  orig: 132, 167
+  offset: 0, 0
+  index: -1

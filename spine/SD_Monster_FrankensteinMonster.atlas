@@ -1,0 +1,432 @@
+
+SD_Monster_FrankensteinMonster.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lfeet
+  rotate: false
+  xy: 168, 495
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 446, 397
+  size: 62, 115
+  orig: 62, 115
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 156, 372
+  size: 22, 47
+  orig: 22, 47
+  offset: 0, 0
+  index: -1
+Rcoat
+  rotate: 270
+  xy: 0, 108
+  size: 120, 252
+  orig: 120, 252
+  offset: 0, 0
+  index: -1
+Rfeet
+  rotate: false
+  xy: 138, 323
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+backjacket
+  rotate: false
+  xy: 0, 314
+  size: 192, 198
+  orig: 192, 198
+  offset: 0, 0
+  index: -1
+backtank3
+  rotate: false
+  xy: 0, 130
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+bladeteeth1
+  rotate: true
+  xy: 119, 17
+  size: 80, 163
+  orig: 80, 163
+  offset: 0, 0
+  index: -1
+bladeteeth2
+  rotate: true
+  xy: 282, 6
+  size: 79, 162
+  orig: 79, 162
+  offset: 0, 0
+  index: -1
+chest
+  rotate: 180
+  xy: 176, 322
+  size: 136, 191
+  orig: 136, 191
+  offset: 0, 0
+  index: -1
+dust1
+  rotate: false
+  xy: 285, 502
+  size: 24, 10
+  orig: 24, 10
+  offset: 0, 0
+  index: -1
+dust7
+  rotate: false
+  xy: 459, 202
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+dust8
+  rotate: false
+  xy: 143, 361
+  size: 28, 10
+  orig: 28, 10
+  offset: 0, 0
+  index: -1
+engineglow
+  rotate: false
+  xy: 500, 491
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 148, 504
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+eyeglow
+  rotate: true
+  xy: 459, 238
+  size: 159, 38
+  orig: 159, 38
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 288, 497
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 391, 84
+  size: 114, 120
+  orig: 114, 120
+  offset: 0, 0
+  index: -1
+lihgtningcircle2
+  rotate: false
+  xy: 0, 7
+  size: 119, 113
+  orig: 121, 114
+  offset: 1, 0
+  index: -1
+magiccircle
+  rotate: false
+  xy: 312, 198
+  size: 147, 147
+  orig: 147, 147
+  offset: 0, 0
+  index: -1
+neckplate
+  rotate: false
+  xy: 0, 234
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+sparks1
+  rotate: false
+  xy: 444, 10
+  size: 66, 74
+  orig: 66, 74
+  offset: 0, 0
+  index: -1
+sparks2
+  rotate: true
+  xy: 252, 97
+  size: 102, 139
+  orig: 102, 139
+  offset: 0, 0
+  index: -1
+sparks3
+  rotate: true
+  xy: 131, 200
+  size: 123, 161
+  orig: 123, 161
+  offset: 0, 0
+  index: -1
+sparks4
+  rotate: false
+  xy: 312, 345
+  size: 134, 167
+  orig: 134, 167
+  offset: 0, 0
+  index: -1
+
+SD_Monster_FrankensteinMonster2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lcoat
+  rotate: true
+  xy: 8, 104
+  size: 50, 217
+  orig: 50, 217
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: true
+  xy: 0, 119
+  size: 57, 103
+  orig: 57, 103
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: 270
+  xy: 288, 190
+  size: 70, 125
+  orig: 70, 125
+  offset: 0, 0
+  index: -1
+Rarm1
+  rotate: false
+  xy: 273, 97
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+Rarm2
+  rotate: 270
+  xy: 79, 228
+  size: 81, 127
+  orig: 81, 129
+  offset: 0, 0
+  index: -1
+Rarm3
+  rotate: false
+  xy: 102, 52
+  size: 54, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+Rarmbone
+  rotate: true
+  xy: 130, 11
+  size: 36, 78
+  orig: 36, 78
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 0, 307
+  size: 91, 130
+  orig: 91, 130
+  offset: 0, 0
+  index: -1
+Rshoulderbacksleeve
+  rotate: false
+  xy: 431, 43
+  size: 52, 63
+  orig: 52, 63
+  offset: 0, 0
+  index: -1
+Rshouldersleeve
+  rotate: true
+  xy: 414, 235
+  size: 73, 94
+  orig: 73, 94
+  offset: 0, 0
+  index: -1
+backtank1
+  rotate: false
+  xy: 139, 299
+  size: 48, 52
+  orig: 48, 52
+  offset: 0, 0
+  index: -1
+backtank2
+  rotate: false
+  xy: 206, 232
+  size: 34, 61
+  orig: 34, 61
+  offset: 0, 0
+  index: -1
+blade
+  rotate: false
+  xy: 118, 350
+  size: 76, 159
+  orig: 76, 159
+  offset: 0, 0
+  index: -1
+bladeengine
+  rotate: false
+  xy: 62, 57
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+dust2
+  rotate: false
+  xy: 62, 12
+  size: 68, 41
+  orig: 68, 41
+  offset: 0, 0
+  index: -1
+dust3
+  rotate: true
+  xy: 409, 415
+  size: 95, 88
+  orig: 95, 88
+  offset: 0, 0
+  index: -1
+dust4
+  rotate: true
+  xy: 413, 161
+  size: 73, 78
+  orig: 73, 78
+  offset: 0, 0
+  index: -1
+dust5
+  rotate: true
+  xy: 430, 107
+  size: 55, 73
+  orig: 55, 73
+  offset: 0, 0
+  index: -1
+dust6
+  rotate: true
+  xy: 0, 51
+  size: 53, 62
+  orig: 53, 62
+  offset: 0, 0
+  index: -1
+lightningcircle1
+  rotate: false
+  xy: 0, 397
+  size: 118, 112
+  orig: 118, 112
+  offset: 0, 0
+  index: -1
+lightningcrackle1
+  rotate: false
+  xy: 414, 307
+  size: 72, 108
+  orig: 72, 108
+  offset: 0, 0
+  index: -1
+lightningcrackle2
+  rotate: false
+  xy: 0, 232
+  size: 56, 75
+  orig: 56, 75
+  offset: 0, 0
+  index: -1
+lightningcrackle3
+  rotate: true
+  xy: 315, 38
+  size: 38, 86
+  orig: 38, 86
+  offset: 0, 0
+  index: -1
+lightningcrackle4
+  rotate: false
+  xy: 224, 90
+  size: 50, 100
+  orig: 167, 100
+  offset: 0, 0
+  index: -1
+lightningcrackle5
+  rotate: false
+  xy: 337, 76
+  size: 55, 72
+  orig: 55, 72
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 150, 157
+  size: 70, 73
+  orig: 70, 73
+  offset: 0, 0
+  index: -1
+neckcollar1
+  rotate: 270
+  xy: 0, 162
+  size: 86, 152
+  orig: 86, 156
+  offset: 0, 0
+  index: -1
+neckcollar2
+  rotate: true
+  xy: 237, 190
+  size: 114, 139
+  orig: 114, 143
+  offset: 0, 0
+  index: -1
+portal1
+  rotate: false
+  xy: 193, 401
+  size: 108, 108
+  orig: 110, 110
+  offset: 1, 1
+  index: -1
+portal2
+  rotate: false
+  xy: 301, 401
+  size: 108, 108
+  orig: 110, 110
+  offset: 1, 1
+  index: -1
+portal3
+  rotate: false
+  xy: 193, 293
+  size: 108, 108
+  orig: 110, 110
+  offset: 1, 1
+  index: -1
+shouldergear
+  rotate: false
+  xy: 157, 46
+  size: 48, 74
+  orig: 48, 74
+  offset: 0, 0
+  index: -1
+sparks5
+  rotate: true
+  xy: 301, 303
+  size: 98, 112
+  orig: 98, 112
+  offset: 0, 0
+  index: -1
+tube1
+  rotate: 270
+  xy: 204, 43
+  size: 85, 110
+  orig: 85, 110
+  offset: 0, 0
+  index: -1
+tube2
+  rotate: 270
+  xy: 282, 89
+  size: 108, 149
+  orig: 108, 149
+  offset: 0, 0
+  index: -1

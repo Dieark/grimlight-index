@@ -1,0 +1,216 @@
+
+SD_Monster_CardSoldier_Heart.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lelbow
+  rotate: false
+  xy: 921, 160
+  size: 90, 113
+  orig: 90, 113
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: false
+  xy: 526, 35
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: true
+  xy: 352, 154
+  size: 80, 88
+  orig: 80, 88
+  offset: 0, 0
+  index: -1
+Lhip
+  rotate: false
+  xy: 352, 236
+  size: 80, 113
+  orig: 80, 113
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 493, 63
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 923, 527
+  size: 87, 151
+  orig: 87, 151
+  offset: 0, 0
+  index: -1
+Lshoulderplate
+  rotate: false
+  xy: 789, 119
+  size: 117, 147
+  orig: 117, 147
+  offset: 0, 0
+  index: -1
+Lshoulderplatex
+  rotate: true
+  xy: 651, 279
+  size: 155, 158
+  orig: 155, 158
+  offset: 0, 0
+  index: -1
+Ltorso
+  rotate: false
+  xy: 222, 351
+  size: 223, 195
+  orig: 223, 195
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 442, 155
+  size: 91, 77
+  orig: 91, 77
+  offset: 0, 0
+  index: -1
+Rfingers
+  rotate: false
+  xy: 528, 92
+  size: 66, 60
+  orig: 66, 60
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: true
+  xy: 596, 87
+  size: 65, 44
+  orig: 65, 44
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 535, 154
+  size: 85, 78
+  orig: 85, 78
+  offset: 0, 0
+  index: -1
+Rhip
+  rotate: false
+  xy: 921, 275
+  size: 100, 119
+  orig: 100, 119
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 752, 81
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 811, 268
+  size: 108, 166
+  orig: 108, 166
+  offset: 0, 0
+  index: -1
+Rshoulderplate1
+  rotate: false
+  xy: 908, 2
+  size: 106, 156
+  orig: 106, 156
+  offset: 0, 0
+  index: -1
+Rshoulderplate2
+  rotate: false
+  xy: 442, 61
+  size: 49, 92
+  orig: 49, 92
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 493, 104
+  size: 33, 49
+  orig: 33, 49
+  offset: 0, 0
+  index: -1
+backhead
+  rotate: false
+  xy: 222, 224
+  size: 128, 125
+  orig: 128, 125
+  offset: 0, 0
+  index: -1
+card
+  rotate: true
+  xy: 669, 680
+  size: 206, 336
+  orig: 206, 336
+  offset: 0, 0
+  index: -1
+chestplate
+  rotate: true
+  xy: 447, 356
+  size: 190, 202
+  orig: 190, 202
+  offset: 0, 0
+  index: -1
+eyeglow
+  rotate: true
+  xy: 642, 96
+  size: 48, 55
+  orig: 48, 55
+  offset: 0, 0
+  index: -1
+heartlight
+  rotate: false
+  xy: 699, 96
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+helmet
+  rotate: true
+  xy: 669, 436
+  size: 242, 252
+  orig: 242, 252
+  offset: 0, 0
+  index: -1
+neckflap
+  rotate: false
+  xy: 923, 396
+  size: 83, 129
+  orig: 83, 129
+  offset: 0, 0
+  index: -1
+neckflapback
+  rotate: false
+  xy: 2, 344
+  size: 218, 202
+  orig: 218, 202
+  offset: 0, 0
+  index: -1
+neckguard
+  rotate: false
+  xy: 447, 234
+  size: 198, 120
+  orig: 198, 120
+  offset: 0, 0
+  index: -1
+neckplate
+  rotate: true
+  xy: 647, 146
+  size: 131, 140
+  orig: 131, 140
+  offset: 0, 0
+  index: -1
+spear
+  rotate: false
+  xy: 2, 548
+  size: 665, 338
+  orig: 665, 338
+  offset: 0, 0
+  index: -1

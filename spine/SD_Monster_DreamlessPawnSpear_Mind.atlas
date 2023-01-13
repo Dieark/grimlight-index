@@ -1,0 +1,195 @@
+
+SD_Monster_DreamlessPawnSpear_Mind.png
+size: 506,315
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 438, 27
+  size: 45, 61
+  orig: 46, 62
+  offset: 1, 1
+  index: -1
+Layer 4
+  rotate: false
+  xy: 133, 96
+  size: 103, 118
+  orig: 105, 119
+  offset: 1, 0
+  index: -1
+Lfinger
+  rotate: false
+  xy: 412, 2
+  size: 24, 29
+  orig: 26, 31
+  offset: 1, 1
+  index: -1
+Lfoot
+  rotate: false
+  xy: 313, 52
+  size: 27, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: true
+  xy: 446, 127
+  size: 61, 58
+  orig: 61, 60
+  offset: 0, 2
+  index: -1
+Lhingespike
+  rotate: false
+  xy: 131, 0
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+Lhingespikex
+  rotate: false
+  xy: 49, 15
+  size: 49, 30
+  orig: 49, 31
+  offset: 0, 1
+  index: -1
+Lleg
+  rotate: true
+  xy: 341, 4
+  size: 27, 37
+  orig: 29, 38
+  offset: 1, 1
+  index: -1
+Lshoulderplate
+  rotate: false
+  xy: 446, 72
+  size: 60, 55
+  orig: 60, 55
+  offset: 0, 0
+  index: -1
+Ltoe
+  rotate: false
+  xy: 198, 1
+  size: 29, 26
+  orig: 30, 26
+  offset: 1, 0
+  index: -1
+Lvisor
+  rotate: false
+  xy: 0, 84
+  size: 133, 130
+  orig: 134, 131
+  offset: 1, 1
+  index: -1
+Rarm
+  rotate: true
+  xy: 98, 1
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: true
+  xy: 167, 1
+  size: 26, 31
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 303, 10
+  size: 38, 41
+  orig: 42, 42
+  offset: 1, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 378, 2
+  size: 29, 34
+  orig: 30, 36
+  offset: 0, 1
+  index: -1
+Rshoulderplate
+  rotate: true
+  xy: 0, 17
+  size: 33, 49
+  orig: 34, 50
+  offset: 0, 1
+  index: -1
+Rtoes
+  rotate: false
+  xy: 236, 189
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+Rvisor
+  rotate: true
+  xy: 0, 50
+  size: 34, 81
+  orig: 34, 81
+  offset: 0, 0
+  index: -1
+armorskirt
+  rotate: false
+  xy: 133, 27
+  size: 98, 69
+  orig: 99, 70
+  offset: 1, 1
+  index: -1
+bottomjaw
+  rotate: false
+  xy: 343, 31
+  size: 95, 65
+  orig: 95, 66
+  offset: 0, 1
+  index: -1
+chestflame
+  rotate: false
+  xy: 81, 45
+  size: 44, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 231, 51
+  size: 82, 34
+  orig: 83, 34
+  offset: 0, 0
+  index: -1
+eyesdeath
+  rotate: false
+  xy: 231, 22
+  size: 72, 29
+  orig: 72, 29
+  offset: 0, 0
+  index: -1
+facedeath
+  rotate: true
+  xy: 236, 85
+  size: 103, 107
+  orig: 103, 108
+  offset: 0, 1
+  index: -1
+helmet
+  rotate: true
+  xy: 315, 188
+  size: 127, 191
+  orig: 127, 191
+  offset: 0, 0
+  index: -1
+spear
+  rotate: false
+  xy: 0, 214
+  size: 315, 101
+  orig: 315, 102
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 343, 96
+  size: 103, 92
+  orig: 103, 92
+  offset: 0, 0
+  index: -1

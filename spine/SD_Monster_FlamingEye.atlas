@@ -1,0 +1,111 @@
+
+SD_Monster_FlamingEye.png
+size: 484,380
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eyedeath1
+  rotate: false
+  xy: 384, 195
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+eyedeath2
+  rotate: false
+  xy: 297, 174
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+eyedeath3
+  rotate: false
+  xy: 297, 95
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+eyedeath4
+  rotate: true
+  xy: 297, 13
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+eyewhite
+  rotate: true
+  xy: 376, 13
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+pupil
+  rotate: false
+  xy: 229, 173
+  size: 66, 70
+  orig: 66, 70
+  offset: 0, 0
+  index: -1
+rock1
+  rotate: false
+  xy: 258, 253
+  size: 124, 125
+  orig: 124, 125
+  offset: 0, 0
+  index: -1
+rock2
+  rotate: true
+  xy: 192, 2
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+rock3
+  rotate: true
+  xy: 130, 171
+  size: 72, 97
+  orig: 72, 97
+  offset: 0, 0
+  index: -1
+rock4
+  rotate: false
+  xy: 379, 147
+  size: 101, 46
+  orig: 101, 46
+  offset: 0, 0
+  index: -1
+rock5
+  rotate: false
+  xy: 192, 41
+  size: 103, 128
+  orig: 103, 128
+  offset: 0, 0
+  index: -1
+rock6
+  rotate: false
+  xy: 384, 274
+  size: 98, 104
+  orig: 98, 104
+  offset: 0, 0
+  index: -1
+rock7
+  rotate: false
+  xy: 2, 167
+  size: 126, 211
+  orig: 126, 211
+  offset: 0, 0
+  index: -1
+rock8
+  rotate: true
+  xy: 2, 5
+  size: 160, 188
+  orig: 160, 188
+  offset: 0, 0
+  index: -1
+rock9
+  rotate: true
+  xy: 130, 245
+  size: 133, 126
+  orig: 133, 126
+  offset: 0, 0
+  index: -1

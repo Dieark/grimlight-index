@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 390
+    "m_PathID": 425
   },
   "m_Name": "UnitData_CHAR0011_QueenOfHearts",
   "removeFromGame": 0,
@@ -665,6 +665,46 @@
           "accountLevelOffset": 0
         }
       }
+    ],
+    "heroStoriesItemList": [
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryQueenOfHearts_1"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryQueenOfHearts_2"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryQueenOfHearts_3"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryQueenOfHearts_4"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryQueenOfHearts_5"
+      }
+    ],
+    "heroSkinItemList": [
+      {
+        "objectType": 17,
+        "objectID": "QueenOfHearts_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "QueenOfHearts_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "QueenOfHearts_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "QueenOfHearts_Skin2"
+      }
     ]
   },
   "skinAssetNames": [
@@ -674,23 +714,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 2763
+      "m_PathID": 31518
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2764
+      "m_PathID": 31519
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2765
+      "m_PathID": 31520
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2766
+      "m_PathID": 31521
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2767
+      "m_PathID": 31522
     }
   ],
   "unitStatData": {
@@ -718,7 +758,7 @@
     },
     "defense": {
       "statType": 1,
-      "yIntercept": 25.0,
+      "yIntercept": 30.0,
       "hasExponentialScale": 0
     },
     "critChance": 1.0,
@@ -729,7 +769,7 @@
     "baseEvasionPercent": 0.0,
     "baseAccuracyPercent": 0.0,
     "resilience": 0.0,
-    "attackSpeed": 0.8,
+    "attackSpeed": 0.9,
     "attackRange": 40.0,
     "energyGainPerAttack": 10,
     "moveSpeed": 15.0,
@@ -747,25 +787,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2612
+    "m_PathID": 30652
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2239
+      "m_PathID": 30087
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2240
+      "m_PathID": 30088
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2238
+    "m_PathID": 30086
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2237
+    "m_PathID": 30085
   },
   "Gender": 0,
   "Age": -1

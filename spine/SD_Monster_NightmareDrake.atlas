@@ -1,0 +1,276 @@
+
+SD_Monster_NightmareDrake.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lwing2
+  rotate: true
+  xy: 252, 190
+  size: 323, 230
+  orig: 323, 230
+  offset: 0, 0
+  index: -1
+Lwing5
+  rotate: false
+  xy: 0, 159
+  size: 253, 354
+  orig: 253, 354
+  offset: 0, 0
+  index: -1
+Lwing8
+  rotate: false
+  xy: 252, 3
+  size: 251, 188
+  orig: 251, 188
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 216, 101
+  size: 36, 59
+  orig: 37, 61
+  offset: 0, 0
+  index: -1
+Rtoe
+  rotate: false
+  xy: 482, 248
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+Rwing2
+  rotate: true
+  xy: 0, 1
+  size: 158, 216
+  orig: 158, 216
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: true
+  xy: 482, 220
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: true
+  xy: 482, 190
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+jawslobber
+  rotate: false
+  xy: 482, 287
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+tail2
+  rotate: true
+  xy: 216, 9
+  size: 93, 34
+  orig: 93, 34
+  offset: 0, 0
+  index: -1
+
+SD_Monster_NightmareDrake2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lwing6
+  rotate: false
+  xy: 0, 140
+  size: 193, 371
+  orig: 193, 371
+  offset: 0, 0
+  index: -1
+Lwing7
+  rotate: false
+  xy: 192, 185
+  size: 188, 325
+  orig: 188, 325
+  offset: 0, 0
+  index: -1
+Lwing9
+  rotate: false
+  xy: 192, 18
+  size: 301, 167
+  orig: 301, 167
+  offset: 0, 0
+  index: -1
+Rwing7
+  rotate: false
+  xy: 380, 211
+  size: 130, 300
+  orig: 130, 300
+  offset: 0, 0
+  index: -1
+Rwing9
+  rotate: false
+  xy: 0, 5
+  size: 188, 136
+  orig: 188, 136
+  offset: 0, 0
+  index: -1
+
+SD_Monster_NightmareDrake3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lfoot
+  rotate: false
+  xy: 267, 262
+  size: 45, 63
+  orig: 45, 63
+  offset: 0, 0
+  index: -1
+Lwing1
+  rotate: false
+  xy: 0, 324
+  size: 322, 186
+  orig: 322, 186
+  offset: 0, 0
+  index: -1
+Lwing4
+  rotate: true
+  xy: 322, 168
+  size: 342, 130
+  orig: 342, 130
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: false
+  xy: 452, 253
+  size: 37, 62
+  orig: 37, 62
+  offset: 0, 0
+  index: -1
+Rhip
+  rotate: false
+  xy: 452, 367
+  size: 50, 73
+  orig: 50, 73
+  offset: 0, 0
+  index: -1
+Rhorn
+  rotate: true
+  xy: 452, 440
+  size: 70, 57
+  orig: 70, 57
+  offset: 0, 0
+  index: -1
+Rwing5
+  rotate: true
+  xy: 0, 153
+  size: 171, 268
+  orig: 171, 268
+  offset: 0, 0
+  index: -1
+Rwing6
+  rotate: true
+  xy: 0, 51
+  size: 103, 360
+  orig: 103, 360
+  offset: 0, 0
+  index: -1
+bottomjawback
+  rotate: false
+  xy: 452, 315
+  size: 45, 52
+  orig: 45, 52
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 359, 78
+  size: 78, 91
+  orig: 78, 91
+  offset: 0, 0
+  index: -1
+lleg
+  rotate: false
+  xy: 267, 176
+  size: 38, 86
+  orig: 38, 86
+  offset: 0, 0
+  index: -1
+tail1
+  rotate: false
+  xy: 417, 12
+  size: 89, 151
+  orig: 90, 151
+  offset: 0, 0
+  index: -1
+
+SD_Monster_NightmareDrake4.png
+size: 460,460
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lhip
+  rotate: false
+  xy: 363, 136
+  size: 65, 83
+  orig: 65, 83
+  offset: 0, 0
+  index: -1
+Lhorn
+  rotate: false
+  xy: 326, 394
+  size: 94, 64
+  orig: 94, 64
+  offset: 0, 0
+  index: -1
+Lwing3
+  rotate: false
+  xy: 0, 357
+  size: 327, 101
+  orig: 327, 101
+  offset: 0, 0
+  index: -1
+Rwing1
+  rotate: false
+  xy: 0, 214
+  size: 208, 143
+  orig: 208, 143
+  offset: 0, 0
+  index: -1
+Rwing3
+  rotate: true
+  xy: 0, 36
+  size: 179, 81
+  orig: 179, 81
+  offset: 0, 0
+  index: -1
+Rwing4
+  rotate: false
+  xy: 259, 1
+  size: 171, 101
+  orig: 171, 101
+  offset: 0, 0
+  index: -1
+Rwing8
+  rotate: false
+  xy: 208, 219
+  size: 209, 139
+  orig: 209, 139
+  offset: 0, 0
+  index: -1
+bottomjawfront
+  rotate: false
+  xy: 81, 143
+  size: 69, 72
+  orig: 69, 72
+  offset: 0, 0
+  index: -1
+torso1
+  rotate: false
+  xy: 84, 17
+  size: 279, 203
+  orig: 279, 208
+  offset: 0, 5
+  index: -1

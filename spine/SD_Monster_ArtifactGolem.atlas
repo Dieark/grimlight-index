@@ -1,0 +1,180 @@
+
+SD_Monster_ArtifactGolem.png
+size: 512,506
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lfinger1
+  rotate: false
+  xy: 446, 386
+  size: 48, 120
+  orig: 48, 120
+  offset: 0, 0
+  index: -1
+Lfinger3
+  rotate: 270
+  xy: 0, 458
+  size: 48, 86
+  orig: 48, 86
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: 180
+  xy: 142, 114
+  size: 81, 91
+  orig: 234, 278
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 219, 94
+  size: 144, 145
+  orig: 159, 224
+  offset: 15, 0
+  index: -1
+Lshoulder
+  rotate: 270
+  xy: 329, 176
+  size: 167, 183
+  orig: 210, 190
+  offset: 8, 7
+  index: -1
+Lthumb
+  rotate: true
+  xy: 0, 20
+  size: 48, 109
+  orig: 48, 109
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 238, 1
+  size: 98, 94
+  orig: 265, 94
+  offset: 0, 0
+  index: -1
+Rfinger1
+  rotate: true
+  xy: 334, 7
+  size: 53, 112
+  orig: 53, 112
+  offset: 0, 0
+  index: -1
+Rfinger4
+  rotate: 180
+  xy: 476, 2
+  size: 36, 84
+  orig: 36, 84
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: 180
+  xy: 0, 66
+  size: 145, 144
+  orig: 285, 223
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 291, 329
+  size: 178, 155
+  orig: 181, 155
+  offset: 3, 0
+  index: -1
+Rthumb
+  rotate: 180
+  xy: 289, 232
+  size: 47, 100
+  orig: 47, 100
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 86, 486
+  size: 18, 20
+  orig: 20, 21
+  offset: 1, 1
+  index: -1
+insidehead
+  rotate: false
+  xy: 242, 460
+  size: 60, 47
+  orig: 60, 47
+  offset: 0, 0
+  index: -1
+insideheaddeath
+  rotate: false
+  xy: 0, 208
+  size: 60, 47
+  orig: 60, 47
+  offset: 0, 0
+  index: -1
+orb
+  rotate: 270
+  xy: 131, 4
+  size: 110, 108
+  orig: 110, 108
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: 180
+  xy: 362, 46
+  size: 137, 134
+  orig: 174, 134
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 0, 195
+  size: 293, 311
+  orig: 293, 311
+  offset: 0, 0
+  index: -1
+
+SD_Monster_ArtifactGolem2.png
+size: 114,408
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 0, 194
+  size: 91, 102
+  orig: 271, 125
+  offset: 180, 0
+  index: -1
+Lfinger2
+  rotate: true
+  xy: 0, 83
+  size: 42, 113
+  orig: 42, 113
+  offset: 0, 0
+  index: -1
+Rfinger2
+  rotate: 270
+  xy: 0, 33
+  size: 56, 105
+  orig: 56, 105
+  offset: 0, 0
+  index: -1
+Rfinger3
+  rotate: 270
+  xy: 5, 1
+  size: 51, 94
+  orig: 51, 94
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: true
+  xy: 13, 119
+  size: 83, 90
+  orig: 83, 90
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 0, 283
+  size: 112, 125
+  orig: 112, 125
+  offset: 0, 0
+  index: -1

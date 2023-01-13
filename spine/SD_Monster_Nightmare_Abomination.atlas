@@ -1,0 +1,159 @@
+
+SD_Monster_Nightmare_Abomination.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 0, 285
+  size: 175, 224
+  orig: 175, 224
+  offset: 0, 0
+  index: -1
+Larmpitguard
+  rotate: false
+  xy: 441, 429
+  size: 54, 80
+  orig: 54, 80
+  offset: 0, 0
+  index: -1
+Lclaw2
+  rotate: false
+  xy: 175, 455
+  size: 57, 53
+  orig: 57, 53
+  offset: 0, 0
+  index: -1
+Lhead
+  rotate: false
+  xy: 155, 25
+  size: 113, 196
+  orig: 113, 196
+  offset: 0, 0
+  index: -1
+Ljaw
+  rotate: true
+  xy: 0, 2
+  size: 77, 104
+  orig: 77, 104
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 300, 437
+  size: 71, 141
+  orig: 71, 141
+  offset: 0, 0
+  index: -1
+Lshoulderplate
+  rotate: true
+  xy: 289, 122
+  size: 123, 198
+  orig: 123, 198
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 323, 245
+  size: 180, 171
+  orig: 180, 171
+  offset: 0, 0
+  index: -1
+Rarmpitguard
+  rotate: false
+  xy: 175, 344
+  size: 20, 60
+  orig: 20, 60
+  offset: 0, 0
+  index: -1
+Rshoulderplate
+  rotate: true
+  xy: 268, 31
+  size: 92, 186
+  orig: 92, 186
+  offset: 0, 0
+  index: -1
+bottomjaw
+  rotate: false
+  xy: 104, 11
+  size: 47, 67
+  orig: 47, 67
+  offset: 0, 0
+  index: -1
+claw2
+  rotate: false
+  xy: 0, 223
+  size: 31, 63
+  orig: 31, 63
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 31, 256
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+tail
+  rotate: 180
+  xy: 78, 220
+  size: 245, 236
+  orig: 245, 246
+  offset: 0, 10
+  index: -1
+torso
+  rotate: true
+  xy: 0, 78
+  size: 144, 156
+  orig: 144, 156
+  offset: 0, 0
+  index: -1
+
+SD_Monster_Nightmare_Abomination2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lclaw1
+  rotate: true
+  xy: 148, 312
+  size: 134, 104
+  orig: 134, 104
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 252, 319
+  size: 104, 127
+  orig: 104, 127
+  offset: 0, 0
+  index: -1
+claw1
+  rotate: true
+  xy: 252, 225
+  size: 89, 118
+  orig: 89, 118
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 0, 310
+  size: 149, 136
+  orig: 149, 139
+  offset: 0, 3
+  index: -1
+pelvisplate
+  rotate: false
+  xy: 110, 225
+  size: 68, 87
+  orig: 68, 87
+  offset: 0, 0
+  index: -1
+topshell
+  rotate: true
+  xy: 356, 314
+  size: 132, 89
+  orig: 132, 89
+  offset: 0, 0
+  index: -1

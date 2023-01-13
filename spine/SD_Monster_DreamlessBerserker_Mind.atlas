@@ -1,0 +1,167 @@
+
+SD_Monster_DreamlessBerserker_Mind.png
+size: 500,484
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 0, 2
+  size: 46, 104
+  orig: 46, 104
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: false
+  xy: 443, 95
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: true
+  xy: 239, 223
+  size: 135, 168
+  orig: 135, 168
+  offset: 0, 0
+  index: -1
+Lshin
+  rotate: true
+  xy: 104, 10
+  size: 38, 65
+  orig: 38, 65
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 407, 136
+  size: 86, 84
+  orig: 86, 84
+  offset: 0, 0
+  index: -1
+Lthigh
+  rotate: true
+  xy: 220, 11
+  size: 37, 56
+  orig: 37, 56
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 375, 89
+  size: 31, 66
+  orig: 31, 66
+  offset: 0, 0
+  index: -1
+Rclaws
+  rotate: true
+  xy: 256, 50
+  size: 53, 68
+  orig: 53, 68
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: true
+  xy: 169, 6
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 256, 155
+  size: 68, 151
+  orig: 68, 151
+  offset: 0, 0
+  index: -1
+Rshin
+  rotate: false
+  xy: 406, 92
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 324, 1
+  size: 59, 61
+  orig: 59, 61
+  offset: 0, 0
+  index: -1
+Rthigh
+  rotate: true
+  xy: 324, 62
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: true
+  xy: 374, 64
+  size: 25, 61
+  orig: 25, 61
+  offset: 0, 0
+  index: -1
+chest_dark
+  rotate: false
+  xy: 435, 36
+  size: 63, 56
+  orig: 63, 56
+  offset: 0, 0
+  index: -1
+eye_glow
+  rotate: true
+  xy: 276, 0
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+eye_mid
+  rotate: true
+  xy: 478, 426
+  size: 56, 18
+  orig: 56, 18
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 0, 218
+  size: 239, 264
+  orig: 239, 264
+  offset: 0, 0
+  index: -1
+jaw_dark
+  rotate: true
+  xy: 426, 363
+  size: 119, 52
+  orig: 119, 52
+  offset: 0, 0
+  index: -1
+jaw_glow
+  rotate: false
+  xy: 256, 103
+  size: 119, 52
+  orig: 119, 52
+  offset: 0, 0
+  index: -1
+mane
+  rotate: true
+  xy: 0, 48
+  size: 170, 256
+  orig: 170, 256
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: true
+  xy: 407, 220
+  size: 138, 78
+  orig: 138, 78
+  offset: 0, 0
+  index: -1
+torso
+  rotate: true
+  xy: 239, 358
+  size: 124, 187
+  orig: 124, 187
+  offset: 0, 0
+  index: -1

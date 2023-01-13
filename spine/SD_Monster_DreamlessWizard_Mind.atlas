@@ -1,0 +1,195 @@
+
+SD_Monster_DreamlessWizard_Mind.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: 180
+  xy: 852, 510
+  size: 167, 184
+  orig: 167, 184
+  offset: 0, 0
+  index: -1
+Lcape
+  rotate: false
+  xy: 517, 618
+  size: 211, 210
+  orig: 211, 210
+  offset: 0, 0
+  index: -1
+Lcoat
+  rotate: false
+  xy: 5, 707
+  size: 266, 313
+  orig: 266, 313
+  offset: 0, 0
+  index: -1
+Lcollar
+  rotate: false
+  xy: 5, 548
+  size: 114, 155
+  orig: 114, 155
+  offset: 0, 0
+  index: -1
+Lshoulderplate
+  rotate: true
+  xy: 5, 440
+  size: 104, 114
+  orig: 104, 114
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 423, 462
+  size: 151, 168
+  orig: 151, 168
+  offset: 0, 0
+  index: -1
+Rcape
+  rotate: true
+  xy: 660, 480
+  size: 99, 193
+  orig: 99, 193
+  offset: 0, 0
+  index: -1
+Rcoat
+  rotate: 270
+  xy: 602, 532
+  size: 129, 254
+  orig: 129, 254
+  offset: 0, 0
+  index: -1
+Rcollar
+  rotate: false
+  xy: 966, 901
+  size: 42, 119
+  orig: 42, 119
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 378, 759
+  size: 221, 261
+  orig: 221, 261
+  offset: 0, 0
+  index: -1
+chain
+  rotate: 180
+  xy: 674, 417
+  size: 185, 109
+  orig: 185, 112
+  offset: 0, 3
+  index: -1
+crystal1
+  rotate: false
+  xy: 943, 705
+  size: 67, 115
+  orig: 67, 115
+  offset: 0, 0
+  index: -1
+crystal2
+  rotate: false
+  xy: 235, 848
+  size: 36, 56
+  orig: 36, 56
+  offset: 0, 0
+  index: -1
+crystal3
+  rotate: false
+  xy: 744, 712
+  size: 41, 76
+  orig: 41, 76
+  offset: 0, 0
+  index: -1
+crystal4
+  rotate: false
+  xy: 966, 842
+  size: 34, 55
+  orig: 34, 55
+  offset: 0, 0
+  index: -1
+eyedeath
+  rotate: false
+  xy: 505, 446
+  size: 77, 26
+  orig: 77, 26
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 378, 562
+  size: 78, 32
+  orig: 78, 32
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 789, 665
+  size: 150, 155
+  orig: 150, 155
+  offset: 0, 0
+  index: -1
+hat1
+  rotate: false
+  xy: 591, 791
+  size: 194, 229
+  orig: 194, 229
+  offset: 0, 0
+  index: -1
+hat2
+  rotate: true
+  xy: 130, 548
+  size: 290, 140
+  orig: 290, 140
+  offset: 0, 0
+  index: -1
+hat3
+  rotate: 180
+  xy: 881, 446
+  size: 130, 108
+  orig: 130, 108
+  offset: 0, 0
+  index: -1
+horns
+  rotate: false
+  xy: 789, 824
+  size: 173, 196
+  orig: 173, 196
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 579, 476
+  size: 77, 27
+  orig: 77, 27
+  offset: 0, 0
+  index: -1
+neckbelt
+  rotate: true
+  xy: 241, 431
+  size: 100, 109
+  orig: 100, 109
+  offset: 0, 0
+  index: -1
+neckfoldback
+  rotate: true
+  xy: 123, 444
+  size: 100, 114
+  orig: 100, 114
+  offset: 0, 0
+  index: -1
+neckfoldfront
+  rotate: true
+  xy: 378, 598
+  size: 157, 129
+  orig: 157, 129
+  offset: 0, 0
+  index: -1
+staff
+  rotate: false
+  xy: 275, 535
+  size: 99, 485
+  orig: 99, 485
+  offset: 0, 0
+  index: -1

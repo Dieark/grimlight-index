@@ -1,0 +1,160 @@
+
+sD_Monster_ImpScyth.png
+size: 512,344
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 0, 23
+  size: 53, 72
+  orig: 53, 72
+  offset: 0, 0
+  index: -1
+Lclaw
+  rotate: false
+  xy: 387, 308
+  size: 33, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+Lhorn
+  rotate: true
+  xy: 323, 91
+  size: 62, 106
+  orig: 66, 107
+  offset: 0, 1
+  index: -1
+Lleg
+  rotate: false
+  xy: 491, 201
+  size: 20, 52
+  orig: 20, 52
+  offset: 0, 0
+  index: -1
+Lnail
+  rotate: false
+  xy: 373, 329
+  size: 8, 15
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+Lwing
+  rotate: false
+  xy: 323, 153
+  size: 103, 192
+  orig: 103, 192
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 429, 25
+  size: 48, 85
+  orig: 48, 85
+  offset: 0, 0
+  index: -1
+Rear
+  rotate: true
+  xy: 323, 189
+  size: 60, 41
+  orig: 60, 41
+  offset: 0, 0
+  index: -1
+Rhorn
+  rotate: true
+  xy: 142, 49
+  size: 46, 95
+  orig: 48, 95
+  offset: 1, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 402, 260
+  size: 21, 49
+  orig: 21, 49
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 471, 204
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+Rwing
+  rotate: true
+  xy: 0, 21
+  size: 75, 161
+  orig: 75, 161
+  offset: 0, 0
+  index: -1
+backjaw
+  rotate: false
+  xy: 334, 51
+  size: 88, 40
+  orig: 88, 40
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 429, 110
+  size: 69, 71
+  orig: 70, 71
+  offset: 0, 0
+  index: -1
+bottomjaw
+  rotate: false
+  xy: 237, 50
+  size: 97, 41
+  orig: 98, 42
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 449, 182
+  size: 63, 11
+  orig: 64, 12
+  offset: 0, 1
+  index: -1
+eyedeath
+  rotate: false
+  xy: 334, 26
+  size: 64, 25
+  orig: 66, 26
+  offset: 1, 1
+  index: -1
+eyemid
+  rotate: false
+  xy: 56, 84
+  size: 62, 11
+  orig: 64, 12
+  offset: 1, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 323, 162
+  size: 64, 15
+  orig: 68, 17
+  offset: 2, 1
+  index: -1
+head
+  rotate: true
+  xy: 426, 179
+  size: 165, 85
+  orig: 165, 85
+  offset: 0, 0
+  index: -1
+scythe
+  rotate: false
+  xy: 0, 95
+  size: 323, 249
+  orig: 325, 250
+  offset: 1, 1
+  index: -1
+tail
+  rotate: 180
+  xy: 422, 1
+  size: 79, 63
+  orig: 79, 63
+  offset: 0, 0
+  index: -1

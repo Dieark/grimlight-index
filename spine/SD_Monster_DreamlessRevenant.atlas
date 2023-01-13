@@ -1,0 +1,341 @@
+
+SD_Monster_DreamlessRevenant.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lhorn
+  rotate: true
+  xy: 317, 3
+  size: 31, 97
+  orig: 31, 97
+  offset: 0, 0
+  index: -1
+Lshouldericicle1
+  rotate: false
+  xy: 211, 283
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+Lshouldericicle2
+  rotate: false
+  xy: 76, 57
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+Rarmcape
+  rotate: true
+  xy: 275, 12
+  size: 112, 233
+  orig: 112, 233
+  offset: 0, 0
+  index: -1
+Rhorn
+  rotate: false
+  xy: 412, 97
+  size: 44, 105
+  orig: 44, 105
+  offset: 0, 0
+  index: -1
+Rshoulderarmor
+  rotate: false
+  xy: 0, 60
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+Rshoulderblack
+  rotate: false
+  xy: 371, 416
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+Rshouldericicle1
+  rotate: false
+  xy: 459, 274
+  size: 47, 24
+  orig: 47, 24
+  offset: 0, 0
+  index: -1
+Rshouldericicle2
+  rotate: false
+  xy: 353, 415
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+Rshouldericicle3
+  rotate: false
+  xy: 93, 329
+  size: 14, 31
+  orig: 14, 31
+  offset: 0, 0
+  index: -1
+beltarmor
+  rotate: false
+  xy: 414, 298
+  size: 91, 63
+  orig: 91, 63
+  offset: 0, 0
+  index: -1
+beltfluff
+  rotate: false
+  xy: 0, 201
+  size: 105, 24
+  orig: 105, 24
+  offset: 0, 0
+  index: -1
+chest
+  rotate: false
+  xy: 0, 225
+  size: 112, 104
+  orig: 112, 104
+  offset: 0, 0
+  index: -1
+chestblack
+  rotate: true
+  xy: 347, 115
+  size: 34, 64
+  orig: 34, 64
+  offset: 0, 0
+  index: -1
+eyeglow
+  rotate: false
+  xy: 25, 424
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+faceinside
+  rotate: true
+  xy: 250, 2
+  size: 61, 67
+  orig: 61, 67
+  offset: 0, 0
+  index: -1
+helmet
+  rotate: false
+  xy: 0, 337
+  size: 93, 86
+  orig: 93, 86
+  offset: 0, 0
+  index: -1
+neckicicle1
+  rotate: false
+  xy: 0, 502
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+neckicicle2
+  rotate: false
+  xy: 19, 506
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+neckicicle3
+  rotate: false
+  xy: 0, 426
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+neckicicle4
+  rotate: false
+  xy: 280, 414
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+neckicicle5
+  rotate: false
+  xy: 503, 501
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+neckicicle6
+  rotate: false
+  xy: 14, 503
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+orbicicles
+  rotate: false
+  xy: 395, 361
+  size: 108, 152
+  orig: 108, 152
+  offset: 0, 0
+  index: -1
+skirt1
+  rotate: false
+  xy: 456, 96
+  size: 56, 112
+  orig: 56, 112
+  offset: 0, 0
+  index: -1
+skirt2
+  rotate: true
+  xy: 0, 5
+  size: 54, 111
+  orig: 54, 111
+  offset: 0, 0
+  index: -1
+skirt3
+  rotate: 270
+  xy: 112, 265
+  size: 38, 99
+  orig: 38, 99
+  offset: 0, 0
+  index: -1
+smoke2
+  rotate: false
+  xy: 0, 4
+  size: 389, 196
+  orig: 389, 196
+  offset: 0, 0
+  index: -1
+smoke3
+  rotate: 180
+  xy: 116, 200
+  size: 396, 209
+  orig: 396, 209
+  offset: 0, 0
+  index: -1
+smoke5
+  rotate: false
+  xy: 0, 302
+  size: 396, 210
+  orig: 396, 210
+  offset: 0, 0
+  index: -1
+
+SD_Monster_DreamlessRevenant2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larmcape
+  rotate: false
+  xy: 0, 235
+  size: 69, 215
+  orig: 69, 215
+  offset: 0, 0
+  index: -1
+Lbeltaccessory
+  rotate: false
+  xy: 0, 232
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+Lshoulderarmor
+  rotate: false
+  xy: 67, 271
+  size: 48, 65
+  orig: 48, 65
+  offset: 0, 0
+  index: -1
+Lshoulderpuff
+  rotate: false
+  xy: 405, 463
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+Rbeltaccessory
+  rotate: false
+  xy: 417, 328
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+Rshoulderglow
+  rotate: false
+  xy: 115, 263
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+Rshoulderpuff
+  rotate: false
+  xy: 290, 162
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+chestglow
+  rotate: false
+  xy: 60, 359
+  size: 34, 64
+  orig: 34, 64
+  offset: 0, 0
+  index: -1
+collarband
+  rotate: false
+  xy: 351, 416
+  size: 77, 31
+  orig: 77, 31
+  offset: 0, 0
+  index: -1
+helmetblack
+  rotate: false
+  xy: 238, 188
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+helmetglow
+  rotate: false
+  xy: 401, 372
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+orbcase
+  rotate: false
+  xy: 168, 162
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+orbglow
+  rotate: false
+  xy: 0, 65
+  size: 169, 166
+  orig: 169, 166
+  offset: 0, 0
+  index: -1
+orbsnowflakebase
+  rotate: false
+  xy: 168, 101
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+orbsnowflakeglow
+  rotate: false
+  xy: 229, 101
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+smoke1
+  rotate: 180
+  xy: 122, 231
+  size: 390, 185
+  orig: 390, 185
+  offset: 0, 0
+  index: -1
+smoke4
+  rotate: false
+  xy: 0, 306
+  size: 405, 207
+  orig: 405, 207
+  offset: 0, 0
+  index: -1

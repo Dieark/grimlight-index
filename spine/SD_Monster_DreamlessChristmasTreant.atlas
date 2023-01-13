@@ -1,0 +1,195 @@
+
+SD_Monster_DreamlessChristmasTreant.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 412, 340
+  size: 65, 167
+  orig: 65, 167
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 301, 93
+  size: 52, 94
+  orig: 52, 94
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: 270
+  xy: 229, 133
+  size: 77, 122
+  orig: 77, 122
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 0, 91
+  size: 44, 81
+  orig: 44, 81
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 244
+  size: 242, 263
+  orig: 242, 263
+  offset: 0, 0
+  index: -1
+eyedark
+  rotate: false
+  xy: 473, 466
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+head
+  rotate: 180
+  xy: 216, 312
+  size: 204, 194
+  orig: 204, 194
+  offset: 0, 0
+  index: -1
+jaw_back
+  rotate: false
+  xy: 370, 304
+  size: 55, 67
+  orig: 55, 67
+  offset: 0, 0
+  index: -1
+ornament
+  rotate: false
+  xy: 188, 484
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+ornament2
+  rotate: false
+  xy: 192, 462
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+ornament2_glow
+  rotate: false
+  xy: 425, 266
+  size: 74, 75
+  orig: 74, 75
+  offset: 0, 0
+  index: -1
+ornament3
+  rotate: false
+  xy: 64, 455
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+ornament4
+  rotate: false
+  xy: 64, 455
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+ornament3_glow
+  rotate: false
+  xy: 425, 191
+  size: 74, 75
+  orig: 74, 75
+  offset: 0, 0
+  index: -1
+ornament4_glow
+  rotate: false
+  xy: 425, 191
+  size: 74, 75
+  orig: 74, 75
+  offset: 0, 0
+  index: -1
+ornament_glow
+  rotate: true
+  xy: 350, 144
+  size: 74, 75
+  orig: 74, 75
+  offset: 0, 0
+  index: -1
+roots
+  rotate: false
+  xy: 218, 88
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+roots2
+  rotate: false
+  xy: 85, 476
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+sash
+  rotate: 180
+  xy: 395, 63
+  size: 65, 82
+  orig: 65, 82
+  offset: 0, 0
+  index: -1
+sash2
+  rotate: 180
+  xy: 100, 71
+  size: 120, 77
+  orig: 120, 77
+  offset: 0, 0
+  index: -1
+sash3
+  rotate: 180
+  xy: 0, 133
+  size: 81, 171
+  orig: 81, 171
+  offset: 0, 0
+  index: -1
+shoulder
+  rotate: false
+  xy: 235, 207
+  size: 190, 157
+  orig: 190, 157
+  offset: 0, 0
+  index: -1
+star
+  rotate: true
+  xy: 477, 437
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+star_glow
+  rotate: true
+  xy: 425, 121
+  size: 71, 75
+  orig: 71, 75
+  offset: 0, 0
+  index: -1
+tree_back
+  rotate: 270
+  xy: 85, 114
+  size: 70, 107
+  orig: 70, 107
+  offset: 0, 0
+  index: -1
+tree_back2
+  rotate: true
+  xy: 0, 460
+  size: 46, 86
+  orig: 46, 86
+  offset: 0, 0
+  index: -1
+trunk
+  rotate: 270
+  xy: 36, 157
+  size: 127, 197
+  orig: 127, 197
+  offset: 0, 0
+  index: -1

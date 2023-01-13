@@ -1,0 +1,132 @@
+
+SD_Monster_Puppet.png
+size: 408,408
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 361, 347
+  size: 45, 60
+  orig: 45, 60
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: false
+  xy: 319, 156
+  size: 60, 47
+  orig: 60, 47
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: true
+  xy: 212, 44
+  size: 99, 110
+  orig: 99, 110
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 212, 11
+  size: 33, 56
+  orig: 33, 56
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 367, 241
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 0, 12
+  size: 49, 60
+  orig: 49, 60
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: false
+  xy: 60, 0
+  size: 45, 61
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 113, 173
+  size: 104, 109
+  orig: 104, 109
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 355, 52
+  size: 37, 50
+  orig: 37, 50
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 322, 102
+  size: 54, 37
+  orig: 54, 37
+  offset: 0, 0
+  index: -1
+backhat
+  rotate: true
+  xy: 0, 61
+  size: 221, 113
+  orig: 221, 113
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 217, 143
+  size: 102, 128
+  orig: 102, 128
+  offset: 0, 0
+  index: -1
+eyescrew
+  rotate: true
+  xy: 361, 295
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+feather
+  rotate: true
+  xy: 322, 36
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+hatrim
+  rotate: false
+  xy: 0, 282
+  size: 228, 125
+  orig: 228, 125
+  offset: 0, 0
+  index: -1
+hattop
+  rotate: true
+  xy: 113, 11
+  size: 162, 99
+  orig: 162, 99
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 228, 271
+  size: 136, 133
+  orig: 136, 133
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 319, 203
+  size: 68, 48
+  orig: 68, 48
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+SD_Monster_MushroomWater.png
+size: 328,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lhand
+  rotate: true
+  xy: 242, 135
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 242, 155
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+backcap
+  rotate: false
+  xy: 145, 8
+  size: 180, 103
+  orig: 180, 103
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 0
+  size: 145, 111
+  orig: 145, 111
+  offset: 0, 0
+  index: -1
+eyedeath
+  rotate: true
+  xy: 242, 176
+  size: 83, 35
+  orig: 83, 35
+  offset: 0, 0
+  index: -1
+frontteeth
+  rotate: true
+  xy: 265, 148
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 261, 132
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+mushroom cap
+  rotate: false
+  xy: 0, 111
+  size: 242, 148
+  orig: 242, 148
+  offset: 0, 0
+  index: -1

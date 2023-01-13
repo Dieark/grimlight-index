@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 423
+    "m_PathID": 393
   },
   "m_Name": "UnitData_CHAR0068_SugarPlumFairy",
   "removeFromGame": 0,
@@ -665,7 +665,9 @@
           "accountLevelOffset": 0
         }
       }
-    ]
+    ],
+    "heroStoriesItemList": [],
+    "heroSkinItemList": []
   },
   "skinAssetNames": [
     "UnitSkinAssets_Char0068_SugarPlumFairy"
@@ -725,25 +727,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 30544
+    "m_PathID": 2650
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 30022
+      "m_PathID": 2309
     },
     {
       "m_FileID": 0,
-      "m_PathID": 30023
+      "m_PathID": 2310
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 30021
+    "m_PathID": 2308
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 30020
+    "m_PathID": 2307
   },
   "Gender": 0,
   "Age": -1

@@ -1,0 +1,96 @@
+
+SD_Monster_HollowArmor.png
+size: 502,442
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack1_00030
+  rotate: true
+  xy: 429, 187
+  size: 127, 56
+  orig: 166, 166
+  offset: 18, 109
+  index: -1
+attack1_00031
+  rotate: true
+  xy: 425, 64
+  size: 122, 77
+  orig: 166, 166
+  offset: 16, 88
+  index: -1
+attack1_00033
+  rotate: false
+  xy: 331, 314
+  size: 105, 128
+  orig: 166, 166
+  offset: 16, 37
+  index: -1
+attack1_00034
+  rotate: false
+  xy: 331, 186
+  size: 98, 128
+  orig: 166, 166
+  offset: 15, 37
+  index: -1
+body
+  rotate: false
+  xy: 0, 180
+  size: 331, 262
+  orig: 333, 270
+  offset: 1, 0
+  index: -1
+sword
+  rotate: false
+  xy: 0, 0
+  size: 425, 180
+  orig: 426, 182
+  offset: 1, 2
+  index: -1
+
+SD_Monster_HollowArmor2.png
+size: 278,489
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rarm
+  rotate: false
+  xy: 186, 0
+  size: 91, 102
+  orig: 96, 103
+  offset: 5, 0
+  index: -1
+attack1_00032
+  rotate: true
+  xy: 186, 102
+  size: 114, 92
+  orig: 166, 166
+  offset: 16, 73
+  index: -1
+attack1_00035
+  rotate: false
+  xy: 146, 362
+  size: 98, 127
+  orig: 166, 166
+  offset: 14, 38
+  index: -1
+attack1_00036
+  rotate: false
+  xy: 146, 237
+  size: 97, 125
+  orig: 166, 166
+  offset: 14, 40
+  index: -1
+helmet
+  rotate: true
+  xy: 0, 9
+  size: 207, 186
+  orig: 208, 187
+  offset: 0, 0
+  index: -1
+shield
+  rotate: false
+  xy: 0, 216
+  size: 146, 273
+  orig: 146, 274
+  offset: 0, 0
+  index: -1

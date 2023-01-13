@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 401
+    "m_PathID": -7118662915785212894
   },
   "m_Name": "Ability_Santa_Active_RocketSleigh",
   "abilityID": "Ability_Santa_Active",
@@ -15,6 +15,7 @@
   "numberOfHits": 0,
   "timeFromStart": 0.0,
   "maximumCasts": 0,
+  "hpRatioPassiveThreshold": 0.0,
   "attackSequence": [
     {
       "attackType": 2,
@@ -111,7 +112,7 @@
     "displayType": 0,
     "abilityIcon": {
       "m_FileID": 0,
-      "m_PathID": 554
+      "m_PathID": 8698429622203387273
     }
   },
   "abilityUpgradeCostElement": 0,

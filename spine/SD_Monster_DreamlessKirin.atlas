@@ -1,0 +1,173 @@
+
+SD_Monster_DreamlessKirin.png
+size: 510,507
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lbackleg
+  rotate: true
+  xy: 373, 346
+  size: 41, 122
+  orig: 41, 122
+  offset: 0, 0
+  index: -1
+Lchesthair
+  rotate: false
+  xy: 0, 89
+  size: 119, 151
+  orig: 132, 151
+  offset: 13, 0
+  index: -1
+Lear
+  rotate: false
+  xy: 55, 201
+  size: 63, 40
+  orig: 63, 40
+  offset: 0, 0
+  index: -1
+Leyebrow
+  rotate: false
+  xy: 283, 460
+  size: 98, 47
+  orig: 98, 47
+  offset: 0, 0
+  index: -1
+Lfrontleg
+  rotate: 270
+  xy: 204, 1
+  size: 40, 124
+  orig: 40, 124
+  offset: 0, 0
+  index: -1
+Lhip
+  rotate: 180
+  xy: 293, 8
+  size: 94, 161
+  orig: 94, 161
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 131, 27
+  size: 61, 110
+  orig: 62, 115
+  offset: 1, 1
+  index: -1
+Rbackleg
+  rotate: 180
+  xy: 472, 142
+  size: 37, 110
+  orig: 37, 110
+  offset: 0, 0
+  index: -1
+Rfrontleg
+  rotate: false
+  xy: 468, 389
+  size: 36, 119
+  orig: 36, 119
+  offset: 0, 0
+  index: -1
+Rhip
+  rotate: true
+  xy: 372, 11
+  size: 50, 99
+  orig: 54, 99
+  offset: 4, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 412, 386
+  size: 56, 121
+  orig: 57, 121
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 238
+  size: 291, 270
+  orig: 291, 270
+  offset: 0, 0
+  index: -1
+chestlight
+  rotate: true
+  xy: 0, 17
+  size: 72, 132
+  orig: 72, 132
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 0, 490
+  size: 23, 17
+  orig: 25, 18
+  offset: 1, 1
+  index: -1
+eyemid
+  rotate: false
+  xy: 0, 475
+  size: 23, 15
+  orig: 25, 16
+  offset: 1, 0
+  index: -1
+fangs
+  rotate: false
+  xy: 23, 495
+  size: 22, 12
+  orig: 24, 14
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 121, 88
+  size: 174, 226
+  orig: 175, 231
+  offset: 1, 5
+  index: -1
+mane
+  rotate: 270
+  xy: 295, 60
+  size: 207, 189
+  orig: 207, 189
+  offset: 0, 0
+  index: -1
+mouthclosed
+  rotate: false
+  xy: 139, 314
+  size: 74, 18
+  orig: 74, 18
+  offset: 0, 0
+  index: -1
+tail
+  rotate: 180
+  xy: 280, 244
+  size: 201, 213
+  orig: 201, 213
+  offset: 0, 0
+  index: -1
+
+SD_Monster_DreamlessKirin2.png
+size: 87,164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rchesthair1
+  rotate: true
+  xy: 25, 1
+  size: 52, 55
+  orig: 52, 57
+  offset: 0, 1
+  index: -1
+Rchesthair2
+  rotate: false
+  xy: 0, 42
+  size: 66, 122
+  orig: 66, 122
+  offset: 0, 0
+  index: -1
+mouthopen
+  rotate: true
+  xy: 38, 53
+  size: 61, 48
+  orig: 63, 49
+  offset: 1, 0
+  index: -1

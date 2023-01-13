@@ -1,0 +1,215 @@
+
+SD_Monster_DreamlessExecutioner_Night.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lfoot
+  rotate: true
+  xy: 456, 1
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 452, 93
+  size: 47, 67
+  orig: 47, 67
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 115, 4
+  size: 59, 69
+  orig: 59, 69
+  offset: 0, 0
+  index: -1
+Rpauldron
+  rotate: true
+  xy: 0, 16
+  size: 46, 116
+  orig: 46, 116
+  offset: 0, 0
+  index: -1
+Rshin
+  rotate: false
+  xy: 452, 159
+  size: 41, 102
+  orig: 41, 102
+  offset: 0, 0
+  index: -1
+Rthigh
+  rotate: false
+  xy: 456, 36
+  size: 46, 58
+  orig: 46, 58
+  offset: 0, 0
+  index: -1
+head_spike_back
+  rotate: false
+  xy: 184, 42
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+slash2
+  rotate: false
+  xy: 213, 20
+  size: 243, 68
+  orig: 248, 70
+  offset: 2, 1
+  index: -1
+slash3
+  rotate: true
+  xy: 0, 62
+  size: 209, 213
+  orig: 215, 216
+  offset: 3, 2
+  index: -1
+slash4
+  rotate: false
+  xy: 274, 261
+  size: 210, 245
+  orig: 215, 249
+  offset: 2, 2
+  index: -1
+slash5
+  rotate: false
+  xy: 0, 271
+  size: 274, 235
+  orig: 278, 239
+  offset: 1, 2
+  index: -1
+torso
+  rotate: true
+  xy: 213, 88
+  size: 173, 239
+  orig: 173, 239
+  offset: 0, 0
+  index: -1
+
+SD_Monster_DreamlessExecutioner_Night2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 85, 57
+  size: 107, 155
+  orig: 107, 155
+  offset: 0, 0
+  index: -1
+Larm2
+  rotate: true
+  xy: 209, 168
+  size: 130, 126
+  orig: 130, 126
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 0, 35
+  size: 81, 72
+  orig: 81, 72
+  offset: 0, 0
+  index: -1
+Lknee
+  rotate: false
+  xy: 415, 444
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+Lpauldron
+  rotate: false
+  xy: 85, 163
+  size: 124, 136
+  orig: 124, 136
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 396, 229
+  size: 94, 161
+  orig: 94, 161
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: false
+  xy: 410, 169
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+Rknee
+  rotate: false
+  xy: 415, 400
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 85, 298
+  size: 141, 193
+  orig: 141, 193
+  offset: 0, 0
+  index: -1
+head_spike
+  rotate: false
+  xy: 80, 27
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: true
+  xy: 300, 325
+  size: 166, 116
+  orig: 166, 149
+  offset: 0, 0
+  index: -1
+shield
+  rotate: false
+  xy: 226, 301
+  size: 75, 190
+  orig: 75, 190
+  offset: 0, 0
+  index: -1
+slash1
+  rotate: true
+  xy: 325, 20
+  size: 148, 85
+  orig: 153, 90
+  offset: 3, 3
+  index: -1
+sword
+  rotate: false
+  xy: 0, 107
+  size: 85, 384
+  orig: 85, 384
+  offset: 0, 0
+  index: -1
+sword_cloth
+  rotate: false
+  xy: 334, 184
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+torso2
+  rotate: true
+  xy: 334, 215
+  size: 110, 85
+  orig: 110, 85
+  offset: 0, 0
+  index: -1
+torso_back
+  rotate: false
+  xy: 239, 7
+  size: 86, 161
+  orig: 86, 161
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,300 @@
+
+SD_Monster_DreamlessDrengr.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Helmet
+  rotate: false
+  xy: 210, 227
+  size: 71, 87
+  orig: 71, 87
+  offset: 0, 0
+  index: -1
+Lbottomleg
+  rotate: false
+  xy: 262, 55
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+Lfingers
+  rotate: true
+  xy: 256, 412
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: true
+  xy: 282, 406
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+Lfootarmor
+  rotate: false
+  xy: 144, 6
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+Lhandarmor
+  rotate: false
+  xy: 281, 251
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+Lhorn
+  rotate: true
+  xy: 233, 5
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+Lpalm
+  rotate: false
+  xy: 276, 140
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+Lshoulderamor
+  rotate: false
+  xy: 222, 103
+  size: 54, 69
+  orig: 54, 69
+  offset: 0, 0
+  index: -1
+Lshoulderfluff
+  rotate: true
+  xy: 70, 3
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+Lshouldermirror
+  rotate: true
+  xy: 279, 428
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: true
+  xy: 178, 7
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+Lupperarm
+  rotate: true
+  xy: 224, 184
+  size: 43, 85
+  orig: 43, 85
+  offset: 0, 0
+  index: -1
+Lupperleg
+  rotate: true
+  xy: 326, 316
+  size: 36, 56
+  orig: 36, 56
+  offset: 0, 0
+  index: -1
+Rbottomleg
+  rotate: false
+  xy: 222, 54
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+Rfootarmor
+  rotate: true
+  xy: 116, 0
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 382, 448
+  size: 38, 64
+  orig: 38, 64
+  offset: 0, 0
+  index: -1
+Rhandarmor
+  rotate: false
+  xy: 279, 442
+  size: 58, 70
+  orig: 58, 70
+  offset: 0, 0
+  index: -1
+Rhorn
+  rotate: true
+  xy: 337, 449
+  size: 63, 45
+  orig: 63, 45
+  offset: 0, 0
+  index: -1
+Rshoulder puff
+  rotate: false
+  xy: 420, 460
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+Rshoulderarmor
+  rotate: true
+  xy: 130, 224
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+Rshouldericicle1
+  rotate: false
+  xy: 299, 415
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Rshouldericicle2
+  rotate: true
+  xy: 281, 229
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+Rshouldericicle3
+  rotate: false
+  xy: 226, 414
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+Rshouldericicle4
+  rotate: true
+  xy: 271, 9
+  size: 46, 38
+  orig: 46, 38
+  offset: 0, 0
+  index: -1
+Rshouldericicle5
+  rotate: false
+  xy: 212, 9
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Rshouldermirror
+  rotate: false
+  xy: 297, 232
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+Rupperarm
+  rotate: false
+  xy: 226, 428
+  size: 53, 84
+  orig: 53, 84
+  offset: 0, 0
+  index: -1
+Rupperleg
+  rotate: false
+  xy: 326, 352
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 130, 172
+  size: 94, 52
+  orig: 94, 52
+  offset: 0, 0
+  index: -1
+cape
+  rotate: true
+  xy: 0, 30
+  size: 136, 222
+  orig: 136, 222
+  offset: 0, 0
+  index: -1
+chest
+  rotate: false
+  xy: 130, 404
+  size: 96, 108
+  orig: 96, 108
+  offset: 0, 0
+  index: -1
+chestblack
+  rotate: true
+  xy: 386, 409
+  size: 39, 60
+  orig: 39, 60
+  offset: 0, 0
+  index: -1
+chestglow
+  rotate: true
+  xy: 369, 369
+  size: 39, 61
+  orig: 39, 61
+  offset: 0, 0
+  index: -1
+eyeglow
+  rotate: true
+  xy: 226, 404
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+headbottom
+  rotate: false
+  xy: 218, 314
+  size: 65, 90
+  orig: 65, 90
+  offset: 0, 0
+  index: -1
+helmetglow
+  rotate: true
+  xy: 276, 106
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+helmetjaw
+  rotate: true
+  xy: 283, 340
+  size: 66, 43
+  orig: 66, 43
+  offset: 0, 0
+  index: -1
+skirtarmor1
+  rotate: true
+  xy: 130, 314
+  size: 90, 88
+  orig: 90, 88
+  offset: 0, 0
+  index: -1
+skirtarmor2
+  rotate: true
+  xy: 312, 408
+  size: 34, 74
+  orig: 34, 74
+  offset: 0, 0
+  index: -1
+skirtarmor3
+  rotate: true
+  xy: 0, 3
+  size: 27, 70
+  orig: 27, 70
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 0, 166
+  size: 130, 346
+  orig: 130, 346
+  offset: 0, 0
+  index: -1

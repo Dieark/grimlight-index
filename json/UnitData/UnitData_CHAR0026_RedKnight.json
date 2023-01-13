@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 390
+    "m_PathID": 425
   },
   "m_Name": "UnitData_CHAR0026_RedKnight",
   "removeFromGame": 0,
@@ -665,6 +665,25 @@
           "accountLevelOffset": 0
         }
       }
+    ],
+    "heroStoriesItemList": [],
+    "heroSkinItemList": [
+      {
+        "objectType": 17,
+        "objectID": "RedKnight_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "RedKnight_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "RedKnight_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "RedKnight_Skin1"
+      }
     ]
   },
   "skinAssetNames": [
@@ -726,21 +745,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2616
+    "m_PathID": 30656
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2254
+      "m_PathID": 30102
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2253
+    "m_PathID": 30101
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2252
+    "m_PathID": 30100
   },
   "Gender": 0,
   "Age": 36

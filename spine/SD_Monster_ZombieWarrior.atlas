@@ -1,0 +1,104 @@
+
+SD_Monster_ZombieWarrior.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 211, 92
+  size: 51, 110
+  orig: 51, 110
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 230, 242
+  size: 36, 78
+  orig: 36, 78
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 184, 202
+  size: 46, 118
+  orig: 46, 118
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 128, 196
+  size: 56, 124
+  orig: 56, 124
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 81, 186
+  size: 47, 134
+  orig: 47, 134
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 0, 177
+  size: 81, 335
+  orig: 81, 335
+  offset: 0, 0
+  index: -1
+bigscrew
+  rotate: true
+  xy: 149, 0
+  size: 74, 87
+  orig: 74, 87
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 81, 320
+  size: 158, 192
+  orig: 158, 192
+  offset: 0, 0
+  index: -1
+collar
+  rotate: true
+  xy: 149, 74
+  size: 122, 62
+  orig: 122, 62
+  offset: 0, 0
+  index: -1
+collarlights
+  rotate: true
+  xy: 236, 7
+  size: 85, 35
+  orig: 85, 35
+  offset: 0, 0
+  index: -1
+gownribbon
+  rotate: true
+  xy: 230, 214
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 0, 17
+  size: 149, 160
+  orig: 149, 160
+  offset: 0, 0
+  index: -1
+screwlights
+  rotate: false
+  xy: 262, 146
+  size: 27, 68
+  orig: 27, 68
+  offset: 0, 0
+  index: -1
+smallscrew
+  rotate: false
+  xy: 262, 119
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1

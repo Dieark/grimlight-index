@@ -1,0 +1,167 @@
+
+SD_Monster_PumpkinWarrior.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 253, 187
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+Larmarmor
+  rotate: false
+  xy: 247, 66
+  size: 51, 58
+  orig: 51, 58
+  offset: 0, 0
+  index: -1
+Lfingers
+  rotate: false
+  xy: 490, 239
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 253, 124
+  size: 46, 63
+  orig: 46, 63
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 467, 37
+  size: 43, 51
+  orig: 43, 51
+  offset: 0, 0
+  index: -1
+Rarmarmor
+  rotate: false
+  xy: 245, 8
+  size: 51, 58
+  orig: 51, 58
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 467, 12
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 182, 41
+  size: 63, 58
+  orig: 63, 58
+  offset: 0, 0
+  index: -1
+blackjaggedhalf1
+  rotate: true
+  xy: 371, 166
+  size: 93, 119
+  orig: 93, 119
+  offset: 0, 0
+  index: -1
+blackjaggedhalf2
+  rotate: true
+  xy: 361, 0
+  size: 88, 106
+  orig: 88, 106
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 371, 259
+  size: 130, 164
+  orig: 130, 164
+  offset: 0, 0
+  index: -1
+cape
+  rotate: false
+  xy: 0, 223
+  size: 142, 124
+  orig: 142, 124
+  offset: 0, 0
+  index: -1
+chestplate
+  rotate: true
+  xy: 96, 76
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+eyeball
+  rotate: true
+  xy: 182, 99
+  size: 58, 65
+  orig: 58, 65
+  offset: 0, 0
+  index: -1
+pumpkin1
+  rotate: false
+  xy: 142, 251
+  size: 165, 96
+  orig: 165, 96
+  offset: 0, 0
+  index: -1
+pumpkin1back
+  rotate: true
+  xy: 301, 128
+  size: 93, 64
+  orig: 93, 64
+  offset: 0, 0
+  index: -1
+pumpkin2
+  rotate: false
+  xy: 307, 221
+  size: 64, 126
+  orig: 64, 126
+  offset: 0, 0
+  index: -1
+pumpkin3
+  rotate: true
+  xy: 501, 407
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+pumpkin4
+  rotate: false
+  xy: 142, 157
+  size: 111, 94
+  orig: 111, 94
+  offset: 0, 0
+  index: -1
+pumpkin5
+  rotate: true
+  xy: 365, 88
+  size: 78, 131
+  orig: 78, 131
+  offset: 0, 0
+  index: -1
+stem
+  rotate: false
+  xy: 299, 59
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 0, 130
+  size: 93, 96
+  orig: 93, 96
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 0, 347
+  size: 371, 76
+  orig: 371, 76
+  offset: 0, 0
+  index: -1

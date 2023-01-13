@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 393
   },
   "m_Name": "UnitData_CHAR0051_Thumbelina",
   "removeFromGame": 0,
@@ -665,6 +665,62 @@
           "accountLevelOffset": 0
         }
       }
+    ],
+    "heroStoriesItemList": [
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryThumbelina_1"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryThumbelina_2"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryThumbelina_3"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryThumbelina_4"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryThumbelina_5"
+      }
+    ],
+    "heroSkinItemList": [
+      {
+        "objectType": 17,
+        "objectID": "Thumbelina_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Thumbelina_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Thumbelina_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Thumbelina_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Thumbelina_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Thumbelina_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Thumbelina_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Thumbelina_Skin1"
+      }
     ]
   },
   "skinAssetNames": [
@@ -674,23 +730,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 3099279742904670568
+      "m_PathID": 2804
     },
     {
       "m_FileID": 0,
-      "m_PathID": 4236669375702369208
+      "m_PathID": 2805
     },
     {
       "m_FileID": 0,
-      "m_PathID": 1352868874424275150
+      "m_PathID": 2806
     },
     {
       "m_FileID": 0,
-      "m_PathID": 8674525734630934602
+      "m_PathID": 2807
     },
     {
       "m_FileID": 0,
-      "m_PathID": 4682044753545985528
+      "m_PathID": 2808
     }
   ],
   "unitStatData": {
@@ -718,7 +774,7 @@
     },
     "defense": {
       "statType": 1,
-      "yIntercept": 10.0,
+      "yIntercept": 13.0,
       "hasExponentialScale": 0
     },
     "critChance": 1.0,
@@ -747,21 +803,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 840071320476335747
+    "m_PathID": 2654
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": -2114362826527602485
+      "m_PathID": 2320
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": -4195332727738722511
+    "m_PathID": 2319
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": -1725589415349791535
+    "m_PathID": 2318
   },
   "Gender": 0,
   "Age": 19

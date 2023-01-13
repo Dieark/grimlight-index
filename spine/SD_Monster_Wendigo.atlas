@@ -1,0 +1,257 @@
+
+SD_Monster_Wendigo.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lfoot
+  rotate: true
+  xy: 333, 454
+  size: 58, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1
+Lthigharmor
+  rotate: false
+  xy: 0, 299
+  size: 63, 60
+  orig: 63, 60
+  offset: 0, 0
+  index: -1
+Rkneearmor
+  rotate: false
+  xy: 473, 282
+  size: 38, 61
+  orig: 38, 61
+  offset: 0, 0
+  index: -1
+attack
+  rotate: false
+  xy: 184, 112
+  size: 190, 164
+  orig: 190, 164
+  offset: 0, 0
+  index: -1
+attack2
+  rotate: true
+  xy: 0, 118
+  size: 179, 184
+  orig: 179, 184
+  offset: 0, 0
+  index: -1
+bonecircleL
+  rotate: true
+  xy: 0, 25
+  size: 94, 162
+  orig: 94, 162
+  offset: 0, 0
+  index: -1
+capefur
+  rotate: false
+  xy: 260, 277
+  size: 251, 222
+  orig: 251, 222
+  offset: 0, 0
+  index: -1
+hipbone
+  rotate: false
+  xy: 402, 65
+  size: 110, 217
+  orig: 110, 217
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: true
+  xy: 184, 278
+  size: 57, 73
+  orig: 57, 73
+  offset: 0, 0
+  index: -1
+mane
+  rotate: false
+  xy: 0, 297
+  size: 335, 216
+  orig: 344, 216
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: true
+  xy: 284, 7
+  size: 105, 110
+  orig: 105, 110
+  offset: 0, 0
+  index: -1
+spineback
+  rotate: false
+  xy: 394, 2
+  size: 115, 63
+  orig: 115, 63
+  offset: 0, 0
+  index: -1
+spinebackx
+  rotate: true
+  xy: 161, 15
+  size: 97, 122
+  orig: 97, 122
+  offset: 0, 0
+  index: -1
+
+SD_Monster_Wendigo2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 363, 158
+  size: 119, 122
+  orig: 119, 122
+  offset: 0, 0
+  index: -1
+Lfingers
+  rotate: false
+  xy: 147, 161
+  size: 97, 103
+  orig: 97, 103
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 285, 439
+  size: 82, 66
+  orig: 82, 66
+  offset: 0, 0
+  index: -1
+Lkneearmor
+  rotate: true
+  xy: 287, 85
+  size: 40, 53
+  orig: 40, 53
+  offset: 0, 0
+  index: -1
+Lthigh
+  rotate: true
+  xy: 0, 178
+  size: 60, 123
+  orig: 60, 123
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: true
+  xy: 231, 92
+  size: 40, 56
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 212, 132
+  size: 102, 103
+  orig: 102, 103
+  offset: 0, 0
+  index: -1
+Rfingers
+  rotate: true
+  xy: 0, 110
+  size: 69, 90
+  orig: 69, 90
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: false
+  xy: 416, 123
+  size: 84, 37
+  orig: 84, 37
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 264, 233
+  size: 99, 97
+  orig: 99, 97
+  offset: 0, 0
+  index: -1
+Rshin
+  rotate: 180
+  xy: 159, 94
+  size: 72, 46
+  orig: 72, 46
+  offset: 0, 0
+  index: -1
+Rthigh
+  rotate: true
+  xy: 393, 276
+  size: 106, 100
+  orig: 106, 100
+  offset: 0, 0
+  index: -1
+Rthigharmor
+  rotate: true
+  xy: 89, 102
+  size: 76, 70
+  orig: 76, 70
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 470, 455
+  size: 32, 51
+  orig: 32, 51
+  offset: 0, 0
+  index: -1
+attack3
+  rotate: false
+  xy: 0, 357
+  size: 165, 148
+  orig: 165, 149
+  offset: 0, 1
+  index: -1
+attack4
+  rotate: false
+  xy: 165, 329
+  size: 229, 176
+  orig: 229, 176
+  offset: 0, 0
+  index: -1
+bonecircleR
+  rotate: true
+  xy: 0, 237
+  size: 120, 148
+  orig: 120, 148
+  offset: 0, 0
+  index: -1
+eyedark
+  rotate: false
+  xy: 444, 236
+  size: 60, 41
+  orig: 60, 41
+  offset: 0, 0
+  index: -1
+hair_top
+  rotate: 270
+  xy: 384, 63
+  size: 68, 90
+  orig: 68, 90
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 374, 382
+  size: 95, 124
+  orig: 95, 124
+  offset: 0, 0
+  index: -1
+soul
+  rotate: false
+  xy: 147, 257
+  size: 117, 139
+  orig: 117, 139
+  offset: 0, 0
+  index: -1
+spine_front
+  rotate: false
+  xy: 306, 124
+  size: 110, 62
+  orig: 110, 62
+  offset: 0, 0
+  index: -1

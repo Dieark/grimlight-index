@@ -1,0 +1,90 @@
+
+SD_Monster_Shade_Magus.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Greenhelmline
+  rotate: true
+  xy: 199, 68
+  size: 198, 197
+  orig: 198, 197
+  offset: 0, 0
+  index: -1
+Lwing
+  rotate: true
+  xy: 199, 268
+  size: 106, 264
+  orig: 106, 264
+  offset: 0, 0
+  index: -1
+Redhelmline
+  rotate: false
+  xy: 0, 69
+  size: 200, 202
+  orig: 200, 202
+  offset: 0, 0
+  index: -1
+Rwing
+  rotate: 180
+  xy: 396, 4
+  size: 75, 263
+  orig: 75, 263
+  offset: 0, 0
+  index: -1
+artifactcrystal1
+  rotate: false
+  xy: 199, 310
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+artifactcrystal2
+  rotate: false
+  xy: 199, 310
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+artifactframe1
+  rotate: true
+  xy: 0, 11
+  size: 57, 157
+  orig: 57, 157
+  offset: 0, 0
+  index: -1
+artifactframe2
+  rotate: true
+  xy: 0, 11
+  size: 57, 157
+  orig: 57, 157
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 199, 371
+  size: 102, 266
+  orig: 102, 266
+  offset: 0, 0
+  index: -1
+eyedark
+  rotate: false
+  xy: 351, 350
+  size: 101, 31
+  orig: 101, 31
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 0, 270
+  size: 200, 203
+  orig: 200, 203
+  offset: 0, 0
+  index: -1
+neckfrill
+  rotate: false
+  xy: 156, 8
+  size: 162, 61
+  orig: 162, 61
+  offset: 0, 0
+  index: -1

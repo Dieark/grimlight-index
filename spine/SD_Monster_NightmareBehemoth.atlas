@@ -1,0 +1,376 @@
+
+SD_Monster_NightmareBehemoth.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 0, 272
+  size: 153, 240
+  orig: 158, 240
+  offset: 0, 0
+  index: -1
+Lfinger1
+  rotate: true
+  xy: 354, 4
+  size: 41, 55
+  orig: 43, 56
+  offset: 2, 0
+  index: -1
+Lfinger2
+  rotate: false
+  xy: 453, 383
+  size: 49, 51
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: false
+  xy: 153, 146
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: true
+  xy: 0, 198
+  size: 74, 78
+  orig: 74, 78
+  offset: 0, 0
+  index: -1
+Lhorn
+  rotate: true
+  xy: 0, 89
+  size: 107, 153
+  orig: 110, 167
+  offset: 0, 6
+  index: -1
+Lleg1
+  rotate: false
+  xy: 293, 7
+  size: 61, 38
+  orig: 61, 38
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 308, 246
+  size: 118, 167
+  orig: 124, 171
+  offset: 5, 0
+  index: -1
+Lshoulderx
+  rotate: true
+  xy: 282, 132
+  size: 114, 159
+  orig: 133, 160
+  offset: 14, 1
+  index: -1
+Ltoe2
+  rotate: false
+  xy: 278, 298
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+Rfinger1
+  rotate: false
+  xy: 476, 103
+  size: 33, 31
+  orig: 34, 32
+  offset: 1, 1
+  index: -1
+Rfinger2
+  rotate: false
+  xy: 153, 305
+  size: 47, 27
+  orig: 47, 27
+  offset: 0, 0
+  index: -1
+Rfinger3
+  rotate: true
+  xy: 475, 250
+  size: 47, 25
+  orig: 48, 26
+  offset: 0, 1
+  index: -1
+Rfinger4
+  rotate: false
+  xy: 141, 6
+  size: 45, 23
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: false
+  xy: 475, 297
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 441, 134
+  size: 58, 34
+  orig: 58, 34
+  offset: 0, 0
+  index: -1
+Rshoulderplate
+  rotate: true
+  xy: 303, 45
+  size: 87, 173
+  orig: 88, 173
+  offset: 0, 0
+  index: -1
+Rshoulderxx
+  rotate: false
+  xy: 153, 332
+  size: 155, 180
+  orig: 156, 180
+  offset: 0, 0
+  index: -1
+Rtoe2
+  rotate: true
+  xy: 476, 67
+  size: 36, 25
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+Rtoe3
+  rotate: true
+  xy: 78, 235
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+Rwingflap1
+  rotate: false
+  xy: 429, 9
+  size: 83, 64
+  orig: 83, 64
+  offset: 0, 0
+  index: -1
+backmouthdark
+  rotate: false
+  xy: 453, 434
+  size: 55, 78
+  orig: 55, 78
+  offset: 0, 0
+  index: -1
+backmouthglow
+  rotate: false
+  xy: 441, 168
+  size: 55, 78
+  orig: 55, 78
+  offset: 0, 0
+  index: -1
+crackglow1
+  rotate: false
+  xy: 453, 379
+  size: 12, 4
+  orig: 12, 5
+  offset: 0, 0
+  index: -1
+crackglow3
+  rotate: false
+  xy: 263, 1
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 475, 339
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 0, 11
+  size: 78, 141
+  orig: 88, 143
+  offset: 10, 1
+  index: -1
+neck1
+  rotate: false
+  xy: 308, 364
+  size: 145, 148
+  orig: 145, 155
+  offset: 0, 1
+  index: -1
+neck2
+  rotate: false
+  xy: 152, 21
+  size: 152, 134
+  orig: 156, 134
+  offset: 4, 0
+  index: -1
+torso
+  rotate: false
+  xy: 91, 154
+  size: 196, 179
+  orig: 196, 179
+  offset: 0, 0
+  index: -1
+
+SD_Monster_NightmareBehemoth2.png
+size: 512,379
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lfinger3
+  rotate: false
+  xy: 251, 139
+  size: 51, 39
+  orig: 51, 40
+  offset: 0, 1
+  index: -1
+Lhip
+  rotate: false
+  xy: 200, 239
+  size: 78, 140
+  orig: 79, 140
+  offset: 0, 0
+  index: -1
+Ltoe1
+  rotate: false
+  xy: 349, 282
+  size: 29, 31
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+Ltoe3
+  rotate: false
+  xy: 416, 116
+  size: 30, 28
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+Lwingclaw
+  rotate: false
+  xy: 219, 11
+  size: 213, 86
+  orig: 213, 86
+  offset: 0, 0
+  index: -1
+Lwingfingers
+  rotate: false
+  xy: 266, 32
+  size: 170, 200
+  orig: 170, 200
+  offset: 0, 0
+  index: -1
+Lwingflap1
+  rotate: false
+  xy: 99, 114
+  size: 131, 87
+  orig: 131, 87
+  offset: 0, 0
+  index: -1
+Lwingflap2
+  rotate: false
+  xy: 342, 185
+  size: 133, 147
+  orig: 133, 147
+  offset: 0, 0
+  index: -1
+Lwingflap3
+  rotate: false
+  xy: 427, 2
+  size: 66, 143
+  orig: 66, 143
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 278, 245
+  size: 55, 70
+  orig: 56, 70
+  offset: 0, 0
+  index: -1
+Rhip
+  rotate: true
+  xy: 90, 263
+  size: 116, 110
+  orig: 116, 111
+  offset: 0, 0
+  index: -1
+Rhorn
+  rotate: true
+  xy: 200, 178
+  size: 61, 125
+  orig: 61, 126
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 0, 141
+  size: 81, 92
+  orig: 81, 92
+  offset: 0, 0
+  index: -1
+Rshoulderx
+  rotate: false
+  xy: 0, 233
+  size: 90, 146
+  orig: 90, 146
+  offset: 0, 0
+  index: -1
+Rtoe1
+  rotate: false
+  xy: 81, 153
+  size: 35, 25
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+Rwingclaw
+  rotate: 270
+  xy: 453, 241
+  size: 139, 52
+  orig: 139, 52
+  offset: 0, 0
+  index: -1
+Rwingfingers
+  rotate: 270
+  xy: 0, 11
+  size: 131, 154
+  orig: 143, 154
+  offset: 0, 0
+  index: -1
+Rwingflap2
+  rotate: false
+  xy: 165, 63
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+Rwingflap3
+  rotate: false
+  xy: 337, 116
+  size: 69, 82
+  orig: 69, 82
+  offset: 0, 0
+  index: -1
+bottomjaw
+  rotate: false
+  xy: 436, 144
+  size: 76, 94
+  orig: 78, 97
+  offset: 1, 0
+  index: -1
+chestlight
+  rotate: false
+  xy: 85, 178
+  size: 115, 86
+  orig: 115, 86
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 278, 300
+  size: 197, 80
+  orig: 197, 93
+  offset: 0, 13
+  index: -1

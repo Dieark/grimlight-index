@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 390
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0000_Aurora",
   "removeFromGame": 0,
@@ -665,6 +665,62 @@
           "accountLevelOffset": 0
         }
       }
+    ],
+    "heroStoriesItemList": [
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryAurora_1"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryAurora_2"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryAurora_3"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryAurora_4"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryAurora_5"
+      }
+    ],
+    "heroSkinItemList": [
+      {
+        "objectType": 17,
+        "objectID": "Aurora_Skin1_Luminous"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Aurora_Skin1_Luminous"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Aurora_Skin1_Luminous"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Aurora_Skin1_Luminous"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Aurora_Skin1_Luminous"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Aurora_Skin1_Luminous"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Aurora_Skin1_Luminous"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Aurora_Skin1_Luminous"
+      }
     ]
   },
   "skinAssetNames": [
@@ -674,23 +730,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 2723
+      "m_PathID": 62297885057450314
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2724
+      "m_PathID": 3321923933979640225
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2725
+      "m_PathID": 3229782789920179665
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2726
+      "m_PathID": -1046724252405102500
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2727
+      "m_PathID": -1516004727130863723
     }
   ],
   "unitStatData": {
@@ -747,25 +803,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2572
+    "m_PathID": 7667896272647603153
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2092
+      "m_PathID": 3128278146077520071
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2093
+      "m_PathID": -7561205471606638058
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2091
+    "m_PathID": 7392841506696043370
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2090
+    "m_PathID": -3170921025893148448
   },
   "Gender": 0,
   "Age": -1

@@ -1,0 +1,83 @@
+
+SD_Monster_DreamlessSage_Night.png
+size: 510,149
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 452, 110
+  size: 30, 17
+  orig: 31, 17
+  offset: 1, 0
+  index: -1
+Lhood
+  rotate: true
+  xy: 360, 1
+  size: 92, 121
+  orig: 92, 121
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 447, 94
+  size: 30, 16
+  orig: 31, 17
+  offset: 0, 1
+  index: -1
+backhood
+  rotate: false
+  xy: 0, 34
+  size: 98, 116
+  orig: 98, 116
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 191, 45
+  size: 105, 98
+  orig: 105, 98
+  offset: 0, 0
+  index: -1
+cape
+  rotate: true
+  xy: 289, 42
+  size: 107, 83
+  orig: 107, 83
+  offset: 0, 0
+  index: -1
+chestlight
+  rotate: false
+  xy: 372, 107
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+eyedeath
+  rotate: false
+  xy: 133, 36
+  size: 46, 18
+  orig: 48, 20
+  offset: 1, 1
+  index: -1
+eyeopen
+  rotate: false
+  xy: 83, 35
+  size: 50, 19
+  orig: 51, 21
+  offset: 1, 1
+  index: -1
+hair
+  rotate: 180
+  xy: 368, 49
+  size: 141, 100
+  orig: 141, 100
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 98, 54
+  size: 95, 93
+  orig: 96, 93
+  offset: 1, 0
+  index: -1

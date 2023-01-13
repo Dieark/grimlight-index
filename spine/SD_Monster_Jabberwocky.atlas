@@ -1,0 +1,313 @@
+
+SD_Monster_Jabberwocky.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lantennae
+  rotate: false
+  xy: 0, 1
+  size: 159, 156
+  orig: 159, 156
+  offset: 0, 0
+  index: -1
+Lfinger1
+  rotate: false
+  xy: 29, 280
+  size: 23, 55
+  orig: 23, 55
+  offset: 0, 0
+  index: -1
+Lfinger2
+  rotate: false
+  xy: 334, 45
+  size: 26, 63
+  orig: 26, 63
+  offset: 0, 0
+  index: -1
+Lfinger3
+  rotate: true
+  xy: 450, 483
+  size: 26, 60
+  orig: 26, 60
+  offset: 0, 0
+  index: -1
+Lflap
+  rotate: false
+  xy: 426, 171
+  size: 83, 113
+  orig: 90, 115
+  offset: 1, 1
+  index: -1
+Lfoot
+  rotate: false
+  xy: 0, 331
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: false
+  xy: 0, 331
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 326, 421
+  size: 41, 39
+  orig: 41, 40
+  offset: 0, 1
+  index: -1
+Lleg
+  rotate: false
+  xy: 270, 460
+  size: 73, 48
+  orig: 73, 48
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 270, 460
+  size: 73, 48
+  orig: 73, 48
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 237, 2
+  size: 79, 97
+  orig: 80, 98
+  offset: 1, 0
+  index: -1
+Ltoe1
+  rotate: false
+  xy: 205, 240
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+Rtoe1
+  rotate: false
+  xy: 205, 240
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+Ltoe2
+  rotate: false
+  xy: 64, 243
+  size: 40, 35
+  orig: 40, 36
+  offset: 0, 1
+  index: -1
+Rtoe2
+  rotate: false
+  xy: 64, 243
+  size: 40, 35
+  orig: 40, 36
+  offset: 0, 1
+  index: -1
+Ltoe3
+  rotate: false
+  xy: 458, 424
+  size: 43, 30
+  orig: 44, 31
+  offset: 1, 1
+  index: -1
+Rtoe3
+  rotate: false
+  xy: 458, 424
+  size: 43, 30
+  orig: 44, 31
+  offset: 1, 1
+  index: -1
+Lwing
+  rotate: 180
+  xy: 0, 198
+  size: 305, 310
+  orig: 305, 310
+  offset: 0, 0
+  index: -1
+Rfinger1
+  rotate: false
+  xy: 244, 88
+  size: 22, 49
+  orig: 22, 49
+  offset: 0, 0
+  index: -1
+Rfinger2
+  rotate: true
+  xy: 211, 484
+  size: 25, 53
+  orig: 25, 53
+  offset: 0, 0
+  index: -1
+Rfinger3
+  rotate: true
+  xy: 150, 12
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+Rfinger4
+  rotate: true
+  xy: 459, 455
+  size: 31, 49
+  orig: 32, 49
+  offset: 1, 0
+  index: -1
+Rflap
+  rotate: false
+  xy: 0, 254
+  size: 29, 77
+  orig: 29, 77
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 0, 452
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+Rhip
+  rotate: true
+  xy: 367, 10
+  size: 123, 139
+  orig: 123, 140
+  offset: 0, 0
+  index: -1
+Rwing
+  rotate: 180
+  xy: 219, 81
+  size: 220, 248
+  orig: 220, 248
+  offset: 0, 0
+  index: -1
+backmouth
+  rotate: false
+  xy: 439, 287
+  size: 61, 87
+  orig: 61, 89
+  offset: 0, 1
+  index: -1
+body
+  rotate: 270
+  xy: 21, 41
+  size: 202, 223
+  orig: 202, 223
+  offset: 0, 0
+  index: -1
+bottomjaw
+  rotate: false
+  xy: 236, 87
+  size: 61, 96
+  orig: 61, 96
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 186, 190
+  size: 42, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 454, 374
+  size: 42, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 238, 327
+  size: 222, 181
+  orig: 225, 181
+  offset: 0, 0
+  index: -1
+sidemouth
+  rotate: false
+  xy: 104, 243
+  size: 19, 39
+  orig: 21, 39
+  offset: 1, 0
+  index: -1
+tongue
+  rotate: false
+  xy: 0, 18
+  size: 41, 73
+  orig: 41, 74
+  offset: 0, 0
+  index: -1
+
+SD_Monster_Jabberwocky2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 111, 65
+  size: 125, 92
+  orig: 127, 92
+  offset: 1, 0
+  index: -1
+Lbeard
+  rotate: 270
+  xy: 179, 184
+  size: 73, 143
+  orig: 74, 143
+  offset: 0, 0
+  index: -1
+Lhip
+  rotate: false
+  xy: 338, 94
+  size: 119, 162
+  orig: 124, 163
+  offset: 0, 1
+  index: -1
+Rantennae
+  rotate: 270
+  xy: 17, 2
+  size: 64, 168
+  orig: 64, 168
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 331, 7
+  size: 87, 97
+  orig: 88, 97
+  offset: 0, 0
+  index: -1
+Rbeard
+  rotate: true
+  xy: 183, 5
+  size: 43, 136
+  orig: 43, 136
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 0, 22
+  size: 66, 106
+  orig: 66, 106
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 236, 38
+  size: 95, 105
+  orig: 95, 106
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 0, 88
+  size: 339, 169
+  orig: 339, 169
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+SD_Monster_WinterYeti.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 128, 182
+  size: 66, 119
+  orig: 66, 119
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 124, 313
+  size: 68, 31
+  orig: 68, 31
+  offset: 0, 0
+  index: -1
+Layer25
+  rotate: false
+  xy: 247, 145
+  size: 174, 97
+  orig: 174, 97
+  offset: 0, 0
+  index: -1
+Lbottomleg
+  rotate: true
+  xy: 429, 298
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+Lfingers
+  rotate: false
+  xy: 192, 311
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: false
+  xy: 65, 313
+  size: 59, 31
+  orig: 59, 31
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: true
+  xy: 437, 236
+  size: 62, 73
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+Lhorn
+  rotate: false
+  xy: 62, 265
+  size: 73, 48
+  orig: 73, 48
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: true
+  xy: 270, 305
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+Ltopleg
+  rotate: true
+  xy: 323, 299
+  size: 45, 59
+  orig: 45, 59
+  offset: 0, 0
+  index: -1
+Rbottomleg
+  rotate: true
+  xy: 382, 299
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: false
+  xy: 227, 310
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+Rhorn
+  rotate: false
+  xy: 0, 267
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+Rlowerarm
+  rotate: true
+  xy: 0, 202
+  size: 63, 128
+  orig: 63, 128
+  offset: 0, 0
+  index: -1
+Rtopleg
+  rotate: true
+  xy: 135, 256
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+Rupperarm
+  rotate: true
+  xy: 201, 248
+  size: 57, 94
+  orig: 57, 94
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 348, 0
+  size: 145, 163
+  orig: 145, 163
+  offset: 0, 0
+  index: -1
+cape
+  rotate: false
+  xy: 0, 75
+  size: 210, 107
+  orig: 210, 107
+  offset: 0, 0
+  index: -1
+facehurt
+  rotate: false
+  xy: 0, 317
+  size: 65, 27
+  orig: 65, 27
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 210, 30
+  size: 138, 115
+  orig: 138, 115
+  offset: 0, 0
+  index: -1
+necklace
+  rotate: false
+  xy: 295, 242
+  size: 142, 56
+  orig: 142, 56
+  offset: 0, 0
+  index: -1

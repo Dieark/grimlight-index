@@ -1,0 +1,62 @@
+
+SD_Monster_NightmareScion.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larmpivot
+  rotate: false
+  xy: 0, 248
+  size: 54, 61
+  orig: 55, 61
+  offset: 1, 0
+  index: -1
+Lfin
+  rotate: true
+  xy: 0, 41
+  size: 151, 286
+  orig: 155, 295
+  offset: 4, 0
+  index: -1
+Rfin
+  rotate: false
+  xy: 388, 241
+  size: 103, 252
+  orig: 103, 258
+  offset: 0, 0
+  index: -1
+body
+  rotate: 180
+  xy: 60, 141
+  size: 374, 253
+  orig: 374, 253
+  offset: 0, 0
+  index: -1
+bottomjaw
+  rotate: false
+  xy: 268, 419
+  size: 96, 73
+  orig: 96, 74
+  offset: 0, 0
+  index: -1
+headplate
+  rotate: false
+  xy: 306, 50
+  size: 99, 153
+  orig: 105, 170
+  offset: 3, 16
+  index: -1
+horns
+  rotate: false
+  xy: 0, 309
+  size: 268, 183
+  orig: 269, 183
+  offset: 0, 0
+  index: -1
+orb
+  rotate: false
+  xy: 54, 267
+  size: 42, 42
+  orig: 42, 43
+  offset: 0, 1
+  index: -1

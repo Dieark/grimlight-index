@@ -1,0 +1,285 @@
+
+SD_Monster_Nightmare_Reaper.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lhand
+  rotate: false
+  xy: 460, 207
+  size: 50, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1
+Rhorn
+  rotate: true
+  xy: 172, 0
+  size: 53, 98
+  orig: 53, 100
+  offset: 0, 1
+  index: -1
+backhood
+  rotate: false
+  xy: 0, 20
+  size: 83, 95
+  orig: 83, 96
+  offset: 0, 0
+  index: -1
+centercape
+  rotate: 180
+  xy: 358, 9
+  size: 154, 179
+  orig: 154, 179
+  offset: 0, 0
+  index: -1
+chain1x
+  rotate: false
+  xy: 139, 23
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+chain3x
+  rotate: false
+  xy: 139, 23
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+chain2x
+  rotate: false
+  xy: 172, 103
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+chain3
+  rotate: false
+  xy: 0, 1
+  size: 76, 20
+  orig: 76, 20
+  offset: 0, 0
+  index: -1
+eyeglow
+  rotate: false
+  xy: 83, 4
+  size: 56, 34
+  orig: 56, 34
+  offset: 0, 0
+  index: -1
+fire7
+  rotate: false
+  xy: 280, 10
+  size: 56, 105
+  orig: 56, 105
+  offset: 0, 0
+  index: -1
+fire8
+  rotate: true
+  xy: 172, 54
+  size: 62, 110
+  orig: 62, 110
+  offset: 0, 0
+  index: -1
+fire9
+  rotate: false
+  xy: 460, 261
+  size: 52, 109
+  orig: 52, 109
+  offset: 0, 0
+  index: -1
+fronthood
+  rotate: false
+  xy: 391, 369
+  size: 116, 143
+  orig: 116, 143
+  offset: 0, 0
+  index: -1
+lamp
+  rotate: false
+  xy: 391, 277
+  size: 69, 92
+  orig: 84, 92
+  offset: 3, 0
+  index: -1
+scythe
+  rotate: false
+  xy: 0, 115
+  size: 391, 397
+  orig: 391, 398
+  offset: 0, 1
+  index: -1
+slash2
+  rotate: true
+  xy: 336, 35
+  size: 80, 22
+  orig: 82, 24
+  offset: 1, 1
+  index: -1
+slash4
+  rotate: false
+  xy: 391, 197
+  size: 69, 80
+  orig: 71, 82
+  offset: 1, 1
+  index: -1
+slash5
+  rotate: false
+  xy: 83, 38
+  size: 89, 77
+  orig: 91, 79
+  offset: 1, 1
+  index: -1
+
+SD_Monster_Nightmare_Reaper2.png
+size: 512,354
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 316, 131
+  size: 74, 65
+  orig: 74, 66
+  offset: 0, 1
+  index: -1
+Lcape
+  rotate: true
+  xy: 91, 80
+  size: 51, 153
+  orig: 51, 153
+  offset: 0, 0
+  index: -1
+Lclaw
+  rotate: false
+  xy: 463, 305
+  size: 36, 49
+  orig: 48, 50
+  offset: 3, 0
+  index: -1
+Lhron
+  rotate: false
+  xy: 472, 73
+  size: 34, 100
+  orig: 34, 101
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 244, 61
+  size: 68, 69
+  orig: 68, 70
+  offset: 0, 0
+  index: -1
+Rcape
+  rotate: false
+  xy: 0, 105
+  size: 251, 251
+  orig: 251, 252
+  offset: 0, 1
+  index: -1
+Rhand
+  rotate: false
+  xy: 316, 53
+  size: 58, 78
+  orig: 69, 78
+  offset: 11, 0
+  index: -1
+Rhandwristbracelet
+  rotate: true
+  xy: 245, 1
+  size: 60, 61
+  orig: 63, 67
+  offset: 1, 1
+  index: -1
+chain1
+  rotate: true
+  xy: 306, 3
+  size: 43, 82
+  orig: 43, 82
+  offset: 0, 0
+  index: -1
+chain2
+  rotate: false
+  xy: 57, 13
+  size: 88, 68
+  orig: 89, 68
+  offset: 0, 0
+  index: -1
+chainhandle
+  rotate: false
+  xy: 0, 296
+  size: 43, 58
+  orig: 43, 58
+  offset: 0, 0
+  index: -1
+fire1
+  rotate: false
+  xy: 403, 139
+  size: 52, 112
+  orig: 52, 112
+  offset: 0, 0
+  index: -1
+fire10
+  rotate: false
+  xy: 459, 174
+  size: 53, 111
+  orig: 53, 111
+  offset: 0, 0
+  index: -1
+fire2
+  rotate: true
+  xy: 149, 32
+  size: 50, 96
+  orig: 50, 96
+  offset: 0, 0
+  index: -1
+fire3
+  rotate: true
+  xy: 369, 27
+  size: 56, 95
+  orig: 56, 95
+  offset: 0, 0
+  index: -1
+fire4
+  rotate: true
+  xy: 0, 49
+  size: 57, 94
+  orig: 57, 94
+  offset: 0, 0
+  index: -1
+fire5
+  rotate: true
+  xy: 378, 83
+  size: 56, 95
+  orig: 56, 95
+  offset: 0, 0
+  index: -1
+fire6
+  rotate: false
+  xy: 408, 250
+  size: 55, 105
+  orig: 55, 105
+  offset: 0, 0
+  index: -1
+neckflap
+  rotate: 180
+  xy: 219, 196
+  size: 190, 159
+  orig: 190, 159
+  offset: 0, 0
+  index: -1
+slash1
+  rotate: false
+  xy: 183, 326
+  size: 49, 28
+  orig: 51, 30
+  offset: 1, 1
+  index: -1
+slash3
+  rotate: false
+  xy: 247, 129
+  size: 69, 70
+  orig: 71, 72
+  offset: 1, 1
+  index: -1

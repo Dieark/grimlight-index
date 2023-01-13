@@ -1,0 +1,222 @@
+
+SD_Monster_DreamlessDragon.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lfoot
+  rotate: true
+  xy: 439, 110
+  size: 83, 65
+  orig: 83, 65
+  offset: 0, 0
+  index: -1
+Lhip
+  rotate: true
+  xy: 0, 214
+  size: 75, 110
+  orig: 75, 110
+  offset: 0, 0
+  index: -1
+Lleg1
+  rotate: false
+  xy: 109, 244
+  size: 83, 44
+  orig: 83, 44
+  offset: 0, 0
+  index: -1
+Lleg2
+  rotate: true
+  xy: 293, 1
+  size: 39, 92
+  orig: 39, 92
+  offset: 0, 0
+  index: -1
+Lwing
+  rotate: true
+  xy: 55, 155
+  size: 358, 397
+  orig: 358, 397
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: true
+  xy: 311, 435
+  size: 78, 62
+  orig: 78, 62
+  offset: 0, 0
+  index: -1
+Rhip
+  rotate: false
+  xy: 405, 1
+  size: 102, 109
+  orig: 102, 109
+  offset: 0, 0
+  index: -1
+Rleg1
+  rotate: false
+  xy: 0, 26
+  size: 95, 49
+  orig: 95, 49
+  offset: 0, 0
+  index: -1
+Rleg2
+  rotate: true
+  xy: 206, 132
+  size: 37, 69
+  orig: 37, 69
+  offset: 0, 0
+  index: -1
+Rwing
+  rotate: true
+  xy: 92, 1
+  size: 252, 386
+  orig: 252, 386
+  offset: 0, 0
+  index: -1
+backjaw
+  rotate: false
+  xy: 403, 238
+  size: 31, 64
+  orig: 31, 64
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 288
+  size: 312, 224
+  orig: 312, 224
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 0, 429
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 23, 429
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: false
+  xy: 449, 253
+  size: 56, 95
+  orig: 56, 95
+  offset: 0, 0
+  index: -1
+mouthdrool
+  rotate: false
+  xy: 152, 466
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+spike1
+  rotate: true
+  xy: 0, 452
+  size: 61, 153
+  orig: 61, 153
+  offset: 0, 0
+  index: -1
+spike6
+  rotate: false
+  xy: 436, 408
+  size: 57, 104
+  orig: 57, 104
+  offset: 0, 0
+  index: -1
+tail
+  rotate: 180
+  xy: 0, 75
+  size: 207, 130
+  orig: 207, 130
+  offset: 0, 0
+  index: -1
+tongue
+  rotate: false
+  xy: 445, 348
+  size: 48, 61
+  orig: 48, 61
+  offset: 0, 0
+  index: -1
+
+SD_Monster_DreamlessDragon2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lshoulder
+  rotate: 270
+  xy: 254, 331
+  size: 179, 163
+  orig: 179, 165
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 168, 196
+  size: 114, 120
+  orig: 114, 120
+  offset: 0, 0
+  index: -1
+backhorn
+  rotate: false
+  xy: 272, 1
+  size: 102, 109
+  orig: 102, 109
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 0, 354
+  size: 161, 159
+  orig: 161, 159
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 96, 1
+  size: 180, 172
+  orig: 180, 172
+  offset: 0, 0
+  index: -1
+neckfrill
+  rotate: 270
+  xy: 161, 183
+  size: 205, 191
+  orig: 205, 191
+  offset: 0, 0
+  index: -1
+spike2
+  rotate: false
+  xy: 0, 68
+  size: 160, 145
+  orig: 160, 145
+  offset: 0, 0
+  index: -1
+spike3
+  rotate: true
+  xy: 161, 388
+  size: 125, 109
+  orig: 125, 109
+  offset: 0, 0
+  index: -1
+spike4
+  rotate: false
+  xy: 0, 213
+  size: 169, 141
+  orig: 169, 141
+  offset: 0, 0
+  index: -1
+spike5
+  rotate: true
+  xy: 352, 215
+  size: 116, 87
+  orig: 116, 87
+  offset: 0, 0
+  index: -1

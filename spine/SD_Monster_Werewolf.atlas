@@ -1,0 +1,250 @@
+
+SD_Monster_Werewolf.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larmmuscle
+  rotate: false
+  xy: 450, 339
+  size: 34, 59
+  orig: 34, 59
+  offset: 0, 0
+  index: -1
+Lear
+  rotate: true
+  xy: 264, 247
+  size: 69, 61
+  orig: 69, 61
+  offset: 0, 0
+  index: -1
+Lfinger1
+  rotate: true
+  xy: 161, 6
+  size: 29, 53
+  orig: 29, 53
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: true
+  xy: 450, 398
+  size: 110, 52
+  orig: 110, 52
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: 180
+  xy: 120, 1
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 264, 315
+  size: 186, 194
+  orig: 186, 194
+  offset: 0, 0
+  index: -1
+Rear
+  rotate: false
+  xy: 207, 208
+  size: 79, 49
+  orig: 79, 49
+  offset: 0, 0
+  index: -1
+Rfinger2
+  rotate: true
+  xy: 0, 61
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+Rfinger3
+  rotate: true
+  xy: 248, 5
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+Rfinger5
+  rotate: true
+  xy: 158, 223
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: 180
+  xy: 0, 4
+  size: 120, 56
+  orig: 120, 56
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: 180
+  xy: 442, 4
+  size: 62, 44
+  orig: 62, 44
+  offset: 0, 0
+  index: -1
+Werewolf_Pose
+  rotate: false
+  xy: 0, 257
+  size: 264, 251
+  orig: 283, 251
+  offset: 19, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 138, 244
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 264, 262
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+headroar
+  rotate: false
+  xy: 327, 131
+  size: 170, 185
+  orig: 170, 185
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: true
+  xy: 308, 4
+  size: 126, 181
+  orig: 126, 181
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 0, 35
+  size: 327, 223
+  orig: 327, 223
+  offset: 0, 0
+  index: -1
+
+SD_Monster_Werewolf2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 42, 137
+  size: 110, 150
+  orig: 110, 150
+  offset: 0, 0
+  index: -1
+Lfinger2
+  rotate: false
+  xy: 381, 328
+  size: 39, 52
+  orig: 39, 52
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: 180
+  xy: 0, 40
+  size: 133, 98
+  orig: 133, 98
+  offset: 0, 0
+  index: -1
+Lhip
+  rotate: true
+  xy: 111, 89
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 329, 97
+  size: 101, 160
+  orig: 101, 160
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 0, 377
+  size: 214, 125
+  orig: 214, 125
+  offset: 0, 0
+  index: -1
+Rfinger1
+  rotate: false
+  xy: 420, 318
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+Rfinger4
+  rotate: false
+  xy: 416, 285
+  size: 44, 61
+  orig: 44, 61
+  offset: 0, 0
+  index: -1
+Rhip
+  rotate: false
+  xy: 0, 242
+  size: 153, 136
+  orig: 153, 136
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 136, 7
+  size: 109, 101
+  orig: 109, 101
+  offset: 0, 0
+  index: -1
+Rpalm
+  rotate: false
+  xy: 372, 18
+  size: 77, 80
+  orig: 77, 80
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 381, 380
+  size: 122, 120
+  orig: 122, 120
+  offset: 0, 0
+  index: -1
+backfur
+  rotate: 180
+  xy: 278, 186
+  size: 206, 166
+  orig: 206, 166
+  offset: 0, 0
+  index: -1
+headidle
+  rotate: true
+  xy: 214, 351
+  size: 150, 167
+  orig: 150, 167
+  offset: 0, 0
+  index: -1
+tail1
+  rotate: false
+  xy: 252, 54
+  size: 123, 98
+  orig: 123, 98
+  offset: 0, 0
+  index: -1
+tail2
+  rotate: 270
+  xy: 153, 171
+  size: 185, 180
+  orig: 185, 180
+  offset: 0, 0
+  index: -1

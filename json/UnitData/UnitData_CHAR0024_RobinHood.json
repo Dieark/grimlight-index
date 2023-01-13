@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 390
+    "m_PathID": 393
   },
   "m_Name": "UnitData_CHAR0024_RobinHood",
   "removeFromGame": 0,
@@ -665,6 +665,41 @@
           "accountLevelOffset": 0
         }
       }
+    ],
+    "heroStoriesItemList": [],
+    "heroSkinItemList": [
+      {
+        "objectType": 17,
+        "objectID": "RobinHood_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "RobinHood_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "RobinHood_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "RobinHood_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "RobinHood_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "RobinHood_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "RobinHood_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "RobinHood_Skin1"
+      }
     ]
   },
   "skinAssetNames": [
@@ -697,7 +732,7 @@
     },
     "defense": {
       "statType": 1,
-      "yIntercept": 15.0,
+      "yIntercept": 20.0,
       "hasExponentialScale": 0
     },
     "critChance": 1.0,
@@ -726,21 +761,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2619
+    "m_PathID": 2644
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2264
+      "m_PathID": 2287
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2265
+    "m_PathID": 2288
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2263
+    "m_PathID": 2286
   },
   "Gender": 0,
   "Age": 29

@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 390
+    "m_PathID": 393
   },
   "m_Name": "UnitData_CHAR0013_Kaguya",
   "removeFromGame": 0,
@@ -665,6 +665,94 @@
           "accountLevelOffset": 0
         }
       }
+    ],
+    "heroStoriesItemList": [
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryKaguya_1"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryKaguya_2"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryKaguya_3"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryKaguya_4"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryKaguya_5"
+      }
+    ],
+    "heroSkinItemList": [
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin1_Empress"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin1_Empress"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin1_Empress"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin1_Empress"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin1_Empress"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin1_Empress"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin1_Empress"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin1_Empress"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin2"
+      }
     ]
   },
   "skinAssetNames": [
@@ -675,23 +763,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 2748
+      "m_PathID": 2774
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2749
+      "m_PathID": 2775
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2750
+      "m_PathID": 2776
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2751
+      "m_PathID": 2777
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2752
+      "m_PathID": 2778
     }
   ],
   "unitStatData": {
@@ -748,25 +836,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2595
+    "m_PathID": 2619
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2180
+      "m_PathID": 2198
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2181
+      "m_PathID": 2199
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2179
+    "m_PathID": 2197
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2178
+    "m_PathID": 2196
   },
   "Gender": 0,
   "Age": 22

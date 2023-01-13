@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 390
+    "m_PathID": 425
   },
   "m_Name": "UnitData_CHAR0001_Esme",
   "removeFromGame": 0,
@@ -665,6 +665,46 @@
           "accountLevelOffset": 0
         }
       }
+    ],
+    "heroStoriesItemList": [
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryEsme_1"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryEsme_2"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryEsme_3"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryEsme_4"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryEsme_5"
+      }
+    ],
+    "heroSkinItemList": [
+      {
+        "objectType": 17,
+        "objectID": "Esme_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Esme_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Esme_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Esme_Skin2"
+      }
     ]
   },
   "skinAssetNames": [
@@ -674,23 +714,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 2738
+      "m_PathID": 31493
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2739
+      "m_PathID": 31494
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2740
+      "m_PathID": 31495
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2741
+      "m_PathID": 31496
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2742
+      "m_PathID": 31497
     }
   ],
   "unitStatData": {
@@ -747,21 +787,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2582
+    "m_PathID": 30621
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2126
+      "m_PathID": 29969
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2125
+    "m_PathID": 29968
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2124
+    "m_PathID": 29967
   },
   "Gender": 0,
   "Age": -1

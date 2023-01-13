@@ -1,0 +1,69 @@
+
+SD_Monster_Treant.png
+size: 153,342
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lbackfoot
+  rotate: true
+  xy: 53, 3
+  size: 39, 44
+  orig: 39, 45
+  offset: 0, 1
+  index: -1
+Lbackhorn
+  rotate: true
+  xy: 0, 63
+  size: 94, 102
+  orig: 94, 102
+  offset: 0, 0
+  index: -1
+Lfrontfoot
+  rotate: true
+  xy: 0, 28
+  size: 35, 53
+  orig: 36, 53
+  offset: 1, 0
+  index: -1
+Rbackfoot
+  rotate: false
+  xy: 97, 5
+  size: 39, 39
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+Rbackhorn
+  rotate: false
+  xy: 60, 43
+  size: 86, 84
+  orig: 86, 84
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 156
+  size: 152, 186
+  orig: 153, 188
+  offset: 1, 1
+  index: -1
+eyedeath
+  rotate: false
+  xy: 0, 9
+  size: 49, 19
+  orig: 49, 19
+  offset: 0, 0
+  index: -1
+eyeflinch
+  rotate: true
+  xy: 136, 1
+  size: 47, 17
+  orig: 49, 21
+  offset: 1, 1
+  index: -1
+eyeopen
+  rotate: false
+  xy: 102, 126
+  size: 47, 18
+  orig: 49, 22
+  offset: 1, 1
+  index: -1

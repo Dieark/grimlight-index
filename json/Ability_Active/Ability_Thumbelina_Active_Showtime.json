@@ -15,6 +15,7 @@
   "numberOfHits": 0,
   "timeFromStart": 0.0,
   "maximumCasts": 0,
+  "hpRatioPassiveThreshold": 0.0,
   "attackSequence": [
     {
       "attackType": 4,
@@ -35,6 +36,13 @@
           "status": {
             "m_FileID": 0,
             "m_PathID": 8967866298587449128
+          },
+          "chanceToApplyPercent": 100
+        },
+        {
+          "status": {
+            "m_FileID": 0,
+            "m_PathID": 4689862818502654705
           },
           "chanceToApplyPercent": 100
         },
@@ -90,7 +98,7 @@
     {
       "modifications": [
         {
-          "descriptor": "Scale ATK of allies by [0.12 +2] of caster's ATK",
+          "descriptor": "Atk Buff",
           "isScaling": 1,
           "scalerType": 0,
           "scaler": 0.02,
@@ -98,10 +106,24 @@
             "m_FileID": 0,
             "m_PathID": 8967866298587449128
           },
-          "valueType": 2,
+          "valueType": 0,
           "modifiedStat": 5,
           "statToScaleBy": 5,
           "value": 0.12
+        },
+        {
+          "descriptor": "Healing",
+          "isScaling": 1,
+          "scalerType": 1,
+          "scaler": 1.1,
+          "statusReference": {
+            "m_FileID": 0,
+            "m_PathID": 4689862818502654705
+          },
+          "valueType": 0,
+          "modifiedStat": 3,
+          "statToScaleBy": 5,
+          "value": 0.5
         }
       ]
     }

@@ -1,0 +1,104 @@
+
+SD_Monster_ShadowBeetle.png
+size: 229,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lantennae
+  rotate: true
+  xy: 152, 5
+  size: 24, 59
+  orig: 24, 59
+  offset: 0, 0
+  index: -1
+Lleg1
+  rotate: 270
+  xy: 0, 44
+  size: 37, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: -1
+Lleg2
+  rotate: 180
+  xy: 187, 38
+  size: 34, 57
+  orig: 34, 57
+  offset: 0, 0
+  index: -1
+Lleg3
+  rotate: true
+  xy: 58, 23
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: -1
+Rantennae
+  rotate: true
+  xy: 109, 6
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+Rleg1
+  rotate: true
+  xy: 139, 30
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+Rleg2
+  rotate: true
+  xy: 139, 30
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 48
+  size: 218, 156
+  orig: 218, 156
+  offset: 0, 0
+  index: -1
+bottomjaw
+  rotate: false
+  xy: 0, 8
+  size: 41, 19
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 85, 1
+  size: 59, 8
+  orig: 61, 8
+  offset: 1, 0
+  index: -1
+eyedead
+  rotate: false
+  xy: 0, 27
+  size: 56, 17
+  orig: 57, 18
+  offset: 0, 1
+  index: -1
+eyemid
+  rotate: true
+  xy: 218, 94
+  size: 60, 9
+  orig: 60, 9
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: true
+  xy: 217, 9
+  size: 60, 11
+  orig: 64, 15
+  offset: 2, 1
+  index: -1
+topjaw
+  rotate: false
+  xy: 41, 7
+  size: 44, 16
+  orig: 44, 16
+  offset: 0, 0
+  index: -1

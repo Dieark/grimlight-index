@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 423
+    "m_PathID": 393
   },
   "m_Name": "UnitData_CHAR0019_BriarRose",
   "removeFromGame": 0,
@@ -665,6 +665,94 @@
           "accountLevelOffset": 0
         }
       }
+    ],
+    "heroStoriesItemList": [
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryBriarRose_1"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryBriarRose_2"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryBriarRose_3"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryBriarRose_4"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryBriarRose_5"
+      }
+    ],
+    "heroSkinItemList": [
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin2"
+      }
     ]
   },
   "skinAssetNames": [
@@ -675,23 +763,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 31347
+      "m_PathID": 2754
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31348
+      "m_PathID": 2755
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31349
+      "m_PathID": 2756
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31350
+      "m_PathID": 2757
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31351
+      "m_PathID": 2758
     }
   ],
   "unitStatData": {
@@ -719,7 +807,7 @@
     },
     "defense": {
       "statType": 1,
-      "yIntercept": 37.0,
+      "yIntercept": 40.0,
       "hasExponentialScale": 0
     },
     "critChance": 1.0,
@@ -748,25 +836,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 30495
+    "m_PathID": 2600
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 29842
+      "m_PathID": 2123
     },
     {
       "m_FileID": 0,
-      "m_PathID": 29841
+      "m_PathID": 2122
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 29840
+    "m_PathID": 2121
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 29839
+    "m_PathID": 2120
   },
   "Gender": 0,
   "Age": -1

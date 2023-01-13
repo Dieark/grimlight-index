@@ -1,0 +1,111 @@
+
+SD_Monster_ChessPawnRed.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 337, 429
+  size: 37, 60
+  orig: 37, 60
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: true
+  xy: 325, 294
+  size: 36, 64
+  orig: 36, 64
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 114, 25
+  size: 43, 61
+  orig: 43, 61
+  offset: 0, 0
+  index: -1
+Lpauldron
+  rotate: true
+  xy: 337, 392
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+Lthigh
+  rotate: false
+  xy: 68, 0
+  size: 46, 86
+  orig: 46, 86
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 114, 8
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 325, 330
+  size: 40, 55
+  orig: 40, 55
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: true
+  xy: 337, 466
+  size: 37, 64
+  orig: 37, 64
+  offset: 0, 0
+  index: -1
+Rpauldron
+  rotate: false
+  xy: 0, 20
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+Rthigh
+  rotate: true
+  xy: 240, 323
+  size: 47, 85
+  orig: 47, 85
+  offset: 0, 0
+  index: -1
+armor_skirt
+  rotate: false
+  xy: 0, 86
+  size: 157, 137
+  orig: 157, 137
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 0, 223
+  size: 240, 280
+  orig: 240, 280
+  offset: 0, 0
+  index: -1
+shield
+  rotate: true
+  xy: 157, 90
+  size: 133, 189
+  orig: 133, 189
+  offset: 0, 0
+  index: -1
+sword
+  rotate: true
+  xy: 157, 23
+  size: 67, 246
+  orig: 67, 246
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 240, 370
+  size: 97, 133
+  orig: 97, 133
+  offset: 0, 0
+  index: -1

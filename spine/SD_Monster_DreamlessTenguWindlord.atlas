@@ -1,0 +1,104 @@
+
+SD_Monster_DreamlessTenguWindlord.png
+size: 860,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer14
+  rotate: false
+  xy: 758, 125
+  size: 98, 170
+  orig: 98, 170
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 56, 7
+  size: 33, 100
+  orig: 33, 100
+  offset: 0, 0
+  index: -1
+Lsleeve
+  rotate: true
+  xy: 549, 2
+  size: 121, 156
+  orig: 121, 156
+  offset: 0, 0
+  index: -1
+Lwing
+  rotate: true
+  xy: 214, 98
+  size: 197, 172
+  orig: 197, 172
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 275, 6
+  size: 90, 61
+  orig: 90, 61
+  offset: 0, 0
+  index: -1
+Rsleeve
+  rotate: true
+  xy: 707, 9
+  size: 114, 151
+  orig: 114, 151
+  offset: 0, 0
+  index: -1
+hyead
+  rotate: true
+  xy: 388, 3
+  size: 132, 159
+  orig: 132, 159
+  offset: 0, 0
+  index: -1
+maskglow
+  rotate: false
+  xy: 2, 4
+  size: 52, 36
+  orig: 52, 36
+  offset: 0, 0
+  index: -1
+ring1
+  rotate: true
+  xy: 158, 8
+  size: 32, 70
+  orig: 32, 70
+  offset: 0, 0
+  index: -1
+ring1_back
+  rotate: false
+  xy: 230, 11
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+ring2
+  rotate: true
+  xy: 214, 44
+  size: 52, 59
+  orig: 52, 59
+  offset: 0, 0
+  index: -1
+ring2_back
+  rotate: false
+  xy: 230, 27
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+staff
+  rotate: true
+  xy: 388, 137
+  size: 158, 368
+  orig: 158, 368
+  offset: 0, 0
+  index: -1
+torso
+  rotate: true
+  xy: 2, 42
+  size: 253, 210
+  orig: 253, 210
+  offset: 0, 0
+  index: -1

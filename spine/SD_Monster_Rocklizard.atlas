@@ -1,0 +1,96 @@
+
+SD_Monster_Rocklizard.png
+size: 491,489
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lleg
+  rotate: false
+  xy: 389, 11
+  size: 100, 133
+  orig: 100, 133
+  offset: 0, 0
+  index: -1
+backjaw
+  rotate: false
+  xy: 237, 0
+  size: 138, 111
+  orig: 139, 112
+  offset: 1, 0
+  index: -1
+body
+  rotate: true
+  xy: 254, 213
+  size: 276, 237
+  orig: 276, 239
+  offset: 0, 1
+  index: -1
+eyedeath
+  rotate: false
+  xy: 0, 27
+  size: 17, 11
+  orig: 18, 12
+  offset: 1, 1
+  index: -1
+eyeopen
+  rotate: false
+  xy: 0, 13
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+frontjaw
+  rotate: false
+  xy: 237, 111
+  size: 168, 102
+  orig: 168, 103
+  offset: 0, 1
+  index: -1
+fronttorso
+  rotate: false
+  xy: 0, 213
+  size: 254, 276
+  orig: 254, 277
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 0, 38
+  size: 237, 175
+  orig: 239, 176
+  offset: 1, 0
+  index: -1
+
+SD_Monster_Rocklizard2.png
+size: 364,130
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lbackleg
+  rotate: false
+  xy: 0, 2
+  size: 120, 128
+  orig: 120, 150
+  offset: 0, 22
+  index: -1
+Rbackleg
+  rotate: false
+  xy: 289, 41
+  size: 74, 90
+  orig: 74, 90
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 199, 35
+  size: 90, 96
+  orig: 90, 96
+  offset: 0, 0
+  index: -1
+tail
+  rotate: 270
+  xy: 95, 0
+  size: 130, 104
+  orig: 130, 104
+  offset: 0, 0
+  index: -1

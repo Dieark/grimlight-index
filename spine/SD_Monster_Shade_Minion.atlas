@@ -1,0 +1,104 @@
+
+SD_Monster_Shade_Minion.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 237, 72
+  size: 138, 203
+  orig: 138, 203
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 448, 325
+  size: 44, 109
+  orig: 44, 111
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 441, 13
+  size: 71, 89
+  orig: 71, 89
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 375, 110
+  size: 129, 165
+  orig: 129, 165
+  offset: 0, 0
+  index: -1
+Rarmwing
+  rotate: false
+  xy: 237, 210
+  size: 30, 65
+  orig: 30, 65
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 473, 232
+  size: 37, 115
+  orig: 37, 122
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 448, 433
+  size: 63, 79
+  orig: 63, 79
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 359, 3
+  size: 69, 57
+  orig: 69, 57
+  offset: 0, 0
+  index: -1
+eyedark
+  rotate: false
+  xy: 237, 18
+  size: 122, 42
+  orig: 122, 42
+  offset: 0, 0
+  index: -1
+greenhelmlines
+  rotate: false
+  xy: 226, 275
+  size: 222, 237
+  orig: 222, 237
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 0, 52
+  size: 222, 237
+  orig: 222, 237
+  offset: 0, 0
+  index: -1
+redhelmlines
+  rotate: false
+  xy: 0, 274
+  size: 226, 238
+  orig: 226, 238
+  offset: 0, 0
+  index: -1
+tieknot
+  rotate: false
+  xy: 371, 154
+  size: 32, 55
+  orig: 34, 55
+  offset: 2, 0
+  index: -1
+torso
+  rotate: true
+  xy: 300, 59
+  size: 94, 141
+  orig: 94, 141
+  offset: 0, 0
+  index: -1

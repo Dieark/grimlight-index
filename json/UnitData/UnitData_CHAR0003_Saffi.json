@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 423
+    "m_PathID": 425
   },
   "m_Name": "UnitData_CHAR0003_Saffi",
   "removeFromGame": 0,
@@ -665,6 +665,25 @@
           "accountLevelOffset": 0
         }
       }
+    ],
+    "heroStoriesItemList": [],
+    "heroSkinItemList": [
+      {
+        "objectType": 17,
+        "objectID": "Saffi_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Saffi_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Saffi_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Saffi_Skin1"
+      }
     ]
   },
   "skinAssetNames": [
@@ -681,7 +700,7 @@
     },
     "unitElement": 1,
     "classType": 1,
-    "deployCost": 4,
+    "deployCost": 3,
     "hp": {
       "statType": 1,
       "yIntercept": 650.0,
@@ -726,29 +745,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 30539
+    "m_PathID": 30660
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 30004
+      "m_PathID": 30116
     },
     {
       "m_FileID": 0,
-      "m_PathID": 30005
+      "m_PathID": 30117
     },
     {
       "m_FileID": 0,
-      "m_PathID": 30006
+      "m_PathID": 30118
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 30003
+    "m_PathID": 30115
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 30002
+    "m_PathID": 30114
   },
   "Gender": 0,
   "Age": 0

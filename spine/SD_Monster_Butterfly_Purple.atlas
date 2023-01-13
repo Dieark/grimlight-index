@@ -1,0 +1,75 @@
+
+SD_Monster_Butterfly_Purple.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lwing1
+  rotate: false
+  xy: 0, 35
+  size: 312, 422
+  orig: 312, 422
+  offset: 0, 0
+  index: -1
+Rwing2
+  rotate: 180
+  xy: 227, 73
+  size: 204, 385
+  orig: 204, 385
+  offset: 0, 0
+  index: -1
+antennae1
+  rotate: false
+  xy: 310, 64
+  size: 78, 146
+  orig: 78, 146
+  offset: 0, 0
+  index: -1
+antennae2
+  rotate: true
+  xy: 48, 33
+  size: 58, 144
+  orig: 63, 144
+  offset: 0, 0
+  index: -1
+body
+  rotate: 180
+  xy: 0, 1
+  size: 65, 179
+  orig: 65, 179
+  offset: 0, 0
+  index: -1
+eyedeath
+  rotate: false
+  xy: 0, 213
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 0, 440
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+
+SD_Monster_Butterfly_Purple2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lwing2
+  rotate: false
+  xy: 229, 12
+  size: 204, 385
+  orig: 204, 385
+  offset: 0, 0
+  index: -1
+Rwing1
+  rotate: false
+  xy: 0, 12
+  size: 312, 422
+  orig: 312, 422
+  offset: 0, 0
+  index: -1

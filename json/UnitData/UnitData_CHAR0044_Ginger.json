@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 390
+    "m_PathID": 425
   },
   "m_Name": "UnitData_CHAR0044_Ginger",
   "removeFromGame": 0,
@@ -665,6 +665,25 @@
           "accountLevelOffset": 0
         }
       }
+    ],
+    "heroStoriesItemList": [],
+    "heroSkinItemList": [
+      {
+        "objectType": 17,
+        "objectID": "Ginger_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Ginger_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Ginger_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Ginger_Skin1"
+      }
     ]
   },
   "skinAssetNames": [
@@ -726,16 +745,16 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2586
+    "m_PathID": 30625
   },
   "traits": [],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2142
+    "m_PathID": 29985
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2141
+    "m_PathID": 29984
   },
   "Gender": 0,
   "Age": 22

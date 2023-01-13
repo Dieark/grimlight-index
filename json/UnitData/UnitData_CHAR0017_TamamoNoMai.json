@@ -665,6 +665,41 @@
           "accountLevelOffset": 0
         }
       }
+    ],
+    "heroStoriesItemList": [],
+    "heroSkinItemList": [
+      {
+        "objectType": 17,
+        "objectID": "TamamoNoMai_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TamamoNoMai_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TamamoNoMai_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TamamoNoMai_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TamamoNoMai_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TamamoNoMai_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TamamoNoMai_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TamamoNoMai_Skin2"
+      }
     ]
   },
   "skinAssetNames": [
@@ -697,7 +732,7 @@
     },
     "defense": {
       "statType": 1,
-      "yIntercept": 23.0,
+      "yIntercept": 30.0,
       "hasExponentialScale": 0
     },
     "critChance": 1.0,

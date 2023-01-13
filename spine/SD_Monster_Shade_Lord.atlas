@@ -1,0 +1,145 @@
+
+SD_Monster_Shade_Lord.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lleg
+  rotate: true
+  xy: 0, 14
+  size: 44, 184
+  orig: 44, 184
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 0, 167
+  size: 50, 183
+  orig: 50, 183
+  offset: 0, 0
+  index: -1
+arbiterorb1
+  rotate: false
+  xy: 264, 306
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+arbiterorb2
+  rotate: false
+  xy: 264, 306
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+arbiterorb3
+  rotate: false
+  xy: 264, 306
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+backcape
+  rotate: 180
+  xy: 0, 51
+  size: 350, 116
+  orig: 350, 123
+  offset: 0, 2
+  index: -1
+backhead
+  rotate: false
+  xy: 264, 349
+  size: 155, 164
+  orig: 155, 164
+  offset: 0, 0
+  index: -1
+eyedark
+  rotate: true
+  xy: 419, 373
+  size: 140, 51
+  orig: 140, 51
+  offset: 0, 0
+  index: -1
+frontcape
+  rotate: true
+  xy: 263, 22
+  size: 350, 249
+  orig: 350, 249
+  offset: 0, 0
+  index: -1
+masklredamdgreen
+  rotate: false
+  xy: 0, 217
+  size: 264, 296
+  orig: 264, 296
+  offset: 0, 0
+  index: -1
+
+SD_Monster_Shade_Lord2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lshoulderplate
+  rotate: true
+  xy: 406, 275
+  size: 110, 94
+  orig: 110, 94
+  offset: 0, 0
+  index: -1
+Lwing
+  rotate: true
+  xy: 255, 128
+  size: 161, 226
+  orig: 161, 226
+  offset: 0, 0
+  index: -1
+Rshoulderplate
+  rotate: true
+  xy: 251, 91
+  size: 68, 87
+  orig: 68, 87
+  offset: 0, 0
+  index: -1
+Rwing
+  rotate: false
+  xy: 255, 261
+  size: 152, 249
+  orig: 152, 249
+  offset: 0, 0
+  index: -1
+arbiterframe1
+  rotate: true
+  xy: 0, 134
+  size: 81, 251
+  orig: 81, 251
+  offset: 0, 0
+  index: -1
+arbiterframe2
+  rotate: true
+  xy: 0, 134
+  size: 81, 251
+  orig: 81, 251
+  offset: 0, 0
+  index: -1
+arbiterframe3
+  rotate: true
+  xy: 0, 134
+  size: 81, 251
+  orig: 81, 251
+  offset: 0, 0
+  index: -1
+mask
+  rotate: false
+  xy: 0, 215
+  size: 255, 296
+  orig: 255, 296
+  offset: 0, 0
+  index: -1
+neckarmor
+  rotate: false
+  xy: 393, 384
+  size: 116, 126
+  orig: 116, 126
+  offset: 0, 0
+  index: -1

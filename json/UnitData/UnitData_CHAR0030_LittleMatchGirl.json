@@ -665,7 +665,30 @@
           "accountLevelOffset": 0
         }
       }
-    ]
+    ],
+    "heroStoriesItemList": [
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryLittleMatchGirl_1"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryLittleMatchGirl_2"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryLittleMatchGirl_3"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryLittleMatchGirl_4"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryLittleMatchGirl_5"
+      }
+    ],
+    "heroSkinItemList": []
   },
   "skinAssetNames": [
     "UnitSkinAssets_Char0030_LittleMatchGirl"
@@ -717,7 +740,7 @@
     },
     "defense": {
       "statType": 1,
-      "yIntercept": 16.0,
+      "yIntercept": 20.0,
       "hasExponentialScale": 0
     },
     "critChance": 1.0,

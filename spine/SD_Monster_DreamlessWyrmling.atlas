@@ -1,0 +1,145 @@
+
+SD_Monster_DreamlessWyrmling.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lfoot
+  rotate: false
+  xy: 251, 313
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+Lhip
+  rotate: true
+  xy: 143, 1
+  size: 63, 142
+  orig: 63, 142
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 172, 438
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+Lwing
+  rotate: false
+  xy: 0, 191
+  size: 251, 317
+  orig: 251, 317
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: false
+  xy: 0, 236
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+Rhorn
+  rotate: false
+  xy: 433, 201
+  size: 65, 163
+  orig: 65, 163
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 251, 239
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+Rwing
+  rotate: true
+  xy: 0, 63
+  size: 172, 288
+  orig: 172, 288
+  offset: 0, 0
+  index: -1
+backhead
+  rotate: false
+  xy: 396, 364
+  size: 93, 143
+  orig: 93, 143
+  offset: 0, 0
+  index: -1
+backheadblck
+  rotate: true
+  xy: 0, 5
+  size: 93, 143
+  orig: 93, 143
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 0, 105
+  size: 50, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 152, 461
+  size: 52, 46
+  orig: 52, 46
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 288, 80
+  size: 152, 145
+  orig: 152, 145
+  offset: 0, 0
+  index: -1
+tail
+  rotate: 180
+  xy: 316, 15
+  size: 187, 148
+  orig: 187, 148
+  offset: 0, 0
+  index: -1
+torso
+  rotate: 270
+  xy: 208, 232
+  size: 275, 193
+  orig: 275, 193
+  offset: 0, 0
+  index: -1
+
+SD_Monster_DreamlessWyrmling2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lhorn
+  rotate: false
+  xy: 139, 3
+  size: 123, 150
+  orig: 123, 150
+  offset: 0, 0
+  index: -1
+Rhip
+  rotate: false
+  xy: 262, 25
+  size: 72, 128
+  orig: 72, 128
+  offset: 0, 0
+  index: -1
+chestglowdark
+  rotate: false
+  xy: 334, 64
+  size: 50, 89
+  orig: 50, 89
+  offset: 0, 0
+  index: -1
+frontjaw
+  rotate: false
+  xy: 0, 0
+  size: 139, 153
+  orig: 139, 153
+  offset: 0, 0
+  index: -1

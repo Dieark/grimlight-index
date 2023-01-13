@@ -1,0 +1,146 @@
+
+SD_Monster_SnowFairy_Day.png
+size: 512,185
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 78, 6
+  size: 31, 75
+  orig: 31, 75
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 122, 29
+  size: 19, 52
+  orig: 19, 52
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 180, 4
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 407, 96
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+dress
+  rotate: false
+  xy: 118, 91
+  size: 125, 96
+  orig: 125, 100
+  offset: 0, 2
+  index: -1
+eye
+  rotate: false
+  xy: 210, 174
+  size: 13, 11
+  orig: 15, 11
+  offset: 1, 0
+  index: -1
+eye_glow
+  rotate: false
+  xy: 414, 23
+  size: 28, 27
+  orig: 31, 31
+  offset: 2, 2
+  index: -1
+floating_snowflake
+  rotate: true
+  xy: 454, 39
+  size: 53, 57
+  orig: 53, 59
+  offset: 0, 1
+  index: -1
+frill
+  rotate: false
+  xy: 338, 13
+  size: 75, 37
+  orig: 75, 37
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 243, 97
+  size: 83, 88
+  orig: 83, 88
+  offset: 0, 0
+  index: -1
+hood_back
+  rotate: true
+  xy: 280, 45
+  size: 52, 64
+  orig: 52, 66
+  offset: 0, 1
+  index: -1
+hood_front
+  rotate: true
+  xy: 326, 75
+  size: 110, 117
+  orig: 110, 117
+  offset: 0, 0
+  index: -1
+scarf_back
+  rotate: 270
+  xy: 4, 1
+  size: 59, 72
+  orig: 59, 72
+  offset: 0, 0
+  index: -1
+scarf_front
+  rotate: true
+  xy: 0, 26
+  size: 56, 83
+  orig: 56, 83
+  offset: 0, 0
+  index: -1
+snowflake
+  rotate: false
+  xy: 96, 20
+  size: 26, 27
+  orig: 27, 27
+  offset: 1, 0
+  index: -1
+wand
+  rotate: true
+  xy: 370, 50
+  size: 42, 84
+  orig: 44, 86
+  offset: 1, 1
+  index: -1
+wingbottom_L
+  rotate: false
+  xy: 202, 36
+  size: 78, 61
+  orig: 78, 61
+  offset: 0, 0
+  index: -1
+wingbottom_R
+  rotate: true
+  xy: 118, 47
+  size: 44, 62
+  orig: 44, 62
+  offset: 0, 0
+  index: -1
+wingtop_L
+  rotate: false
+  xy: 0, 81
+  size: 118, 105
+  orig: 118, 105
+  offset: 0, 0
+  index: -1
+wingtop_R
+  rotate: false
+  xy: 443, 92
+  size: 64, 94
+  orig: 64, 94
+  offset: 0, 0
+  index: -1

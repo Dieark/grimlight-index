@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 423
+    "m_PathID": 425
   },
   "m_Name": "UnitData_CHAR0025_Geppetto",
   "removeFromGame": 0,
@@ -665,7 +665,9 @@
           "accountLevelOffset": 0
         }
       }
-    ]
+    ],
+    "heroStoriesItemList": [],
+    "heroSkinItemList": []
   },
   "skinAssetNames": [
     "UnitSkinAssets_Char0025_Geppeto"
@@ -725,21 +727,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 30504
+    "m_PathID": 30624
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 29877
+      "m_PathID": 29983
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 29876
+    "m_PathID": 29982
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 29875
+    "m_PathID": 29981
   },
   "Gender": 1,
   "Age": 17

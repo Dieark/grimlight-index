@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 390
+    "m_PathID": 425
   },
   "m_Name": "UnitData_CHAR0035_TheBeast",
   "removeFromGame": 0,
@@ -665,6 +665,41 @@
           "accountLevelOffset": 0
         }
       }
+    ],
+    "heroStoriesItemList": [],
+    "heroSkinItemList": [
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin2"
+      }
     ]
   },
   "skinAssetNames": [
@@ -698,7 +733,7 @@
     },
     "defense": {
       "statType": 1,
-      "yIntercept": 34.0,
+      "yIntercept": 40.0,
       "hasExponentialScale": 0
     },
     "critChance": 1.0,
@@ -727,21 +762,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2627
+    "m_PathID": 30667
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2294
+      "m_PathID": 30142
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2293
+    "m_PathID": 30141
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2292
+    "m_PathID": 30140
   },
   "Gender": 1,
   "Age": 87

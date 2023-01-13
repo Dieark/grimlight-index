@@ -1,0 +1,97 @@
+
+SD_Monster_LilyPawn.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lhand
+  rotate: false
+  xy: 416, 180
+  size: 36, 36
+  orig: 38, 38
+  offset: 1, 1
+  index: -1
+Lleg
+  rotate: false
+  xy: 394, 23
+  size: 32, 71
+  orig: 35, 74
+  offset: 1, 1
+  index: -1
+Rhand
+  rotate: false
+  xy: 416, 140
+  size: 40, 40
+  orig: 42, 42
+  offset: 1, 1
+  index: -1
+Rleg
+  rotate: false
+  xy: 375, 94
+  size: 34, 70
+  orig: 36, 72
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 0, 85
+  size: 177, 150
+  orig: 177, 150
+  offset: 0, 0
+  index: -1
+bow_bottom
+  rotate: true
+  xy: 409, 94
+  size: 46, 38
+  orig: 46, 38
+  offset: 0, 0
+  index: -1
+bow_flower
+  rotate: false
+  xy: 375, 164
+  size: 41, 44
+  orig: 44, 46
+  offset: 2, 1
+  index: -1
+bow_top
+  rotate: false
+  xy: 264, 0
+  size: 71, 41
+  orig: 71, 41
+  offset: 0, 0
+  index: -1
+eye_dark
+  rotate: true
+  xy: 363, 11
+  size: 83, 31
+  orig: 86, 34
+  offset: 1, 1
+  index: -1
+eye_glow
+  rotate: false
+  xy: 264, 41
+  size: 99, 44
+  orig: 103, 48
+  offset: 2, 2
+  index: -1
+head
+  rotate: false
+  xy: 177, 85
+  size: 150, 150
+  orig: 152, 152
+  offset: 1, 1
+  index: -1
+neck
+  rotate: true
+  xy: 327, 94
+  size: 141, 48
+  orig: 144, 50
+  offset: 1, 1
+  index: -1
+sword
+  rotate: true
+  xy: 0, 14
+  size: 71, 264
+  orig: 73, 267
+  offset: 1, 2
+  index: -1

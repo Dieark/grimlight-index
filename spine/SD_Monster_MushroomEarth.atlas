@@ -1,0 +1,48 @@
+
+SD_Monster_MushroomEarth.png
+size: 231,352
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lhand
+  rotate: false
+  xy: 0, 300
+  size: 23, 23
+  orig: 25, 25
+  offset: 1, 1
+  index: -1
+Rhand
+  rotate: false
+  xy: 23, 299
+  size: 19, 24
+  orig: 21, 26
+  offset: 1, 1
+  index: -1
+body
+  rotate: true
+  xy: 0, 1
+  size: 130, 109
+  orig: 130, 109
+  offset: 0, 0
+  index: -1
+eyedeath
+  rotate: false
+  xy: 0, 323
+  size: 56, 29
+  orig: 58, 31
+  offset: 1, 1
+  index: -1
+hood
+  rotate: true
+  xy: 0, 104
+  size: 248, 164
+  orig: 248, 164
+  offset: 0, 0
+  index: -1
+innerhood
+  rotate: true
+  xy: 142, 132
+  size: 213, 88
+  orig: 213, 88
+  offset: 0, 0
+  index: -1

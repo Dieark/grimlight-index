@@ -1,0 +1,62 @@
+
+SD_Monster_DirtCrawler.png
+size: 468,215
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lhand
+  rotate: false
+  xy: 433, 73
+  size: 34, 35
+  orig: 36, 37
+  offset: 1, 1
+  index: -1
+backmouth
+  rotate: false
+  xy: 322, 16
+  size: 111, 57
+  orig: 111, 57
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 81
+  size: 283, 134
+  orig: 283, 134
+  offset: 0, 0
+  index: -1
+bush
+  rotate: false
+  xy: 0, 24
+  size: 152, 57
+  orig: 155, 60
+  offset: 2, 1
+  index: -1
+eyedeath
+  rotate: true
+  xy: 152, 1
+  size: 80, 31
+  orig: 82, 33
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 283, 112
+  size: 185, 103
+  orig: 185, 103
+  offset: 0, 0
+  index: -1
+helmet
+  rotate: 180
+  xy: 194, 2
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+mud
+  rotate: true
+  xy: 433, 35
+  size: 38, 26
+  orig: 41, 28
+  offset: 2, 1
+  index: -1

@@ -1,0 +1,209 @@
+
+SD_Monster_DreamlessBishop_Life.png
+size: 440,491
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 306, 150
+  size: 61, 102
+  orig: 62, 103
+  offset: 1, 0
+  index: -1
+Lclawplate
+  rotate: false
+  xy: 364, 98
+  size: 57, 52
+  orig: 57, 52
+  offset: 0, 0
+  index: -1
+Lfinger1
+  rotate: false
+  xy: 402, 305
+  size: 28, 62
+  orig: 29, 62
+  offset: 0, 0
+  index: -1
+Lfinger2
+  rotate: false
+  xy: 118, 26
+  size: 23, 61
+  orig: 25, 62
+  offset: 1, 0
+  index: -1
+Lfinger3
+  rotate: false
+  xy: 421, 91
+  size: 18, 52
+  orig: 19, 53
+  offset: 0, 0
+  index: -1
+Lhipplate
+  rotate: true
+  xy: 306, 59
+  size: 91, 58
+  orig: 92, 58
+  offset: 0, 0
+  index: -1
+Lshoulderplate
+  rotate: true
+  xy: 337, 255
+  size: 62, 65
+  orig: 62, 66
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 401, 367
+  size: 33, 63
+  orig: 33, 64
+  offset: 0, 1
+  index: -1
+Rarm
+  rotate: true
+  xy: 306, 0
+  size: 59, 81
+  orig: 59, 81
+  offset: 0, 0
+  index: -1
+Rclaw1
+  rotate: true
+  xy: 176, 338
+  size: 20, 60
+  orig: 20, 61
+  offset: 0, 1
+  index: -1
+Rclaw2
+  rotate: false
+  xy: 420, 206
+  size: 18, 53
+  orig: 19, 54
+  offset: 1, 1
+  index: -1
+Rclaw3
+  rotate: true
+  xy: 284, 368
+  size: 16, 48
+  orig: 16, 49
+  offset: 0, 1
+  index: -1
+Rhand
+  rotate: false
+  xy: 367, 204
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+Rhipplate
+  rotate: false
+  xy: 402, 259
+  size: 26, 46
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+Rshoulderplate
+  rotate: false
+  xy: 337, 317
+  size: 64, 67
+  orig: 65, 68
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: 180
+  xy: 141, 29
+  size: 32, 58
+  orig: 32, 58
+  offset: 0, 0
+  index: -1
+chestarmor
+  rotate: false
+  xy: 176, 358
+  size: 108, 133
+  orig: 112, 133
+  offset: 3, 0
+  index: -1
+chestplate
+  rotate: true
+  xy: 248, 252
+  size: 106, 89
+  orig: 106, 90
+  offset: 0, 1
+  index: -1
+eyedeath
+  rotate: false
+  xy: 228, 208
+  size: 57, 25
+  orig: 57, 26
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 0, 302
+  size: 64, 28
+  orig: 64, 29
+  offset: 0, 1
+  index: -1
+face
+  rotate: true
+  xy: 0, 87
+  size: 125, 179
+  orig: 125, 179
+  offset: 0, 0
+  index: -1
+fronthood
+  rotate: true
+  xy: 284, 384
+  size: 107, 77
+  orig: 108, 77
+  offset: 0, 0
+  index: -1
+frontscapula
+  rotate: true
+  xy: 0, 208
+  size: 130, 248
+  orig: 130, 248
+  offset: 0, 0
+  index: -1
+hood
+  rotate: false
+  xy: 0, 317
+  size: 176, 174
+  orig: 176, 174
+  offset: 0, 0
+  index: -1
+skirtcloth1
+  rotate: true
+  xy: 0, 12
+  size: 75, 119
+  orig: 75, 119
+  offset: 0, 0
+  index: -1
+skirtcloth2
+  rotate: false
+  xy: 361, 402
+  size: 72, 90
+  orig: 72, 90
+  offset: 0, 0
+  index: -1
+skirtcloth3
+  rotate: false
+  xy: 364, 17
+  size: 75, 81
+  orig: 75, 81
+  offset: 0, 0
+  index: -1
+skirthcloth4
+  rotate: false
+  xy: 375, 143
+  size: 58, 61
+  orig: 58, 61
+  offset: 0, 0
+  index: -1
+stomach
+  rotate: false
+  xy: 179, 33
+  size: 127, 175
+  orig: 128, 202
+  offset: 0, 0
+  index: -1

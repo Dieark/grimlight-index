@@ -1,0 +1,69 @@
+
+SD_Monster_Rat.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 84
+  size: 327, 164
+  orig: 327, 164
+  offset: 0, 0
+  index: -1
+ear
+  rotate: true
+  xy: 26, 1
+  size: 57, 67
+  orig: 57, 67
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 32, 232
+  size: 15, 16
+  orig: 18, 18
+  offset: 2, 1
+  index: -1
+eyeblack
+  rotate: false
+  xy: 0, 215
+  size: 32, 33
+  orig: 34, 35
+  offset: 1, 1
+  index: -1
+eyeglow
+  rotate: false
+  xy: 93, 11
+  size: 43, 47
+  orig: 46, 50
+  offset: 2, 1
+  index: -1
+head
+  rotate: false
+  xy: 327, 30
+  size: 176, 218
+  orig: 178, 221
+  offset: 1, 1
+  index: -1
+head_wire
+  rotate: false
+  xy: 136, 8
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+head_wire2
+  rotate: false
+  xy: 136, 28
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 0, 57
+  size: 317, 27
+  orig: 317, 27
+  offset: 0, 0
+  index: -1

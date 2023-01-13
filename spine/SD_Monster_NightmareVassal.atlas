@@ -1,0 +1,321 @@
+
+SD_Monster_NightmareVassal.png
+size: 512,318
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 263, 95
+  size: 46, 109
+  orig: 47, 109
+  offset: 1, 0
+  index: -1
+Larmx
+  rotate: true
+  xy: 172, 74
+  size: 70, 79
+  orig: 72, 80
+  offset: 1, 1
+  index: -1
+Lclaw1
+  rotate: false
+  xy: 33, 34
+  size: 43, 30
+  orig: 44, 31
+  offset: 1, 1
+  index: -1
+Lclaw2
+  rotate: false
+  xy: 323, 142
+  size: 42, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+Lclaw3
+  rotate: false
+  xy: 33, 10
+  size: 35, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+Lclawplate
+  rotate: true
+  xy: 396, 16
+  size: 59, 60
+  orig: 64, 67
+  offset: 4, 1
+  index: -1
+Lcracks
+  rotate: false
+  xy: 365, 33
+  size: 26, 41
+  orig: 27, 43
+  offset: 0, 1
+  index: -1
+Lfinger1
+  rotate: true
+  xy: 250, 6
+  size: 29, 32
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+Lfinger2
+  rotate: true
+  xy: 102, 10
+  size: 24, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+Lfinger3
+  rotate: true
+  xy: 164, 5
+  size: 22, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 314, 41
+  size: 51, 54
+  orig: 53, 55
+  offset: 1, 0
+  index: -1
+Lhip
+  rotate: true
+  xy: 0, 64
+  size: 49, 84
+  orig: 50, 85
+  offset: 0, 1
+  index: -1
+Lleg
+  rotate: false
+  xy: 327, 169
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+Lshoulderplate
+  rotate: true
+  xy: 372, 138
+  size: 84, 92
+  orig: 86, 92
+  offset: 2, 0
+  index: -1
+Lthumbjoint
+  rotate: false
+  xy: 167, 297
+  size: 18, 21
+  orig: 18, 22
+  offset: 0, 1
+  index: -1
+Rarm
+  rotate: false
+  xy: 84, 34
+  size: 64, 64
+  orig: 65, 66
+  offset: 0, 1
+  index: -1
+Rbackchest
+  rotate: false
+  xy: 465, 203
+  size: 43, 57
+  orig: 43, 57
+  offset: 0, 0
+  index: -1
+Rchestglow
+  rotate: false
+  xy: 185, 314
+  size: 7, 4
+  orig: 7, 5
+  offset: 0, 1
+  index: -1
+Rclaw1
+  rotate: true
+  xy: 200, 14
+  size: 14, 48
+  orig: 14, 48
+  offset: 0, 0
+  index: -1
+Rclaw2
+  rotate: false
+  xy: 159, 88
+  size: 13, 53
+  orig: 14, 53
+  offset: 1, 0
+  index: -1
+Rfinger
+  rotate: true
+  xy: 282, 8
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+Rfinger1
+  rotate: true
+  xy: 68, 11
+  size: 23, 34
+  orig: 24, 36
+  offset: 1, 1
+  index: -1
+Rfinger2
+  rotate: true
+  xy: 134, 5
+  size: 22, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+Rflaw3
+  rotate: true
+  xy: 456, 12
+  size: 18, 40
+  orig: 18, 41
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: true
+  xy: 252, 274
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 465, 260
+  size: 46, 58
+  orig: 48, 59
+  offset: 1, 0
+  index: -1
+Rhandplate
+  rotate: false
+  xy: 200, 28
+  size: 50, 46
+  orig: 50, 47
+  offset: 0, 1
+  index: -1
+Rhip
+  rotate: false
+  xy: 88, 98
+  size: 71, 78
+  orig: 72, 79
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 0, 24
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 148, 27
+  size: 52, 47
+  orig: 54, 49
+  offset: 1, 1
+  index: -1
+Rshoulderplate
+  rotate: false
+  xy: 456, 30
+  size: 56, 67
+  orig: 58, 68
+  offset: 1, 1
+  index: -1
+Rthumb
+  rotate: true
+  xy: 460, 97
+  size: 20, 48
+  orig: 20, 48
+  offset: 0, 0
+  index: -1
+Rthumbplate
+  rotate: false
+  xy: 257, 258
+  size: 18, 16
+  orig: 20, 16
+  offset: 1, 0
+  index: -1
+backpelvis
+  rotate: false
+  xy: 464, 157
+  size: 47, 46
+  orig: 49, 47
+  offset: 1, 0
+  index: -1
+bottomjaw
+  rotate: true
+  xy: 0, 113
+  size: 63, 88
+  orig: 64, 88
+  offset: 0, 0
+  index: -1
+bottomjawx
+  rotate: true
+  xy: 372, 222
+  size: 96, 93
+  orig: 97, 94
+  offset: 1, 1
+  index: -1
+chestplate
+  rotate: true
+  xy: 284, 213
+  size: 105, 88
+  orig: 106, 88
+  offset: 0, 0
+  index: -1
+eyeglow
+  rotate: false
+  xy: 464, 117
+  size: 48, 40
+  orig: 50, 40
+  offset: 1, 0
+  index: -1
+foot
+  rotate: false
+  xy: 314, 13
+  size: 35, 28
+  orig: 37, 29
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 0, 176
+  size: 167, 142
+  orig: 167, 142
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 167, 176
+  size: 142, 117
+  orig: 142, 117
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 251, 35
+  size: 63, 60
+  orig: 64, 60
+  offset: 1, 0
+  index: -1
+tail
+  rotate: 180
+  xy: 164, 141
+  size: 163, 61
+  orig: 163, 61
+  offset: 0, 0
+  index: -1
+thumbclaw
+  rotate: false
+  xy: 349, 2
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+waist
+  rotate: true
+  xy: 372, 74
+  size: 64, 88
+  orig: 64, 88
+  offset: 0, 0
+  index: -1

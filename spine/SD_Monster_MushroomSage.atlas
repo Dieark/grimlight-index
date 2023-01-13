@@ -1,0 +1,69 @@
+
+SD_Monster_MushroomSage.png
+size: 360,242
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lhand
+  rotate: false
+  xy: 0, 49
+  size: 24, 24
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 142, 190
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+backcap
+  rotate: 180
+  xy: 19, 1
+  size: 198, 62
+  orig: 198, 62
+  offset: 0, 0
+  index: -1
+cap
+  rotate: true
+  xy: 152, 8
+  size: 235, 144
+  orig: 235, 144
+  offset: 0, 0
+  index: -1
+face_death
+  rotate: false
+  xy: 172, 218
+  size: 41, 12
+  orig: 41, 14
+  offset: 0, 1
+  index: -1
+face_idle
+  rotate: false
+  xy: 149, 176
+  size: 42, 14
+  orig: 42, 17
+  offset: 0, 0
+  index: -1
+headleaf
+  rotate: false
+  xy: 0, 201
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+staff
+  rotate: 180
+  xy: 280, 1
+  size: 79, 131
+  orig: 79, 131
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 0, 48
+  size: 176, 195
+  orig: 208, 202
+  offset: 26, 0
+  index: -1

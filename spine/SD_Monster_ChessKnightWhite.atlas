@@ -1,0 +1,237 @@
+
+SD_Monster_ChessKnightWhite.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer4
+  rotate: true
+  xy: 363, 32
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+Lpauldron
+  rotate: true
+  xy: 0, 34
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 312, 39
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: true
+  xy: 286, 131
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 79, 33
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+Rknee
+  rotate: false
+  xy: 409, 45
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+Rpauldron
+  rotate: false
+  xy: 209, 80
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+Rpauldron2
+  rotate: false
+  xy: 105, 123
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+Rthigh
+  rotate: false
+  xy: 154, 36
+  size: 29, 55
+  orig: 29, 55
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 218, 236
+  size: 156, 153
+  orig: 156, 153
+  offset: 0, 0
+  index: -1
+head_plume
+  rotate: false
+  xy: 364, 143
+  size: 142, 169
+  orig: 142, 169
+  offset: 0, 0
+  index: -1
+horseBLleg
+  rotate: 270
+  xy: 271, 90
+  size: 37, 105
+  orig: 41, 105
+  offset: 4, 0
+  index: -1
+horse_BRleg
+  rotate: true
+  xy: 0, 109
+  size: 38, 105
+  orig: 38, 105
+  offset: 0, 0
+  index: -1
+horse_FLleg
+  rotate: true
+  xy: 105, 89
+  size: 32, 90
+  orig: 32, 90
+  offset: 0, 0
+  index: -1
+horse_FRleg
+  rotate: false
+  xy: 475, 95
+  size: 30, 84
+  orig: 30, 84
+  offset: 0, 0
+  index: -1
+horse_Lear
+  rotate: false
+  xy: 55, 136
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+horse_Rear
+  rotate: false
+  xy: 460, 317
+  size: 35, 60
+  orig: 35, 60
+  offset: 0, 0
+  index: -1
+horse_backreign
+  rotate: false
+  xy: 352, 33
+  size: 110, 73
+  orig: 110, 73
+  offset: 0, 0
+  index: -1
+horse_cloth1
+  rotate: true
+  xy: 159, 121
+  size: 39, 126
+  orig: 39, 126
+  offset: 0, 0
+  index: -1
+horse_cloth2
+  rotate: false
+  xy: 52, 35
+  size: 27, 76
+  orig: 27, 76
+  offset: 0, 0
+  index: -1
+horse_cloth3
+  rotate: true
+  xy: 79, 63
+  size: 27, 75
+  orig: 27, 75
+  offset: 0, 0
+  index: -1
+horse_drape
+  rotate: false
+  xy: 0, 227
+  size: 219, 164
+  orig: 219, 164
+  offset: 0, 0
+  index: -1
+horse_head
+  rotate: true
+  xy: 372, 376
+  size: 131, 117
+  orig: 131, 117
+  offset: 0, 0
+  index: -1
+horse_neck
+  rotate: true
+  xy: 61, 147
+  size: 92, 119
+  orig: 92, 119
+  offset: 0, 0
+  index: -1
+horse_neckbase
+  rotate: false
+  xy: 372, 235
+  size: 89, 142
+  orig: 89, 142
+  offset: 0, 0
+  index: -1
+horse_reigns
+  rotate: 180
+  xy: 195, 31
+  size: 130, 91
+  orig: 130, 91
+  offset: 0, 0
+  index: -1
+horse_rumparmor
+  rotate: true
+  xy: 0, 155
+  size: 73, 58
+  orig: 73, 58
+  offset: 0, 0
+  index: -1
+horse_saddle
+  rotate: false
+  xy: 180, 160
+  size: 107, 75
+  orig: 107, 75
+  offset: 0, 0
+  index: -1
+horse_saddlecloth
+  rotate: true
+  xy: 292, 408
+  size: 99, 79
+  orig: 99, 79
+  offset: 0, 0
+  index: -1
+horse_tail
+  rotate: 270
+  xy: 343, 103
+  size: 62, 133
+  orig: 62, 133
+  offset: 0, 0
+  index: -1
+lance
+  rotate: false
+  xy: 0, 391
+  size: 292, 117
+  orig: 292, 117
+  offset: 0, 0
+  index: -1
+shirtflap
+  rotate: false
+  xy: 0, 59
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 287, 159
+  size: 66, 77
+  orig: 66, 77
+  offset: 0, 0
+  index: -1

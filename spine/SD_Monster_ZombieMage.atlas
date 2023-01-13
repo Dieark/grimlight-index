@@ -1,0 +1,139 @@
+
+SD_Monster_ZombieMage.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 257, 7
+  size: 56, 108
+  orig: 56, 108
+  offset: 0, 0
+  index: -1
+Lfingers
+  rotate: true
+  xy: 228, 76
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 227, 377
+  size: 22, 65
+  orig: 22, 65
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: true
+  xy: 203, 415
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 87, 5
+  size: 70, 132
+  orig: 70, 132
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 65, 4
+  size: 22, 71
+  orig: 22, 71
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 53, 256
+  size: 102, 112
+  orig: 102, 112
+  offset: 0, 0
+  index: -1
+bulb
+  rotate: false
+  xy: 219, 5
+  size: 37, 70
+  orig: 37, 70
+  offset: 0, 0
+  index: -1
+bulbglow
+  rotate: false
+  xy: 0, 0
+  size: 65, 75
+  orig: 65, 75
+  offset: 0, 0
+  index: -1
+bulblight
+  rotate: false
+  xy: 185, 370
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+collar
+  rotate: false
+  xy: 148, 75
+  size: 80, 40
+  orig: 80, 40
+  offset: 0, 0
+  index: -1
+eyelight
+  rotate: false
+  xy: 214, 359
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 0, 75
+  size: 177, 148
+  orig: 177, 148
+  offset: 0, 0
+  index: -1
+headlights
+  rotate: true
+  xy: 185, 403
+  size: 107, 18
+  orig: 107, 18
+  offset: 0, 0
+  index: -1
+neckchain
+  rotate: true
+  xy: 165, 273
+  size: 85, 80
+  orig: 85, 80
+  offset: 0, 0
+  index: -1
+poncho
+  rotate: true
+  xy: 53, 358
+  size: 152, 132
+  orig: 152, 132
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 0, 252
+  size: 53, 258
+  orig: 53, 258
+  offset: 0, 0
+  index: -1
+weaponbulblight
+  rotate: false
+  xy: 203, 442
+  size: 51, 68
+  orig: 51, 68
+  offset: 0, 0
+  index: -1
+weaponbulblightglow
+  rotate: false
+  xy: 148, 115
+  size: 126, 141
+  orig: 126, 141
+  offset: 0, 0
+  index: -1

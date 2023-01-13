@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 423
+    "m_PathID": 393
   },
   "m_Name": "UnitData_CHAR0054_JeonWooChi",
   "removeFromGame": 0,
@@ -665,6 +665,41 @@
           "accountLevelOffset": 0
         }
       }
+    ],
+    "heroStoriesItemList": [],
+    "heroSkinItemList": [
+      {
+        "objectType": 17,
+        "objectID": "JeonWooChi_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "JeonWooChi_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "JeonWooChi_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "JeonWooChi_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "JeonWooChi_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "JeonWooChi_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "JeonWooChi_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "JeonWooChi_Skin2"
+      }
     ]
   },
   "skinAssetNames": [
@@ -726,29 +761,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 30513
+    "m_PathID": 2618
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 29914
+      "m_PathID": 2195
     },
     {
       "m_FileID": 0,
-      "m_PathID": 29912
+      "m_PathID": 2193
     },
     {
       "m_FileID": 0,
-      "m_PathID": 29913
+      "m_PathID": 2194
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 29911
+    "m_PathID": 2192
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 29910
+    "m_PathID": 2191
   },
   "Gender": 1,
   "Age": -1

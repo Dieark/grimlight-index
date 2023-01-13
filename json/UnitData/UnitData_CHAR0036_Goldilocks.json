@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 425
   },
   "m_Name": "UnitData_CHAR0036_Goldilocks",
   "removeFromGame": 0,
@@ -665,6 +665,46 @@
           "accountLevelOffset": 0
         }
       }
+    ],
+    "heroStoriesItemList": [
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryGoldilocks_1"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryGoldilocks_2"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryGoldilocks_3"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryGoldilocks_4"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryGoldilocks_5"
+      }
+    ],
+    "heroSkinItemList": [
+      {
+        "objectType": 17,
+        "objectID": "Goldilocks_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Goldilocks_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Goldilocks_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Goldilocks_Skin1"
+      }
     ]
   },
   "skinAssetNames": [
@@ -674,23 +714,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 5427133795762092226
+      "m_PathID": 31498
     },
     {
       "m_FileID": 0,
-      "m_PathID": 4176709378124086125
+      "m_PathID": 31499
     },
     {
       "m_FileID": 0,
-      "m_PathID": -3668799971985268443
+      "m_PathID": 31500
     },
     {
       "m_FileID": 0,
-      "m_PathID": -2407299967700969585
+      "m_PathID": 31501
     },
     {
       "m_FileID": 0,
-      "m_PathID": 9034640649098105013
+      "m_PathID": 31502
     }
   ],
   "unitStatData": {
@@ -747,21 +787,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": -8659478664716953287
+    "m_PathID": 30626
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": -7919719337412499890
+      "m_PathID": 29988
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 1083680210780965587
+    "m_PathID": 29987
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": -3029528151542042623
+    "m_PathID": 29986
   },
   "Gender": 0,
   "Age": 18

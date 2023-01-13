@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 425
   },
   "m_Name": "UnitData_CHAR0039_Scarecrow",
   "removeFromGame": 0,
@@ -571,7 +571,30 @@
           "accountLevelOffset": 0
         }
       }
-    ]
+    ],
+    "heroStoriesItemList": [
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryScarecrow_1"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryScarecrow_2"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryScarecrow_3"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryScarecrow_4"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryScarecrow_5"
+      }
+    ],
+    "heroSkinItemList": []
   },
   "skinAssetNames": [
     "UnitSkinAssets_Char0039_Scarecrow"
@@ -579,23 +602,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": -4470028809746181721
+      "m_PathID": 31523
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2060711141552092796
+      "m_PathID": 31524
     },
     {
       "m_FileID": 0,
-      "m_PathID": 8514436947131108729
+      "m_PathID": 31525
     },
     {
       "m_FileID": 0,
-      "m_PathID": -2356723051031651514
+      "m_PathID": 31526
     },
     {
       "m_FileID": 0,
-      "m_PathID": -8036192784645383022
+      "m_PathID": 31527
     }
   ],
   "unitStatData": {
@@ -623,7 +646,7 @@
     },
     "defense": {
       "statType": 1,
-      "yIntercept": 14.0,
+      "yIntercept": 20.0,
       "hasExponentialScale": 0
     },
     "critChance": 1.0,
@@ -652,12 +675,12 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 74957204461100758
+    "m_PathID": 30662
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": -849322412376233531
+      "m_PathID": 30125
     }
   ],
   "passiveAbility": {
@@ -666,7 +689,7 @@
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 1858922205696389552
+    "m_PathID": 30124
   },
   "Gender": 0,
   "Age": -1

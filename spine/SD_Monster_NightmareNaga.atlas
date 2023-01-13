@@ -1,0 +1,152 @@
+
+SD_Monster_NightmareNaga.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lfinger1
+  rotate: 180
+  xy: 309, 200
+  size: 57, 94
+  orig: 57, 95
+  offset: 0, 1
+  index: -1
+Lfinger2
+  rotate: false
+  xy: 263, 207
+  size: 78, 108
+  orig: 78, 108
+  offset: 0, 0
+  index: -1
+Lfinger3
+  rotate: true
+  xy: 0, 352
+  size: 59, 74
+  orig: 59, 75
+  offset: 0, 1
+  index: -1
+Lhand
+  rotate: true
+  xy: 0, 410
+  size: 100, 67
+  orig: 100, 67
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 108, 4
+  size: 135, 228
+  orig: 135, 228
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 336, 4
+  size: 163, 112
+  orig: 163, 112
+  offset: 0, 0
+  index: -1
+Rfinger2
+  rotate: 180
+  xy: 426, 300
+  size: 69, 111
+  orig: 69, 111
+  offset: 0, 0
+  index: -1
+Rfinger3
+  rotate: true
+  xy: 0, 169
+  size: 57, 93
+  orig: 57, 93
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 444, 411
+  size: 99, 65
+  orig: 99, 65
+  offset: 0, 0
+  index: -1
+backjaw
+  rotate: false
+  xy: 0, 15
+  size: 70, 122
+  orig: 70, 122
+  offset: 0, 0
+  index: -1
+eyeclosed1
+  rotate: false
+  xy: 78, 350
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+eyeclosed2
+  rotate: false
+  xy: 55, 365
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+frontjaw
+  rotate: true
+  xy: 267, 411
+  size: 99, 177
+  orig: 99, 177
+  offset: 0, 0
+  index: -1
+tail
+  rotate: 180
+  xy: 24, 116
+  size: 483, 289
+  orig: 483, 289
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 0, 218
+  size: 270, 292
+  orig: 270, 292
+  offset: 0, 0
+  index: -1
+
+SD_Monster_NightmareNaga2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 231, 1
+  size: 215, 106
+  orig: 215, 106
+  offset: 0, 0
+  index: -1
+Ltophead
+  rotate: false
+  xy: 0, 193
+  size: 383, 286
+  orig: 383, 286
+  offset: 0, 0
+  index: -1
+Rfinger1
+  rotate: false
+  xy: 134, 381
+  size: 66, 99
+  orig: 66, 99
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 0, 66
+  size: 136, 193
+  orig: 136, 193
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 95, 399
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1

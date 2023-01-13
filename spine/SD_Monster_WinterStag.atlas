@@ -1,0 +1,139 @@
+
+SD_Monster_WinterStag.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 3
+  rotate: false
+  xy: 491, 466
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+Lbackleg
+  rotate: true
+  xy: 0, 167
+  size: 77, 159
+  orig: 77, 159
+  offset: 0, 0
+  index: -1
+Lear
+  rotate: false
+  xy: 470, 405
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+Lfrontleg
+  rotate: false
+  xy: 459, 172
+  size: 53, 161
+  orig: 53, 161
+  offset: 0, 0
+  index: -1
+Rbackleg
+  rotate: 180
+  xy: 421, 228
+  size: 88, 175
+  orig: 88, 175
+  offset: 0, 0
+  index: -1
+Rear
+  rotate: false
+  xy: 464, 444
+  size: 31, 68
+  orig: 32, 68
+  offset: 0, 0
+  index: -1
+Rfrontleg
+  rotate: 270
+  xy: 236, 180
+  size: 62, 189
+  orig: 62, 189
+  offset: 0, 0
+  index: -1
+body
+  rotate: 180
+  xy: 0, 372
+  size: 237, 141
+  orig: 237, 141
+  offset: 0, 0
+  index: -1
+crystal1
+  rotate: false
+  xy: 348, 253
+  size: 20, 49
+  orig: 20, 49
+  offset: 0, 0
+  index: -1
+crystal2
+  rotate: false
+  xy: 465, 273
+  size: 19, 52
+  orig: 19, 52
+  offset: 0, 0
+  index: -1
+crystal3
+  rotate: false
+  xy: 368, 255
+  size: 18, 47
+  orig: 18, 47
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 176, 348
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+eyesclosed
+  rotate: false
+  xy: 155, 319
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 75, 217
+  size: 121, 92
+  orig: 121, 92
+  offset: 0, 0
+  index: -1
+horn1
+  rotate: false
+  xy: 237, 403
+  size: 227, 109
+  orig: 227, 109
+  offset: 0, 0
+  index: -1
+horn2
+  rotate: false
+  xy: 196, 235
+  size: 152, 67
+  orig: 152, 67
+  offset: 0, 0
+  index: -1
+horn3
+  rotate: false
+  xy: 213, 302
+  size: 208, 101
+  orig: 208, 101
+  offset: 0, 0
+  index: -1
+mane
+  rotate: true
+  xy: 0, 246
+  size: 138, 155
+  orig: 138, 155
+  offset: 0, 0
+  index: -1
+tail
+  rotate: 180
+  xy: 143, 136
+  size: 93, 100
+  orig: 93, 100
+  offset: 0, 0
+  index: -1

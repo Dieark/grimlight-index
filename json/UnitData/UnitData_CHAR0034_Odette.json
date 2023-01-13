@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 390
+    "m_PathID": 425
   },
   "m_Name": "UnitData_CHAR0034_Odette",
   "removeFromGame": 0,
@@ -665,7 +665,9 @@
           "accountLevelOffset": 0
         }
       }
-    ]
+    ],
+    "heroStoriesItemList": [],
+    "heroSkinItemList": []
   },
   "skinAssetNames": [
     "UnitSkinAssets_Char0034_Odette"
@@ -725,21 +727,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2607
+    "m_PathID": 30646
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2224
+      "m_PathID": 30067
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2223
+    "m_PathID": 30066
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2222
+    "m_PathID": 30065
   },
   "Gender": 0,
   "Age": 21

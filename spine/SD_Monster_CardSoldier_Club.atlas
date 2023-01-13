@@ -1,0 +1,209 @@
+
+SD_Monster_CardSoldier_Club.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 345, 79
+  size: 59, 91
+  orig: 59, 91
+  offset: 0, 0
+  index: -1
+Larmx
+  rotate: true
+  xy: 97, 7
+  size: 59, 91
+  orig: 59, 91
+  offset: 0, 0
+  index: -1
+Lelbow
+  rotate: false
+  xy: 342, 3
+  size: 59, 76
+  orig: 59, 76
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: false
+  xy: 401, 45
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 295, 46
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+Lhip
+  rotate: false
+  xy: 435, 3
+  size: 46, 64
+  orig: 46, 64
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 188, 61
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Lshoulder1
+  rotate: true
+  xy: 126, 84
+  size: 85, 95
+  orig: 85, 95
+  offset: 0, 0
+  index: -1
+Lshoulder2
+  rotate: false
+  xy: 221, 87
+  size: 74, 82
+  orig: 74, 82
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 319, 247
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+Relbow
+  rotate: false
+  xy: 247, 175
+  size: 65, 52
+  orig: 65, 52
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: true
+  xy: 98, 140
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 286, 0
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+Rhip
+  rotate: false
+  xy: 436, 67
+  size: 61, 71
+  orig: 61, 71
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 98, 66
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+Rshoulderplate1
+  rotate: false
+  xy: 474, 264
+  size: 38, 76
+  orig: 38, 76
+  offset: 0, 0
+  index: -1
+Rshoulderplate2
+  rotate: false
+  xy: 98, 93
+  size: 25, 47
+  orig: 25, 47
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 312, 187
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+axe
+  rotate: false
+  xy: 0, 300
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+backhead
+  rotate: false
+  xy: 221, 20
+  size: 65, 67
+  orig: 65, 67
+  offset: 0, 0
+  index: -1
+backneckflap
+  rotate: true
+  xy: 131, 169
+  size: 131, 116
+  orig: 131, 116
+  offset: 0, 0
+  index: -1
+card
+  rotate: false
+  xy: 350, 138
+  size: 124, 202
+  orig: 124, 202
+  offset: 0, 0
+  index: -1
+chest
+  rotate: false
+  xy: 0, 180
+  size: 131, 120
+  orig: 131, 120
+  offset: 0, 0
+  index: -1
+chestglow
+  rotate: false
+  xy: 319, 275
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+chestplate
+  rotate: true
+  xy: 0, 79
+  size: 101, 98
+  orig: 101, 98
+  offset: 0, 0
+  index: -1
+frontplate
+  rotate: false
+  xy: 0, 6
+  size: 97, 73
+  orig: 97, 73
+  offset: 0, 0
+  index: -1
+helmet
+  rotate: false
+  xy: 350, 340
+  size: 144, 157
+  orig: 144, 157
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 247, 227
+  size: 72, 73
+  orig: 72, 73
+  offset: 0, 0
+  index: -1
+neckflap
+  rotate: false
+  xy: 295, 96
+  size: 50, 79
+  orig: 50, 79
+  offset: 0, 0
+  index: -1

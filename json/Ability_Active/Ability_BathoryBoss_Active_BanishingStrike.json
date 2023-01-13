@@ -15,6 +15,7 @@
   "numberOfHits": 3,
   "timeFromStart": 0.0,
   "maximumCasts": 0,
+  "hpRatioPassiveThreshold": 0.0,
   "attackSequence": [
     {
       "attackType": 2,

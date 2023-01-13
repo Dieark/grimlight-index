@@ -1,0 +1,118 @@
+
+SD_Monster_FairyFamiliar.png
+size: 227,333
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 173, 13
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+Lwing
+  rotate: false
+  xy: 87, 71
+  size: 68, 128
+  orig: 68, 128
+  offset: 0, 0
+  index: -1
+Lwing2
+  rotate: 180
+  xy: 155, 59
+  size: 72, 106
+  orig: 72, 106
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: 270
+  xy: 106, 1
+  size: 31, 68
+  orig: 31, 68
+  offset: 0, 0
+  index: -1
+Rwing
+  rotate: false
+  xy: 0, 199
+  size: 112, 135
+  orig: 112, 135
+  offset: 0, 0
+  index: -1
+Rwing2
+  rotate: 270
+  xy: 114, 167
+  size: 89, 96
+  orig: 89, 96
+  offset: 0, 0
+  index: -1
+dress
+  rotate: 180
+  xy: 99, 30
+  size: 86, 84
+  orig: 86, 84
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 0, 11
+  size: 36, 7
+  orig: 37, 7
+  offset: 1, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 111, 205
+  size: 32, 11
+  orig: 33, 18
+  offset: 1, 0
+  index: -1
+head
+  rotate: false
+  xy: 109, 256
+  size: 73, 77
+  orig: 73, 77
+  offset: 0, 0
+  index: -1
+hood
+  rotate: false
+  xy: 0, 123
+  size: 86, 80
+  orig: 86, 81
+  offset: 0, 1
+  index: -1
+hood_back
+  rotate: true
+  xy: 55, 8
+  size: 34, 51
+  orig: 36, 52
+  offset: 1, 1
+  index: -1
+legs
+  rotate: false
+  xy: 183, 235
+  size: 38, 72
+  orig: 38, 72
+  offset: 0, 0
+  index: -1
+lollipop
+  rotate: true
+  xy: 0, 52
+  size: 71, 87
+  orig: 71, 88
+  offset: 0, 1
+  index: -1
+scarf
+  rotate: false
+  xy: 0, 18
+  size: 55, 34
+  orig: 56, 34
+  offset: 0, 0
+  index: -1
+scarf_back
+  rotate: false
+  xy: 0, 205
+  size: 35, 26
+  orig: 36, 27
+  offset: 1, 1
+  index: -1

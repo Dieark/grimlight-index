@@ -1,0 +1,48 @@
+
+SD_Monster_WaterSlime.png
+size: 444,192
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 0
+  size: 232, 190
+  orig: 232, 190
+  offset: 0, 0
+  index: -1
+eyec;psed
+  rotate: true
+  xy: 232, 13
+  size: 124, 39
+  orig: 124, 39
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: true
+  xy: 271, 16
+  size: 121, 51
+  orig: 121, 51
+  offset: 0, 0
+  index: -1
+faceangry
+  rotate: true
+  xy: 363, 67
+  size: 123, 72
+  orig: 123, 72
+  offset: 0, 0
+  index: -1
+facedead
+  rotate: false
+  xy: 232, 137
+  size: 131, 53
+  orig: 131, 53
+  offset: 0, 0
+  index: -1
+faceidle
+  rotate: false
+  xy: 322, 16
+  size: 121, 51
+  orig: 121, 51
+  offset: 0, 0
+  index: -1

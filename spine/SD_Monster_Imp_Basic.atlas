@@ -1,0 +1,153 @@
+
+SD_Monster_Imp_Basic.png
+size: 170,500
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 111, 218
+  size: 53, 72
+  orig: 53, 72
+  offset: 0, 0
+  index: -1
+Lclaw
+  rotate: false
+  xy: 136, 87
+  size: 33, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+Lhorn
+  rotate: false
+  xy: 34, 98
+  size: 62, 106
+  orig: 66, 107
+  offset: 0, 1
+  index: -1
+Lleg
+  rotate: false
+  xy: 144, 416
+  size: 20, 52
+  orig: 20, 52
+  offset: 0, 0
+  index: -1
+Lnail
+  rotate: false
+  xy: 0, 440
+  size: 8, 15
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+Lwing
+  rotate: false
+  xy: 0, 309
+  size: 103, 192
+  orig: 103, 192
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 70, 452
+  size: 48, 85
+  orig: 48, 85
+  offset: 0, 0
+  index: -1
+Rear
+  rotate: false
+  xy: 41, 2
+  size: 60, 41
+  orig: 60, 41
+  offset: 0, 0
+  index: -1
+Rhorn
+  rotate: false
+  xy: 96, 123
+  size: 46, 95
+  orig: 48, 95
+  offset: 1, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 52, 479
+  size: 21, 49
+  orig: 21, 49
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 142, 123
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+Rwing
+  rotate: 180
+  xy: 71, 204
+  size: 75, 161
+  orig: 75, 161
+  offset: 0, 0
+  index: -1
+backjaw
+  rotate: true
+  xy: 96, 35
+  size: 88, 40
+  orig: 88, 40
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 29
+  size: 69, 71
+  orig: 70, 71
+  offset: 0, 0
+  index: -1
+bottomjaw
+  rotate: true
+  xy: 103, 364
+  size: 97, 41
+  orig: 98, 42
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: true
+  xy: 143, 289
+  size: 63, 11
+  orig: 64, 12
+  offset: 0, 1
+  index: -1
+eyedeath
+  rotate: true
+  xy: 0, 335
+  size: 64, 25
+  orig: 66, 26
+  offset: 1, 1
+  index: -1
+eyemid
+  rotate: true
+  xy: 146, 354
+  size: 62, 11
+  orig: 64, 12
+  offset: 1, 0
+  index: -1
+eyeopen
+  rotate: true
+  xy: 142, 170
+  size: 64, 15
+  orig: 68, 17
+  offset: 2, 1
+  index: -1
+head
+  rotate: true
+  xy: 0, 165
+  size: 165, 85
+  orig: 165, 85
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 99, 5
+  size: 79, 63
+  orig: 79, 63
+  offset: 0, 0
+  index: -1

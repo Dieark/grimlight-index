@@ -1,0 +1,104 @@
+
+SD_Monster_DreamlessOrphan_Night.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 225, 0
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+Lsleeve
+  rotate: false
+  xy: 113, 3
+  size: 85, 122
+  orig: 85, 122
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 92, 103
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+Rsleeve
+  rotate: false
+  xy: 92, 125
+  size: 82, 131
+  orig: 82, 131
+  offset: 0, 0
+  index: -1
+backcloth
+  rotate: false
+  xy: 174, 146
+  size: 103, 110
+  orig: 103, 110
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 86
+  size: 92, 170
+  orig: 92, 170
+  offset: 0, 0
+  index: -1
+chestlight
+  rotate: false
+  xy: 198, 0
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+cloth
+  rotate: false
+  xy: 0, 0
+  size: 113, 86
+  orig: 113, 86
+  offset: 0, 0
+  index: -1
+cradelrim
+  rotate: true
+  xy: 198, 29
+  size: 103, 68
+  orig: 103, 68
+  offset: 0, 0
+  index: -1
+eyeangry
+  rotate: false
+  xy: 216, 133
+  size: 42, 13
+  orig: 42, 13
+  offset: 0, 0
+  index: -1
+eyedeath
+  rotate: false
+  xy: 258, 133
+  size: 40, 13
+  orig: 40, 13
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 174, 132
+  size: 42, 14
+  orig: 42, 14
+  offset: 0, 0
+  index: -1
+mouthdefault
+  rotate: true
+  xy: 92, 93
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: true
+  xy: 99, 95
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,306 @@
+
+SD_Monster_DreamlessHellguard.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lblade1
+  rotate: false
+  xy: 171, 57
+  size: 269, 77
+  orig: 269, 77
+  offset: 0, 0
+  index: -1
+Lblade2
+  rotate: false
+  xy: 354, 165
+  size: 125, 132
+  orig: 125, 132
+  offset: 0, 0
+  index: -1
+Lfront_lower_leg
+  rotate: true
+  xy: 418, 300
+  size: 53, 79
+  orig: 53, 79
+  offset: 0, 0
+  index: -1
+Lhorn
+  rotate: true
+  xy: 171, 13
+  size: 44, 144
+  orig: 44, 144
+  offset: 0, 0
+  index: -1
+Lshoulder_dark
+  rotate: false
+  xy: 290, 482
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+Rshoulder_dark
+  rotate: false
+  xy: 169, 481
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+Rupper_arm
+  rotate: true
+  xy: 0, 191
+  size: 86, 129
+  orig: 86, 129
+  offset: 0, 0
+  index: -1
+Rupper_armx
+  rotate: true
+  xy: 315, 4
+  size: 52, 98
+  orig: 52, 98
+  offset: 0, 0
+  index: -1
+back_armor1
+  rotate: 270
+  xy: 347, 345
+  size: 163, 159
+  orig: 178, 159
+  offset: 15, 0
+  index: -1
+chain
+  rotate: true
+  xy: 321, 280
+  size: 70, 34
+  orig: 70, 34
+  offset: 0, 0
+  index: -1
+chest
+  rotate: false
+  xy: 440, 25
+  size: 64, 141
+  orig: 64, 141
+  offset: 0, 0
+  index: -1
+eye_dark
+  rotate: false
+  xy: 306, 488
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 0, 276
+  size: 170, 231
+  orig: 170, 231
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 169, 268
+  size: 224, 240
+  orig: 224, 240
+  offset: 0, 0
+  index: -1
+stomach1
+  rotate: true
+  xy: 0, 28
+  size: 152, 172
+  orig: 152, 172
+  offset: 0, 0
+  index: -1
+underbelly
+  rotate: false
+  xy: 155, 135
+  size: 199, 150
+  orig: 199, 150
+  offset: 0, 0
+  index: -1
+
+SD_Monster_DreamlessHellguard2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm_guard1
+  rotate: false
+  xy: 308, 79
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+Larm_guard2
+  rotate: true
+  xy: 389, 256
+  size: 95, 92
+  orig: 95, 92
+  offset: 0, 0
+  index: -1
+Lback_lower_leg
+  rotate: false
+  xy: 465, 179
+  size: 40, 78
+  orig: 40, 78
+  offset: 0, 0
+  index: -1
+Lback_upper_leg
+  rotate: true
+  xy: 0, 8
+  size: 61, 102
+  orig: 61, 104
+  offset: 0, 2
+  index: -1
+Lback_upper_leg2
+  rotate: true
+  xy: 204, 14
+  size: 69, 87
+  orig: 69, 87
+  offset: 0, 0
+  index: -1
+Lfront_upper_leg
+  rotate: true
+  xy: 0, 381
+  size: 49, 103
+  orig: 49, 103
+  offset: 0, 0
+  index: -1
+Lshoulder1
+  rotate: false
+  xy: 221, 383
+  size: 132, 125
+  orig: 132, 125
+  offset: 0, 0
+  index: -1
+Lshoulder2
+  rotate: true
+  xy: 291, 4
+  size: 75, 57
+  orig: 75, 57
+  offset: 0, 0
+  index: -1
+Rback_lower_leg
+  rotate: 270
+  xy: 424, 351
+  size: 61, 83
+  orig: 61, 83
+  offset: 0, 0
+  index: -1
+Rback_lower_legx
+  rotate: 270
+  xy: 102, 372
+  size: 59, 86
+  orig: 71, 107
+  offset: 12, 0
+  index: -1
+Rback_upper_leg
+  rotate: false
+  xy: 425, 409
+  size: 51, 98
+  orig: 51, 98
+  offset: 0, 0
+  index: -1
+Rback_upper_legx
+  rotate: false
+  xy: 101, 10
+  size: 69, 59
+  orig: 69, 59
+  offset: 0, 0
+  index: -1
+Rblade1
+  rotate: false
+  xy: 0, 429
+  size: 222, 79
+  orig: 222, 79
+  offset: 0, 0
+  index: -1
+Rblade2
+  rotate: false
+  xy: 268, 264
+  size: 121, 119
+  orig: 121, 119
+  offset: 0, 0
+  index: -1
+Rlower_arm
+  rotate: 270
+  xy: 371, 26
+  size: 107, 108
+  orig: 107, 108
+  offset: 0, 0
+  index: -1
+Rlower_armx
+  rotate: false
+  xy: 110, 200
+  size: 125, 112
+  orig: 125, 112
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 0, 163
+  size: 84, 110
+  orig: 84, 110
+  offset: 0, 0
+  index: -1
+back_armor2
+  rotate: false
+  xy: 213, 83
+  size: 95, 79
+  orig: 95, 79
+  offset: 0, 0
+  index: -1
+back_armor3
+  rotate: true
+  xy: 397, 132
+  size: 124, 68
+  orig: 124, 68
+  offset: 0, 0
+  index: -1
+chest_dark
+  rotate: true
+  xy: 422, 9
+  size: 44, 57
+  orig: 44, 57
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 235, 161
+  size: 162, 102
+  orig: 162, 102
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 107, 69
+  size: 67, 97
+  orig: 67, 97
+  offset: 0, 0
+  index: -1
+stomach2
+  rotate: true
+  xy: 84, 136
+  size: 63, 129
+  orig: 63, 129
+  offset: 0, 0
+  index: -1
+tail1
+  rotate: 270
+  xy: 0, 69
+  size: 94, 108
+  orig: 94, 108
+  offset: 0, 0
+  index: -1
+tail2
+  rotate: false
+  xy: 0, 274
+  size: 269, 135
+  orig: 269, 135
+  offset: 0, 0
+  index: -1
+tail_armor
+  rotate: true
+  xy: 353, 383
+  size: 123, 72
+  orig: 123, 72
+  offset: 0, 0
+  index: -1

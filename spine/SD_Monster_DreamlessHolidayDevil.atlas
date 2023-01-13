@@ -1,0 +1,195 @@
+
+SD_Monster_DreamlessHolidayDevil.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HolidayDevilCheer
+  rotate: false
+  xy: 0, 306
+  size: 199, 203
+  orig: 199, 208
+  offset: 0, 0
+  index: -1
+Lear
+  rotate: false
+  xy: 0, 197
+  size: 37, 65
+  orig: 37, 65
+  offset: 0, 0
+  index: -1
+Lfinger
+  rotate: false
+  xy: 433, 149
+  size: 40, 69
+  orig: 40, 69
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: false
+  xy: 446, 235
+  size: 62, 74
+  orig: 62, 74
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: true
+  xy: 222, 41
+  size: 97, 152
+  orig: 100, 152
+  offset: 3, 0
+  index: -1
+Lhorn
+  rotate: true
+  xy: 199, 323
+  size: 62, 82
+  orig: 62, 82
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 368, 335
+  size: 67, 164
+  orig: 67, 164
+  offset: 0, 0
+  index: -1
+Lthigh
+  rotate: false
+  xy: 366, 217
+  size: 92, 118
+  orig: 92, 118
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 337, 21
+  size: 32, 69
+  orig: 32, 69
+  offset: 0, 0
+  index: -1
+Rear
+  rotate: 270
+  xy: 75, 17
+  size: 53, 69
+  orig: 53, 69
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: true
+  xy: 252, 119
+  size: 52, 95
+  orig: 52, 95
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: 180
+  xy: 286, 273
+  size: 81, 237
+  orig: 81, 237
+  offset: 0, 0
+  index: -1
+Rhorn
+  rotate: true
+  xy: 289, 172
+  size: 102, 82
+  orig: 102, 82
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 0, 261
+  size: 46, 37
+  orig: 46, 37
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 144, 51
+  size: 108, 124
+  orig: 108, 124
+  offset: 0, 0
+  index: -1
+Rthigh
+  rotate: false
+  xy: 199, 384
+  size: 69, 126
+  orig: 69, 126
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 47
+  size: 160, 259
+  orig: 160, 259
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 0, 14
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+flowers
+  rotate: true
+  xy: 434, 380
+  size: 65, 53
+  orig: 65, 53
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 159, 175
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: false
+  xy: 434, 336
+  size: 61, 43
+  orig: 61, 43
+  offset: 0, 0
+  index: -1
+mane
+  rotate: 270
+  xy: 369, 55
+  size: 97, 85
+  orig: 97, 85
+  offset: 0, 0
+  index: -1
+neckbow
+  rotate: true
+  xy: 276, 11
+  size: 56, 61
+  orig: 56, 61
+  offset: 0, 0
+  index: -1
+necklace
+  rotate: false
+  xy: 427, 444
+  size: 55, 65
+  orig: 55, 65
+  offset: 0, 0
+  index: -1
+neckpuffs
+  rotate: false
+  xy: 267, 470
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 376, 42
+  size: 147, 108
+  orig: 147, 108
+  offset: 0, 0
+  index: -1
+tongue
+  rotate: true
+  xy: 444, 12
+  size: 86, 60
+  orig: 86, 60
+  offset: 0, 0
+  index: -1

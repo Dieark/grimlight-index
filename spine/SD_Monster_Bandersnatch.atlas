@@ -1,0 +1,131 @@
+
+SD_Monster_Bandersnatch.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lbackclaw
+  rotate: true
+  xy: 426, 71
+  size: 98, 68
+  orig: 98, 68
+  offset: 0, 0
+  index: -1
+Lear
+  rotate: false
+  xy: 360, 382
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+Lhip
+  rotate: true
+  xy: 0, 23
+  size: 106, 125
+  orig: 106, 125
+  offset: 0, 0
+  index: -1
+Rbaclaw copy 3
+  rotate: 180
+  xy: 210, 9
+  size: 98, 79
+  orig: 98, 79
+  offset: 0, 0
+  index: -1
+Rear
+  rotate: false
+  xy: 122, 491
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Rhip
+  rotate: false
+  xy: 124, 16
+  size: 85, 71
+  orig: 85, 71
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 253
+  size: 388, 259
+  orig: 388, 259
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 0, 491
+  size: 61, 21
+  orig: 61, 21
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 61, 494
+  size: 61, 19
+  orig: 61, 19
+  offset: 0, 0
+  index: -1
+headmouthclosed
+  rotate: false
+  xy: 301, 53
+  size: 125, 116
+  orig: 125, 116
+  offset: 0, 0
+  index: -1
+headmouthmid
+  rotate: true
+  xy: 0, 129
+  size: 125, 118
+  orig: 125, 118
+  offset: 0, 0
+  index: -1
+headmouthopen
+  rotate: true
+  xy: 388, 388
+  size: 125, 120
+  orig: 125, 120
+  offset: 0, 0
+  index: -1
+neckfur1
+  rotate: false
+  xy: 121, 87
+  size: 180, 169
+  orig: 180, 169
+  offset: 0, 0
+  index: -1
+neckfur2
+  rotate: true
+  xy: 301, 170
+  size: 203, 210
+  orig: 203, 210
+  offset: 0, 0
+  index: -1
+
+SD_Monster_Bandersnatch2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lfrontclaw1
+  rotate: false
+  xy: 0, 112
+  size: 131, 156
+  orig: 131, 156
+  offset: 0, 0
+  index: -1
+Rfrontclaw1
+  rotate: true
+  xy: 2, 1
+  size: 115, 131
+  orig: 115, 131
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 0, 268
+  size: 139, 245
+  orig: 139, 245
+  offset: 0, 0
+  index: -1

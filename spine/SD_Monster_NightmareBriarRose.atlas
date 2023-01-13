@@ -1,0 +1,473 @@
+
+SD_Monster_NightmareBriarRose.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 166, 5
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+Larmx
+  rotate: false
+  xy: 0, 111
+  size: 139, 244
+  orig: 139, 244
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 294, 131
+  size: 204, 167
+  orig: 204, 167
+  offset: 0, 0
+  index: -1
+Passive-Blur_30
+  rotate: false
+  xy: 283, 298
+  size: 209, 212
+  orig: 263, 220
+  offset: 8, 0
+  index: -1
+Rfinger1
+  rotate: true
+  xy: 110, 1
+  size: 30, 56
+  orig: 30, 56
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 139, 32
+  size: 112, 214
+  orig: 112, 214
+  offset: 0, 0
+  index: -1
+ahoge
+  rotate: false
+  xy: 0, 356
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: false
+  xy: 254, 279
+  size: 29, 68
+  orig: 29, 68
+  offset: 0, 0
+  index: -1
+bottomjaw
+  rotate: true
+  xy: 0, 5
+  size: 105, 110
+  orig: 105, 110
+  offset: 0, 0
+  index: -1
+controlmask
+  rotate: false
+  xy: 251, 12
+  size: 78, 37
+  orig: 78, 37
+  offset: 0, 0
+  index: -1
+eyebrows
+  rotate: false
+  xy: 22, 357
+  size: 43, 4
+  orig: 43, 4
+  offset: 0, 0
+  index: -1
+headvine4
+  rotate: true
+  xy: 216, 476
+  size: 34, 67
+  orig: 34, 67
+  offset: 0, 0
+  index: -1
+jawskin
+  rotate: false
+  xy: 110, 50
+  size: 27, 60
+  orig: 27, 61
+  offset: 0, 1
+  index: -1
+legs
+  rotate: false
+  xy: 251, 181
+  size: 41, 62
+  orig: 41, 62
+  offset: 0, 0
+  index: -1
+maskoff
+  rotate: true
+  xy: 251, 110
+  size: 71, 35
+  orig: 71, 35
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 9, 507
+  size: 8, 3
+  orig: 8, 3
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 0, 504
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+thorns3
+  rotate: true
+  xy: 251, 3
+  size: 129, 184
+  orig: 131, 184
+  offset: 2, 0
+  index: -1
+thorns7
+  rotate: true
+  xy: 435, 5
+  size: 126, 60
+  orig: 126, 60
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 0, 243
+  size: 295, 267
+  orig: 296, 267
+  offset: 0, 0
+  index: -1
+
+SD_Monster_NightmareBriarRose2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lfinger1
+  rotate: false
+  xy: 0, 3
+  size: 43, 90
+  orig: 43, 90
+  offset: 0, 0
+  index: -1
+Lfinger3
+  rotate: 270
+  xy: 176, 219
+  size: 54, 70
+  orig: 54, 70
+  offset: 0, 0
+  index: -1
+Lmandible
+  rotate: true
+  xy: 350, 183
+  size: 68, 74
+  orig: 68, 74
+  offset: 0, 0
+  index: -1
+Lshouldervine
+  rotate: false
+  xy: 94, 240
+  size: 128, 139
+  orig: 128, 139
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 129, 250
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+Rfinger2
+  rotate: 180
+  xy: 111, 42
+  size: 59, 89
+  orig: 59, 89
+  offset: 0, 0
+  index: -1
+backhair2
+  rotate: false
+  xy: 343, 5
+  size: 84, 110
+  orig: 89, 110
+  offset: 5, 0
+  index: -1
+bangs5
+  rotate: false
+  xy: 187, 418
+  size: 45, 22
+  orig: 45, 22
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 427, 4
+  size: 79, 65
+  orig: 79, 65
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 373, 416
+  size: 93, 124
+  orig: 93, 124
+  offset: 0, 0
+  index: -1
+headvine5
+  rotate: false
+  xy: 0, 169
+  size: 76, 99
+  orig: 80, 99
+  offset: 4, 0
+  index: -1
+headvine6
+  rotate: 270
+  xy: 240, 461
+  size: 48, 120
+  orig: 48, 120
+  offset: 0, 0
+  index: -1
+tail
+  rotate: 270
+  xy: 80, 130
+  size: 132, 271
+  orig: 132, 271
+  offset: 0, 0
+  index: -1
+thornflowers1
+  rotate: false
+  xy: 165, 440
+  size: 74, 70
+  orig: 74, 70
+  offset: 0, 0
+  index: -1
+thornflowers2
+  rotate: false
+  xy: 195, 6
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+thorns1
+  rotate: 180
+  xy: 417, 316
+  size: 86, 101
+  orig: 86, 101
+  offset: 0, 0
+  index: -1
+thorns10
+  rotate: false
+  xy: 0, 200
+  size: 148, 309
+  orig: 148, 309
+  offset: 0, 0
+  index: -1
+thorns12
+  rotate: false
+  xy: 230, 3
+  size: 113, 77
+  orig: 113, 77
+  offset: 0, 0
+  index: -1
+thorns1x
+  rotate: false
+  xy: 0, 1
+  size: 195, 183
+  orig: 197, 183
+  offset: 2, 0
+  index: -1
+thorns4
+  rotate: false
+  xy: 85, 260
+  size: 261, 250
+  orig: 261, 250
+  offset: 0, 0
+  index: -1
+thorns5
+  rotate: false
+  xy: 428, 119
+  size: 76, 171
+  orig: 76, 171
+  offset: 0, 0
+  index: -1
+thorns6
+  rotate: 270
+  xy: 233, 251
+  size: 212, 237
+  orig: 212, 253
+  offset: 0, 0
+  index: -1
+thorns9
+  rotate: 270
+  xy: 175, 58
+  size: 121, 288
+  orig: 121, 288
+  offset: 0, 0
+  index: -1
+torsox
+  rotate: false
+  xy: 254, 347
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+
+SD_Monster_NightmareBriarRose3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lfinger2
+  rotate: 270
+  xy: 138, 165
+  size: 68, 88
+  orig: 68, 88
+  offset: 0, 0
+  index: -1
+Lfinger4
+  rotate: false
+  xy: 460, 459
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 85, 299
+  size: 83, 53
+  orig: 83, 53
+  offset: 0, 0
+  index: -1
+Rfinger3
+  rotate: true
+  xy: 202, 153
+  size: 73, 81
+  orig: 73, 81
+  offset: 0, 0
+  index: -1
+Rfinger4
+  rotate: false
+  xy: 21, 459
+  size: 73, 50
+  orig: 73, 50
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 67, 152
+  size: 52, 41
+  orig: 52, 41
+  offset: 0, 0
+  index: -1
+Rmandilble
+  rotate: false
+  xy: 272, 149
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+Rshoulderx
+  rotate: false
+  xy: 0, 262
+  size: 86, 91
+  orig: 86, 91
+  offset: 0, 0
+  index: -1
+backhair
+  rotate: true
+  xy: 282, 182
+  size: 88, 132
+  orig: 88, 132
+  offset: 0, 0
+  index: -1
+backhair1
+  rotate: false
+  xy: 462, 365
+  size: 45, 95
+  orig: 45, 95
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: 270
+  xy: 409, 154
+  size: 49, 86
+  orig: 49, 86
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: true
+  xy: 322, 130
+  size: 57, 86
+  orig: 57, 86
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: 270
+  xy: 0, 143
+  size: 62, 67
+  orig: 62, 67
+  offset: 0, 0
+  index: -1
+headviine3
+  rotate: false
+  xy: 294, 231
+  size: 58, 66
+  orig: 58, 67
+  offset: 0, 0
+  index: -1
+headvine1
+  rotate: 180
+  xy: 271, 219
+  size: 159, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+headvine2
+  rotate: 270
+  xy: 0, 194
+  size: 58, 151
+  orig: 58, 151
+  offset: 0, 0
+  index: -1
+thorns11
+  rotate: 180
+  xy: 282, 302
+  size: 203, 148
+  orig: 203, 148
+  offset: 0, 0
+  index: -1
+thorns13
+  rotate: false
+  xy: 426, 197
+  size: 59, 104
+  orig: 61, 104
+  offset: 0, 0
+  index: -1
+thorns14
+  rotate: false
+  xy: 0, 352
+  size: 193, 157
+  orig: 193, 157
+  offset: 0, 0
+  index: -1
+thorns2
+  rotate: false
+  xy: 116, 224
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+thorns8
+  rotate: true
+  xy: 184, 367
+  size: 142, 277
+  orig: 142, 277
+  offset: 0, 0
+  index: -1

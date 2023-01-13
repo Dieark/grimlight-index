@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 393
   },
   "m_Name": "UnitData_CHAR0012_WinterQueen",
   "removeFromGame": 0,
@@ -665,6 +665,73 @@
           "accountLevelOffset": 0
         }
       }
+    ],
+    "heroStoriesItemList": [],
+    "heroSkinItemList": [
+      {
+        "objectType": 17,
+        "objectID": "WinterQueen_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "WinterQueen_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "WinterQueen_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "WinterQueen_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "WinterQueen_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "WinterQueen_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "WinterQueen_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "WinterQueen_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "WinterQueen_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "WinterQueen_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "WinterQueen_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "WinterQueen_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "WinterQueen_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "WinterQueen_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "WinterQueen_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "WinterQueen_Skin2"
+      }
     ]
   },
   "skinAssetNames": [
@@ -727,29 +794,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 5187519216838387983
+    "m_PathID": 2662
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": -2233390395453660317
+      "m_PathID": 2349
     },
     {
       "m_FileID": 0,
-      "m_PathID": 7644838709703675466
+      "m_PathID": 2348
     },
     {
       "m_FileID": 0,
-      "m_PathID": -2240751746397883674
+      "m_PathID": 2350
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": -2432581518960351362
+    "m_PathID": 2347
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 1610986427710965989
+    "m_PathID": 2346
   },
   "Gender": 0,
   "Age": -1

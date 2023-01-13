@@ -1,0 +1,90 @@
+
+SD_Monster_DreamlessMage_Day.png
+size: 374,194
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lcloth1
+  rotate: true
+  xy: 81, 27
+  size: 70, 174
+  orig: 70, 174
+  offset: 0, 0
+  index: -1
+Lcloth2
+  rotate: true
+  xy: 237, 1
+  size: 68, 118
+  orig: 68, 118
+  offset: 0, 0
+  index: -1
+Rcloth1
+  rotate: false
+  xy: 290, 29
+  size: 74, 166
+  orig: 74, 166
+  offset: 0, 0
+  index: -1
+Rclothback1
+  rotate: true
+  xy: 58, 3
+  size: 33, 103
+  orig: 33, 103
+  offset: 0, 0
+  index: -1
+Rclothback2
+  rotate: 180
+  xy: 300, 72
+  size: 73, 93
+  orig: 73, 93
+  offset: 0, 0
+  index: -1
+body
+  rotate: 180
+  xy: 118, 89
+  size: 111, 106
+  orig: 111, 106
+  offset: 0, 0
+  index: -1
+clothback3
+  rotate: false
+  xy: 0, 88
+  size: 127, 107
+  orig: 127, 107
+  offset: 0, 0
+  index: -1
+eyedeath
+  rotate: false
+  xy: 0, 3
+  size: 36, 16
+  orig: 38, 18
+  offset: 1, 1
+  index: -1
+eyeopen
+  rotate: false
+  xy: 110, 177
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 0, 19
+  size: 69, 80
+  orig: 70, 81
+  offset: 1, 0
+  index: -1
+headcone
+  rotate: false
+  xy: 229, 69
+  size: 61, 125
+  orig: 62, 125
+  offset: 0, 0
+  index: -1
+headglow
+  rotate: false
+  xy: 333, 146
+  size: 29, 32
+  orig: 31, 34
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,146 @@
+
+SD_Monster_ChessRookWhite.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 476, 80
+  size: 36, 68
+  orig: 36, 68
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: false
+  xy: 380, 88
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: true
+  xy: 260, 87
+  size: 51, 69
+  orig: 51, 69
+  offset: 0, 0
+  index: -1
+Lknee
+  rotate: true
+  xy: 260, 32
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+Lpauldron
+  rotate: true
+  xy: 399, 239
+  size: 51, 99
+  orig: 51, 99
+  offset: 0, 0
+  index: -1
+Lthigh
+  rotate: true
+  xy: 309, 39
+  size: 45, 63
+  orig: 45, 63
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 94, 224
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: false
+  xy: 476, 27
+  size: 34, 53
+  orig: 34, 53
+  offset: 0, 0
+  index: -1
+Rknee
+  rotate: true
+  xy: 329, 84
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1
+Rpauldron
+  rotate: false
+  xy: 399, 290
+  size: 104, 110
+  orig: 104, 110
+  offset: 0, 0
+  index: -1
+Rthigh
+  rotate: false
+  xy: 372, 19
+  size: 44, 65
+  orig: 44, 65
+  offset: 0, 0
+  index: -1
+axe
+  rotate: false
+  xy: 0, 222
+  size: 94, 290
+  orig: 94, 290
+  offset: 0, 0
+  index: -1
+collar
+  rotate: false
+  xy: 298, 400
+  size: 183, 112
+  orig: 183, 112
+  offset: 0, 0
+  index: -1
+collar_back
+  rotate: false
+  xy: 260, 138
+  size: 166, 95
+  orig: 166, 95
+  offset: 0, 0
+  index: -1
+crotch_flap
+  rotate: false
+  xy: 426, 148
+  size: 69, 91
+  orig: 69, 91
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 94, 238
+  size: 134, 161
+  orig: 134, 161
+  offset: 0, 0
+  index: -1
+shield
+  rotate: true
+  xy: 0, 71
+  size: 151, 260
+  orig: 151, 260
+  offset: 0, 0
+  index: -1
+skirt_armor
+  rotate: false
+  xy: 94, 372
+  size: 204, 140
+  orig: 204, 140
+  offset: 0, 0
+  index: -1
+skirt_armor2
+  rotate: true
+  xy: 426, 29
+  size: 119, 50
+  orig: 119, 50
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 260, 233
+  size: 139, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1

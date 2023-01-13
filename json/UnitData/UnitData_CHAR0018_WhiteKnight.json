@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 393
   },
   "m_Name": "UnitData_CHAR0018_WhiteKnight",
   "removeFromGame": 0,
@@ -665,7 +665,9 @@
           "accountLevelOffset": 0
         }
       }
-    ]
+    ],
+    "heroStoriesItemList": [],
+    "heroSkinItemList": []
   },
   "skinAssetNames": [
     "UnitSkinAssets_Char0018_WhiteKnight"
@@ -725,21 +727,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3224385801918402160
+    "m_PathID": 2659
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": -3438440465498672819
+      "m_PathID": 2337
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 8727629807184709180
+    "m_PathID": 2336
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 3222718264565951472
+    "m_PathID": 2335
   },
   "Gender": 0,
   "Age": 28

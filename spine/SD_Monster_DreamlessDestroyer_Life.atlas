@@ -1,0 +1,131 @@
+
+SD_Monster_DreamlessDestroyer_Life.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lclaw
+  rotate: false
+  xy: 0, 168
+  size: 385, 343
+  orig: 385, 343
+  offset: 0, 0
+  index: -1
+Ljawhorn
+  rotate: false
+  xy: 384, 240
+  size: 90, 134
+  orig: 90, 134
+  offset: 0, 0
+  index: -1
+Lshoulderplate
+  rotate: true
+  xy: 343, 25
+  size: 144, 166
+  orig: 144, 166
+  offset: 0, 0
+  index: -1
+Rclaw
+  rotate: true
+  xy: 0, 34
+  size: 135, 344
+  orig: 135, 344
+  offset: 0, 0
+  index: -1
+Rshoulderplate
+  rotate: false
+  xy: 384, 373
+  size: 119, 137
+  orig: 119, 137
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 435, 190
+  size: 71, 23
+  orig: 71, 23
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 435, 213
+  size: 74, 27
+  orig: 74, 27
+  offset: 0, 0
+  index: -1
+fragment1
+  rotate: false
+  xy: 384, 186
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+fragment2
+  rotate: false
+  xy: 475, 314
+  size: 29, 59
+  orig: 29, 59
+  offset: 0, 0
+  index: -1
+fragment3
+  rotate: false
+  xy: 475, 292
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+
+SD_Monster_DreamlessDestroyer_Life2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rjawhorn
+  rotate: false
+  xy: 0, 110
+  size: 75, 142
+  orig: 75, 142
+  offset: 0, 0
+  index: -1
+backgem1
+  rotate: false
+  xy: 0, 5
+  size: 93, 105
+  orig: 93, 105
+  offset: 0, 0
+  index: -1
+backgem2
+  rotate: true
+  xy: 267, 307
+  size: 205, 156
+  orig: 205, 156
+  offset: 0, 0
+  index: -1
+backgem3
+  rotate: false
+  xy: 422, 308
+  size: 62, 131
+  orig: 62, 131
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 101, 1
+  size: 262, 282
+  orig: 262, 282
+  offset: 0, 0
+  index: -1
+headrocks
+  rotate: false
+  xy: 0, 251
+  size: 267, 261
+  orig: 267, 261
+  offset: 0, 0
+  index: -1
+insidebody
+  rotate: true
+  xy: 363, 159
+  size: 149, 136
+  orig: 149, 136
+  offset: 0, 0
+  index: -1

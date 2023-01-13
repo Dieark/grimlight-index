@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 423
+    "m_PathID": 393
   },
   "m_Name": "UnitData_CHAR0067_Nutcracker",
   "removeFromGame": 0,
@@ -665,7 +665,9 @@
           "accountLevelOffset": 0
         }
       }
-    ]
+    ],
+    "heroStoriesItemList": [],
+    "heroSkinItemList": []
   },
   "skinAssetNames": [
     "UnitSkinAssets_Char0067_Nutcracker"
@@ -687,7 +689,7 @@
       "hasExponentialScale": 0
     },
     "attackDamage": {
-      "DamageType": 0,
+      "DamageType": 3,
       "damageScaling": {
         "statType": 1,
         "yIntercept": 42.0,
@@ -725,25 +727,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 30524
+    "m_PathID": 2629
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 29958
+      "m_PathID": 2239
     },
     {
       "m_FileID": 0,
-      "m_PathID": 29957
+      "m_PathID": 2238
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 29956
+    "m_PathID": 2237
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 29955
+    "m_PathID": 2236
   },
   "Gender": 0,
   "Age": -1

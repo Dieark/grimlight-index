@@ -1,0 +1,215 @@
+
+SD_Monster_DreamlessCatoblepas.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Caloblepas_Active
+  rotate: true
+  xy: 288, 304
+  size: 208, 141
+  orig: 208, 150
+  offset: 0, 0
+  index: -1
+Layer1
+  rotate: false
+  xy: 0, 81
+  size: 172, 128
+  orig: 172, 128
+  offset: 0, 0
+  index: -1
+Llower_leg
+  rotate: true
+  xy: 110, 2
+  size: 78, 172
+  orig: 78, 172
+  offset: 0, 0
+  index: -1
+Rback_upper_leg
+  rotate: false
+  xy: 459, 231
+  size: 44, 74
+  orig: 44, 74
+  offset: 0, 0
+  index: -1
+Rfront_upper_leg
+  rotate: false
+  xy: 429, 305
+  size: 63, 91
+  orig: 63, 91
+  offset: 0, 0
+  index: -1
+armor2
+  rotate: true
+  xy: 172, 72
+  size: 133, 153
+  orig: 133, 153
+  offset: 0, 0
+  index: -1
+armor3
+  rotate: false
+  xy: 324, 91
+  size: 174, 115
+  orig: 270, 130
+  offset: 96, 15
+  index: -1
+body
+  rotate: false
+  xy: 0, 311
+  size: 289, 202
+  orig: 289, 202
+  offset: 0, 0
+  index: -1
+dust2
+  rotate: false
+  xy: 0, 208
+  size: 229, 103
+  orig: 229, 103
+  offset: 0, 0
+  index: -1
+dust3
+  rotate: false
+  xy: 229, 205
+  size: 230, 99
+  orig: 231, 101
+  offset: 1, 1
+  index: -1
+eye1_dark
+  rotate: false
+  xy: 485, 495
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+eye2_dark
+  rotate: false
+  xy: 203, 55
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+fur
+  rotate: false
+  xy: 423, 0
+  size: 48, 72
+  orig: 48, 72
+  offset: 0, 0
+  index: -1
+helmet_dark
+  rotate: false
+  xy: 471, 408
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+leg_armor
+  rotate: false
+  xy: 429, 448
+  size: 56, 64
+  orig: 56, 64
+  offset: 0, 0
+  index: -1
+lower_jaw
+  rotate: false
+  xy: 0, 0
+  size: 111, 80
+  orig: 111, 80
+  offset: 0, 0
+  index: -1
+mouth_dark
+  rotate: false
+  xy: 429, 395
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 324, 6
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+
+SD_Monster_DreamlessCatoblepas2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lback_lower_leg
+  rotate: true
+  xy: 190, 97
+  size: 57, 190
+  orig: 57, 190
+  offset: 0, 0
+  index: -1
+Lback_upper_leg
+  rotate: true
+  xy: 311, 113
+  size: 88, 99
+  orig: 88, 99
+  offset: 0, 0
+  index: -1
+Lupper_leg
+  rotate: true
+  xy: 305, 297
+  size: 118, 105
+  orig: 118, 105
+  offset: 0, 0
+  index: -1
+Rback_lower_leg
+  rotate: true
+  xy: 72, 68
+  size: 47, 137
+  orig: 47, 137
+  offset: 0, 0
+  index: -1
+Rfront_lower_leg
+  rotate: true
+  xy: 15, 67
+  size: 87, 110
+  orig: 87, 110
+  offset: 0, 0
+  index: -1
+armor1
+  rotate: false
+  xy: 208, 255
+  size: 97, 161
+  orig: 97, 161
+  offset: 0, 0
+  index: -1
+armor4
+  rotate: false
+  xy: 305, 201
+  size: 110, 97
+  orig: 110, 97
+  offset: 0, 0
+  index: -1
+dust1
+  rotate: false
+  xy: 0, 318
+  size: 208, 97
+  orig: 209, 98
+  offset: 0, 0
+  index: -1
+shoulder_armor
+  rotate: true
+  xy: 0, 146
+  size: 88, 99
+  orig: 88, 99
+  offset: 0, 0
+  index: -1
+stinger
+  rotate: false
+  xy: 0, 233
+  size: 189, 86
+  orig: 189, 86
+  offset: 0, 0
+  index: -1
+tail
+  rotate: 270
+  xy: 117, 137
+  size: 106, 194
+  orig: 106, 194
+  offset: 0, 0
+  index: -1

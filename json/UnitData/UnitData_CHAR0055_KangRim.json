@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 393
   },
   "m_Name": "UnitData_CHAR0055_KangRim",
   "removeFromGame": 0,
@@ -665,7 +665,9 @@
           "accountLevelOffset": 0
         }
       }
-    ]
+    ],
+    "heroStoriesItemList": [],
+    "heroSkinItemList": []
   },
   "skinAssetNames": [
     "UnitSkinAssets_Char0055_KangRim"
@@ -696,7 +698,7 @@
     },
     "defense": {
       "statType": 1,
-      "yIntercept": 20.0,
+      "yIntercept": 30.0,
       "hasExponentialScale": 0
     },
     "critChance": 1.0,
@@ -725,25 +727,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 5115132341105372621
+    "m_PathID": 2620
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": -9177993571826145112
+      "m_PathID": 2203
     },
     {
       "m_FileID": 0,
-      "m_PathID": -6119675705211090769
+      "m_PathID": 2202
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": -7193390536719818839
+    "m_PathID": 2201
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": -8228296382785255157
+    "m_PathID": 2200
   },
   "Gender": 1,
   "Age": -1

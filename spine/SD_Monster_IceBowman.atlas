@@ -1,0 +1,139 @@
+
+SD_Monster_IceBowman.png
+size: 508,508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lfoot
+  rotate: true
+  xy: 468, 160
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 416, 30
+  size: 68, 89
+  orig: 68, 89
+  offset: 0, 0
+  index: -1
+Lhip
+  rotate: true
+  xy: 107, 67
+  size: 72, 104
+  orig: 72, 104
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 0, 12
+  size: 57, 102
+  orig: 57, 102
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 348, 118
+  size: 78, 120
+  orig: 78, 120
+  offset: 0, 0
+  index: -1
+Lshoulderplate
+  rotate: false
+  xy: 0, 148
+  size: 118, 106
+  orig: 118, 106
+  offset: 0, 0
+  index: -1
+Lshoulderplatex
+  rotate: true
+  xy: 217, 63
+  size: 81, 96
+  orig: 81, 96
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 313, 48
+  size: 70, 103
+  orig: 70, 103
+  offset: 0, 0
+  index: -1
+Rfingers
+  rotate: true
+  xy: 443, 200
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: true
+  xy: 211, 25
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 162, 16
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+Rhip
+  rotate: true
+  xy: 0, 68
+  size: 80, 107
+  orig: 80, 107
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 117, 162
+  size: 48, 92
+  orig: 48, 92
+  offset: 0, 0
+  index: -1
+arrow
+  rotate: true
+  xy: 443, 246
+  size: 261, 35
+  orig: 261, 35
+  offset: 0, 0
+  index: -1
+bow
+  rotate: false
+  xy: 348, 196
+  size: 94, 310
+  orig: 94, 310
+  offset: 0, 0
+  index: -1
+buckle
+  rotate: true
+  xy: 102, 10
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+chest
+  rotate: false
+  xy: 182, 266
+  size: 166, 240
+  orig: 166, 240
+  offset: 0, 0
+  index: -1
+helmet
+  rotate: false
+  xy: 0, 254
+  size: 182, 252
+  orig: 182, 252
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: false
+  xy: 170, 139
+  size: 178, 122
+  orig: 178, 122
+  offset: 0, 0
+  index: -1

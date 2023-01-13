@@ -1,0 +1,125 @@
+
+SD_Monster_Wolf.png
+size: 372,372
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_LLeg
+  rotate: false
+  xy: 0, 70
+  size: 60, 166
+  orig: 60, 166
+  offset: 0, 0
+  index: -1
+back_Rleg
+  rotate: false
+  xy: 292, 95
+  size: 54, 131
+  orig: 54, 131
+  offset: 0, 0
+  index: -1
+ear_L
+  rotate: false
+  xy: 109, 2
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+ear_R
+  rotate: true
+  xy: 54, 0
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 313, 69
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+eye_blink
+  rotate: true
+  xy: 44, 43
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+eye_death
+  rotate: true
+  xy: 313, 45
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+eye_mid
+  rotate: true
+  xy: 44, 17
+  size: 26, 10
+  orig: 26, 10
+  offset: 0, 0
+  index: -1
+front_Lleg
+  rotate: false
+  xy: 176, 86
+  size: 62, 150
+  orig: 62, 150
+  offset: 0, 0
+  index: -1
+front_Rleg
+  rotate: false
+  xy: 238, 93
+  size: 54, 133
+  orig: 54, 133
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 60, 115
+  size: 121, 116
+  orig: 121, 116
+  offset: 0, 0
+  index: -1
+mane
+  rotate: false
+  xy: 241, 226
+  size: 120, 143
+  orig: 120, 143
+  offset: 0, 0
+  index: -1
+mouth_closed
+  rotate: true
+  xy: 60, 35
+  size: 80, 49
+  orig: 80, 49
+  offset: 0, 0
+  index: -1
+mouth_mid
+  rotate: true
+  xy: 0, 1
+  size: 69, 44
+  orig: 69, 44
+  offset: 0, 0
+  index: -1
+mouth_open
+  rotate: true
+  xy: 109, 51
+  size: 64, 50
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 159, 16
+  size: 70, 154
+  orig: 70, 154
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 0, 236
+  size: 241, 133
+  orig: 241, 133
+  offset: 0, 0
+  index: -1

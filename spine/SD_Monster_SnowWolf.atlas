@@ -1,0 +1,111 @@
+
+SD_Monster_SnowWolf.png
+size: 484,484
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_LLeg
+  rotate: false
+  xy: 199, 110
+  size: 75, 208
+  orig: 75, 208
+  offset: 0, 0
+  index: -1
+back_Rleg
+  rotate: false
+  xy: 351, 19
+  size: 67, 164
+  orig: 67, 164
+  offset: 0, 0
+  index: -1
+ear_L
+  rotate: false
+  xy: 418, 22
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+ear_R
+  rotate: true
+  xy: 274, 87
+  size: 44, 63
+  orig: 44, 63
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 452, 458
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+eye_death
+  rotate: false
+  xy: 301, 325
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+front_Lleg
+  rotate: false
+  xy: 274, 131
+  size: 77, 187
+  orig: 77, 187
+  offset: 0, 0
+  index: -1
+front_Rleg
+  rotate: false
+  xy: 351, 183
+  size: 68, 166
+  orig: 68, 166
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 301, 349
+  size: 151, 135
+  orig: 151, 135
+  offset: 0, 0
+  index: -1
+mane
+  rotate: false
+  xy: 0, 104
+  size: 199, 214
+  orig: 199, 214
+  offset: 0, 0
+  index: -1
+mouth_closed
+  rotate: true
+  xy: 419, 249
+  size: 100, 61
+  orig: 100, 61
+  offset: 0, 0
+  index: -1
+mouth_mid
+  rotate: true
+  xy: 418, 83
+  size: 86, 55
+  orig: 86, 55
+  offset: 0, 0
+  index: -1
+mouth_open
+  rotate: true
+  xy: 419, 169
+  size: 80, 63
+  orig: 80, 63
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 0, 16
+  size: 88, 192
+  orig: 88, 192
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 0, 318
+  size: 301, 166
+  orig: 301, 166
+  offset: 0, 0
+  index: -1

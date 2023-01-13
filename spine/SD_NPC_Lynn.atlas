@@ -1,0 +1,237 @@
+
+SD_NPC_Lynn.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 473, 303
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+Lear1
+  rotate: 180
+  xy: 261, 3
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+Learfur
+  rotate: false
+  xy: 360, 29
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 361, 215
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 0, 225
+  size: 39, 106
+  orig: 39, 106
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 213, 61
+  size: 36, 68
+  orig: 36, 68
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 298, 154
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+Rear1
+  rotate: 180
+  xy: 317, 1
+  size: 61, 47
+  orig: 61, 47
+  offset: 0, 0
+  index: -1
+Rear2
+  rotate: true
+  xy: 84, 14
+  size: 50, 79
+  orig: 50, 79
+  offset: 0, 0
+  index: -1
+Rearfur
+  rotate: false
+  xy: 105, 222
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+Rearfurx
+  rotate: 270
+  xy: 400, 23
+  size: 50, 75
+  orig: 50, 75
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 475, 9
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 469, 43
+  size: 38, 108
+  orig: 38, 108
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 162, 28
+  size: 32, 71
+  orig: 32, 71
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: true
+  xy: 300, 72
+  size: 58, 171
+  orig: 58, 171
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: 270
+  xy: 25, 152
+  size: 114, 169
+  orig: 114, 169
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: 270
+  xy: 333, 106
+  size: 103, 110
+  orig: 103, 110
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: false
+  xy: 211, 192
+  size: 157, 153
+  orig: 157, 153
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: true
+  xy: 280, 42
+  size: 43, 75
+  orig: 43, 75
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 365, 204
+  size: 108, 135
+  orig: 108, 135
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 176, 135
+  size: 122, 57
+  orig: 122, 57
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 0, 42
+  size: 98, 54
+  orig: 98, 54
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 0, 97
+  size: 123, 56
+  orig: 123, 56
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: true
+  xy: 456, 151
+  size: 125, 56
+  orig: 125, 56
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 123, 60
+  size: 90, 75
+  orig: 90, 75
+  offset: 0, 0
+  index: -1
+hatfrill
+  rotate: false
+  xy: 0, 264
+  size: 171, 137
+  orig: 171, 137
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 171, 266
+  size: 136, 143
+  orig: 136, 143
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 467, 396
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 313, 338
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 470, 283
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+necklace
+  rotate: false
+  xy: 233, 31
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 213, 98
+  size: 70, 38
+  orig: 70, 38
+  offset: 0, 0
+  index: -1
+ponytail
+  rotate: true
+  xy: 313, 339
+  size: 62, 196
+  orig: 62, 196
+  offset: 0, 0
+  index: -1

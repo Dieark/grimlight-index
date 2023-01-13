@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 423
+    "m_PathID": 425
   },
   "m_Name": "UnitData_CHAR0071_SantaClaus",
   "removeFromGame": 0,
@@ -665,7 +665,9 @@
           "accountLevelOffset": 0
         }
       }
-    ]
+    ],
+    "heroStoriesItemList": [],
+    "heroSkinItemList": []
   },
   "skinAssetNames": [
     "UnitSkinAssets_Char0071_SantaClaus"
@@ -725,29 +727,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 30540
+    "m_PathID": 30661
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 30011
+      "m_PathID": 30123
     },
     {
       "m_FileID": 0,
-      "m_PathID": 30010
+      "m_PathID": 30122
     },
     {
       "m_FileID": 0,
-      "m_PathID": 30009
+      "m_PathID": 30121
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 30008
+    "m_PathID": 30120
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 30007
+    "m_PathID": 30119
   },
   "Gender": 1,
   "Age": -1

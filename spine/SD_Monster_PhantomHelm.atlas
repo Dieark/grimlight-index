@@ -1,0 +1,116 @@
+
+SD_Monster_PhantomHelm.png
+size: 500,448
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Smoke5
+  rotate: false
+  xy: 259, 24
+  size: 237, 210
+  orig: 237, 210
+  offset: 0, 0
+  index: -1
+Smoke6
+  rotate: false
+  xy: 259, 234
+  size: 238, 211
+  orig: 238, 211
+  offset: 0, 0
+  index: -1
+Smoke8
+  rotate: false
+  xy: 0, 0
+  size: 242, 195
+  orig: 242, 195
+  offset: 0, 0
+  index: -1
+helm
+  rotate: false
+  xy: 0, 195
+  size: 259, 250
+  orig: 259, 250
+  offset: 0, 0
+  index: -1
+
+SD_Monster_PhantomHelm2.png
+size: 444,508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Smoke10
+  rotate: true
+  xy: 0, 102
+  size: 220, 196
+  orig: 220, 196
+  offset: 0, 0
+  index: -1
+Smoke11
+  rotate: false
+  xy: 196, 84
+  size: 243, 192
+  orig: 243, 192
+  offset: 0, 0
+  index: -1
+Smoke4
+  rotate: true
+  xy: 244, 276
+  size: 232, 198
+  orig: 232, 198
+  offset: 0, 0
+  index: -1
+Smoke7
+  rotate: false
+  xy: 0, 322
+  size: 244, 186
+  orig: 244, 186
+  offset: 0, 0
+  index: -1
+frontjaw
+  rotate: false
+  xy: 0, 0
+  size: 158, 102
+  orig: 158, 102
+  offset: 0, 0
+  index: -1
+
+SD_Monster_PhantomHelm3.png
+size: 480,424
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Smoke1
+  rotate: true
+  xy: 0, 192
+  size: 230, 192
+  orig: 230, 192
+  offset: 0, 0
+  index: -1
+Smoke2
+  rotate: true
+  xy: 192, 194
+  size: 228, 184
+  orig: 228, 184
+  offset: 0, 0
+  index: -1
+Smoke3
+  rotate: false
+  xy: 0, 1
+  size: 230, 191
+  orig: 230, 191
+  offset: 0, 0
+  index: -1
+Smoke9
+  rotate: false
+  xy: 230, 0
+  size: 213, 194
+  orig: 213, 194
+  offset: 0, 0
+  index: -1
+bottomjaw
+  rotate: true
+  xy: 376, 305
+  size: 117, 102
+  orig: 117, 102
+  offset: 0, 0
+  index: -1

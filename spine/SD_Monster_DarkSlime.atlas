@@ -1,0 +1,48 @@
+
+SD_Monster_DarkSlime.png
+size: 440,192
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: true
+  xy: 276, 16
+  size: 122, 43
+  orig: 122, 43
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 0
+  size: 225, 191
+  orig: 225, 191
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 319, 16
+  size: 121, 51
+  orig: 121, 51
+  offset: 0, 0
+  index: -1
+faceangry
+  rotate: true
+  xy: 357, 67
+  size: 124, 73
+  orig: 124, 73
+  offset: 0, 0
+  index: -1
+facedead
+  rotate: false
+  xy: 225, 138
+  size: 132, 53
+  orig: 132, 53
+  offset: 0, 0
+  index: -1
+faceidle
+  rotate: true
+  xy: 225, 16
+  size: 122, 51
+  orig: 122, 51
+  offset: 0, 0
+  index: -1

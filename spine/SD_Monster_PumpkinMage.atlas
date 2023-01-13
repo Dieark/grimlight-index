@@ -1,0 +1,118 @@
+
+SD_Monster_PumpkinMage.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 392, 96
+  size: 57, 37
+  orig: 57, 37
+  offset: 0, 0
+  index: -1
+Lcapecollar
+  rotate: false
+  xy: 329, 85
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 165, 362
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 165, 385
+  size: 44, 53
+  orig: 44, 53
+  offset: 0, 0
+  index: -1
+Lshoulderback
+  rotate: false
+  xy: 449, 133
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+Rcapecollar
+  rotate: false
+  xy: 335, 133
+  size: 100, 61
+  orig: 100, 61
+  offset: 0, 0
+  index: -1
+capeback
+  rotate: true
+  xy: 0, 74
+  size: 147, 168
+  orig: 147, 168
+  offset: 0, 0
+  index: -1
+capefront
+  rotate: 180
+  xy: 165, 300
+  size: 208, 189
+  orig: 208, 189
+  offset: 0, 0
+  index: -1
+glowingeye
+  rotate: false
+  xy: 168, 195
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+pumpkinback
+  rotate: false
+  xy: 168, 108
+  size: 167, 86
+  orig: 167, 86
+  offset: 0, 0
+  index: -1
+pumpkinbottom
+  rotate: false
+  xy: 298, 193
+  size: 185, 105
+  orig: 185, 105
+  offset: 0, 0
+  index: -1
+pumpkintop
+  rotate: true
+  xy: 373, 298
+  size: 192, 115
+  orig: 192, 115
+  offset: 0, 0
+  index: -1
+pumpkintopback
+  rotate: false
+  xy: 0, 74
+  size: 59, 39
+  orig: 59, 39
+  offset: 0, 0
+  index: -1
+stem
+  rotate: false
+  xy: 165, 438
+  size: 46, 51
+  orig: 46, 51
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 0, 221
+  size: 80, 299
+  orig: 80, 299
+  offset: 0, 0
+  index: -1
+weaponglow
+  rotate: false
+  xy: 0, 313
+  size: 166, 176
+  orig: 166, 176
+  offset: 0, 0
+  index: -1

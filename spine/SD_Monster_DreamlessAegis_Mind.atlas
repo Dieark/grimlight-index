@@ -1,0 +1,146 @@
+
+SD_Monster_DreamlessAegis_Mind.png
+size: 507,340
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Crystal10
+  rotate: false
+  xy: 466, 108
+  size: 32, 57
+  orig: 33, 58
+  offset: 0, 1
+  index: -1
+Crystal11
+  rotate: true
+  xy: 0, 17
+  size: 22, 58
+  orig: 22, 58
+  offset: 0, 0
+  index: -1
+Crystal8
+  rotate: true
+  xy: 141, 18
+  size: 36, 96
+  orig: 37, 97
+  offset: 1, 1
+  index: -1
+Crystal9
+  rotate: false
+  xy: 89, 8
+  size: 52, 94
+  orig: 54, 95
+  offset: 1, 1
+  index: -1
+Eyedeath
+  rotate: false
+  xy: 392, 4
+  size: 64, 37
+  orig: 64, 37
+  offset: 0, 0
+  index: -1
+Eyeopen
+  rotate: false
+  xy: 237, 2
+  size: 79, 40
+  orig: 79, 41
+  offset: 0, 0
+  index: -1
+back
+  rotate: true
+  xy: 253, 219
+  size: 121, 119
+  orig: 121, 119
+  offset: 0, 0
+  index: -1
+bottomnozzle
+  rotate: true
+  xy: 269, 42
+  size: 62, 94
+  orig: 68, 103
+  offset: 0, 0
+  index: -1
+chestglow
+  rotate: true
+  xy: 363, 41
+  size: 60, 87
+  orig: 62, 89
+  offset: 1, 1
+  index: -1
+crystal1
+  rotate: true
+  xy: 450, 50
+  size: 51, 48
+  orig: 51, 49
+  offset: 0, 1
+  index: -1
+crystal2
+  rotate: false
+  xy: 316, 0
+  size: 76, 41
+  orig: 77, 41
+  offset: 0, 0
+  index: -1
+crystal3
+  rotate: true
+  xy: 0, 39
+  size: 63, 89
+  orig: 64, 89
+  offset: 1, 0
+  index: -1
+crystal4
+  rotate: false
+  xy: 280, 104
+  size: 86, 115
+  orig: 87, 119
+  offset: 0, 1
+  index: -1
+crystal5
+  rotate: true
+  xy: 145, 54
+  size: 55, 124
+  orig: 56, 125
+  offset: 1, 1
+  index: -1
+crystal6
+  rotate: false
+  xy: 145, 109
+  size: 135, 77
+  orig: 136, 78
+  offset: 1, 0
+  index: -1
+crystal6x
+  rotate: false
+  xy: 466, 165
+  size: 41, 58
+  orig: 41, 58
+  offset: 0, 0
+  index: -1
+crystal7
+  rotate: true
+  xy: 372, 223
+  size: 117, 115
+  orig: 118, 116
+  offset: 1, 1
+  index: -1
+head
+  rotate: true
+  xy: 145, 186
+  size: 154, 108
+  orig: 155, 111
+  offset: 1, 3
+  index: -1
+headplate
+  rotate: true
+  xy: 372, 101
+  size: 122, 94
+  orig: 122, 94
+  offset: 0, 0
+  index: -1
+shield
+  rotate: false
+  xy: 0, 102
+  size: 145, 238
+  orig: 145, 238
+  offset: 0, 0
+  index: -1

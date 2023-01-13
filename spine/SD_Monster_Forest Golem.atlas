@@ -1,0 +1,201 @@
+
+SD_Monster_Forest Golem.png
+size: 512,510
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 342, 2
+  size: 85, 86
+  orig: 86, 88
+  offset: 0, 1
+  index: -1
+Lfinger1
+  rotate: true
+  xy: 0, 27
+  size: 44, 94
+  orig: 44, 94
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: true
+  xy: 167, 81
+  size: 130, 175
+  orig: 130, 176
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 279, 333
+  size: 158, 177
+  orig: 158, 177
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 437, 398
+  size: 40, 112
+  orig: 40, 112
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 167, 7
+  size: 86, 74
+  orig: 86, 76
+  offset: 0, 1
+  index: -1
+Rarmx
+  rotate: true
+  xy: 279, 211
+  size: 122, 204
+  orig: 122, 205
+  offset: 0, 1
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 0, 71
+  size: 147, 167
+  orig: 153, 178
+  offset: 1, 11
+  index: -1
+Rthumb
+  rotate: true
+  xy: 253, 37
+  size: 45, 86
+  orig: 45, 86
+  offset: 0, 0
+  index: -1
+branch1
+  rotate: false
+  xy: 428, 10
+  size: 73, 77
+  orig: 73, 77
+  offset: 0, 0
+  index: -1
+branch2
+  rotate: true
+  xy: 85, 1
+  size: 46, 82
+  orig: 46, 82
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 476, 408
+  size: 19, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+grass1
+  rotate: false
+  xy: 477, 480
+  size: 28, 30
+  orig: 29, 32
+  offset: 1, 1
+  index: -1
+grass2
+  rotate: false
+  xy: 499, 387
+  size: 13, 42
+  orig: 13, 44
+  offset: 0, 2
+  index: -1
+grass3
+  rotate: false
+  xy: 502, 433
+  size: 8, 20
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
+grass4
+  rotate: false
+  xy: 477, 453
+  size: 28, 27
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+grass5
+  rotate: false
+  xy: 477, 429
+  size: 25, 24
+  orig: 27, 25
+  offset: 1, 1
+  index: -1
+grass6
+  rotate: false
+  xy: 499, 373
+  size: 10, 14
+  orig: 10, 15
+  offset: 0, 1
+  index: -1
+insidehead
+  rotate: false
+  xy: 437, 359
+  size: 62, 39
+  orig: 62, 40
+  offset: 0, 1
+  index: -1
+insidehead death
+  rotate: true
+  xy: 473, 149
+  size: 62, 39
+  orig: 62, 40
+  offset: 0, 1
+  index: -1
+pelvis
+  rotate: false
+  xy: 342, 87
+  size: 131, 124
+  orig: 131, 125
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 0, 218
+  size: 279, 292
+  orig: 279, 333
+  offset: 0, 0
+  index: -1
+
+SD_Monster_Forest Golem2.png
+size: 109,372
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lfinger2
+  rotate: true
+  xy: 0, 34
+  size: 47, 81
+  orig: 47, 81
+  offset: 0, 0
+  index: -1
+Lfinger3
+  rotate: true
+  xy: 3, 1
+  size: 46, 77
+  orig: 46, 77
+  offset: 0, 0
+  index: -1
+Rfinger
+  rotate: true
+  xy: 0, 80
+  size: 78, 94
+  orig: 78, 94
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 0, 257
+  size: 109, 115
+  orig: 109, 115
+  offset: 0, 0
+  index: -1
+orb
+  rotate: false
+  xy: 0, 158
+  size: 100, 99
+  orig: 101, 99
+  offset: 0, 0
+  index: -1

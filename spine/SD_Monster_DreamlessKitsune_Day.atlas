@@ -1,0 +1,118 @@
+
+SD_Monster_DreamlessKitsune_Day.png
+size: 302,503
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_earfluff
+  rotate: false
+  xy: 224, 396
+  size: 24, 38
+  orig: 26, 40
+  offset: 1, 1
+  index: -1
+R_earfluff
+  rotate: false
+  xy: 0, 324
+  size: 20, 39
+  orig: 23, 41
+  offset: 2, 1
+  index: -1
+back_Lleg
+  rotate: true
+  xy: 176, 450
+  size: 54, 114
+  orig: 54, 114
+  offset: 0, 0
+  index: -1
+back_Rleg
+  rotate: false
+  xy: 241, 1
+  size: 53, 99
+  orig: 53, 99
+  offset: 0, 0
+  index: -1
+eye_closed
+  rotate: false
+  xy: 0, 363
+  size: 79, 17
+  orig: 81, 19
+  offset: 1, 1
+  index: -1
+eye_mid
+  rotate: false
+  xy: 198, 434
+  size: 71, 16
+  orig: 73, 18
+  offset: 1, 1
+  index: -1
+front_Lleg
+  rotate: 180
+  xy: 0, 155
+  size: 61, 128
+  orig: 61, 133
+  offset: 0, 0
+  index: -1
+front_Rleg
+  rotate: 180
+  xy: 244, 99
+  size: 57, 144
+  orig: 57, 144
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 0, 14
+  size: 146, 156
+  orig: 147, 157
+  offset: 0, 0
+  index: -1
+mane
+  rotate: false
+  xy: 0, 368
+  size: 199, 135
+  orig: 199, 135
+  offset: 0, 0
+  index: -1
+mouth_idle
+  rotate: false
+  xy: 16, 494
+  size: 13, 9
+  orig: 15, 11
+  offset: 1, 1
+  index: -1
+mouth_shout
+  rotate: false
+  xy: 0, 490
+  size: 16, 13
+  orig: 19, 16
+  offset: 2, 1
+  index: -1
+tail1
+  rotate: 270
+  xy: 2, 258
+  size: 157, 222
+  orig: 158, 222
+  offset: 0, 0
+  index: -1
+tail2
+  rotate: 180
+  xy: 209, 256
+  size: 79, 162
+  orig: 161, 201
+  offset: 2, 0
+  index: -1
+tail3
+  rotate: 270
+  xy: 165, 12
+  size: 200, 88
+  orig: 201, 97
+  offset: 1, 0
+  index: -1
+torso
+  rotate: 180
+  xy: 39, 149
+  size: 189, 119
+  orig: 190, 216
+  offset: 0, 52
+  index: -1

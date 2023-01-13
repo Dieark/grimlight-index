@@ -1,0 +1,76 @@
+
+SD_Monster_ShadowSwordsman.png
+size: 484,456
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 333, 46
+  size: 118, 149
+  orig: 118, 149
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: true
+  xy: 246, 4
+  size: 61, 66
+  orig: 61, 66
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 246, 67
+  size: 85, 135
+  orig: 85, 135
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 323, 2
+  size: 42, 61
+  orig: 42, 61
+  offset: 0, 0
+  index: -1
+Rhand2
+  rotate: true
+  xy: 386, 14
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 204
+  size: 336, 250
+  orig: 336, 250
+  offset: 0, 0
+  index: -1
+darkfragment1
+  rotate: false
+  xy: 314, 42
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+darkfragment2
+  rotate: false
+  xy: 314, 51
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+hood
+  rotate: true
+  xy: 2, 3
+  size: 199, 242
+  orig: 199, 242
+  offset: 0, 0
+  index: -1
+sword
+  rotate: true
+  xy: 340, 197
+  size: 257, 142
+  orig: 257, 142
+  offset: 0, 0
+  index: -1

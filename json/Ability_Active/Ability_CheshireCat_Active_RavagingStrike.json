@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 374
+    "m_PathID": -7118662915785212894
   },
   "m_Name": "Ability_CheshireCat_Active_RavagingStrike",
   "abilityID": "Ability_CheshireCat_Active",
@@ -15,6 +15,7 @@
   "numberOfHits": 0,
   "timeFromStart": 0.0,
   "maximumCasts": 0,
+  "hpRatioPassiveThreshold": 0.0,
   "attackSequence": [
     {
       "attackType": 2,
@@ -78,7 +79,7 @@
         {
           "status": {
             "m_FileID": 0,
-            "m_PathID": 2361
+            "m_PathID": -6115748077215063269
           },
           "chanceToApplyPercent": 100
         }
@@ -119,7 +120,7 @@
     "displayType": 0,
     "abilityIcon": {
       "m_FileID": 0,
-      "m_PathID": 521
+      "m_PathID": 3917581584991975643
     }
   },
   "abilityUpgradeCostElement": 0,
@@ -151,7 +152,7 @@
           "scaler": 0.175,
           "statusReference": {
             "m_FileID": 0,
-            "m_PathID": 2361
+            "m_PathID": -6115748077215063269
           },
           "valueType": 0,
           "modifiedStat": 13,

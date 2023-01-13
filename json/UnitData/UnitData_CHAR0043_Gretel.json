@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 393
   },
   "m_Name": "UnitData_CHAR0043_Gretel",
   "removeFromGame": 0,
@@ -571,7 +571,9 @@
           "accountLevelOffset": 0
         }
       }
-    ]
+    ],
+    "heroStoriesItemList": [],
+    "heroSkinItemList": []
   },
   "skinAssetNames": [
     "UnitSkinAssets_Char0043_Gretel"
@@ -631,16 +633,16 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": -6388849300451833974
+    "m_PathID": 2612
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": -1175214094258165657
+      "m_PathID": 2165
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3968167368061755466
+      "m_PathID": 2166
     }
   ],
   "passiveAbility": {
@@ -649,7 +651,7 @@
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 41644697825733595
+    "m_PathID": 2164
   },
   "Gender": 0,
   "Age": 17

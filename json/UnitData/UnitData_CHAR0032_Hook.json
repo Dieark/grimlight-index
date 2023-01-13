@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 390
+    "m_PathID": 393
   },
   "m_Name": "UnitData_CHAR0032_Hook",
   "removeFromGame": 0,
@@ -665,7 +665,9 @@
           "accountLevelOffset": 0
         }
       }
-    ]
+    ],
+    "heroStoriesItemList": [],
+    "heroSkinItemList": []
   },
   "skinAssetNames": [
     "UnitSkinAssets_Char0032_Hook"
@@ -696,7 +698,7 @@
     },
     "defense": {
       "statType": 1,
-      "yIntercept": 16.0,
+      "yIntercept": 22.0,
       "hasExponentialScale": 0
     },
     "critChance": 1.0,
@@ -725,25 +727,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2592
+    "m_PathID": 2616
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2164
+      "m_PathID": 2182
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2163
+      "m_PathID": 2181
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2162
+    "m_PathID": 2180
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2161
+    "m_PathID": 2179
   },
   "Gender": 0,
   "Age": 33

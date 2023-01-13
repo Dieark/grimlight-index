@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 423
+    "m_PathID": 393
   },
   "m_Name": "UnitData_CHAR0023_Rapunzel",
   "removeFromGame": 0,
@@ -665,6 +665,41 @@
           "accountLevelOffset": 0
         }
       }
+    ],
+    "heroStoriesItemList": [],
+    "heroSkinItemList": [
+      {
+        "objectType": 17,
+        "objectID": "Rapunzel_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Rapunzel_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Rapunzel_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Rapunzel_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Rapunzel_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Rapunzel_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Rapunzel_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Rapunzel_Skin1"
+      }
     ]
   },
   "skinAssetNames": [
@@ -697,7 +732,7 @@
     },
     "defense": {
       "statType": 1,
-      "yIntercept": 20.0,
+      "yIntercept": 26.0,
       "hasExponentialScale": 0
     },
     "critChance": 1.0,
@@ -726,21 +761,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 30532
+    "m_PathID": 2638
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 29980
+      "m_PathID": 2266
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 29979
+    "m_PathID": 2265
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 29978
+    "m_PathID": 2264
   },
   "Gender": 0,
   "Age": 16

@@ -1,0 +1,111 @@
+
+SD_Monster_NightmareBomb.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lbottomshell
+  rotate: true
+  xy: 306, 10
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+Lhorn
+  rotate: false
+  xy: 368, 44
+  size: 62, 42
+  orig: 62, 42
+  offset: 0, 0
+  index: -1
+Ltopshell
+  rotate: false
+  xy: 306, 58
+  size: 62, 55
+  orig: 62, 55
+  offset: 0, 0
+  index: -1
+Rhorn
+  rotate: false
+  xy: 366, 13
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+Rtopshell
+  rotate: false
+  xy: 403, 0
+  size: 11, 44
+  orig: 11, 44
+  offset: 0, 0
+  index: -1
+backshell
+  rotate: false
+  xy: 343, 24
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 0, 342
+  size: 160, 165
+  orig: 160, 165
+  offset: 0, 0
+  index: -1
+ballglow1
+  rotate: true
+  xy: 0, 182
+  size: 160, 165
+  orig: 160, 165
+  offset: 0, 0
+  index: -1
+ballglow2
+  rotate: true
+  xy: 160, 347
+  size: 160, 165
+  orig: 160, 165
+  offset: 0, 0
+  index: -1
+ballglow3
+  rotate: false
+  xy: 165, 182
+  size: 160, 165
+  orig: 160, 165
+  offset: 0, 0
+  index: -1
+ballglow4
+  rotate: true
+  xy: 0, 22
+  size: 160, 165
+  orig: 160, 165
+  offset: 0, 0
+  index: -1
+bottomshell
+  rotate: false
+  xy: 306, 113
+  size: 121, 69
+  orig: 121, 69
+  offset: 0, 0
+  index: -1
+eyedeath
+  rotate: true
+  xy: 430, 9
+  size: 77, 19
+  orig: 77, 19
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 368, 86
+  size: 80, 27
+  orig: 80, 27
+  offset: 0, 0
+  index: -1
+topshell
+  rotate: false
+  xy: 165, 54
+  size: 141, 128
+  orig: 141, 128
+  offset: 0, 0
+  index: -1

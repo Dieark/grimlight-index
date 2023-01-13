@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 423
+    "m_PathID": 393
   },
   "m_Name": "UnitData_CHAR0002_Vita",
   "removeFromGame": 0,
@@ -665,6 +665,94 @@
           "accountLevelOffset": 0
         }
       }
+    ],
+    "heroStoriesItemList": [
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryVita_1"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryVita_2"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryVita_3"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryVita_4"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryVita_5"
+      }
+    ],
+    "heroSkinItemList": [
+      {
+        "objectType": 17,
+        "objectID": "Vita_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Vita_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Vita_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Vita_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Vita_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Vita_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Vita_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Vita_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Vita_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Vita_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Vita_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Vita_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Vita_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Vita_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Vita_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Vita_Skin2"
+      }
     ]
   },
   "skinAssetNames": [
@@ -675,23 +763,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 31407
+      "m_PathID": 2814
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31408
+      "m_PathID": 2815
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31409
+      "m_PathID": 2816
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31410
+      "m_PathID": 2817
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31411
+      "m_PathID": 2818
     }
   ],
   "unitStatData": {
@@ -748,21 +836,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 30551
+    "m_PathID": 2657
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 30043
+      "m_PathID": 2330
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 30042
+    "m_PathID": 2329
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 30041
+    "m_PathID": 2328
   },
   "Gender": 0,
   "Age": -1

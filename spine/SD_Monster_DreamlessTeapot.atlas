@@ -1,0 +1,153 @@
+
+SD_Monster_DreamlessTeapot.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lhand
+  rotate: false
+  xy: 53, 442
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+Lhandback
+  rotate: false
+  xy: 53, 486
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+Lhorn
+  rotate: false
+  xy: 53, 457
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 442, 445
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+Rhandback
+  rotate: false
+  xy: 491, 485
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1
+Rhorn
+  rotate: false
+  xy: 442, 419
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+baseplate
+  rotate: true
+  xy: 0, 379
+  size: 134, 53
+  orig: 134, 53
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 284, 170
+  size: 106, 104
+  orig: 106, 104
+  offset: 0, 0
+  index: -1
+eyeangry
+  rotate: false
+  xy: 467, 326
+  size: 45, 22
+  orig: 45, 22
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 442, 465
+  size: 45, 24
+  orig: 45, 24
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: true
+  xy: 33, 98
+  size: 147, 167
+  orig: 147, 167
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: true
+  xy: 230, 128
+  size: 43, 216
+  orig: 43, 216
+  offset: 0, 0
+  index: -1
+leg3
+  rotate: false
+  xy: 113, 101
+  size: 171, 169
+  orig: 171, 169
+  offset: 0, 0
+  index: -1
+leg4
+  rotate: 270
+  xy: 387, 35
+  size: 114, 125
+  orig: 114, 125
+  offset: 0, 0
+  index: -1
+leg5
+  rotate: false
+  xy: 440, 344
+  size: 71, 129
+  orig: 71, 129
+  offset: 0, 0
+  index: -1
+leg6
+  rotate: false
+  xy: 0, 111
+  size: 32, 104
+  orig: 32, 104
+  offset: 0, 0
+  index: -1
+mouthsmile
+  rotate: false
+  xy: 442, 489
+  size: 49, 23
+  orig: 49, 23
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 286, 52
+  size: 104, 76
+  orig: 104, 76
+  offset: 0, 0
+  index: -1
+teapot
+  rotate: false
+  xy: 0, 215
+  size: 443, 298
+  orig: 443, 298
+  offset: 0, 0
+  index: -1
+teapotcap
+  rotate: false
+  xy: 390, 205
+  size: 122, 107
+  orig: 122, 107
+  offset: 0, 0
+  index: -1
+teapottopback
+  rotate: false
+  xy: 176, 55
+  size: 110, 73
+  orig: 110, 73
+  offset: 0, 0
+  index: -1

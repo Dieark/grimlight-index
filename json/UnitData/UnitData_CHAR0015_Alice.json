@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 425
   },
   "m_Name": "UnitData_CHAR0015_Alice",
   "removeFromGame": 0,
@@ -665,6 +665,57 @@
           "accountLevelOffset": 0
         }
       }
+    ],
+    "heroStoriesItemList": [],
+    "heroSkinItemList": [
+      {
+        "objectType": 17,
+        "objectID": "Alice_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Alice_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Alice_Skin3"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Alice_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Alice_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Alice_Skin3"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Alice_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Alice_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Alice_Skin3"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Alice_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Alice_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Alice_Skin3"
+      }
     ]
   },
   "skinAssetNames": [
@@ -728,25 +779,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 8171030483865535829
+    "m_PathID": 30610
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 4068607707639125587
+      "m_PathID": 29932
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3989424657289506799
+      "m_PathID": 29931
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": -3240793437133229187
+    "m_PathID": 29930
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2164943359265356403
+    "m_PathID": 29929
   },
   "Gender": 0,
   "Age": -1

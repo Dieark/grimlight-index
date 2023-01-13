@@ -15,6 +15,7 @@
   "numberOfHits": 0,
   "timeFromStart": 0.0,
   "maximumCasts": 0,
+  "hpRatioPassiveThreshold": 0.0,
   "attackSequence": [
     {
       "attackType": 2,
@@ -40,7 +41,7 @@
         }
       ],
       "RemoveDebuffsOnHit": 0,
-      "RemoveBuffsOnHit": 0,
+      "RemoveBuffsOnHit": 1,
       "SummonOnCast": [],
       "InstakillThreshold": -1,
       "element": 0,

@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 390
+    "m_PathID": 425
   },
   "m_Name": "UnitData_CHAR0057_VanHelsing",
   "removeFromGame": 0,
@@ -665,7 +665,9 @@
           "accountLevelOffset": 0
         }
       }
-    ]
+    ],
+    "heroStoriesItemList": [],
+    "heroSkinItemList": []
   },
   "skinAssetNames": [
     "UnitSkinAssets_Char0057_VanHelsing"
@@ -725,29 +727,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2631
+    "m_PathID": 30671
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2302
+      "m_PathID": 30150
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2303
+      "m_PathID": 30151
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2304
+      "m_PathID": 30152
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2301
+    "m_PathID": 30149
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2300
+    "m_PathID": 30148
   },
   "Gender": 1,
   "Age": -1

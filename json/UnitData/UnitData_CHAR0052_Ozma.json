@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 393
   },
   "m_Name": "UnitData_CHAR0052_Ozma",
   "removeFromGame": 0,
@@ -665,6 +665,62 @@
           "accountLevelOffset": 0
         }
       }
+    ],
+    "heroStoriesItemList": [
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryOzma_1"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryOzma_2"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryOzma_3"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryOzma_4"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryOzma_5"
+      }
+    ],
+    "heroSkinItemList": [
+      {
+        "objectType": 17,
+        "objectID": "Ozma_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Ozma_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Ozma_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Ozma_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Ozma_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Ozma_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Ozma_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Ozma_Skin1"
+      }
     ]
   },
   "skinAssetNames": [
@@ -674,23 +730,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": -2901567081226270174
+      "m_PathID": 2784
     },
     {
       "m_FileID": 0,
-      "m_PathID": 5350446987863253906
+      "m_PathID": 2785
     },
     {
       "m_FileID": 0,
-      "m_PathID": -9061747173285241494
+      "m_PathID": 2786
     },
     {
       "m_FileID": 0,
-      "m_PathID": 673306223106710415
+      "m_PathID": 2787
     },
     {
       "m_FileID": 0,
-      "m_PathID": 8273148609356554363
+      "m_PathID": 2788
     }
   ],
   "unitStatData": {
@@ -729,7 +785,7 @@
     "baseEvasionPercent": 0.0,
     "baseAccuracyPercent": 0.0,
     "resilience": 0.0,
-    "attackSpeed": 0.8,
+    "attackSpeed": 0.9,
     "attackRange": 50.0,
     "energyGainPerAttack": 13,
     "moveSpeed": 15.0,
@@ -747,25 +803,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3530575405920990331
+    "m_PathID": 2634
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": -8383767852344877631
+      "m_PathID": 2250
     },
     {
       "m_FileID": 0,
-      "m_PathID": -7635174951247248324
+      "m_PathID": 2251
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 8930153294670048184
+    "m_PathID": 2249
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 6388651661762542450
+    "m_PathID": 2248
   },
   "Gender": 0,
   "Age": -1

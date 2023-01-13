@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 390
+    "m_PathID": 425
   },
   "m_Name": "UnitData_CHAR0016_Cinderella",
   "removeFromGame": 0,
@@ -665,6 +665,25 @@
           "accountLevelOffset": 0
         }
       }
+    ],
+    "heroStoriesItemList": [],
+    "heroSkinItemList": [
+      {
+        "objectType": 17,
+        "objectID": "Cinderella_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Cinderella_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Cinderella_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Cinderella_Skin1"
+      }
     ]
   },
   "skinAssetNames": [
@@ -726,25 +745,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2579
+    "m_PathID": 30618
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2115
+      "m_PathID": 29958
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2116
+      "m_PathID": 29959
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2114
+    "m_PathID": 29957
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2113
+    "m_PathID": 29956
   },
   "Gender": 0,
   "Age": 21

@@ -1,0 +1,362 @@
+
+SD_Monster_NineTailedFox.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lbackleg1
+  rotate: true
+  xy: 80, 135
+  size: 77, 106
+  orig: 77, 106
+  offset: 0, 0
+  index: -1
+Lbackleg2
+  rotate: 180
+  xy: 414, 73
+  size: 91, 140
+  orig: 139, 176
+  offset: 0, 36
+  index: -1
+Lear2
+  rotate: false
+  xy: 467, 295
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+Lfrontleg2
+  rotate: true
+  xy: 267, 292
+  size: 79, 123
+  orig: 79, 123
+  offset: 0, 0
+  index: -1
+Rbackleg2
+  rotate: 180
+  xy: 143, 279
+  size: 64, 92
+  orig: 64, 92
+  offset: 0, 0
+  index: -1
+Rear1
+  rotate: false
+  xy: 0, 480
+  size: 73, 33
+  orig: 74, 33
+  offset: 1, 0
+  index: -1
+Rear2
+  rotate: false
+  xy: 235, 172
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 370
+  size: 320, 143
+  orig: 320, 145
+  offset: 0, 2
+  index: -1
+bottomjaw1
+  rotate: true
+  xy: 316, 374
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+bottomjaw2
+  rotate: false
+  xy: 461, 457
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 77, 352
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 97, 347
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+fang
+  rotate: false
+  xy: 72, 501
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+fireball3
+  rotate: false
+  xy: 0, 498
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+neckbell
+  rotate: true
+  xy: 101, 2
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+neckstring
+  rotate: true
+  xy: 319, 442
+  size: 70, 141
+  orig: 70, 141
+  offset: 0, 0
+  index: -1
+neckstringback1
+  rotate: false
+  xy: 469, 253
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+neckstringback2
+  rotate: false
+  xy: 291, 142
+  size: 46, 43
+  orig: 46, 43
+  offset: 0, 0
+  index: -1
+tail1
+  rotate: 270
+  xy: 11, 181
+  size: 190, 256
+  orig: 190, 256
+  offset: 0, 0
+  index: -1
+tail2
+  rotate: false
+  xy: 267, 185
+  size: 202, 239
+  orig: 202, 239
+  offset: 0, 0
+  index: -1
+tail4
+  rotate: false
+  xy: 280, 3
+  size: 190, 183
+  orig: 190, 186
+  offset: 0, 0
+  index: -1
+tail5
+  rotate: 180
+  xy: 32, 38
+  size: 259, 201
+  orig: 267, 201
+  offset: 0, 0
+  index: -1
+tailflame3
+  rotate: true
+  xy: 0, 3
+  size: 96, 102
+  orig: 96, 102
+  offset: 0, 0
+  index: -1
+tailflame4
+  rotate: true
+  xy: 444, 338
+  size: 104, 63
+  orig: 104, 63
+  offset: 0, 0
+  index: -1
+tailflame5
+  rotate: false
+  xy: 0, 290
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+tailflame7
+  rotate: true
+  xy: 445, 2
+  size: 79, 66
+  orig: 79, 66
+  offset: 0, 0
+  index: -1
+tailflame9
+  rotate: 180
+  xy: 189, 2
+  size: 99, 60
+  orig: 99, 60
+  offset: 0, 0
+  index: -1
+tie1
+  rotate: false
+  xy: 250, 63
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+tie2
+  rotate: false
+  xy: 41, 345
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+tie3
+  rotate: false
+  xy: 0, 118
+  size: 16, 95
+  orig: 16, 95
+  offset: 0, 0
+  index: -1
+tie4
+  rotate: false
+  xy: 16, 98
+  size: 18, 91
+  orig: 18, 91
+  offset: 0, 0
+  index: -1
+
+SD_Monster_NineTailedFox2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lear1
+  rotate: false
+  xy: 373, 227
+  size: 71, 62
+  orig: 71, 62
+  offset: 0, 0
+  index: -1
+Lear3
+  rotate: false
+  xy: 373, 255
+  size: 60, 52
+  orig: 60, 52
+  offset: 0, 0
+  index: -1
+Lfrontleg1
+  rotate: true
+  xy: 202, 302
+  size: 67, 103
+  orig: 67, 103
+  offset: 0, 0
+  index: -1
+Rbackleg1
+  rotate: true
+  xy: 166, 25
+  size: 87, 103
+  orig: 87, 103
+  offset: 0, 0
+  index: -1
+Rear3
+  rotate: false
+  xy: 448, 386
+  size: 64, 44
+  orig: 64, 44
+  offset: 0, 0
+  index: -1
+Rfrongleg2
+  rotate: false
+  xy: 383, 412
+  size: 82, 101
+  orig: 82, 101
+  offset: 0, 0
+  index: -1
+Rfrontleg1
+  rotate: true
+  xy: 16, 8
+  size: 100, 109
+  orig: 100, 109
+  offset: 0, 0
+  index: -1
+fireball1
+  rotate: 270
+  xy: 344, 84
+  size: 142, 167
+  orig: 142, 167
+  offset: 0, 0
+  index: -1
+fireball2
+  rotate: 180
+  xy: 0, 86
+  size: 95, 145
+  orig: 95, 145
+  offset: 0, 0
+  index: -1
+tail3
+  rotate: false
+  xy: 0, 215
+  size: 310, 147
+  orig: 310, 147
+  offset: 0, 0
+  index: -1
+tail6
+  rotate: false
+  xy: 0, 335
+  size: 305, 178
+  orig: 305, 178
+  offset: 0, 0
+  index: -1
+tail7
+  rotate: 270
+  xy: 304, 256
+  size: 256, 193
+  orig: 256, 193
+  offset: 0, 0
+  index: -1
+tail8
+  rotate: false
+  xy: 10, 97
+  size: 281, 165
+  orig: 281, 165
+  offset: 0, 0
+  index: -1
+tail9
+  rotate: false
+  xy: 299, 181
+  size: 152, 202
+  orig: 152, 202
+  offset: 0, 0
+  index: -1
+tailflame1
+  rotate: false
+  xy: 112, 440
+  size: 152, 55
+  orig: 152, 55
+  offset: 0, 0
+  index: -1
+tailflame2
+  rotate: false
+  xy: 268, 62
+  size: 79, 92
+  orig: 79, 92
+  offset: 0, 0
+  index: -1
+tailflame6
+  rotate: false
+  xy: 430, 56
+  size: 81, 116
+  orig: 81, 116
+  offset: 0, 0
+  index: -1
+tailflame8
+  rotate: false
+  xy: 70, 17
+  size: 89, 83
+  orig: 89, 83
+  offset: 0, 0
+  index: -1
+tophead
+  rotate: false
+  xy: 0, 425
+  size: 113, 88
+  orig: 113, 88
+  offset: 0, 0
+  index: -1

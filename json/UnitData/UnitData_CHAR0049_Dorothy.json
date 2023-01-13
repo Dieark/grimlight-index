@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 393
   },
   "m_Name": "UnitData_CHAR0049_Dorothy",
   "removeFromGame": 0,
@@ -665,6 +665,94 @@
           "accountLevelOffset": 0
         }
       }
+    ],
+    "heroStoriesItemList": [
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryDorothy_1"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryDorothy_2"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryDorothy_3"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryDorothy_4"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryDorothy_5"
+      }
+    ],
+    "heroSkinItemList": [
+      {
+        "objectType": 17,
+        "objectID": "Dorothy_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Dorothy_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Dorothy_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Dorothy_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Dorothy_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Dorothy_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Dorothy_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Dorothy_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Dorothy_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Dorothy_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Dorothy_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Dorothy_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Dorothy_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Dorothy_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Dorothy_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Dorothy_Skin2"
+      }
     ]
   },
   "skinAssetNames": [
@@ -675,23 +763,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": -6846277760974493154
+      "m_PathID": 2759
     },
     {
       "m_FileID": 0,
-      "m_PathID": -7707893830869207138
+      "m_PathID": 2760
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2429166458893985604
+      "m_PathID": 2761
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3236165226897864668
+      "m_PathID": 2762
     },
     {
       "m_FileID": 0,
-      "m_PathID": -2761079625576867605
+      "m_PathID": 2763
     }
   ],
   "unitStatData": {
@@ -748,21 +836,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": -6636423325376549260
+    "m_PathID": 2604
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": -2362266857782986021
+      "m_PathID": 2137
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 4703092857223096255
+    "m_PathID": 2136
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 6699227868808882675
+    "m_PathID": 2135
   },
   "Gender": 0,
   "Age": 21

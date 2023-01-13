@@ -1,0 +1,174 @@
+
+SD_Monster_DreamlessRatSwordsman.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 0, 135
+  size: 84, 103
+  orig: 84, 103
+  offset: 0, 0
+  index: -1
+Lcape
+  rotate: false
+  xy: 244, 248
+  size: 56, 69
+  orig: 56, 69
+  offset: 0, 0
+  index: -1
+Lepaulette
+  rotate: true
+  xy: 108, 248
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: true
+  xy: 139, 94
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+Lhipplate
+  rotate: true
+  xy: 0, 94
+  size: 39, 64
+  orig: 39, 64
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 456, 401
+  size: 54, 111
+  orig: 54, 111
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 343, 121
+  size: 42, 81
+  orig: 42, 81
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: 270
+  xy: 370, 163
+  size: 55, 136
+  orig: 55, 136
+  offset: 0, 0
+  index: -1
+Rcape
+  rotate: true
+  xy: 108, 163
+  size: 84, 87
+  orig: 84, 87
+  offset: 0, 0
+  index: -1
+Repaulette
+  rotate: true
+  xy: 456, 343
+  size: 58, 52
+  orig: 58, 52
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: true
+  xy: 195, 95
+  size: 35, 72
+  orig: 35, 72
+  offset: 0, 0
+  index: -1
+Rhipplate
+  rotate: false
+  xy: 451, 112
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 195, 130
+  size: 45, 84
+  orig: 45, 84
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 290, 137
+  size: 53, 75
+  orig: 53, 75
+  offset: 0, 0
+  index: -1
+belts
+  rotate: false
+  xy: 58, 123
+  size: 105, 40
+  orig: 105, 40
+  offset: 0, 0
+  index: -1
+ear
+  rotate: true
+  xy: 279, 96
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 0, 289
+  size: 156, 223
+  orig: 156, 223
+  offset: 0, 0
+  index: -1
+loincloth
+  rotate: true
+  xy: 0, 219
+  size: 70, 108
+  orig: 70, 108
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 195, 175
+  size: 95, 72
+  orig: 95, 72
+  offset: 0, 0
+  index: -1
+saber
+  rotate: true
+  xy: 156, 247
+  size: 265, 88
+  orig: 265, 88
+  offset: 0, 0
+  index: -1
+sheath
+  rotate: true
+  xy: 244, 317
+  size: 195, 98
+  orig: 195, 98
+  offset: 0, 0
+  index: -1
+tail
+  rotate: 180
+  xy: 314, 206
+  size: 198, 128
+  orig: 198, 128
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 342, 368
+  size: 114, 144
+  orig: 114, 144
+  offset: 0, 0
+  index: -1
+visor
+  rotate: true
+  xy: 342, 250
+  size: 118, 111
+  orig: 118, 111
+  offset: 0, 0
+  index: -1

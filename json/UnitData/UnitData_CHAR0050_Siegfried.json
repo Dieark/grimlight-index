@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 390
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0050_Siegfried",
   "removeFromGame": 0,
@@ -665,7 +665,9 @@
           "accountLevelOffset": 0
         }
       }
-    ]
+    ],
+    "heroStoriesItemList": [],
+    "heroSkinItemList": []
   },
   "skinAssetNames": [
     "UnitSkinAssets_Char0050_Siegfried"
@@ -696,7 +698,7 @@
     },
     "defense": {
       "statType": 1,
-      "yIntercept": 26.0,
+      "yIntercept": 32.0,
       "hasExponentialScale": 0
     },
     "critChance": 1.0,
@@ -725,21 +727,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2623
+    "m_PathID": -7618870095058432204
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2280
+      "m_PathID": -112327470470215352
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2279
+    "m_PathID": 1364573351184067804
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2278
+    "m_PathID": -6277235316734031919
   },
   "Gender": 1,
   "Age": 22

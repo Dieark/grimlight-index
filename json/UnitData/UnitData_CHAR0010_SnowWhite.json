@@ -665,6 +665,126 @@
           "accountLevelOffset": 0
         }
       }
+    ],
+    "heroStoriesItemList": [
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStorySnowWhite_1"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStorySnowWhite_2"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStorySnowWhite_3"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStorySnowWhite_4"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStorySnowWhite_5"
+      }
+    ],
+    "heroSkinItemList": [
+      {
+        "objectType": 17,
+        "objectID": "SnowWhite_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "SnowWhite_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "SnowWhite_Skin3"
+      },
+      {
+        "objectType": 17,
+        "objectID": "SnowWhite_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "SnowWhite_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "SnowWhite_Skin3"
+      },
+      {
+        "objectType": 17,
+        "objectID": "SnowWhite_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "SnowWhite_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "SnowWhite_Skin3"
+      },
+      {
+        "objectType": 17,
+        "objectID": "SnowWhite_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "SnowWhite_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "SnowWhite_Skin3"
+      },
+      {
+        "objectType": 17,
+        "objectID": "SnowWhite_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "SnowWhite_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "SnowWhite_Skin3"
+      },
+      {
+        "objectType": 17,
+        "objectID": "SnowWhite_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "SnowWhite_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "SnowWhite_Skin3"
+      },
+      {
+        "objectType": 17,
+        "objectID": "SnowWhite_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "SnowWhite_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "SnowWhite_Skin3"
+      },
+      {
+        "objectType": 17,
+        "objectID": "SnowWhite_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "SnowWhite_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "SnowWhite_Skin3"
+      }
     ]
   },
   "skinAssetNames": [
@@ -733,7 +853,7 @@
     "resilience": 0.0,
     "attackSpeed": 1.0,
     "attackRange": 8.0,
-    "energyGainPerAttack": 6,
+    "energyGainPerAttack": 10,
     "moveSpeed": 15.0,
     "laneSearch": 3,
     "aggroRange": 50.0,

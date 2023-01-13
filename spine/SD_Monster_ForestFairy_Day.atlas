@@ -1,0 +1,132 @@
+
+SD_Monster_ForestFairy_Day.png
+size: 502,163
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 357, 31
+  size: 31, 75
+  orig: 31, 75
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 99, 6
+  size: 19, 52
+  orig: 19, 52
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 357, 7
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 390, 5
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+dress
+  rotate: false
+  xy: 214, 69
+  size: 125, 94
+  orig: 125, 94
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 16, 13
+  size: 13, 11
+  orig: 15, 11
+  offset: 1, 0
+  index: -1
+eye_glow
+  rotate: false
+  xy: 74, 23
+  size: 28, 27
+  orig: 31, 31
+  offset: 2, 2
+  index: -1
+head
+  rotate: true
+  xy: 118, 62
+  size: 101, 96
+  orig: 108, 105
+  offset: 0, 1
+  index: -1
+hood_back
+  rotate: false
+  xy: 442, 6
+  size: 52, 64
+  orig: 52, 66
+  offset: 0, 1
+  index: -1
+hood_front
+  rotate: 270
+  xy: 323, 53
+  size: 110, 119
+  orig: 110, 119
+  offset: 0, 0
+  index: -1
+leaf_frill
+  rotate: false
+  xy: 0, 13
+  size: 74, 47
+  orig: 74, 47
+  offset: 0, 0
+  index: -1
+wand
+  rotate: true
+  xy: 214, 10
+  size: 59, 99
+  orig: 59, 99
+  offset: 0, 0
+  index: -1
+wand_leafL
+  rotate: false
+  xy: 61, 32
+  size: 11, 27
+  orig: 11, 28
+  offset: 0, 1
+  index: -1
+wand_leafR
+  rotate: false
+  xy: 0, 7
+  size: 16, 18
+  orig: 16, 19
+  offset: 0, 1
+  index: -1
+wingbottom_L
+  rotate: false
+  xy: 118, 1
+  size: 78, 61
+  orig: 78, 61
+  offset: 0, 0
+  index: -1
+wingbottom_R
+  rotate: false
+  xy: 313, 4
+  size: 44, 62
+  orig: 44, 62
+  offset: 0, 0
+  index: -1
+wingtop_L
+  rotate: false
+  xy: 0, 59
+  size: 118, 105
+  orig: 118, 105
+  offset: 0, 0
+  index: -1
+wingtop_R
+  rotate: false
+  xy: 438, 70
+  size: 64, 94
+  orig: 64, 94
+  offset: 0, 0
+  index: -1

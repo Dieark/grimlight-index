@@ -1,0 +1,96 @@
+
+SD_Monster_ElderTreant.png
+size: 512,497
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lhorn
+  rotate: 270
+  xy: 269, 1
+  size: 274, 242
+  orig: 274, 242
+  offset: 0, 0
+  index: -1
+Rbackleg
+  rotate: true
+  xy: 294, 170
+  size: 107, 86
+  orig: 111, 86
+  offset: 0, 0
+  index: -1
+Rhorn
+  rotate: false
+  xy: 288, 281
+  size: 220, 216
+  orig: 220, 216
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 191
+  size: 301, 307
+  orig: 424, 307
+  offset: 62, 0
+  index: -1
+facedeath
+  rotate: false
+  xy: 0, 8
+  size: 90, 63
+  orig: 92, 64
+  offset: 0, 1
+  index: -1
+facenormal
+  rotate: false
+  xy: 275, 432
+  size: 121, 65
+  orig: 123, 67
+  offset: 1, 1
+  index: -1
+flower1
+  rotate: true
+  xy: 90, 8
+  size: 64, 75
+  orig: 64, 75
+  offset: 0, 0
+  index: -1
+flower2
+  rotate: false
+  xy: 444, 13
+  size: 61, 109
+  orig: 61, 109
+  offset: 0, 0
+  index: -1
+vegetation
+  rotate: false
+  xy: 0, 71
+  size: 285, 120
+  orig: 285, 126
+  offset: 0, 1
+  index: -1
+
+SD_Monster_ElderTreant2.png
+size: 275,186
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lbackleg
+  rotate: true
+  xy: 176, 6
+  size: 180, 98
+  orig: 180, 98
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 0, 82
+  size: 177, 104
+  orig: 177, 104
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: 180
+  xy: 0, 2
+  size: 176, 88
+  orig: 176, 88
+  offset: 0, 0
+  index: -1

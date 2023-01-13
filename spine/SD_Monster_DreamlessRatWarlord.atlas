@@ -1,0 +1,250 @@
+
+SD_Monster_DreamlessRatWarlord.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rfoot
+  rotate: false
+  xy: 470, 303
+  size: 40, 66
+  orig: 40, 66
+  offset: 0, 0
+  index: -1
+Rshin
+  rotate: false
+  xy: 470, 255
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+bladeglow
+  rotate: true
+  xy: 444, 369
+  size: 141, 61
+  orig: 141, 61
+  offset: 0, 0
+  index: -1
+slash1
+  rotate: false
+  xy: 304, 265
+  size: 166, 96
+  orig: 169, 99
+  offset: 2, 2
+  index: -1
+slash3
+  rotate: false
+  xy: 271, 13
+  size: 231, 235
+  orig: 235, 239
+  offset: 2, 3
+  index: -1
+slash4
+  rotate: true
+  xy: 0, 16
+  size: 232, 271
+  orig: 235, 272
+  offset: 1, 0
+  index: -1
+slash5
+  rotate: false
+  xy: 0, 248
+  size: 304, 262
+  orig: 306, 264
+  offset: 0, 1
+  index: -1
+torso
+  rotate: false
+  xy: 304, 361
+  size: 141, 150
+  orig: 141, 150
+  offset: 0, 0
+  index: -1
+
+SD_Monster_DreamlessRatWarlord2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 306, 242
+  size: 97, 133
+  orig: 97, 133
+  offset: 0, 0
+  index: -1
+Lbicep
+  rotate: false
+  xy: 300, 63
+  size: 49, 85
+  orig: 49, 85
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: true
+  xy: 23, 31
+  size: 90, 56
+  orig: 90, 56
+  offset: 0, 0
+  index: -1
+Lpauldron
+  rotate: false
+  xy: 79, 71
+  size: 55, 87
+  orig: 55, 87
+  offset: 0, 0
+  index: -1
+Lshin
+  rotate: false
+  xy: 133, 119
+  size: 43, 51
+  orig: 43, 51
+  offset: 0, 0
+  index: -1
+Lthigh
+  rotate: true
+  xy: 203, 123
+  size: 78, 98
+  orig: 78, 98
+  offset: 0, 0
+  index: -1
+Lthigh_armor
+  rotate: true
+  xy: 439, 251
+  size: 46, 63
+  orig: 46, 63
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 409, 178
+  size: 64, 75
+  orig: 64, 75
+  offset: 0, 0
+  index: -1
+Rbackfingers
+  rotate: false
+  xy: 480, 445
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 352, 82
+  size: 90, 131
+  orig: 90, 131
+  offset: 0, 0
+  index: -1
+Rpauldron
+  rotate: true
+  xy: 303, 148
+  size: 95, 106
+  orig: 95, 106
+  offset: 0, 0
+  index: -1
+Rthigh
+  rotate: false
+  xy: 439, 296
+  size: 62, 98
+  orig: 62, 98
+  offset: 0, 0
+  index: -1
+Rthigh_armor
+  rotate: true
+  xy: 349, 27
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1
+axehead
+  rotate: false
+  xy: 85, 265
+  size: 143, 92
+  orig: 143, 92
+  offset: 0, 0
+  index: -1
+axepole
+  rotate: false
+  xy: 0, 201
+  size: 304, 42
+  orig: 304, 42
+  offset: 0, 0
+  index: -1
+cannonmuzzle
+  rotate: false
+  xy: 0, 490
+  size: 44, 22
+  orig: 44, 22
+  offset: 0, 0
+  index: -1
+cape
+  rotate: false
+  xy: 0, 272
+  size: 229, 241
+  orig: 229, 241
+  offset: 0, 0
+  index: -1
+collar
+  rotate: false
+  xy: 446, 61
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 480, 484
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 306, 339
+  size: 119, 173
+  orig: 119, 173
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: false
+  xy: 190, 436
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+loincloth
+  rotate: false
+  xy: 425, 393
+  size: 56, 119
+  orig: 56, 119
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 140, 359
+  size: 88, 74
+  orig: 88, 74
+  offset: 0, 0
+  index: -1
+slash2
+  rotate: true
+  xy: 228, 242
+  size: 270, 78
+  orig: 274, 79
+  offset: 2, 1
+  index: -1
+tail
+  rotate: false
+  xy: 0, 55
+  size: 203, 147
+  orig: 203, 147
+  offset: 0, 0
+  index: -1
+visor
+  rotate: false
+  xy: 203, 47
+  size: 83, 76
+  orig: 83, 76
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,209 @@
+
+SD_Monster_YetiShaman.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 115, 13
+  size: 66, 119
+  orig: 66, 119
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: true
+  xy: 464, 130
+  size: 68, 31
+  orig: 68, 31
+  offset: 0, 0
+  index: -1
+Lbottomleg
+  rotate: true
+  xy: 464, 243
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+Lfingers
+  rotate: true
+  xy: 212, 24
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: true
+  xy: 181, 0
+  size: 59, 31
+  orig: 59, 31
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 181, 59
+  size: 62, 73
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+Lhorn
+  rotate: true
+  xy: 56, 166
+  size: 61, 53
+  orig: 61, 53
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: true
+  xy: 404, 5
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+Ltopleg
+  rotate: false
+  xy: 464, 289
+  size: 45, 59
+  orig: 45, 59
+  offset: 0, 0
+  index: -1
+Rbottomleg
+  rotate: true
+  xy: 464, 198
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: true
+  xy: 457, 1
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+Rhorn
+  rotate: true
+  xy: 243, 65
+  size: 67, 62
+  orig: 67, 62
+  offset: 0, 0
+  index: -1
+Rlowerarm
+  rotate: false
+  xy: 341, 10
+  size: 63, 128
+  orig: 63, 128
+  offset: 0, 0
+  index: -1
+Rtopleg
+  rotate: false
+  xy: 56, 227
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+Rupperarm
+  rotate: false
+  xy: 404, 44
+  size: 57, 94
+  orig: 57, 94
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 357, 348
+  size: 145, 163
+  orig: 145, 163
+  offset: 0, 0
+  index: -1
+cape
+  rotate: false
+  xy: 115, 132
+  size: 226, 161
+  orig: 226, 161
+  offset: 0, 0
+  index: -1
+facehurt
+  rotate: true
+  xy: 461, 65
+  size: 65, 27
+  orig: 65, 27
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 0, 0
+  size: 138, 115
+  orig: 138, 115
+  offset: 0, 0
+  index: -1
+necklace
+  rotate: true
+  xy: 0, 151
+  size: 142, 56
+  orig: 142, 56
+  offset: 0, 0
+  index: -1
+poncho
+  rotate: true
+  xy: 357, 138
+  size: 210, 107
+  orig: 210, 107
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 0, 293
+  size: 357, 218
+  orig: 357, 218
+  offset: 0, 0
+  index: -1
+weaponbackicicle1
+  rotate: true
+  xy: 495, 176
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+weaponbackicicle2
+  rotate: true
+  xy: 495, 176
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+weaponfronticicle1
+  rotate: true
+  xy: 495, 162
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+weaponfronticicle2
+  rotate: false
+  xy: 488, 79
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+weaponfronticicle3
+  rotate: false
+  xy: 461, 47
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+weaponfronticicle4
+  rotate: true
+  xy: 491, 102
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+weaponfronticicle5
+  rotate: false
+  xy: 502, 502
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1

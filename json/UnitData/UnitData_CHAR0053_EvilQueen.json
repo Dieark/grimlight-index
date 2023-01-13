@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 423
+    "m_PathID": 425
   },
   "m_Name": "UnitData_CHAR0053_EvilQueen",
   "removeFromGame": 0,
@@ -665,7 +665,9 @@
           "accountLevelOffset": 0
         }
       }
-    ]
+    ],
+    "heroStoriesItemList": [],
+    "heroSkinItemList": []
   },
   "skinAssetNames": [
     "UnitSkinAssets_Char0053_EvilQueen"
@@ -696,7 +698,7 @@
     },
     "defense": {
       "statType": 1,
-      "yIntercept": 25.0,
+      "yIntercept": 36.0,
       "hasExponentialScale": 0
     },
     "critChance": 1.0,
@@ -725,29 +727,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 30502
+    "m_PathID": 30622
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 29868
+      "m_PathID": 29974
     },
     {
       "m_FileID": 0,
-      "m_PathID": 29866
+      "m_PathID": 29972
     },
     {
       "m_FileID": 0,
-      "m_PathID": 29867
+      "m_PathID": 29973
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 29865
+    "m_PathID": 29971
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 29864
+    "m_PathID": 29970
   },
   "Gender": 0,
   "Age": -1

@@ -1,0 +1,97 @@
+
+SD_Monster_NightmareBlade.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blade
+  rotate: false
+  xy: 0, 4
+  size: 187, 484
+  orig: 187, 484
+  offset: 0, 0
+  index: -1
+soulflame1-1
+  rotate: false
+  xy: 187, 299
+  size: 88, 110
+  orig: 88, 110
+  offset: 0, 0
+  index: -1
+soulflame1-2
+  rotate: false
+  xy: 187, 141
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+soulflame1-3
+  rotate: false
+  xy: 187, 214
+  size: 89, 109
+  orig: 89, 109
+  offset: 0, 0
+  index: -1
+soulflame1-4
+  rotate: false
+  xy: 187, 372
+  size: 100, 116
+  orig: 100, 116
+  offset: 0, 0
+  index: -1
+soulflame1-5
+  rotate: false
+  xy: 187, 75
+  size: 82, 91
+  orig: 82, 92
+  offset: 0, 1
+  index: -1
+soulflame2-1
+  rotate: 180
+  xy: 242, 2
+  size: 60, 74
+  orig: 60, 77
+  offset: 0, 3
+  index: -1
+soulflame2-2
+  rotate: 180
+  xy: 256, 222
+  size: 64, 79
+  orig: 64, 80
+  offset: 0, 1
+  index: -1
+soulflame2-3
+  rotate: false
+  xy: 253, 53
+  size: 61, 90
+  orig: 61, 92
+  offset: 0, 2
+  index: -1
+soulflame2-4
+  rotate: false
+  xy: 246, 403
+  size: 69, 85
+  orig: 69, 85
+  offset: 0, 0
+  index: -1
+soulflame2-5
+  rotate: false
+  xy: 187, 5
+  size: 72, 88
+  orig: 72, 88
+  offset: 0, 0
+  index: -1
+spelleye
+  rotate: false
+  xy: 269, 178
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+spelleye dead
+  rotate: false
+  xy: 274, 337
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1

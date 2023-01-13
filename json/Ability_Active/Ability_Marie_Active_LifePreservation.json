@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 374
+    "m_PathID": -7118662915785212894
   },
   "m_Name": "Ability_Marie_Active_LifePreservation",
   "abilityID": "Ability_Marie_Active",
@@ -15,6 +15,7 @@
   "numberOfHits": 0,
   "timeFromStart": 0.0,
   "maximumCasts": 0,
+  "hpRatioPassiveThreshold": 0.0,
   "attackSequence": [
     {
       "attackType": 2,
@@ -34,7 +35,7 @@
         {
           "status": {
             "m_FileID": 0,
-            "m_PathID": 2412
+            "m_PathID": 6291413488922274586
           },
           "chanceToApplyPercent": 100
         }
@@ -119,7 +120,7 @@
     "displayType": 0,
     "abilityIcon": {
       "m_FileID": 0,
-      "m_PathID": 635
+      "m_PathID": 3118908669684560959
     }
   },
   "abilityUpgradeCostElement": 0,

@@ -1,0 +1,167 @@
+
+SD_Monster_DreamlessRatRifleman.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 226, 376
+  size: 91, 57
+  orig: 91, 57
+  offset: 0, 0
+  index: -1
+Lcape
+  rotate: false
+  xy: 226, 307
+  size: 56, 69
+  orig: 56, 69
+  offset: 0, 0
+  index: -1
+Lepaulette
+  rotate: false
+  xy: 282, 330
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: false
+  xy: 328, 28
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+Lhipplate
+  rotate: false
+  xy: 114, 205
+  size: 39, 64
+  orig: 39, 64
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 325, 235
+  size: 54, 84
+  orig: 54, 111
+  offset: 0, 27
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 271, 45
+  size: 50, 80
+  orig: 50, 80
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: 180
+  xy: 318, 419
+  size: 76, 74
+  orig: 76, 74
+  offset: 0, 0
+  index: -1
+Rcape
+  rotate: false
+  xy: 187, 26
+  size: 84, 87
+  orig: 84, 87
+  offset: 0, 0
+  index: -1
+Repaulette
+  rotate: true
+  xy: 351, 176
+  size: 58, 52
+  orig: 58, 52
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: false
+  xy: 114, 133
+  size: 35, 72
+  orig: 35, 72
+  offset: 0, 0
+  index: -1
+Rhipplate
+  rotate: false
+  xy: 321, 84
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 271, 0
+  size: 45, 84
+  orig: 45, 84
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 298, 145
+  size: 53, 75
+  orig: 53, 75
+  offset: 0, 0
+  index: -1
+belts
+  rotate: false
+  xy: 226, 220
+  size: 105, 40
+  orig: 105, 40
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 353, 317
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+gun
+  rotate: true
+  xy: 156, 125
+  size: 367, 70
+  orig: 367, 70
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 0, 269
+  size: 156, 223
+  orig: 156, 223
+  offset: 0, 0
+  index: -1
+loincloth
+  rotate: false
+  xy: 118, 17
+  size: 70, 108
+  orig: 70, 108
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 226, 125
+  size: 95, 72
+  orig: 95, 72
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 226, 294
+  size: 198, 128
+  orig: 198, 128
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 0, 125
+  size: 114, 144
+  orig: 114, 144
+  offset: 0, 0
+  index: -1
+visor
+  rotate: false
+  xy: 0, 14
+  size: 118, 111
+  orig: 118, 111
+  offset: 0, 0
+  index: -1

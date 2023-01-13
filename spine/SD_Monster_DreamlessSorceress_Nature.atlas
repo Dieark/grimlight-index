@@ -1,0 +1,97 @@
+
+SD_Monster_DreamlessSorceress_Nature.png
+size: 996,996
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 297, 1
+  size: 142, 237
+  orig: 142, 237
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 879, 143
+  size: 103, 239
+  orig: 103, 239
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 297, 173
+  size: 258, 582
+  orig: 258, 582
+  offset: 0, 0
+  index: -1
+capeflap_L
+  rotate: false
+  xy: 0, 11
+  size: 297, 517
+  orig: 297, 517
+  offset: 0, 0
+  index: -1
+capeflap_R
+  rotate: false
+  xy: 619, 431
+  size: 278, 530
+  orig: 278, 530
+  offset: 0, 0
+  index: -1
+dress_back
+  rotate: true
+  xy: 897, 596
+  size: 254, 90
+  orig: 254, 90
+  offset: 0, 0
+  index: -1
+gem
+  rotate: true
+  xy: 915, 944
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 897, 850
+  size: 94, 98
+  orig: 94, 98
+  offset: 0, 0
+  index: -1
+hood
+  rotate: true
+  xy: 534, 3
+  size: 140, 434
+  orig: 140, 434
+  offset: 0, 0
+  index: -1
+hood_flapL
+  rotate: false
+  xy: 897, 382
+  size: 46, 214
+  orig: 46, 214
+  offset: 0, 0
+  index: -1
+hood_flapR
+  rotate: true
+  xy: 619, 961
+  size: 34, 296
+  orig: 34, 296
+  offset: 0, 0
+  index: -1
+hood_flaptopL
+  rotate: false
+  xy: 943, 450
+  size: 37, 146
+  orig: 37, 146
+  offset: 0, 0
+  index: -1
+staff
+  rotate: false
+  xy: 0, 528
+  size: 619, 467
+  orig: 619, 467
+  offset: 0, 0
+  index: -1

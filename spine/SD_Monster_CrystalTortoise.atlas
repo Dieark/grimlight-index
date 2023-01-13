@@ -1,0 +1,97 @@
+
+SD_Monster_CrystalTortoise.png
+size: 266,338
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Top Shell
+  rotate: false
+  xy: 0, 202
+  size: 216, 136
+  orig: 217, 136
+  offset: 0, 0
+  index: -1
+backshell
+  rotate: false
+  xy: 0, 0
+  size: 208, 86
+  orig: 208, 86
+  offset: 0, 0
+  index: -1
+bottomjaw
+  rotate: false
+  xy: 208, 28
+  size: 58, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+bottomshell
+  rotate: false
+  xy: 0, 86
+  size: 188, 116
+  orig: 192, 117
+  offset: 1, 1
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 208, 2
+  size: 15, 11
+  orig: 16, 12
+  offset: 1, 0
+  index: -1
+eyedeath
+  rotate: false
+  xy: 188, 167
+  size: 17, 17
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 208, 13
+  size: 17, 15
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 188, 184
+  size: 17, 18
+  orig: 18, 18
+  offset: 1, 0
+  index: -1
+head
+  rotate: true
+  xy: 188, 86
+  size: 70, 66
+  orig: 71, 68
+  offset: 1, 1
+  index: -1
+leftbackfoot
+  rotate: false
+  xy: 216, 156
+  size: 41, 48
+  orig: 42, 49
+  offset: 0, 1
+  index: -1
+leftfrontfoot
+  rotate: false
+  xy: 216, 252
+  size: 41, 37
+  orig: 44, 39
+  offset: 2, 1
+  index: -1
+rightbackfoot
+  rotate: false
+  xy: 216, 204
+  size: 41, 48
+  orig: 42, 49
+  offset: 0, 1
+  index: -1
+rightbackfootx
+  rotate: false
+  xy: 216, 289
+  size: 38, 35
+  orig: 41, 42
+  offset: 1, 6
+  index: -1

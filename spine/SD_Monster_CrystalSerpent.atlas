@@ -1,0 +1,125 @@
+
+SD_Monster_CrystalSerpent.png
+size: 505,509
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bottomjaw
+  rotate: false
+  xy: 192, 97
+  size: 109, 96
+  orig: 109, 97
+  offset: 0, 1
+  index: -1
+Lclaw
+  rotate: false
+  xy: 279, 239
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+Lelbow
+  rotate: false
+  xy: 247, 467
+  size: 50, 42
+  orig: 51, 42
+  offset: 1, 0
+  index: -1
+Lfrill
+  rotate: true
+  xy: 38, 2
+  size: 110, 165
+  orig: 110, 165
+  offset: 0, 0
+  index: -1
+Lhorn
+  rotate: true
+  xy: 42, 104
+  size: 166, 183
+  orig: 166, 183
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 0, 121
+  size: 36, 70
+  orig: 36, 70
+  offset: 0, 0
+  index: -1
+Relbow
+  rotate: false
+  xy: 0, 476
+  size: 33, 33
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 175, 15
+  size: 59, 64
+  orig: 59, 65
+  offset: 0, 1
+  index: -1
+Rhorn
+  rotate: true
+  xy: 317, 92
+  size: 76, 187
+  orig: 76, 187
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 150, 269
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 187
+  size: 358, 322
+  orig: 402, 322
+  offset: 44, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 292, 294
+  size: 34, 30
+  orig: 35, 30
+  offset: 1, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 326, 296
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 0, 91
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 300, 326
+  size: 183, 171
+  orig: 183, 172
+  offset: 0, 0
+  index: -1
+mane
+  rotate: 180
+  xy: 344, 160
+  size: 160, 167
+  orig: 160, 187
+  offset: 0, 0
+  index: -1
+orb
+  rotate: false
+  xy: 164, 342
+  size: 40, 41
+  orig: 42, 42
+  offset: 1, 1
+  index: -1

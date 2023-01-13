@@ -1,0 +1,97 @@
+
+SD_Monster_DreamlessOniWarlord.png
+size: 892,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 703, 5
+  size: 115, 179
+  orig: 115, 179
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 482, 16
+  size: 67, 112
+  orig: 67, 112
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 185, 69
+  size: 200, 213
+  orig: 200, 213
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 212, 9
+  size: 58, 110
+  orig: 58, 110
+  offset: 0, 0
+  index: -1
+club
+  rotate: false
+  xy: 2, 67
+  size: 181, 215
+  orig: 181, 215
+  offset: 0, 0
+  index: -1
+glow
+  rotate: true
+  xy: 394, 2
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 387, 85
+  size: 197, 166
+  orig: 197, 166
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 703, 122
+  size: 160, 185
+  orig: 160, 185
+  offset: 0, 0
+  index: -1
+mouth_closed
+  rotate: false
+  xy: 107, 5
+  size: 103, 60
+  orig: 103, 60
+  offset: 0, 0
+  index: -1
+mouth_mid
+  rotate: false
+  xy: 2, 3
+  size: 103, 62
+  orig: 103, 62
+  offset: 0, 0
+  index: -1
+mouth_open
+  rotate: false
+  xy: 596, 24
+  size: 103, 66
+  orig: 103, 66
+  offset: 0, 0
+  index: -1
+necklace
+  rotate: false
+  xy: 324, 11
+  size: 68, 56
+  orig: 68, 56
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 555, 92
+  size: 146, 190
+  orig: 146, 190
+  offset: 0, 0
+  index: -1

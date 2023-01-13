@@ -1,0 +1,188 @@
+
+SD_Monster_DaylightStag.png
+size: 512,135
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+antler_L
+  rotate: true
+  xy: 312, 62
+  size: 73, 90
+  orig: 73, 91
+  offset: 0, 1
+  index: -1
+antler_R
+  rotate: false
+  xy: 219, 61
+  size: 93, 74
+  orig: 94, 75
+  offset: 0, 0
+  index: -1
+backL_leg
+  rotate: 270
+  xy: 188, 16
+  size: 46, 112
+  orig: 46, 112
+  offset: 0, 0
+  index: -1
+backR_leg
+  rotate: true
+  xy: 125, 13
+  size: 40, 88
+  orig: 40, 88
+  offset: 0, 0
+  index: -1
+earR
+  rotate: 180
+  xy: 202, 11
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+ear_L
+  rotate: false
+  xy: 17, 12
+  size: 31, 51
+  orig: 31, 51
+  offset: 0, 0
+  index: -1
+eye_death
+  rotate: false
+  xy: 89, 7
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+eye_open
+  rotate: false
+  xy: 103, 8
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+frontL_leg
+  rotate: true
+  xy: 395, 29
+  size: 31, 108
+  orig: 31, 108
+  offset: 0, 0
+  index: -1
+frontR_leg
+  rotate: 270
+  xy: 426, 13
+  size: 24, 85
+  orig: 24, 85
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 133, 52
+  size: 83, 86
+  orig: 83, 86
+  offset: 0, 0
+  index: -1
+head_leaves
+  rotate: true
+  xy: 377, 6
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+leaf1
+  rotate: false
+  xy: 407, 6
+  size: 13, 23
+  orig: 13, 25
+  offset: 0, 1
+  index: -1
+leaf2
+  rotate: false
+  xy: 498, 62
+  size: 14, 20
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+leaf3
+  rotate: false
+  xy: 300, 23
+  size: 12, 25
+  orig: 20, 31
+  offset: 0, 6
+  index: -1
+leaf4
+  rotate: false
+  xy: 448, 115
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+leaf5
+  rotate: false
+  xy: 377, 37
+  size: 15, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+leaf6
+  rotate: false
+  xy: 0, 40
+  size: 17, 23
+  orig: 17, 24
+  offset: 0, 1
+  index: -1
+leaf7
+  rotate: false
+  xy: 163, 40
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+leaf8
+  rotate: true
+  xy: 0, 1
+  size: 27, 25
+  orig: 27, 27
+  offset: 0, 1
+  index: -1
+leaf9
+  rotate: false
+  xy: 239, 3
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
+leaves_L
+  rotate: false
+  xy: 312, 8
+  size: 65, 54
+  orig: 72, 55
+  offset: 0, 1
+  index: -1
+leaves_R
+  rotate: 180
+  xy: 47, 16
+  size: 78, 47
+  orig: 78, 47
+  offset: 0, 0
+  index: -1
+mane
+  rotate: false
+  xy: 402, 58
+  size: 76, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 471, 66
+  size: 37, 70
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 0, 62
+  size: 133, 73
+  orig: 133, 73
+  offset: 0, 0
+  index: -1

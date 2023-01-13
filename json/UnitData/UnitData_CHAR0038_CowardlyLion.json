@@ -571,7 +571,9 @@
           "accountLevelOffset": 0
         }
       }
-    ]
+    ],
+    "heroStoriesItemList": [],
+    "heroSkinItemList": []
   },
   "skinAssetNames": [
     "UnitSkinAssets_Char0038_CowardlyLion"
@@ -602,7 +604,7 @@
     },
     "defense": {
       "statType": 1,
-      "yIntercept": 23.0,
+      "yIntercept": 28.0,
       "hasExponentialScale": 0
     },
     "critChance": 1.0,

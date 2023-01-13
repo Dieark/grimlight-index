@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 393
   },
   "m_Name": "UnitData_CHAR0048_BigBadWolf",
   "removeFromGame": 0,
@@ -571,7 +571,9 @@
           "accountLevelOffset": 0
         }
       }
-    ]
+    ],
+    "heroStoriesItemList": [],
+    "heroSkinItemList": []
   },
   "skinAssetNames": [
     "UnitSkinAssets_Char0048_BigBadWolf"
@@ -631,12 +633,12 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2857232696298295308
+    "m_PathID": 2599
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": -2805397832704300971
+      "m_PathID": 2119
     }
   ],
   "passiveAbility": {
@@ -645,7 +647,7 @@
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 7292950730517466705
+    "m_PathID": 2118
   },
   "Gender": 0,
   "Age": 35
