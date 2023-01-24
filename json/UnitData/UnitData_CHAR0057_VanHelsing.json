@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 425
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0057_VanHelsing",
   "removeFromGame": 0,
@@ -727,29 +727,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 30671
+    "m_PathID": 3119580263647210115
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 30150
+      "m_PathID": 8421050513721875306
     },
     {
       "m_FileID": 0,
-      "m_PathID": 30151
+      "m_PathID": 7769899202242183865
     },
     {
       "m_FileID": 0,
-      "m_PathID": 30152
+      "m_PathID": -8784116758422420316
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 30149
+    "m_PathID": 1492181775576497838
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 30148
+    "m_PathID": -6098827747105353502
   },
   "Gender": 1,
   "Age": -1

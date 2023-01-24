@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 425
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0005_Nyx",
   "removeFromGame": 1,
@@ -538,7 +538,7 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 30645
+    "m_PathID": 4072552488918650907
   },
   "traits": [],
   "passiveAbility": {

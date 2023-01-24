@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 393
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0055_KangRim",
   "removeFromGame": 0,
@@ -727,25 +727,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2620
+    "m_PathID": 5115132341105372621
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2203
+      "m_PathID": -9177993571826145112
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2202
+      "m_PathID": -6119675705211090769
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2201
+    "m_PathID": -7193390536719818839
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2200
+    "m_PathID": -8228296382785255157
   },
   "Gender": 1,
   "Age": -1

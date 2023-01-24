@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 425
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0001_Esme",
   "removeFromGame": 0,
@@ -704,6 +704,98 @@
       {
         "objectType": 17,
         "objectID": "Esme_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Esme_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Esme_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Esme_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Esme_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Esme_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Esme_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Esme_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Esme_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Esme_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Esme_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Esme_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Esme_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Esme_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Esme_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Esme_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Esme_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Esme_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Esme_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Esme_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Esme_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Esme_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Esme_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Esme_Skin2"
       }
     ]
   },
@@ -714,23 +806,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 31493
+      "m_PathID": 484315098674111504
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31494
+      "m_PathID": -7534308005647225744
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31495
+      "m_PathID": -618472331808185009
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31496
+      "m_PathID": -130422670799050711
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31497
+      "m_PathID": -8722737781009150331
     }
   ],
   "unitStatData": {
@@ -787,21 +879,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 30621
+    "m_PathID": 1942575440262661413
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 29969
+      "m_PathID": 3697729047045236337
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 29968
+    "m_PathID": 3951103972787493190
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 29967
+    "m_PathID": -1093268284598888304
   },
   "Gender": 0,
   "Age": -1

@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 393
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0023_Rapunzel",
   "removeFromGame": 0,
@@ -699,6 +699,82 @@
       {
         "objectType": 17,
         "objectID": "Rapunzel_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Rapunzel_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Rapunzel_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Rapunzel_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Rapunzel_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Rapunzel_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Rapunzel_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Rapunzel_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Rapunzel_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Rapunzel_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Rapunzel_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Rapunzel_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Rapunzel_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Rapunzel_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Rapunzel_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Rapunzel_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Rapunzel_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Rapunzel_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Rapunzel_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Rapunzel_Skin1"
       }
     ]
   },
@@ -761,21 +837,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2638
+    "m_PathID": 4250093039325437563
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2266
+      "m_PathID": 5075516581656069571
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2265
+    "m_PathID": -306318174296220549
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2264
+    "m_PathID": -2630883564942446202
   },
   "Gender": 0,
   "Age": 16

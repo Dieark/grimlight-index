@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 393
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0062_Lily",
   "removeFromGame": 0,
@@ -727,25 +727,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2622
+    "m_PathID": 1684283568782226856
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2212
+      "m_PathID": 4476213009786355705
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2211
+      "m_PathID": 4873736541896342764
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2210
+    "m_PathID": -1680748879054779522
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2209
+    "m_PathID": 8984526778260856821
   },
   "Gender": 0,
   "Age": -1

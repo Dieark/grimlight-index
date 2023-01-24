@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 425
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0016_Cinderella",
   "removeFromGame": 0,
@@ -683,6 +683,98 @@
       {
         "objectType": 17,
         "objectID": "Cinderella_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Cinderella_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Cinderella_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Cinderella_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Cinderella_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Cinderella_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Cinderella_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Cinderella_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Cinderella_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Cinderella_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Cinderella_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Cinderella_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Cinderella_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Cinderella_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Cinderella_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Cinderella_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Cinderella_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Cinderella_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Cinderella_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Cinderella_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Cinderella_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Cinderella_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Cinderella_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Cinderella_Skin1"
       }
     ]
   },
@@ -745,25 +837,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 30618
+    "m_PathID": 3548803993644060214
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 29958
+      "m_PathID": -8856412361129407431
     },
     {
       "m_FileID": 0,
-      "m_PathID": 29959
+      "m_PathID": -5103305436243152266
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 29957
+    "m_PathID": -3530466154130129830
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 29956
+    "m_PathID": -2750070996045520651
   },
   "Gender": 0,
   "Age": 21

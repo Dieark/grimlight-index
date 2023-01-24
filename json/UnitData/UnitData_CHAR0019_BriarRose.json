@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 393
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0019_BriarRose",
   "removeFromGame": 0,
@@ -752,6 +752,158 @@
       {
         "objectType": 17,
         "objectID": "BriarRose_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "BriarRose_Skin2"
       }
     ]
   },
@@ -763,23 +915,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 2754
+      "m_PathID": 1566990091033553273
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2755
+      "m_PathID": 8499183368883695454
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2756
+      "m_PathID": -6726118432843114103
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2757
+      "m_PathID": -4738202128286830699
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2758
+      "m_PathID": -7568079368826813646
     }
   ],
   "unitStatData": {
@@ -836,25 +988,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2600
+    "m_PathID": -3040261826345108758
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2123
+      "m_PathID": 1630275680457128183
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2122
+      "m_PathID": -8265570200352524463
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2121
+    "m_PathID": -6008512307152981492
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2120
+    "m_PathID": -3167668370296189913
   },
   "Gender": 0,
   "Age": -1

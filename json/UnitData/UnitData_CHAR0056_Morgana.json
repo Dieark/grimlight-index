@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 425
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0056_Morgana",
   "removeFromGame": 0,
@@ -727,25 +727,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 30643
+    "m_PathID": 8200270270708767162
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 30059
+      "m_PathID": -7932929583999857881
     },
     {
       "m_FileID": 0,
-      "m_PathID": 30060
+      "m_PathID": -6693584521574553220
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 30058
+    "m_PathID": -8644723627210073329
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 30057
+    "m_PathID": 6701295824699513793
   },
   "Gender": 0,
   "Age": -1

@@ -1,0 +1,447 @@
+
+SD_Hero_BlackRabbit.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 369, 71
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+Lbraid
+  rotate: false
+  xy: 484, 45
+  size: 21, 60
+  orig: 21, 60
+  offset: 0, 0
+  index: -1
+Lcape
+  rotate: true
+  xy: 142, 124
+  size: 65, 94
+  orig: 65, 94
+  offset: 0, 0
+  index: -1
+Lcapetassel
+  rotate: true
+  xy: 56, 125
+  size: 63, 129
+  orig: 63, 129
+  offset: 0, 0
+  index: -1
+Lear
+  rotate: false
+  xy: 245, 407
+  size: 59, 104
+  orig: 59, 104
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: false
+  xy: 3, 45
+  size: 32, 57
+  orig: 32, 57
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 483, 19
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 37, 38
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+Lnecktassel
+  rotate: false
+  xy: 371, 490
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 361, 231
+  size: 36, 53
+  orig: 36, 53
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 48, 72
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+Rbraid
+  rotate: false
+  xy: 481, 316
+  size: 23, 63
+  orig: 23, 63
+  offset: 0, 0
+  index: -1
+Rcape
+  rotate: true
+  xy: 3, 206
+  size: 89, 110
+  orig: 89, 110
+  offset: 0, 0
+  index: -1
+Rcapetassel
+  rotate: 270
+  xy: 232, 91
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Rear
+  rotate: true
+  xy: 407, 229
+  size: 66, 103
+  orig: 66, 103
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: true
+  xy: 176, 58
+  size: 33, 61
+  orig: 33, 61
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 318, 179
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 362, 35
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1
+Rnecktassel
+  rotate: false
+  xy: 302, 447
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 245, 69
+  size: 37, 58
+  orig: 37, 58
+  offset: 0, 0
+  index: -1
+backcape
+  rotate: false
+  xy: 383, 118
+  size: 52, 59
+  orig: 52, 59
+  offset: 0, 0
+  index: -1
+backhair
+  rotate: true
+  xy: 317, 338
+  size: 43, 52
+  orig: 43, 52
+  offset: 0, 0
+  index: -1
+backhood
+  rotate: true
+  xy: 472, 448
+  size: 63, 37
+  orig: 63, 37
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: true
+  xy: 205, 214
+  size: 77, 155
+  orig: 77, 155
+  offset: 0, 0
+  index: -1
+bangs10
+  rotate: false
+  xy: 3, 228
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: false
+  xy: 145, 360
+  size: 98, 150
+  orig: 98, 150
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: true
+  xy: 3, 161
+  size: 62, 102
+  orig: 62, 102
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: false
+  xy: 481, 382
+  size: 23, 65
+  orig: 23, 65
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: false
+  xy: 242, 361
+  size: 148, 149
+  orig: 148, 149
+  offset: 0, 0
+  index: -1
+bangs6
+  rotate: 270
+  xy: 115, 190
+  size: 39, 121
+  orig: 39, 121
+  offset: 0, 0
+  index: -1
+bangs7
+  rotate: true
+  xy: 233, 249
+  size: 30, 66
+  orig: 30, 66
+  offset: 0, 0
+  index: -1
+bangs8
+  rotate: 270
+  xy: 313, 286
+  size: 43, 133
+  orig: 43, 133
+  offset: 0, 0
+  index: -1
+bangs9
+  rotate: true
+  xy: 279, 36
+  size: 14, 59
+  orig: 14, 59
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 392, 400
+  size: 78, 110
+  orig: 78, 110
+  offset: 0, 0
+  index: -1
+crystalrabbit
+  rotate: true
+  xy: 182, 93
+  size: 39, 61
+  orig: 40, 61
+  offset: 0, 0
+  index: -1
+crystalrabbitglow
+  rotate: true
+  xy: 314, 130
+  size: 46, 67
+  orig: 48, 69
+  offset: 1, 1
+  index: -1
+crystalrabbitglowdiffuse
+  rotate: true
+  xy: 238, 158
+  size: 54, 74
+  orig: 58, 79
+  offset: 2, 3
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 111, 292
+  size: 100, 68
+  orig: 100, 68
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 350, 178
+  size: 90, 50
+  orig: 90, 50
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 3, 298
+  size: 106, 68
+  orig: 106, 68
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 370, 331
+  size: 109, 68
+  orig: 109, 68
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 228, 282
+  size: 82, 78
+  orig: 82, 78
+  offset: 0, 0
+  index: -1
+famiiliar2_ear2
+  rotate: false
+  xy: 459, 30
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+familiar1_body
+  rotate: false
+  xy: 421, 68
+  size: 61, 38
+  orig: 61, 38
+  offset: 0, 0
+  index: -1
+familiar1_ear1
+  rotate: true
+  xy: 239, 33
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+familiar1_ear2
+  rotate: true
+  xy: 157, 28
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+familiar2_body
+  rotate: false
+  xy: 96, 45
+  size: 59, 37
+  orig: 59, 37
+  offset: 0, 0
+  index: -1
+familiar2_ear1
+  rotate: true
+  xy: 197, 26
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+familiar3_body
+  rotate: false
+  xy: 412, 37
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+familiar3_ear1
+  rotate: false
+  xy: 301, 251
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+familiar3_ear2
+  rotate: false
+  xy: 145, 366
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+hairdec1
+  rotate: false
+  xy: 448, 298
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+hairdec2
+  rotate: false
+  xy: 3, 104
+  size: 43, 59
+  orig: 43, 59
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 3, 367
+  size: 141, 144
+  orig: 141, 144
+  offset: 0, 0
+  index: -1
+hood-part1
+  rotate: false
+  xy: 115, 235
+  size: 88, 55
+  orig: 88, 55
+  offset: 0, 0
+  index: -1
+hood-part2
+  rotate: false
+  xy: 99, 83
+  size: 75, 45
+  orig: 75, 45
+  offset: 0, 0
+  index: -1
+hood-part3
+  rotate: false
+  xy: 443, 163
+  size: 54, 65
+  orig: 54, 65
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 134, 506
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 291, 432
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+moutshocked
+  rotate: false
+  xy: 284, 418
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+necktie
+  rotate: false
+  xy: 305, 53
+  size: 55, 37
+  orig: 55, 37
+  offset: 0, 0
+  index: -1
+sparkle
+  rotate: false
+  xy: 437, 107
+  size: 53, 53
+  orig: 55, 55
+  offset: 1, 1
+  index: -1
+tail
+  rotate: false
+  xy: 81, 270
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1

@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 393
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0052_Ozma",
   "removeFromGame": 0,
@@ -720,6 +720,82 @@
       {
         "objectType": 17,
         "objectID": "Ozma_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Ozma_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Ozma_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Ozma_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Ozma_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Ozma_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Ozma_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Ozma_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Ozma_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Ozma_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Ozma_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Ozma_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Ozma_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Ozma_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Ozma_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Ozma_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Ozma_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Ozma_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Ozma_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Ozma_Skin1"
       }
     ]
   },
@@ -730,23 +806,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 2784
+      "m_PathID": -2901567081226270174
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2785
+      "m_PathID": 5350446987863253906
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2786
+      "m_PathID": -9061747173285241494
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2787
+      "m_PathID": 673306223106710415
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2788
+      "m_PathID": 8273148609356554363
     }
   ],
   "unitStatData": {
@@ -803,25 +879,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2634
+    "m_PathID": 3530575405920990331
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2250
+      "m_PathID": -8383767852344877631
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2251
+      "m_PathID": -7635174951247248324
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2249
+    "m_PathID": 8930153294670048184
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2248
+    "m_PathID": 6388651661762542450
   },
   "Gender": 0,
   "Age": -1

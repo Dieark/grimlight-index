@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 393
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0027_Bathory",
   "removeFromGame": 0,
@@ -699,6 +699,82 @@
       {
         "objectType": 17,
         "objectID": "Bathory_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Bathory_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Bathory_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Bathory_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Bathory_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Bathory_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Bathory_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Bathory_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Bathory_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Bathory_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Bathory_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Bathory_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Bathory_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Bathory_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Bathory_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Bathory_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Bathory_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Bathory_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Bathory_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Bathory_Skin1"
       }
     ]
   },
@@ -761,21 +837,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2597
+    "m_PathID": -3930280313609539146
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2114
+      "m_PathID": 4158875828238421937
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2113
+    "m_PathID": -2902614906410083014
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2112
+    "m_PathID": 3034380223413092900
   },
   "Gender": 0,
   "Age": -1

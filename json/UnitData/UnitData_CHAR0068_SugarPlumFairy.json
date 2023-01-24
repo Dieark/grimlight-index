@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 393
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0068_SugarPlumFairy",
   "removeFromGame": 0,
@@ -727,25 +727,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2650
+    "m_PathID": 1421391508745898819
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2309
+      "m_PathID": 6245916750542999916
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2310
+      "m_PathID": -4562618707116057059
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2308
+    "m_PathID": 3226905241704918077
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2307
+    "m_PathID": -1966536662347294260
   },
   "Gender": 0,
   "Age": -1

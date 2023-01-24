@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 425
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0004_Hina",
   "removeFromGame": 0,
@@ -727,25 +727,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 30630
+    "m_PathID": 2173586990418349345
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 30003
+      "m_PathID": 2250875918415178877
     },
     {
       "m_FileID": 0,
-      "m_PathID": 30002
+      "m_PathID": -8369681805475229292
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 30001
+    "m_PathID": -930861017439793096
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 30000
+    "m_PathID": -6330397343376384608
   },
   "Gender": 0,
   "Age": 0

@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 425
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0036_Goldilocks",
   "removeFromGame": 0,
@@ -704,6 +704,98 @@
       {
         "objectType": 17,
         "objectID": "Goldilocks_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Goldilocks_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Goldilocks_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Goldilocks_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Goldilocks_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Goldilocks_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Goldilocks_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Goldilocks_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Goldilocks_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Goldilocks_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Goldilocks_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Goldilocks_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Goldilocks_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Goldilocks_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Goldilocks_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Goldilocks_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Goldilocks_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Goldilocks_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Goldilocks_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Goldilocks_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Goldilocks_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Goldilocks_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Goldilocks_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Goldilocks_Skin1"
       }
     ]
   },
@@ -714,23 +806,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 31498
+      "m_PathID": 5427133795762092226
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31499
+      "m_PathID": 4176709378124086125
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31500
+      "m_PathID": -3668799971985268443
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31501
+      "m_PathID": -2407299967700969585
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31502
+      "m_PathID": 9034640649098105013
     }
   ],
   "unitStatData": {
@@ -787,21 +879,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 30626
+    "m_PathID": -8659478664716953287
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 29988
+      "m_PathID": -7919719337412499890
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 29987
+    "m_PathID": 1083680210780965587
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 29986
+    "m_PathID": -3029528151542042623
   },
   "Gender": 0,
   "Age": 18

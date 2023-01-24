@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 393
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0069_Marie",
   "removeFromGame": 0,
@@ -727,25 +727,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2627
+    "m_PathID": -8753638217184220233
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2231
+      "m_PathID": 4745256788866943491
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2230
+      "m_PathID": 3576286929474076667
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2229
+    "m_PathID": 6462019692789599054
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2228
+    "m_PathID": -3072079307824055244
   },
   "Gender": 0,
   "Age": -1

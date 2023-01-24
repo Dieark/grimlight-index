@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 425
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0035_TheBeast",
   "removeFromGame": 0,
@@ -699,6 +699,190 @@
       {
         "objectType": 17,
         "objectID": "TheBeast_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "TheBeast_Skin2"
       }
     ]
   },
@@ -762,21 +946,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 30667
+    "m_PathID": -8787036446061215382
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 30142
+      "m_PathID": 3262658074380610945
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 30141
+    "m_PathID": 6416334643301317451
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 30140
+    "m_PathID": 5111048216607439515
   },
   "Gender": 1,
   "Age": 87

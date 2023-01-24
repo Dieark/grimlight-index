@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 393
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0013_Kaguya",
   "removeFromGame": 0,
@@ -752,6 +752,158 @@
       {
         "objectType": 17,
         "objectID": "Kaguya_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin1_Empress"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin1_Empress"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin1_Empress"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin1_Empress"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin1_Empress"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin1_Empress"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin1_Empress"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin1_Empress"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin1_Empress"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin1_Empress"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin1_Empress"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin1_Empress"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin1_Empress"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin1_Empress"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin1_Empress"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin1_Empress"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin1_Empress"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin1_Empress"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin2"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin1_Empress"
+      },
+      {
+        "objectType": 17,
+        "objectID": "Kaguya_Skin2"
       }
     ]
   },
@@ -763,23 +915,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 2774
+      "m_PathID": -8819924683709632984
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2775
+      "m_PathID": -6168925064103542616
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2776
+      "m_PathID": -3173238866503920949
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2777
+      "m_PathID": 7384076554966834856
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2778
+      "m_PathID": 5495373328593995067
     }
   ],
   "unitStatData": {
@@ -836,25 +988,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2619
+    "m_PathID": 5713052362251830285
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2198
+      "m_PathID": -7514886041418901489
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2199
+      "m_PathID": -6508335848278187005
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2197
+    "m_PathID": -1383220627230752669
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2196
+    "m_PathID": -7400558851540971786
   },
   "Gender": 0,
   "Age": 22
