@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 397
   },
   "m_Name": "UnitData_CHAR0067_Nutcracker",
   "removeFromGame": 0,
@@ -727,25 +727,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": -1393336573850580092
+    "m_PathID": 2666
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": -863288516532198439
+      "m_PathID": 2264
     },
     {
       "m_FileID": 0,
-      "m_PathID": -4112538969543518873
+      "m_PathID": 2263
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": -9076282048243263704
+    "m_PathID": 2262
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 6566175706715252656
+    "m_PathID": 2261
   },
   "Gender": 0,
   "Age": -1

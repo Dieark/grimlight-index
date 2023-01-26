@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 429
   },
   "m_Name": "UnitData_CHAR0033_MarchHare",
   "removeFromGame": 0,
@@ -671,110 +671,6 @@
       {
         "objectType": 17,
         "objectID": "MarchHare_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "MarchHare_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "MarchHare_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "MarchHare_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "MarchHare_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "MarchHare_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "MarchHare_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "MarchHare_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "MarchHare_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "MarchHare_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "MarchHare_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "MarchHare_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "MarchHare_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "MarchHare_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "MarchHare_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "MarchHare_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "MarchHare_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "MarchHare_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "MarchHare_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "MarchHare_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "MarchHare_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "MarchHare_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "MarchHare_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "MarchHare_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "MarchHare_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "MarchHare_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "MarchHare_Skin1"
       }
     ]
   },
@@ -837,25 +733,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 8420076665984281634
+    "m_PathID": 30677
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": -1536587608622023855
+      "m_PathID": 30075
     },
     {
       "m_FileID": 0,
-      "m_PathID": -536346794316233833
+      "m_PathID": 30076
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 4289241429791239480
+    "m_PathID": 30074
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": -1271938083508020994
+    "m_PathID": 30073
   },
   "Gender": 0,
   "Age": -1

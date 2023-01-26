@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 397
   },
   "m_Name": "UnitData_CHAR0045_Beauty",
   "removeFromGame": 0,
@@ -727,21 +727,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2673557659073463931
+    "m_PathID": 2634
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 7893555365372628670
+      "m_PathID": 2138
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": -626170074155077661
+    "m_PathID": 2137
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 4102252913973328151
+    "m_PathID": 2136
   },
   "Gender": 0,
   "Age": 23

@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 429
   },
   "m_Name": "UnitData_CHAR0012_WinterQueen",
   "removeFromGame": 0,
@@ -675,214 +675,6 @@
       {
         "objectType": 17,
         "objectID": "WinterQueen_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "WinterQueen_Skin2"
       }
     ]
   },
@@ -946,29 +738,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 5187519216838387983
+    "m_PathID": 30714
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": -2233390395453660317
+      "m_PathID": 30203
     },
     {
       "m_FileID": 0,
-      "m_PathID": 7644838709703675466
+      "m_PathID": 30202
     },
     {
       "m_FileID": 0,
-      "m_PathID": -2240751746397883674
+      "m_PathID": 30204
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": -2432581518960351362
+    "m_PathID": 30201
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 1610986427710965989
+    "m_PathID": 30200
   },
   "Gender": 0,
   "Age": -1

@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 429
   },
   "m_Name": "UnitData_CHAR0000_Aurora",
   "removeFromGame": 0,
@@ -692,110 +692,6 @@
       {
         "objectType": 17,
         "objectID": "Aurora_Skin1_Luminous"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Aurora_Skin1_Luminous"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Aurora_Skin1_Luminous"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Aurora_Skin1_Luminous"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Aurora_Skin1_Luminous"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Aurora_Skin1_Luminous"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Aurora_Skin1_Luminous"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Aurora_Skin1_Luminous"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Aurora_Skin1_Luminous"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Aurora_Skin1_Luminous"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Aurora_Skin1_Luminous"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Aurora_Skin1_Luminous"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Aurora_Skin1_Luminous"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Aurora_Skin1_Luminous"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Aurora_Skin1_Luminous"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Aurora_Skin1_Luminous"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Aurora_Skin1_Luminous"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Aurora_Skin1_Luminous"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Aurora_Skin1_Luminous"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Aurora_Skin1_Luminous"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Aurora_Skin1_Luminous"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Aurora_Skin1_Luminous"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Aurora_Skin1_Luminous"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Aurora_Skin1_Luminous"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Aurora_Skin1_Luminous"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Aurora_Skin1_Luminous"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Aurora_Skin1_Luminous"
       }
     ]
   },
@@ -806,23 +702,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 62297885057450314
+      "m_PathID": 31531
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3321923933979640225
+      "m_PathID": 31532
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3229782789920179665
+      "m_PathID": 31533
     },
     {
       "m_FileID": 0,
-      "m_PathID": -1046724252405102500
+      "m_PathID": 31534
     },
     {
       "m_FileID": 0,
-      "m_PathID": -1516004727130863723
+      "m_PathID": 31535
     }
   ],
   "unitStatData": {
@@ -879,25 +775,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 7667896272647603153
+    "m_PathID": 30646
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 3128278146077520071
+      "m_PathID": 29955
     },
     {
       "m_FileID": 0,
-      "m_PathID": -7561205471606638058
+      "m_PathID": 29956
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 7392841506696043370
+    "m_PathID": 29954
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": -3170921025893148448
+    "m_PathID": 29953
   },
   "Gender": 0,
   "Age": -1

@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 397
   },
   "m_Name": "UnitData_CHAR0027_Bathory",
   "removeFromGame": 0,
@@ -671,110 +671,6 @@
       {
         "objectType": 17,
         "objectID": "Bathory_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Bathory_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Bathory_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Bathory_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Bathory_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Bathory_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Bathory_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Bathory_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Bathory_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Bathory_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Bathory_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Bathory_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Bathory_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Bathory_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Bathory_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Bathory_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Bathory_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Bathory_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Bathory_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Bathory_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Bathory_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Bathory_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Bathory_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Bathory_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Bathory_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Bathory_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Bathory_Skin1"
       }
     ]
   },
@@ -837,21 +733,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": -3930280313609539146
+    "m_PathID": 2633
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 4158875828238421937
+      "m_PathID": 2135
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": -2902614906410083014
+    "m_PathID": 2134
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 3034380223413092900
+    "m_PathID": 2133
   },
   "Gender": 0,
   "Age": -1

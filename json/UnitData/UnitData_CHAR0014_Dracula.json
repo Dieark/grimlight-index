@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 397
   },
   "m_Name": "UnitData_CHAR0014_Dracula",
   "removeFromGame": 0,
@@ -675,214 +675,6 @@
       {
         "objectType": 17,
         "objectID": "Dracula_Skin3"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin3"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin3"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin3"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin3"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin3"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin3"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin3"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin3"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin3"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin3"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin3"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin3"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin3"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin3"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin3"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin3"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin3"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin3"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin3"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin3"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin3"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin3"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin3"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin3"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin3"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dracula_Skin3"
       }
     ]
   },
@@ -946,25 +738,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 8054193988909980890
+    "m_PathID": 2642
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": -3020467227915213590
+      "m_PathID": 2165
     },
     {
       "m_FileID": 0,
-      "m_PathID": -5274472364949288411
+      "m_PathID": 2166
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": -1433471570780074620
+    "m_PathID": 2164
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": -8753328048784570539
+    "m_PathID": 2163
   },
   "Gender": 1,
   "Age": -1

@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 397
   },
   "m_Name": "UnitData_CHAR0003_Saffi",
   "removeFromGame": 0,
@@ -671,110 +671,6 @@
       {
         "objectType": 17,
         "objectID": "Saffi_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Saffi_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Saffi_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Saffi_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Saffi_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Saffi_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Saffi_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Saffi_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Saffi_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Saffi_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Saffi_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Saffi_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Saffi_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Saffi_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Saffi_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Saffi_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Saffi_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Saffi_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Saffi_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Saffi_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Saffi_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Saffi_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Saffi_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Saffi_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Saffi_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Saffi_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Saffi_Skin1"
       }
     ]
   },
@@ -837,29 +733,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 634965640441660756
+    "m_PathID": 2682
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": -3926119281046473721
+      "m_PathID": 2316
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2163805749292513106
+      "m_PathID": 2317
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3499358410063688670
+      "m_PathID": 2318
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 6954703350709374735
+    "m_PathID": 2315
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 554684084032778169
+    "m_PathID": 2314
   },
   "Gender": 0,
   "Age": 0

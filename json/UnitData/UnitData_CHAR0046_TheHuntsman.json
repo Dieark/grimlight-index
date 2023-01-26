@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 397
   },
   "m_Name": "UnitData_CHAR0046_TheHuntsman",
   "removeFromGame": 0,
@@ -633,12 +633,12 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 229874367959378206
+    "m_PathID": 2690
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 5188493192748222891
+      "m_PathID": 2209
     }
   ],
   "passiveAbility": {
@@ -647,7 +647,7 @@
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 4099006092990487843
+    "m_PathID": 2208
   },
   "Gender": 1,
   "Age": 28

@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 397
   },
   "m_Name": "UnitData_CHAR0029_LittleRedRidingHood",
   "removeFromGame": 0,
@@ -671,110 +671,6 @@
       {
         "objectType": 17,
         "objectID": "LittleRed_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "LittleRed_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "LittleRed_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "LittleRed_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "LittleRed_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "LittleRed_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "LittleRed_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "LittleRed_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "LittleRed_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "LittleRed_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "LittleRed_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "LittleRed_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "LittleRed_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "LittleRed_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "LittleRed_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "LittleRed_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "LittleRed_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "LittleRed_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "LittleRed_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "LittleRed_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "LittleRed_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "LittleRed_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "LittleRed_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "LittleRed_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "LittleRed_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "LittleRed_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "LittleRed_Skin1"
       }
     ]
   },
@@ -837,21 +733,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": -5805804782333993174
+    "m_PathID": 2680
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": -8071314237572099160
+      "m_PathID": 2310
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 3338078408009021137
+    "m_PathID": 2309
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 6355886773748532410
+    "m_PathID": 2308
   },
   "Gender": 0,
   "Age": 17

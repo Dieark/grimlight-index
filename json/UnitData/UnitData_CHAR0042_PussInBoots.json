@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 429
   },
   "m_Name": "UnitData_CHAR0042_PussInBoots",
   "removeFromGame": 0,
@@ -671,110 +671,6 @@
       {
         "objectType": 17,
         "objectID": "PussInBoots_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "PussInBoots_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "PussInBoots_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "PussInBoots_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "PussInBoots_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "PussInBoots_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "PussInBoots_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "PussInBoots_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "PussInBoots_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "PussInBoots_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "PussInBoots_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "PussInBoots_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "PussInBoots_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "PussInBoots_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "PussInBoots_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "PussInBoots_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "PussInBoots_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "PussInBoots_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "PussInBoots_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "PussInBoots_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "PussInBoots_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "PussInBoots_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "PussInBoots_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "PussInBoots_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "PussInBoots_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "PussInBoots_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "PussInBoots_Skin1"
       }
     ]
   },
@@ -837,21 +733,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 7991573300706425668
+    "m_PathID": 30687
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": -5038589057817943926
+      "m_PathID": 30108
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": -1897413543232360872
+    "m_PathID": 30107
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 3830254826497166122
+    "m_PathID": 30106
   },
   "Gender": 0,
   "Age": 18

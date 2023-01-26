@@ -1,0 +1,300 @@
+
+SD_Hero_TinkerBell.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 117, 326
+  size: 36, 57
+  orig: 36, 57
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 465, 218
+  size: 33, 92
+  orig: 33, 92
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 233, 100
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+Lwing1
+  rotate: false
+  xy: 143, 362
+  size: 128, 147
+  orig: 128, 147
+  offset: 0, 0
+  index: -1
+Lwing2
+  rotate: false
+  xy: 403, 310
+  size: 96, 98
+  orig: 96, 98
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 394, 36
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 303, 53
+  size: 33, 91
+  orig: 33, 91
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 237, 311
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+Rwing1
+  rotate: false
+  xy: 0, 358
+  size: 143, 150
+  orig: 143, 150
+  offset: 0, 0
+  index: -1
+Rwing2
+  rotate: true
+  xy: 403, 408
+  size: 100, 97
+  orig: 100, 97
+  offset: 0, 0
+  index: -1
+backhair
+  rotate: false
+  xy: 271, 251
+  size: 129, 123
+  orig: 129, 123
+  offset: 0, 0
+  index: -1
+backskirt
+  rotate: true
+  xy: 400, 208
+  size: 103, 65
+  orig: 103, 65
+  offset: 0, 0
+  index: -1
+bag
+  rotate: false
+  xy: 174, 337
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: true
+  xy: 0, 157
+  size: 62, 101
+  orig: 62, 101
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: true
+  xy: 102, 89
+  size: 75, 131
+  orig: 75, 131
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: true
+  xy: 101, 148
+  size: 71, 177
+  orig: 71, 177
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: 270
+  xy: 131, 204
+  size: 86, 140
+  orig: 86, 140
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: true
+  xy: 84, 33
+  size: 57, 109
+  orig: 57, 109
+  offset: 0, 0
+  index: -1
+bangs6
+  rotate: false
+  xy: 278, 152
+  size: 45, 36
+  orig: 45, 36
+  offset: 0, 0
+  index: -1
+bangs7
+  rotate: 180
+  xy: 466, 113
+  size: 32, 106
+  orig: 32, 106
+  offset: 0, 0
+  index: -1
+bell
+  rotate: false
+  xy: 165, 268
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+dress
+  rotate: false
+  xy: 278, 92
+  size: 110, 57
+  orig: 110, 57
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 230, 184
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 368, 149
+  size: 101, 60
+  orig: 101, 60
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 0, 52
+  size: 85, 47
+  orig: 85, 47
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 0, 98
+  size: 102, 58
+  orig: 102, 58
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 266, 188
+  size: 102, 62
+  orig: 102, 62
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 388, 77
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+goggles
+  rotate: false
+  xy: 0, 218
+  size: 120, 53
+  orig: 120, 53
+  offset: 0, 0
+  index: -1
+gogglestrap1
+  rotate: false
+  xy: 368, 214
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+googlestrap2
+  rotate: true
+  xy: 186, 270
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+hairbow1
+  rotate: true
+  xy: 453, 49
+  size: 64, 49
+  orig: 64, 49
+  offset: 0, 0
+  index: -1
+hairbow2
+  rotate: 180
+  xy: 158, 33
+  size: 62, 55
+  orig: 62, 55
+  offset: 0, 0
+  index: -1
+hairbow3
+  rotate: false
+  xy: 323, 151
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 271, 373
+  size: 133, 135
+  orig: 133, 135
+  offset: 0, 0
+  index: -1
+key
+  rotate: true
+  xy: 237, 294
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+lantern
+  rotate: false
+  xy: 84, 334
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 0, 353
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: true
+  xy: 64, 347
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: true
+  xy: 492, 200
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+ponytail
+  rotate: true
+  xy: 0, 272
+  size: 90, 238
+  orig: 90, 238
+  offset: 0, 0
+  index: -1
+torso
+  rotate: 270
+  xy: 225, 37
+  size: 62, 78
+  orig: 62, 78
+  offset: 0, 0
+  index: -1

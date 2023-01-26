@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 429
   },
   "m_Name": "UnitData_CHAR0060_YukiOnna",
   "removeFromGame": 0,
@@ -727,29 +727,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 4800991878209368381
+    "m_PathID": 30715
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": -4741784534427260903
+      "m_PathID": 30207
     },
     {
       "m_FileID": 0,
-      "m_PathID": 6776416577896577107
+      "m_PathID": 30208
     },
     {
       "m_FileID": 0,
-      "m_PathID": -2884130690130644693
+      "m_PathID": 30209
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 8535058085264069264
+    "m_PathID": 30206
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 5455743409265190868
+    "m_PathID": 30205
   },
   "Gender": 0,
   "Age": -1

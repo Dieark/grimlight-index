@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 397
   },
   "m_Name": "UnitData_CHAR0070_Krampus",
   "removeFromGame": 0,
@@ -727,29 +727,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": -7157190578328625983
+    "m_PathID": 2658
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 5148828684792832123
+      "m_PathID": 2233
     },
     {
       "m_FileID": 0,
-      "m_PathID": 5107221921884408476
+      "m_PathID": 2232
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3350642751451849507
+      "m_PathID": 2231
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": -8321954694283472538
+    "m_PathID": 2230
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": -4132623741969633048
+    "m_PathID": 2229
   },
   "Gender": 0,
   "Age": -1

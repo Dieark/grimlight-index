@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 429
   },
   "m_Name": "UnitData_CHAR0049_Dorothy",
   "removeFromGame": 0,
@@ -696,214 +696,6 @@
       {
         "objectType": 17,
         "objectID": "Dorothy_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Dorothy_Skin2"
       }
     ]
   },
@@ -915,23 +707,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": -6846277760974493154
+      "m_PathID": 31541
     },
     {
       "m_FileID": 0,
-      "m_PathID": -7707893830869207138
+      "m_PathID": 31542
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2429166458893985604
+      "m_PathID": 31543
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3236165226897864668
+      "m_PathID": 31544
     },
     {
       "m_FileID": 0,
-      "m_PathID": -2761079625576867605
+      "m_PathID": 31545
     }
   ],
   "unitStatData": {
@@ -988,21 +780,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": -6636423325376549260
+    "m_PathID": 30655
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": -2362266857782986021
+      "m_PathID": 29986
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 4703092857223096255
+    "m_PathID": 29985
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 6699227868808882675
+    "m_PathID": 29984
   },
   "Gender": 0,
   "Age": 21

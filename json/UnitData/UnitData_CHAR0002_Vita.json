@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 429
   },
   "m_Name": "UnitData_CHAR0002_Vita",
   "removeFromGame": 0,
@@ -696,214 +696,6 @@
       {
         "objectType": 17,
         "objectID": "Vita_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Vita_Skin2"
       }
     ]
   },
@@ -915,23 +707,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 1769780415916580945
+      "m_PathID": 31596
     },
     {
       "m_FileID": 0,
-      "m_PathID": 9152209912720062343
+      "m_PathID": 31597
     },
     {
       "m_FileID": 0,
-      "m_PathID": 1889705506986611235
+      "m_PathID": 31598
     },
     {
       "m_FileID": 0,
-      "m_PathID": 7142819975176471511
+      "m_PathID": 31599
     },
     {
       "m_FileID": 0,
-      "m_PathID": -1971273346359235845
+      "m_PathID": 31600
     }
   ],
   "unitStatData": {
@@ -988,21 +780,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": -40363875576844128
+    "m_PathID": 30709
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 5164024625694459215
+      "m_PathID": 30184
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": -1297293485033237098
+    "m_PathID": 30183
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2460889917049099341
+    "m_PathID": 30182
   },
   "Gender": 0,
   "Age": -1
