@@ -1,0 +1,249 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 504
+  },
+  "m_Name": "EventStory_ChristmasEvent1_12",
+  "unskippable": 0,
+  "dialogueDataEntries": [
+    {
+      "languageID": "English",
+      "dialogueLines": [
+        {
+          "characterID": "",
+          "backgroundID": "christmastree",
+          "dialogueText": "The Rat King and Krampus are beaten back by Santa's furious assault.",
+          "emotionID": "",
+          "musicID": "heroicboss",
+          "sfxID": "",
+          "animationID": "",
+          "outerLeft": "",
+          "innerLeft": "KRAMPUS",
+          "center": "",
+          "innerRight": "RAT KING",
+          "outerRight": ""
+        },
+        {
+          "characterID": "RAT KING",
+          "backgroundID": "christmastree",
+          "dialogueText": "I'm not done yet!",
+          "emotionID": "angry",
+          "musicID": "",
+          "sfxID": "",
+          "animationID": "",
+          "outerLeft": "",
+          "innerLeft": "",
+          "center": "RAT KING",
+          "innerRight": "",
+          "outerRight": ""
+        },
+        {
+          "characterID": "",
+          "backgroundID": "christmastree",
+          "dialogueText": "The Rat King staggers to his feet and puts his fingers to his lips, issuing a piercing whistle from them.",
+          "emotionID": "",
+          "musicID": "",
+          "sfxID": "",
+          "animationID": "",
+          "outerLeft": "",
+          "innerLeft": "",
+          "center": "RAT KING",
+          "innerRight": "",
+          "outerRight": ""
+        },
+        {
+          "characterID": "",
+          "backgroundID": "christmastree",
+          "dialogueText": "Something stirs the ranks of Dreamless...",
+          "emotionID": "",
+          "musicID": "",
+          "sfxID": "",
+          "animationID": "",
+          "outerLeft": "",
+          "innerLeft": "",
+          "center": "RAT KING",
+          "innerRight": "",
+          "outerRight": ""
+        },
+        {
+          "characterID": "RAT KING",
+          "backgroundID": "christmastree",
+          "dialogueText": "You think you've beaten me?!",
+          "emotionID": "annoy",
+          "musicID": "",
+          "sfxID": "",
+          "animationID": "",
+          "outerLeft": "",
+          "innerLeft": "",
+          "center": "RAT KING",
+          "innerRight": "",
+          "outerRight": ""
+        },
+        {
+          "characterID": "RAT KING",
+          "backgroundID": "christmastree",
+          "dialogueText": "Try this on for size!",
+          "emotionID": "happy",
+          "musicID": "",
+          "sfxID": "",
+          "animationID": "",
+          "outerLeft": "",
+          "innerLeft": "",
+          "center": "RAT KING",
+          "innerRight": "",
+          "outerRight": ""
+        },
+        {
+          "characterID": "",
+          "backgroundID": "christmastree",
+          "dialogueText": "From the midst of the Rat King's ranks, a huge beast emerges.",
+          "emotionID": "",
+          "musicID": "ominous",
+          "sfxID": "",
+          "animationID": "",
+          "outerLeft": "",
+          "innerLeft": "",
+          "center": "",
+          "innerRight": "",
+          "outerRight": ""
+        },
+        {
+          "characterID": "",
+          "backgroundID": "christmastree",
+          "dialogueText": "It's heading straight for you!",
+          "emotionID": "",
+          "musicID": "",
+          "sfxID": "",
+          "animationID": "",
+          "outerLeft": "",
+          "innerLeft": "",
+          "center": "",
+          "innerRight": "",
+          "outerRight": ""
+        }
+      ]
+    },
+    {
+      "languageID": "Korean",
+      "dialogueLines": [
+        {
+          "characterID": "",
+          "backgroundID": "christmastree",
+          "dialogueText": "산타의 공격에 크람푸스와 군단이 크게 휘청였다.",
+          "emotionID": "",
+          "musicID": "heroicboss",
+          "sfxID": "",
+          "animationID": "",
+          "outerLeft": "",
+          "innerLeft": "KRAMPUS",
+          "center": "",
+          "innerRight": "RAT KING",
+          "outerRight": ""
+        },
+        {
+          "characterID": "RAT KING",
+          "backgroundID": "christmastree",
+          "dialogueText": "... 큭, 이 건방진 놈들! 저주를 피한 것으로 여를 이겼다 생각하지 마라!",
+          "emotionID": "angry",
+          "musicID": "",
+          "sfxID": "",
+          "animationID": "",
+          "outerLeft": "",
+          "innerLeft": "",
+          "center": "RAT KING",
+          "innerRight": "",
+          "outerRight": ""
+        },
+        {
+          "characterID": "",
+          "backgroundID": "christmastree",
+          "dialogueText": "쥐마왕이 손가락을 입에 대고 휘파람을 불었다.",
+          "emotionID": "",
+          "musicID": "",
+          "sfxID": "",
+          "animationID": "",
+          "outerLeft": "",
+          "innerLeft": "",
+          "center": "RAT KING",
+          "innerRight": "",
+          "outerRight": ""
+        },
+        {
+          "characterID": "",
+          "backgroundID": "christmastree",
+          "dialogueText": "일순 고요해진 군단 사이에서 무언가 거대한 것이 솟구쳐 올랐다.",
+          "emotionID": "",
+          "musicID": "",
+          "sfxID": "",
+          "animationID": "",
+          "outerLeft": "",
+          "innerLeft": "",
+          "center": "RAT KING",
+          "innerRight": "",
+          "outerRight": ""
+        },
+        {
+          "characterID": "RAT KING",
+          "backgroundID": "christmastree",
+          "dialogueText": "여의 야망은 끝나지 않는다!",
+          "emotionID": "annoy",
+          "musicID": "",
+          "sfxID": "",
+          "animationID": "",
+          "outerLeft": "",
+          "innerLeft": "",
+          "center": "RAT KING",
+          "innerRight": "",
+          "outerRight": ""
+        },
+        {
+          "characterID": "RAT KING",
+          "backgroundID": "christmastree",
+          "dialogueText": "이 몸이 승리할 것이다, 반드시! 크하하하!",
+          "emotionID": "happy",
+          "musicID": "",
+          "sfxID": "",
+          "animationID": "",
+          "outerLeft": "",
+          "innerLeft": "",
+          "center": "RAT KING",
+          "innerRight": "",
+          "outerRight": ""
+        },
+        {
+          "characterID": "",
+          "backgroundID": "christmastree",
+          "dialogueText": "쥐마왕의 군단 가운데에서 거대한 드림리스가 나타났다.",
+          "emotionID": "",
+          "musicID": "ominous",
+          "sfxID": "",
+          "animationID": "",
+          "outerLeft": "",
+          "innerLeft": "",
+          "center": "",
+          "innerRight": "",
+          "outerRight": ""
+        },
+        {
+          "characterID": "",
+          "backgroundID": "christmastree",
+          "dialogueText": "드림리스가 거대한 팔을 휘둘러 온다!",
+          "emotionID": "",
+          "musicID": "",
+          "sfxID": "",
+          "animationID": "",
+          "outerLeft": "",
+          "innerLeft": "",
+          "center": "",
+          "innerRight": "",
+          "outerRight": ""
+        }
+      ]
+    }
+  ]
+}

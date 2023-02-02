@@ -1,0 +1,137 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 504
+  },
+  "m_Name": "EventStory_EvilQueen_2",
+  "unskippable": 0,
+  "dialogueDataEntries": [
+    {
+      "languageID": "English",
+      "dialogueLines": [
+        {
+          "characterID": "BATHORY",
+          "backgroundID": "woodlandscreepy",
+          "dialogueText": "Are you satisfied with your newfound power?",
+          "emotionID": "happy",
+          "musicID": "haunted",
+          "sfxID": "",
+          "animationID": "",
+          "outerLeft": "",
+          "innerLeft": "BATHORY",
+          "center": "",
+          "innerRight": "EVIL QUEEN",
+          "outerRight": ""
+        },
+        {
+          "characterID": "EVIL QUEEN",
+          "backgroundID": "woodlandscreepy",
+          "dialogueText": "Hmph... who do you think I am? It has been many moons since I needed to use even a fragment of my magic powers.",
+          "emotionID": "angry",
+          "musicID": "",
+          "sfxID": "",
+          "animationID": "",
+          "outerLeft": "",
+          "innerLeft": "BATHORY",
+          "center": "",
+          "innerRight": "EVIL QUEEN",
+          "outerRight": ""
+        },
+        {
+          "characterID": "BATHORY",
+          "backgroundID": "woodlandscreepy",
+          "dialogueText": "Oh? I can sense fear stirring in these woods. ",
+          "emotionID": "happy",
+          "musicID": "",
+          "sfxID": "",
+          "animationID": "",
+          "outerLeft": "",
+          "innerLeft": "BATHORY",
+          "center": "",
+          "innerRight": "EVIL QUEEN",
+          "outerRight": ""
+        },
+        {
+          "characterID": "EVIL QUEEN",
+          "backgroundID": "woodlandscreepy",
+          "dialogueText": "Then it seems this is the perfect time for me to put these newfound powers to the test.",
+          "emotionID": "angry",
+          "musicID": "",
+          "sfxID": "",
+          "animationID": "",
+          "outerLeft": "",
+          "innerLeft": "",
+          "center": "EVIL QUEEN",
+          "innerRight": "",
+          "outerRight": ""
+        }
+      ]
+    },
+    {
+      "languageID": "Korean",
+      "dialogueLines": [
+        {
+          "characterID": "BATHORY",
+          "backgroundID": "woodlandscreepy",
+          "dialogueText": "아핫! 어때요? 새로운 힘은 쓸만한가요?",
+          "emotionID": "happy",
+          "musicID": "haunted",
+          "sfxID": "",
+          "animationID": "",
+          "outerLeft": "",
+          "innerLeft": "BATHORY",
+          "center": "",
+          "innerRight": "EVIL QUEEN",
+          "outerRight": ""
+        },
+        {
+          "characterID": "EVIL QUEEN",
+          "backgroundID": "woodlandscreepy",
+          "dialogueText": "언제까지 나를 따라올 셈이니? 그만 눈 앞에서 사라져라.",
+          "emotionID": "angry",
+          "musicID": "",
+          "sfxID": "",
+          "animationID": "",
+          "outerLeft": "",
+          "innerLeft": "BATHORY",
+          "center": "",
+          "innerRight": "EVIL QUEEN",
+          "outerRight": ""
+        },
+        {
+          "characterID": "BATHORY",
+          "backgroundID": "woodlandscreepy",
+          "dialogueText": "좋은 구경을 놓칠 수 있나요, 음? 저 숲에 재미있는 게 있는 모양인데.",
+          "emotionID": "happy",
+          "musicID": "",
+          "sfxID": "",
+          "animationID": "",
+          "outerLeft": "",
+          "innerLeft": "BATHORY",
+          "center": "",
+          "innerRight": "EVIL QUEEN",
+          "outerRight": ""
+        },
+        {
+          "characterID": "EVIL QUEEN",
+          "backgroundID": "woodlandscreepy",
+          "dialogueText": "후훗... 그래, 공포가 무엇인지 아둔한 네게 직접 보여줄게.",
+          "emotionID": "angry",
+          "musicID": "",
+          "sfxID": "",
+          "animationID": "",
+          "outerLeft": "",
+          "innerLeft": "",
+          "center": "EVIL QUEEN",
+          "innerRight": "",
+          "outerRight": ""
+        }
+      ]
+    }
+  ]
+}

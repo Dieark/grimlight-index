@@ -1,0 +1,118 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 883593164346502919
+  },
+  "m_Name": "EventData_BriarRose_Jan2023",
+  "EventName": "Events/Label_BriarRoseEvent_Name",
+  "EventDescription": "Events/Label_BriarRoseEvent_Description",
+  "EventID": "EventData_BriarRose",
+  "EventButtonIcon": {
+    "m_FileID": 0,
+    "m_PathID": -6500703540640948243
+  },
+  "EventBackgroundSprite": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "UnityEventArcDatas": [
+    {
+      "ArcName": "Events/Button_MainCampaign_Generic",
+      "ArcIcon": {
+        "m_FileID": 0,
+        "m_PathID": 8719459837697856782
+      },
+      "ProgressionDatas": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 7132813089296540888
+        }
+      ],
+      "StoryBattleLayout": {
+        "m_FileID": 0,
+        "m_PathID": 2298798563285659393
+      },
+      "StartTime": {
+        "year": 2023,
+        "month": 1,
+        "day": 3,
+        "hour": 0,
+        "minute": 0,
+        "second": 9
+      }
+    },
+    {
+      "ArcName": "Events/Button_Challenge_Generic",
+      "ArcIcon": {
+        "m_FileID": 0,
+        "m_PathID": -4320865505279480641
+      },
+      "ProgressionDatas": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 6375279849345680475
+        }
+      ],
+      "StoryBattleLayout": {
+        "m_FileID": 0,
+        "m_PathID": -7593407592253238473
+      },
+      "StartTime": {
+        "year": 2023,
+        "month": 1,
+        "day": 18,
+        "hour": 0,
+        "minute": 0,
+        "second": 9
+      }
+    }
+  ],
+  "EventMaterialDatas": [
+    {
+      "m_FileID": 6,
+      "m_PathID": -4505507485750109602
+    }
+  ],
+  "EventShopButtonIcon": {
+    "m_FileID": 2,
+    "m_PathID": 8750138496285632611
+  },
+  "EventShopData": {
+    "m_FileID": 10,
+    "m_PathID": -3172595343721626319
+  },
+  "eventSummonConfig": {
+    "eventSummonIcon": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "summonShopData": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "DaysAfterToCloseShop": 7,
+  "EventInterval": {
+    "startTime": {
+      "year": 2023,
+      "month": 1,
+      "day": 3,
+      "hour": 0,
+      "minute": 0,
+      "second": 59
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 2,
+      "hour": 0,
+      "minute": 0,
+      "second": 59
+    }
+  }
+}

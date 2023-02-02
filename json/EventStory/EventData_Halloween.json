@@ -1,0 +1,118 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 385
+  },
+  "m_Name": "EventData_Halloween",
+  "EventName": "Events/Label_HalloweenEvent_Name",
+  "EventDescription": "Events/Label_HalloweenEvent_Description",
+  "EventID": "EventData_Halloween",
+  "EventButtonIcon": {
+    "m_FileID": 0,
+    "m_PathID": 613
+  },
+  "EventBackgroundSprite": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "UnityEventArcDatas": [
+    {
+      "ArcName": "Events/Button_MainCampaign_Generic",
+      "ArcIcon": {
+        "m_FileID": 0,
+        "m_PathID": 640
+      },
+      "ProgressionDatas": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 28704
+        }
+      ],
+      "StoryBattleLayout": {
+        "m_FileID": 0,
+        "m_PathID": 43193
+      },
+      "StartTime": {
+        "year": 2022,
+        "month": 10,
+        "day": 11,
+        "hour": 0,
+        "minute": 0,
+        "second": 9
+      }
+    },
+    {
+      "ArcName": "Events/Button_Challenge_Generic",
+      "ArcIcon": {
+        "m_FileID": 0,
+        "m_PathID": 780
+      },
+      "ProgressionDatas": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 28705
+        }
+      ],
+      "StoryBattleLayout": {
+        "m_FileID": 0,
+        "m_PathID": 34116
+      },
+      "StartTime": {
+        "year": 2022,
+        "month": 10,
+        "day": 26,
+        "hour": 23,
+        "minute": 59,
+        "second": 9
+      }
+    }
+  ],
+  "EventMaterialDatas": [
+    {
+      "m_FileID": 48,
+      "m_PathID": -8437199971254896819
+    }
+  ],
+  "EventShopButtonIcon": {
+    "m_FileID": 31,
+    "m_PathID": 8750138496285632611
+  },
+  "EventShopData": {
+    "m_FileID": 15,
+    "m_PathID": 8654856924006117202
+  },
+  "eventSummonConfig": {
+    "eventSummonIcon": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "summonShopData": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "DaysAfterToCloseShop": 7,
+  "EventInterval": {
+    "startTime": {
+      "year": 2022,
+      "month": 10,
+      "day": 11,
+      "hour": 0,
+      "minute": 0,
+      "second": 59
+    },
+    "endTime": {
+      "year": 2022,
+      "month": 11,
+      "day": 10,
+      "hour": 0,
+      "minute": 0,
+      "second": 59
+    }
+  }
+}

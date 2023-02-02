@@ -1,0 +1,151 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 385
+  },
+  "m_Name": "EventData_Christmas1",
+  "EventName": "Events/Label_ChristmasEvent_Name",
+  "EventDescription": "Events/Label_ChristmasEvent_Description",
+  "EventID": "EventData_Christmas",
+  "EventButtonIcon": {
+    "m_FileID": 0,
+    "m_PathID": 758
+  },
+  "EventBackgroundSprite": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "UnityEventArcDatas": [
+    {
+      "ArcName": "Events/Button_Campaign_Part1",
+      "ArcIcon": {
+        "m_FileID": 0,
+        "m_PathID": 693
+      },
+      "ProgressionDatas": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 28696
+        }
+      ],
+      "StoryBattleLayout": {
+        "m_FileID": 0,
+        "m_PathID": 34858
+      },
+      "StartTime": {
+        "year": 2022,
+        "month": 11,
+        "day": 30,
+        "hour": 0,
+        "minute": 0,
+        "second": 9
+      }
+    },
+    {
+      "ArcName": "Events/Button_Campaign_Part2",
+      "ArcIcon": {
+        "m_FileID": 0,
+        "m_PathID": 751
+      },
+      "ProgressionDatas": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 28697
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 28698
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 28699
+        }
+      ],
+      "StoryBattleLayout": {
+        "m_FileID": 0,
+        "m_PathID": 33855
+      },
+      "StartTime": {
+        "year": 2022,
+        "month": 12,
+        "day": 17,
+        "hour": 23,
+        "minute": 59,
+        "second": 9
+      }
+    },
+    {
+      "ArcName": "Events/Button_Challenge_Generic",
+      "ArcIcon": {
+        "m_FileID": 0,
+        "m_PathID": 780
+      },
+      "ProgressionDatas": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 28695
+        }
+      ],
+      "StoryBattleLayout": {
+        "m_FileID": 0,
+        "m_PathID": 34388
+      },
+      "StartTime": {
+        "year": 2022,
+        "month": 12,
+        "day": 22,
+        "hour": 0,
+        "minute": 0,
+        "second": 9
+      }
+    }
+  ],
+  "EventMaterialDatas": [
+    {
+      "m_FileID": 48,
+      "m_PathID": 4211402791762397324
+    }
+  ],
+  "EventShopButtonIcon": {
+    "m_FileID": 31,
+    "m_PathID": 8750138496285632611
+  },
+  "EventShopData": {
+    "m_FileID": 15,
+    "m_PathID": -4038077450769002587
+  },
+  "eventSummonConfig": {
+    "eventSummonIcon": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "summonShopData": {
+      "m_FileID": 15,
+      "m_PathID": 7823097452846687864
+    }
+  },
+  "DaysAfterToCloseShop": 7,
+  "EventInterval": {
+    "startTime": {
+      "year": 2022,
+      "month": 11,
+      "day": 30,
+      "hour": 0,
+      "minute": 0,
+      "second": 59
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 1,
+      "day": 5,
+      "hour": 0,
+      "minute": 0,
+      "second": 59
+    }
+  }
+}
