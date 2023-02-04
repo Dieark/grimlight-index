@@ -1,137 +1,137 @@
 {
-  "m_GameObject": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "m_Enabled": 1,
-  "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": -5600918116984535565
-  },
-  "m_Name": "EventStory_EvilQueen_5",
-  "unskippable": 0,
-  "dialogueDataEntries": [
-    {
-      "languageID": "English",
-      "dialogueLines": [
-        {
-          "characterID": "EVIL QUEEN",
-          "backgroundID": "woodlandscreepy",
-          "dialogueText": "It seems the enemy is more resilient than I expected.",
-          "emotionID": "annoy",
-          "musicID": "threateningbattle",
-          "sfxID": "",
-          "animationID": "",
-          "outerLeft": "",
-          "innerLeft": "",
-          "center": "EVIL QUEEN",
-          "innerRight": "",
-          "outerRight": ""
-        },
-        {
-          "characterID": "ROTHBART",
-          "backgroundID": "woodlandscreepy",
-          "dialogueText": "You shouldn't use the power of the Dreamless so recklessly. If you aren't careful, they will consume you.",
-          "emotionID": "idle",
-          "musicID": "",
-          "sfxID": "",
-          "animationID": "",
-          "outerLeft": "",
-          "innerLeft": "ROTHBART",
-          "center": "",
-          "innerRight": "EVIL QUEEN",
-          "outerRight": ""
-        },
-        {
-          "characterID": "EVIL QUEEN",
-          "backgroundID": "woodlandscreepy",
-          "dialogueText": "Nonsense! My power is absolute!",
-          "emotionID": "angry",
-          "musicID": "",
-          "sfxID": "",
-          "animationID": "bounce",
-          "outerLeft": "",
-          "innerLeft": "ROTHBART",
-          "center": "",
-          "innerRight": "EVIL QUEEN",
-          "outerRight": ""
-        },
-        {
-          "characterID": "EVIL QUEEN",
-          "backgroundID": "woodlandscreepy",
-          "dialogueText": "Advance my legions! Crush them all!",
-          "emotionID": "angry",
-          "musicID": "",
-          "sfxID": "",
-          "animationID": "",
-          "outerLeft": "",
-          "innerLeft": "",
-          "center": "EVIL QUEEN",
-          "innerRight": "",
-          "outerRight": ""
-        }
-      ]
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
     },
-    {
-      "languageID": "Korean",
-      "dialogueLines": [
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 504
+    },
+    "m_Name": "EventStory_EvilQueen_5",
+    "unskippable": 0,
+    "dialogueDataEntries": [
         {
-          "characterID": "EVIL QUEEN",
-          "backgroundID": "woodlandscreepy",
-          "dialogueText": "후훗, 그래. 재미있구나, 예상대로야.",
-          "emotionID": "annoy",
-          "musicID": "threateningbattle",
-          "sfxID": "",
-          "animationID": "",
-          "outerLeft": "",
-          "innerLeft": "",
-          "center": "EVIL QUEEN",
-          "innerRight": "",
-          "outerRight": ""
+            "languageID": "English",
+            "dialogueLines": [
+                {
+                    "characterID": "Evil Queen",
+                    "backgroundID": "woodlandscreepy",
+                    "dialogueText": "It seems the enemy is more resilient than I expected.",
+                    "emotionID": "annoy",
+                    "musicID": "threateningbattle",
+                    "sfxID": "",
+                    "animationID": "",
+                    "outerLeft": "",
+                    "innerLeft": "",
+                    "center": "Fullbody_Hero_EvilQueen",
+                    "innerRight": "",
+                    "outerRight": ""
+                },
+                {
+                    "characterID": "Rothbart",
+                    "backgroundID": "woodlandscreepy",
+                    "dialogueText": "You shouldn't use the power of the Dreamless so recklessly. If you aren't careful, they will consume you.",
+                    "emotionID": "idle",
+                    "musicID": "",
+                    "sfxID": "",
+                    "animationID": "",
+                    "outerLeft": "",
+                    "innerLeft": "Fullbody_Hero_Rothbart",
+                    "center": "",
+                    "innerRight": "Fullbody_Hero_EvilQueen",
+                    "outerRight": ""
+                },
+                {
+                    "characterID": "Evil Queen",
+                    "backgroundID": "woodlandscreepy",
+                    "dialogueText": "Nonsense! My power is absolute!",
+                    "emotionID": "angry",
+                    "musicID": "",
+                    "sfxID": "",
+                    "animationID": "bounce",
+                    "outerLeft": "",
+                    "innerLeft": "Fullbody_Hero_Rothbart",
+                    "center": "",
+                    "innerRight": "Fullbody_Hero_EvilQueen",
+                    "outerRight": ""
+                },
+                {
+                    "characterID": "Evil Queen",
+                    "backgroundID": "woodlandscreepy",
+                    "dialogueText": "Advance my legions! Crush them all!",
+                    "emotionID": "angry",
+                    "musicID": "",
+                    "sfxID": "",
+                    "animationID": "",
+                    "outerLeft": "",
+                    "innerLeft": "",
+                    "center": "Fullbody_Hero_EvilQueen",
+                    "innerRight": "",
+                    "outerRight": ""
+                }
+            ]
         },
         {
-          "characterID": "ROTHBART",
-          "backgroundID": "woodlandscreepy",
-          "dialogueText": "여왕이여, 드림리스의 힘을 무리하게 쓰지 않도록 해라. 주의하지 않으면 그들이 널 삼킬테니...",
-          "emotionID": "idle",
-          "musicID": "",
-          "sfxID": "",
-          "animationID": "",
-          "outerLeft": "",
-          "innerLeft": "ROTHBART",
-          "center": "",
-          "innerRight": "EVIL QUEEN",
-          "outerRight": ""
-        },
-        {
-          "characterID": "EVIL QUEEN",
-          "backgroundID": "woodlandscreepy",
-          "dialogueText": "상관없어. 이 아름다움이 영원할 수만 있다면...",
-          "emotionID": "angry",
-          "musicID": "",
-          "sfxID": "",
-          "animationID": "bounce",
-          "outerLeft": "",
-          "innerLeft": "ROTHBART",
-          "center": "",
-          "innerRight": "EVIL QUEEN",
-          "outerRight": ""
-        },
-        {
-          "characterID": "EVIL QUEEN",
-          "backgroundID": "woodlandscreepy",
-          "dialogueText": "백설공주를 쓰러트릴 수만 있다면... 진격해라, 군단이여!",
-          "emotionID": "angry",
-          "musicID": "",
-          "sfxID": "",
-          "animationID": "",
-          "outerLeft": "",
-          "innerLeft": "",
-          "center": "EVIL QUEEN",
-          "innerRight": "",
-          "outerRight": ""
+            "languageID": "Korean",
+            "dialogueLines": [
+                {
+                    "characterID": "이블 퀸",
+                    "backgroundID": "woodlandscreepy",
+                    "dialogueText": "후훗, 그래. 재미있구나, 예상대로야.",
+                    "emotionID": "annoy",
+                    "musicID": "threateningbattle",
+                    "sfxID": "",
+                    "animationID": "",
+                    "outerLeft": "",
+                    "innerLeft": "",
+                    "center": "Fullbody_Hero_EvilQueen",
+                    "innerRight": "",
+                    "outerRight": ""
+                },
+                {
+                    "characterID": "악인 로트바르트",
+                    "backgroundID": "woodlandscreepy",
+                    "dialogueText": "여왕이여, 드림리스의 힘을 무리하게 쓰지 않도록 해라. 주의하지 않으면 그들이 널 삼킬테니...",
+                    "emotionID": "idle",
+                    "musicID": "",
+                    "sfxID": "",
+                    "animationID": "",
+                    "outerLeft": "",
+                    "innerLeft": "Fullbody_Hero_Rothbart",
+                    "center": "",
+                    "innerRight": "Fullbody_Hero_EvilQueen",
+                    "outerRight": ""
+                },
+                {
+                    "characterID": "이블 퀸",
+                    "backgroundID": "woodlandscreepy",
+                    "dialogueText": "상관없어. 이 아름다움이 영원할 수만 있다면...",
+                    "emotionID": "angry",
+                    "musicID": "",
+                    "sfxID": "",
+                    "animationID": "bounce",
+                    "outerLeft": "",
+                    "innerLeft": "Fullbody_Hero_Rothbart",
+                    "center": "",
+                    "innerRight": "Fullbody_Hero_EvilQueen",
+                    "outerRight": ""
+                },
+                {
+                    "characterID": "이블 퀸",
+                    "backgroundID": "woodlandscreepy",
+                    "dialogueText": "백설공주를 쓰러트릴 수만 있다면... 진격해라, 군단이여!",
+                    "emotionID": "angry",
+                    "musicID": "",
+                    "sfxID": "",
+                    "animationID": "",
+                    "outerLeft": "",
+                    "innerLeft": "",
+                    "center": "Fullbody_Hero_EvilQueen",
+                    "innerRight": "",
+                    "outerRight": ""
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }

@@ -11030,7 +11030,7 @@ var spine;
 				var webglConfig = { alpha: config.alpha };
 				this.context = new spine.webgl.ManagedWebGLRenderingContext(this.canvas, webglConfig);
 				this.sceneRenderer = new spine.webgl.SceneRenderer(this.canvas, this.context, true);
-				// this.loadingScreen = new spine.webgl.LoadingScreen(this.sceneRenderer);
+				this.loadingScreen = new spine.webgl.LoadingScreen(this.sceneRenderer);
 			}
 			catch (e) {
 				this.showError("Sorry, your browser does not support WebGL.<br><br>Please use the latest version of Firefox, Chrome, Edge, or Safari.");
@@ -11061,7 +11061,7 @@ var spine;
 			this.skinButton = findWithId(dom, "spine-player-button-skin")[0];
 			var settingsButton = findWithId(dom, "spine-player-button-settings")[0];
 			var fullscreenButton = findWithId(dom, "spine-player-button-fullscreen")[0];
-			// var logoButton = findWithId(dom, "spine-player-button-logo")[0];
+			var logoButton = findWithId(dom, "spine-player-button-logo")[0];
 			this.playButton.onclick = function () {
 				if (_this.paused)
 					_this.play();
@@ -11127,9 +11127,9 @@ var spine;
 						player.msRequestFullscreen();
 				}
 			};
-			// logoButton.onclick = function () {
-			// 	window.open("http://esotericsoftware.com");
-			// };
+			logoButton.onclick = function () {
+				window.open("http://esotericsoftware.com");
+			};
 			window.onresize = function () {
 				_this.drawFrame(false);
 			};
@@ -11287,8 +11287,8 @@ var spine;
 			var bg = new spine.Color().setFromString(isFullscreen ? this.config.fullScreenBackgroundColor : this.config.backgroundColor);
 			gl.clearColor(bg.r, bg.g, bg.b, bg.a);
 			gl.clear(gl.COLOR_BUFFER_BIT);
-			// this.loadingScreen.backgroundColor.setFromColor(bg);
-			// this.loadingScreen.draw(this.assetManager.isLoadingComplete());
+			this.loadingScreen.backgroundColor.setFromColor(bg);
+			this.loadingScreen.draw(this.assetManager.isLoadingComplete());
 			if (this.assetManager.isLoadingComplete() && this.skeleton == null)
 				this.loadSkeleton();
 			this.sceneRenderer.resize(spine.webgl.ResizeMode.Expand);
