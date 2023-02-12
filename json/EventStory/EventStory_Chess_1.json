@@ -29,7 +29,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "Ginger",
+                    "characterID": "진저",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "꿈꾸는 자! 이것도 한 번 먹어봐. 바닐라 샹티이 크림과 꿀을 바른 피칸 파이야!",
                     "emotionID": "happy",
@@ -71,7 +71,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "Goldilocks",
+                    "characterID": "골디락스",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "음~ 좋아요, 아주 좋네요. 셀레스티 씨의 차와 잘 어울려요.",
                     "emotionID": "happy",
@@ -85,7 +85,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "Goldilocks",
+                    "characterID": "골디락스",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "말이 나와서 말인데요, 셀레스티 씨는 어디서 그런 물건들을 구한 걸까요? 심지어 잘 나누어 주잖아요.",
                     "emotionID": "annoy",
@@ -127,7 +127,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "Mad Hatter",
+                    "characterID": "매드 해터",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "꿈 - 꾸는 - 자 !!!",
                     "emotionID": "angry",
@@ -155,7 +155,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "Mad Hatter",
+                    "characterID": "매드 해터",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "오, 이런. 이 - 런. 이런입니다!",
                     "emotionID": "sad",
@@ -169,7 +169,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "Mad Hatter",
+                    "characterID": "매드 해터",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "이렇게 중요한 시기에 한가로운 다과회라니!",
                     "emotionID": "surprise",
@@ -197,7 +197,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "March Hare",
+                    "characterID": "삼월 토끼",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "꿈꾸는 자의 표정을 좀 보라고요, 매드 해터. 얼굴이 이상해졌어요! ",
                     "emotionID": "happy",
@@ -211,7 +211,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "Mad Hatter",
+                    "characterID": "매드 해터",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "물론 차를 마시는 건 중 - 요한 일입니다! 하지만 지금은 바쁘다고요?",
                     "emotionID": "annoy",
@@ -225,7 +225,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "March Hare",
+                    "characterID": "삼월 토끼",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "잠깐, 잠깐. 우선 설명을 해줘야지. 그래야 꿈꾸는 자도 왜 바쁜지 알 것 아니야?",
                     "emotionID": "annoy",
@@ -239,7 +239,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "Goldilocks",
+                    "characterID": "골디락스",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "조금만 더 떠들었으면 화를 낼 뻔했어요. 두 사람, 무슨 일인가요?",
                     "emotionID": "annoy",
@@ -253,7 +253,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "Ginger",
+                    "characterID": "진저",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "지금 엄청 중요한 시식 타임이었거든, 이것보다 덜 중요한 일이면 너희 가만 안 둘 거야.",
                     "emotionID": "annoy",
@@ -267,7 +267,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "Mad Hatter",
+                    "characterID": "매드 해터",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "오, 이런. 진 - 정들 하십시오. 그러니까 지금...",
                     "emotionID": "idle",
@@ -281,7 +281,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "Mad Hatter",
+                    "characterID": "매드 해터",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "지금 말입니다! 원더랜드가 이상해졌습니다!",
                     "emotionID": "surprise",
@@ -295,7 +295,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "Ginger",
+                    "characterID": "진저",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "...",
                     "emotionID": "annoy",
@@ -309,7 +309,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "Goldilocks",
+                    "characterID": "골디락스",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "...",
                     "emotionID": "annoy",
@@ -323,7 +323,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "Ginger",
+                    "characterID": "진저",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "아, 됐고. 다음엔 이거 한번 먹어볼래? 피칸 시나몬 브레드야!",
                     "emotionID": "happy",
@@ -337,7 +337,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "Goldilocks",
+                    "characterID": "골디락스",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "이거 향이 정말 좋네요!",
                     "emotionID": "happy",
@@ -351,7 +351,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "Mad Hatter",
+                    "characterID": "매드 해터",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "잠깐, 잠깐! 지금 빵이 중요한 게 아니란 말입니다!",
                     "emotionID": "surprise",
@@ -379,7 +379,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "Ginger",
+                    "characterID": "진저",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "내 작품을 모욕하는 건 아니겠지, 응?",
                     "emotionID": "angry",
@@ -393,7 +393,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "Mad Hatter",
+                    "characterID": "매드 해터",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "아니, 그런 의도는...",
                     "emotionID": "annoy",
@@ -407,7 +407,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "Ginger",
+                    "characterID": "진저",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "신중하게 대답하는 게 좋을 거야.",
                     "emotionID": "angry",
@@ -421,7 +421,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "Mad Hatter",
+                    "characterID": "매드 해터",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "아 - 니, 그게 그러니까...",
                     "emotionID": "annoy",
@@ -435,7 +435,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "Ginger",
+                    "characterID": "진저",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "입장을 바꿔서 생각해 봐. 내가 네 차가 별로라고 말하면 어떨 것 같은데?",
                     "emotionID": "annoy",
@@ -449,7 +449,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "Mad Hatter",
+                    "characterID": "매드 해터",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "오, 이럴수가. 애 - 통한 일 입니다만, 그보다 중요한 일이 있을 때는...",
                     "emotionID": "annoy",
@@ -463,7 +463,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "Ginger",
+                    "characterID": "진저",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "그래~ 그렇겠지. 차 같은 건 아무래도 상관없다고, 그냥 좀 냄새나는 물일 뿐이니까.",
                     "emotionID": "angry",
@@ -477,7 +477,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "Mad Hatter",
+                    "characterID": "매드 해터",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "이 - 봐요 레이디, 그러니까 그게 중요한 게 아니라고 아까부터 계속...",
                     "emotionID": "surprise",
@@ -505,7 +505,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "Goldilocks",
+                    "characterID": "골디락스",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "좀 말려봐요, 꿈꾸는 자.",
                     "emotionID": "idle",
@@ -547,7 +547,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "Mad Hatter",
+                    "characterID": "매드 해터",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "차와 케이크! 빵! 다과회가 중요하다는 것은 우리 모두가 알고 있습니다!",
                     "emotionID": "surprise",
@@ -561,7 +561,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "Mad Hatter",
+                    "characterID": "매드 해터",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "제 이야기를 제대로 듣긴 한 겁니까? 원더랜드가 이 - 상하게 돌 - 아가고 있습니다만?",
                     "emotionID": "surprise",
@@ -589,7 +589,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "Ginger",
+                    "characterID": "진저",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "응?",
                     "emotionID": "surprise",
@@ -603,7 +603,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "Ginger",
+                    "characterID": "진저",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "원더랜드는 원래 이상했잖아.",
                     "emotionID": "surprise",
@@ -617,7 +617,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "Goldilocks",
+                    "characterID": "골디락스",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "뭐가 어떻게 이상한가요? 이상한 곳을 이상하다고 하니 뭐가 문제인지 모르겠네요.",
                     "emotionID": "shy",
@@ -631,7 +631,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "Ginger",
+                    "characterID": "진저",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "맞아, 내 말이 바로 그 말이야.",
                     "emotionID": "surprise",
@@ -645,7 +645,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "March Hare",
+                    "characterID": "삼월 토끼",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "대지가 흔들리고, 잔디밭에 탈모가 오는건지 구 - 멍이 뻥 뚫리고!",
                     "emotionID": "surprise",
@@ -659,7 +659,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "Mad Hatter",
+                    "characterID": "매드 해터",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "여왕의 궁전에서도 쿵 - 쿵 거리는 소리가 납니다만?",
                     "emotionID": "idle",
@@ -673,7 +673,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "March Hare",
+                    "characterID": "삼월 토끼",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "유 - 령들이 밤마다 파티를 벌이고 있습니다만?",
                     "emotionID": "annoy",
@@ -687,7 +687,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "Ginger",
+                    "characterID": "진저",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "유령?",
                     "emotionID": "sad",
@@ -729,7 +729,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "Red Knight",
+                    "characterID": "붉은 기사",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "반갑군, 꿈꾸는 자! 원더랜드에 갈 생각인가?",
                     "emotionID": "idle",
@@ -757,7 +757,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "Red Knight",
+                    "characterID": "붉은 기사",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "좋다! 이 붉은 기사가 특별히 널 도와주지.",
                     "emotionID": "happy",
@@ -771,7 +771,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "Red Knight",
+                    "characterID": "붉은 기사",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "드림리스와 원더랜드의 유령들은 너 혼자 감당할 수 있는 적이 아니니 말이다!",
                     "emotionID": "annoy",
@@ -832,7 +832,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "진저",
+                    "characterID": "Ginger",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "Oh, Dreamer, try this one! It's full of vanilla chantilly cream and honeyed pecan pieces!",
                     "emotionID": "happy",
@@ -874,7 +874,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "골디락스",
+                    "characterID": "Goldilocks",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "Mmmm, this goes really well with that batch of royal tea Celeste found in her caravan.",
                     "emotionID": "happy",
@@ -888,7 +888,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "골디락스",
+                    "characterID": "Goldilocks",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "Though she could have perhaps charged you a little less for it, Dreamer... given everything you've been doing for her.",
                     "emotionID": "annoy",
@@ -930,7 +930,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "매드 해터",
+                    "characterID": "Mad Hatter",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "DREAMER!!!",
                     "emotionID": "angry",
@@ -958,7 +958,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "매드 해터",
+                    "characterID": "Mad Hatter",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "How can you be eating cake and drinking tea...",
                     "emotionID": "sad",
@@ -972,7 +972,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "매드 해터",
+                    "characterID": "Mad Hatter",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "AT A TIME LIKE THIS!",
                     "emotionID": "surprise",
@@ -1000,7 +1000,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "삼월 토끼",
+                    "characterID": "March Hare",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "Ha ha, the Dreamer has a point, Hatter! We do tend to take tea at the oddest of times...",
                     "emotionID": "happy",
@@ -1014,7 +1014,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "매드 해터",
+                    "characterID": "Mad Hatter",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "But never at a time like this, March!",
                     "emotionID": "annoy",
@@ -1028,7 +1028,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "삼월 토끼",
+                    "characterID": "March Hare",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "That's true, given that there has never been a time like this! And we're not taking tea!",
                     "emotionID": "annoy",
@@ -1042,7 +1042,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "골디락스",
+                    "characterID": "Goldilocks",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "Sheesh, what's the actual problem, Hatter?",
                     "emotionID": "annoy",
@@ -1056,7 +1056,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "진저",
+                    "characterID": "Ginger",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "It better be worth interrupting my cake tasting session!",
                     "emotionID": "annoy",
@@ -1070,7 +1070,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "매드 해터",
+                    "characterID": "Mad Hatter",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "Dreamer... Wonderland...",
                     "emotionID": "idle",
@@ -1084,7 +1084,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "매드 해터",
+                    "characterID": "Mad Hatter",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "Wonderland... IS BEING WEIRD!",
                     "emotionID": "surprise",
@@ -1098,7 +1098,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "진저",
+                    "characterID": "Ginger",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "...",
                     "emotionID": "annoy",
@@ -1112,7 +1112,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "골디락스",
+                    "characterID": "Goldilocks",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "...",
                     "emotionID": "annoy",
@@ -1126,7 +1126,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "진저",
+                    "characterID": "Ginger",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "So, you should really try one of these – they're made with cinnamon!",
                     "emotionID": "happy",
@@ -1140,7 +1140,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "골디락스",
+                    "characterID": "Goldilocks",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "Ooh! I love cinnamon!",
                     "emotionID": "happy",
@@ -1154,7 +1154,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "매드 해터",
+                    "characterID": "Mad Hatter",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "HOW CAN YOU TALK ABOUT CAKES AT A TIME LIKE THIS?!",
                     "emotionID": "surprise",
@@ -1182,7 +1182,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "진저",
+                    "characterID": "Ginger",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "Don't you talk down to cakes!",
                     "emotionID": "angry",
@@ -1196,7 +1196,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "매드 해터",
+                    "characterID": "Mad Hatter",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "But-",
                     "emotionID": "annoy",
@@ -1210,7 +1210,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "진저",
+                    "characterID": "Ginger",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "NO! I won't hear of it! Cakes are the best!",
                     "emotionID": "angry",
@@ -1224,7 +1224,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "매드 해터",
+                    "characterID": "Mad Hatter",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "Well I-",
                     "emotionID": "annoy",
@@ -1238,7 +1238,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "진저",
+                    "characterID": "Ginger",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "How would you like it if I talked down to tea?!",
                     "emotionID": "annoy",
@@ -1252,7 +1252,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "매드 해터",
+                    "characterID": "Mad Hatter",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "Kch! That's-",
                     "emotionID": "annoy",
@@ -1266,7 +1266,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "진저",
+                    "characterID": "Ginger",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "Tea is hardly important - EXCEPT WHEN IT ACCOMPANIES CAKE!",
                     "emotionID": "angry",
@@ -1280,7 +1280,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "매드 해터",
+                    "characterID": "Mad Hatter",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "Wha- That- You-",
                     "emotionID": "surprise",
@@ -1308,7 +1308,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "골디락스",
+                    "characterID": "Goldilocks",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "Dreamer... shouldn't you stop them?",
                     "emotionID": "idle",
@@ -1350,7 +1350,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "매드 해터",
+                    "characterID": "Mad Hatter",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "This is ridiculous! We all know tea and cake is important!",
                     "emotionID": "surprise",
@@ -1364,7 +1364,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "매드 해터",
+                    "characterID": "Mad Hatter",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "But there are EVEN MORE important things at hand – as I already said, Wonderland is behaving weirdly!",
                     "emotionID": "surprise",
@@ -1392,7 +1392,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "진저",
+                    "characterID": "Ginger",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "Huh?",
                     "emotionID": "surprise",
@@ -1406,7 +1406,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "진저",
+                    "characterID": "Ginger",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "What's 'amogus opera-and-die'?",
                     "emotionID": "surprise",
@@ -1420,7 +1420,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "골디락스",
+                    "characterID": "Goldilocks",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "<i>'Modus operandi'</i>, Ginger. It's the way something normally works. A habit or way of being.",
                     "emotionID": "shy",
@@ -1434,7 +1434,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "진저",
+                    "characterID": "Ginger",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "Oh!",
                     "emotionID": "surprise",
@@ -1448,7 +1448,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "삼월 토끼",
+                    "characterID": "March Hare",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "But this <i>isn't</i> how Wonderland normally works, Dreamer!",
                     "emotionID": "surprise",
@@ -1462,7 +1462,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "매드 해터",
+                    "characterID": "Mad Hatter",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "The land is shifting, great fissures have been opening up in the normally ordered lawns of the queen's palace.",
                     "emotionID": "idle",
@@ -1476,7 +1476,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "삼월 토끼",
+                    "characterID": "March Hare",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "And not only that, there are ghosts!",
                     "emotionID": "annoy",
@@ -1490,7 +1490,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "진저",
+                    "characterID": "Ginger",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "GHOSTS?!?",
                     "emotionID": "sad",
@@ -1532,7 +1532,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "붉은 기사",
+                    "characterID": "Red Knight",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "If I may, Dreamer. I would like to accompany you if you intend to return to Wonderland.",
                     "emotionID": "idle",
@@ -1560,7 +1560,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "붉은 기사",
+                    "characterID": "Red Knight",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "I just have a feeling you're going to need my help if you're intending to rake through Wonderland's history.",
                     "emotionID": "happy",
@@ -1574,7 +1574,7 @@
                     "outerRight": ""
                 },
                 {
-                    "characterID": "붉은 기사",
+                    "characterID": "Red Knight",
                     "backgroundID": "gingersbakery",
                     "dialogueText": "Dreamless aside, you might not like what ghosts come back to haunt that realm.",
                     "emotionID": "annoy",
