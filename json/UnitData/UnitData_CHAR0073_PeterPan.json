@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 397
+    "m_PathID": 431
   },
   "m_Name": "UnitData_CHAR0073_PeterPan",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -713,7 +737,7 @@
     "attackRange": 11.0,
     "energyGainPerAttack": 13,
     "moveSpeed": 15.0,
-    "laneSearch": 5,
+    "laneSearch": 1,
     "aggroRange": 60.0,
     "pushRadius": 0.0,
     "knockbackImmune": 0,
@@ -727,29 +751,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2672
+    "m_PathID": 3255
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2279
+      "m_PathID": 2851
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2280
+      "m_PathID": 2852
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2281
+      "m_PathID": 2853
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2278
+    "m_PathID": 2850
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2277
+    "m_PathID": 2849
   },
   "Gender": 1,
   "Age": -1

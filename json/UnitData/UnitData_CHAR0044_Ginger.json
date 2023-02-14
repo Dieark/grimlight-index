@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 397
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0044_Ginger",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -733,16 +757,16 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2647
+    "m_PathID": 6269608656494434683
   },
   "traits": [],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2185
+    "m_PathID": -4341071763342583631
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2184
+    "m_PathID": 7469128096433291667
   },
   "Gender": 0,
   "Age": 22

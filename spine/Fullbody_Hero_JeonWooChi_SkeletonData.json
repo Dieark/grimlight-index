@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8302033850027404168
+  },
+  "m_Name": "Fullbody_Hero_JeonWooChi_SkeletonData",
+  "atlasAssets": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8564577663053143055
+    }
+  ],
+  "scale": 0.005,
+  "skeletonJSON": {
+    "m_FileID": 0,
+    "m_PathID": 3903727201266266940
+  },
+  "skeletonDataModifiers": [],
+  "fromAnimation": [],
+  "toAnimation": [],
+  "duration": [],
+  "defaultMix": 0.2,
+  "controller": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

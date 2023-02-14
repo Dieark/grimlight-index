@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "SD_Monster_DreamlessJuggernaught_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -4577894239479558439
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3196686285751575414
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3671910540305907367
+    }
+  ]
+}

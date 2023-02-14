@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 397
+    "m_PathID": 439
   },
   "m_Name": "UnitData_CHAR0014_Dracula",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -738,25 +762,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2642
+    "m_PathID": 35726
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2165
+      "m_PathID": 35039
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2166
+      "m_PathID": 35040
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2164
+    "m_PathID": 35038
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2163
+    "m_PathID": 35037
   },
   "Gender": 1,
   "Age": -1

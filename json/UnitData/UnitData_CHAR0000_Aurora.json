@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 429
+    "m_PathID": 431
   },
   "m_Name": "UnitData_CHAR0000_Aurora",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -702,23 +726,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 31531
+      "m_PathID": 3375
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31532
+      "m_PathID": 3376
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31533
+      "m_PathID": 3377
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31534
+      "m_PathID": 3378
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31535
+      "m_PathID": 3379
     }
   ],
   "unitStatData": {
@@ -775,25 +799,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 30646
+    "m_PathID": 3214
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 29955
+      "m_PathID": 2698
     },
     {
       "m_FileID": 0,
-      "m_PathID": 29956
+      "m_PathID": 2699
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 29954
+    "m_PathID": 2697
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 29953
+    "m_PathID": 2696
   },
   "Gender": 0,
   "Age": -1

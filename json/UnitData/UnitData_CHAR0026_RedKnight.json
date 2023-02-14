@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 429
+    "m_PathID": 439
   },
   "m_Name": "UnitData_CHAR0026_RedKnight",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -733,21 +757,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 30692
+    "m_PathID": 35763
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 30126
+      "m_PathID": 35181
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 30125
+    "m_PathID": 35180
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 30124
+    "m_PathID": 35179
   },
   "Gender": 0,
   "Age": 36

@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "SD_HeadlessHorseman_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 2644823132455040052
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5726744449431956319
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8348589841927283319
+    }
+  ]
+}

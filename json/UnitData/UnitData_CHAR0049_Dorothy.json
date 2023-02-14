@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 429
+    "m_PathID": 431
   },
   "m_Name": "UnitData_CHAR0049_Dorothy",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -707,23 +731,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 31541
+      "m_PathID": 3385
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31542
+      "m_PathID": 3386
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31543
+      "m_PathID": 3387
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31544
+      "m_PathID": 3388
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31545
+      "m_PathID": 3389
     }
   ],
   "unitStatData": {
@@ -780,21 +804,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 30655
+    "m_PathID": 3223
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 29986
+      "m_PathID": 2729
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 29985
+    "m_PathID": 2728
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 29984
+    "m_PathID": 2727
   },
   "Gender": 0,
   "Age": 21

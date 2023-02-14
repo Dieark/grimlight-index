@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "SD_Hero_SnowWhite_Skin3_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -9033426947748070094
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1523660931333105704
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2238254726880397060
+    }
+  ]
+}

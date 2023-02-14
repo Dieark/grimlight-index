@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8302033850027404168
+  },
+  "m_Name": "Fullbody_Hero_BriarRose_Skin2_SkeletonData",
+  "atlasAssets": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2884472582603538141
+    }
+  ],
+  "scale": 0.005,
+  "skeletonJSON": {
+    "m_FileID": 0,
+    "m_PathID": -8408035437091887658
+  },
+  "skeletonDataModifiers": [],
+  "fromAnimation": [],
+  "toAnimation": [],
+  "duration": [],
+  "defaultMix": 0.2,
+  "controller": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

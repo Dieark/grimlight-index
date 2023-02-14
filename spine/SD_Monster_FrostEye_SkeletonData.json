@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8302033850027404168
+  },
+  "m_Name": "SD_Monster_FrostEye_SkeletonData",
+  "atlasAssets": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4744840798147497186
+    }
+  ],
+  "scale": 0.02,
+  "skeletonJSON": {
+    "m_FileID": 0,
+    "m_PathID": 8953300419811791846
+  },
+  "skeletonDataModifiers": [],
+  "fromAnimation": [],
+  "toAnimation": [],
+  "duration": [],
+  "defaultMix": 0.0,
+  "controller": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

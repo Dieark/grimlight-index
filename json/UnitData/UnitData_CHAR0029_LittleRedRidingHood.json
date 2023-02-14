@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 397
+    "m_PathID": 431
   },
   "m_Name": "UnitData_CHAR0029_LittleRedRidingHood",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -733,21 +757,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2680
+    "m_PathID": 3263
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2310
+      "m_PathID": 2882
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2309
+    "m_PathID": 2881
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2308
+    "m_PathID": 2880
   },
   "Gender": 0,
   "Age": 17

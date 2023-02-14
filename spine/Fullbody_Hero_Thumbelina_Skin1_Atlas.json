@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "Fullbody_Hero_Thumbelina_Skin1_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -4308708944590979943
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 125435038490855342
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2225404462928569607
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -290403735234956256
+    }
+  ]
+}

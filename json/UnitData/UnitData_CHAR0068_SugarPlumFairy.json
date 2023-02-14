@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 431
   },
   "m_Name": "UnitData_CHAR0068_SugarPlumFairy",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -727,25 +751,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 1421391508745898819
+    "m_PathID": 3271
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 6245916750542999916
+      "m_PathID": 2910
     },
     {
       "m_FileID": 0,
-      "m_PathID": -4562618707116057059
+      "m_PathID": 2911
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 3226905241704918077
+    "m_PathID": 2909
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": -1966536662347294260
+    "m_PathID": 2908
   },
   "Gender": 0,
   "Age": -1

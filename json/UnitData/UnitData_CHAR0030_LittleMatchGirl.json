@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 397
+    "m_PathID": 439
   },
   "m_Name": "UnitData_CHAR0030_LittleMatchGirl",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -669,6 +693,10 @@
     "heroStoriesItemList": [
       {
         "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryLittleMatchGirl_5"
+      },
+      {
+        "objectType": 18,
         "objectID": "UnlockableKey_LibraryStoryLittleMatchGirl_1"
       },
       {
@@ -682,10 +710,6 @@
       {
         "objectType": 18,
         "objectID": "UnlockableKey_LibraryStoryLittleMatchGirl_4"
-      },
-      {
-        "objectType": 18,
-        "objectID": "UnlockableKey_LibraryStoryLittleMatchGirl_5"
       }
     ],
     "heroSkinItemList": []
@@ -696,23 +720,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 2819
+      "m_PathID": 36659
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2820
+      "m_PathID": 36660
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2821
+      "m_PathID": 36661
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2822
+      "m_PathID": 36662
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2823
+      "m_PathID": 36663
     }
   ],
   "unitStatData": {
@@ -769,21 +793,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2660
+    "m_PathID": 35745
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2240
+      "m_PathID": 35119
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2239
+    "m_PathID": 35118
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2238
+    "m_PathID": 35117
   },
   "Gender": 0,
   "Age": 14

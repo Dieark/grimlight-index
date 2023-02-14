@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8302033850027404168
+  },
+  "m_Name": "SD_Monster_DreamlessHellguard_SkeletonData",
+  "atlasAssets": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4482806827109704780
+    }
+  ],
+  "scale": 0.02,
+  "skeletonJSON": {
+    "m_FileID": 0,
+    "m_PathID": -134794285214045992
+  },
+  "skeletonDataModifiers": [],
+  "fromAnimation": [],
+  "toAnimation": [],
+  "duration": [],
+  "defaultMix": 0.2,
+  "controller": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

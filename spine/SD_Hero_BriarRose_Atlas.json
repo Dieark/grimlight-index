@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "SD_Hero_BriarRose_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -1881408148169186676
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8057071431720577832
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5540445174302917363
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1967176084972837789
+    }
+  ]
+}

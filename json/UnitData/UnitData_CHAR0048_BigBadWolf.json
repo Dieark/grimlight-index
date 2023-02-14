@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 439
   },
   "m_Name": "UnitData_CHAR0048_BigBadWolf",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -633,12 +657,12 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2857232696298295308
+    "m_PathID": 35719
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": -2805397832704300971
+      "m_PathID": 35014
     }
   ],
   "passiveAbility": {
@@ -647,7 +671,7 @@
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 7292950730517466705
+    "m_PathID": 35013
   },
   "Gender": 0,
   "Age": 35

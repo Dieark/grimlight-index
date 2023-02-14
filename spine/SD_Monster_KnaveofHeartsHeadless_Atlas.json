@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "SD_Monster_KnaveofHeartsHeadless_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -8180480284133546454
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8695719815023878517
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6861544180574541795
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5728595234781578232
+    }
+  ]
+}

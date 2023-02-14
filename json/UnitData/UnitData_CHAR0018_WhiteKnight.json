@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 397
+    "m_PathID": 431
   },
   "m_Name": "UnitData_CHAR0018_WhiteKnight",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -727,21 +751,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2697
+    "m_PathID": 3281
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2367
+      "m_PathID": 2943
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2366
+    "m_PathID": 2942
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2365
+    "m_PathID": 2941
   },
   "Gender": 0,
   "Age": 28

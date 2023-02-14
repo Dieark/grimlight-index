@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 397
+    "m_PathID": 439
   },
   "m_Name": "UnitData_CHAR0062_Lily",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -727,25 +751,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2659
+    "m_PathID": 35744
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2237
+      "m_PathID": 35116
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2236
+      "m_PathID": 35115
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2235
+    "m_PathID": 35114
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2234
+    "m_PathID": 35113
   },
   "Gender": 0,
   "Age": -1

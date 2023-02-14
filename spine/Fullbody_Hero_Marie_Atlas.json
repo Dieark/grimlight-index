@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "Fullbody_Hero_Marie_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -5758272972434767597
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4928100400576644909
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8661960863222968374
+    }
+  ]
+}

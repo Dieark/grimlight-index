@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 429
+    "m_PathID": 431
   },
   "m_Name": "UnitData_CHAR0010_SnowWhite",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -712,23 +736,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 31581
+      "m_PathID": 3425
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31582
+      "m_PathID": 3426
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31583
+      "m_PathID": 3427
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31584
+      "m_PathID": 3428
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31585
+      "m_PathID": 3429
     }
   ],
   "unitStatData": {
@@ -785,21 +809,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 30700
+    "m_PathID": 3270
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 30155
+      "m_PathID": 2907
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 30154
+    "m_PathID": 2906
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 30153
+    "m_PathID": 2905
   },
   "Gender": 0,
   "Age": 23

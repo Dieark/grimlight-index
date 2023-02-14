@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "SD_Hero_WinterQueen_Skin1_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 4294930184330686685
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2912373570237657704
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1788650249620663582
+    }
+  ]
+}

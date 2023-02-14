@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "SD_Hero_LittleMatchGirl_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 3639005833254985421
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3184699159266937642
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -294419684230545255
+    }
+  ]
+}

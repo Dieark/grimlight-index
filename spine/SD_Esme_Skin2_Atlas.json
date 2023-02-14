@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "SD_Esme_Skin2_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 6545807517239716230
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3495200064636929892
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2253080251486920299
+    }
+  ]
+}

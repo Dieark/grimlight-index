@@ -1,0 +1,258 @@
+
+SD_NPC_Sophia.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 443, 225
+  size: 33, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+Lear
+  rotate: false
+  xy: 218, 232
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+Lhorn
+  rotate: true
+  xy: 443, 258
+  size: 45, 60
+  orig: 46, 60
+  offset: 1, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 182, 273
+  size: 36, 92
+  orig: 46, 204
+  offset: 10, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 297, 221
+  size: 26, 47
+  orig: 27, 48
+  offset: 1, 1
+  index: -1
+Lthumb
+  rotate: false
+  xy: 499, 420
+  size: 13, 14
+  orig: 13, 16
+  offset: 0, 1
+  index: -1
+Rarm
+  rotate: false
+  xy: 0, 227
+  size: 38, 51
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+Rear
+  rotate: false
+  xy: 265, 232
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+Rhorn
+  rotate: false
+  xy: 440, 303
+  size: 53, 70
+  orig: 53, 71
+  offset: 0, 1
+  index: -1
+Rleg
+  rotate: true
+  xy: 56, 245
+  size: 31, 92
+  orig: 31, 92
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 85, 220
+  size: 24, 46
+  orig: 24, 46
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: 270
+  xy: 342, 293
+  size: 55, 94
+  orig: 55, 94
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: true
+  xy: 87, 276
+  size: 39, 94
+  orig: 40, 94
+  offset: 1, 0
+  index: -1
+bangs3
+  rotate: true
+  xy: 213, 304
+  size: 74, 130
+  orig: 74, 130
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: true
+  xy: 352, 344
+  size: 64, 126
+  orig: 64, 126
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: true
+  xy: 147, 225
+  size: 51, 93
+  orig: 51, 93
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: true
+  xy: 323, 409
+  size: 104, 60
+  orig: 104, 60
+  offset: 0, 0
+  index: -1
+eyedazed
+  rotate: false
+  xy: 138, 314
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+eyehappy
+  rotate: true
+  xy: 247, 421
+  size: 92, 76
+  orig: 92, 76
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 0, 278
+  size: 88, 38
+  orig: 88, 38
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: true
+  xy: 383, 408
+  size: 105, 58
+  orig: 105, 58
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 247, 351
+  size: 105, 58
+  orig: 105, 58
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 138, 387
+  size: 126, 109
+  orig: 126, 109
+  offset: 0, 0
+  index: -1
+face_dirt
+  rotate: false
+  xy: 275, 412
+  size: 19, 9
+  orig: 21, 11
+  offset: 0, 1
+  index: -1
+goggles
+  rotate: false
+  xy: 0, 317
+  size: 125, 45
+  orig: 125, 45
+  offset: 0, 0
+  index: -1
+hairback
+  rotate: false
+  xy: 0, 361
+  size: 139, 151
+  orig: 139, 151
+  offset: 0, 0
+  index: -1
+hairbun
+  rotate: true
+  xy: 361, 221
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+hairstrand
+  rotate: false
+  xy: 247, 410
+  size: 28, 11
+  orig: 29, 11
+  offset: 1, 0
+  index: -1
+mouthgrit
+  rotate: false
+  xy: 294, 414
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 495, 416
+  size: 13, 4
+  orig: 13, 4
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 441, 409
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 478, 380
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+ponytail
+  rotate: true
+  xy: 273, 248
+  size: 56, 88
+  orig: 56, 88
+  offset: 0, 0
+  index: -1
+scarf
+  rotate: false
+  xy: 489, 395
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 441, 409
+  size: 64, 104
+  orig: 64, 104
+  offset: 0, 0
+  index: -1
+wrench
+  rotate: false
+  xy: 361, 257
+  size: 82, 35
+  orig: 83, 36
+  offset: 1, 0
+  index: -1

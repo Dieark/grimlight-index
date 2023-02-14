@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "SD_Hero_QueenOfHearts_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -850703951098055921
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8990665299530211278
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 511374337638162882
+    }
+  ]
+}

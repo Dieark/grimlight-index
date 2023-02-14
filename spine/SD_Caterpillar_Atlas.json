@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "SD_Caterpillar_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -6659824691976993469
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8943566580193924971
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6493523946809260924
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "SD_Hero_Dracula_Skin2_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -3298771636255269383
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7635272957125720763
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6718791504794446108
+    }
+  ]
+}

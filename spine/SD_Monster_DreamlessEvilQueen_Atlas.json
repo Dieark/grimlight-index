@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "SD_Monster_DreamlessEvilQueen_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 999388480145700301
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4951909991542536035
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4098684778229130402
+    }
+  ]
+}

@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 397
+    "m_PathID": 431
   },
   "m_Name": "UnitData_CHAR0059_HeadlessHorseman",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -727,29 +751,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2651
+    "m_PathID": 3233
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2197
+      "m_PathID": 2764
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2198
+      "m_PathID": 2765
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2199
+      "m_PathID": 2766
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2196
+    "m_PathID": 2763
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2195
+    "m_PathID": 2762
   },
   "Gender": 1,
   "Age": -1

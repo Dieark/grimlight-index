@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "Fullbody_NPC_HavenRanger_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 8818168142862854968
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3961584965550843210
+    }
+  ]
+}

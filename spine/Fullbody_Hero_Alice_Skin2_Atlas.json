@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "Fullbody_Hero_Alice_Skin2_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -1227947215135067816
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8074291584022411606
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1285436895743615344
+    }
+  ]
+}

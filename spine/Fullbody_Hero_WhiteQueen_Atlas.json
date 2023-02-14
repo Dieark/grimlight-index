@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "Fullbody_Hero_WhiteQueen_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 6139121726737242558
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4498042146986998726
+    }
+  ]
+}

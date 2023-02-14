@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "SD_Hero_SantaClaus_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -516622697541262668
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 934379783675940782
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7100461102898808774
+    }
+  ]
+}

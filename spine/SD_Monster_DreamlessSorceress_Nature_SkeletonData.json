@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8302033850027404168
+  },
+  "m_Name": "SD_Monster_DreamlessSorceress_Nature_SkeletonData",
+  "atlasAssets": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2603229564067851697
+    }
+  ],
+  "scale": 0.02,
+  "skeletonJSON": {
+    "m_FileID": 0,
+    "m_PathID": -879125421510827149
+  },
+  "skeletonDataModifiers": [],
+  "fromAnimation": [],
+  "toAnimation": [],
+  "duration": [],
+  "defaultMix": 0.0,
+  "controller": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

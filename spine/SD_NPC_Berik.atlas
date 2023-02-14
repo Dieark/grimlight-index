@@ -1,0 +1,223 @@
+
+SD_NPC_Berik.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 125, 265
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1
+Lear
+  rotate: false
+  xy: 165, 164
+  size: 52, 40
+  orig: 52, 40
+  offset: 0, 0
+  index: -1
+Lhorn
+  rotate: true
+  xy: 326, 171
+  size: 30, 84
+  orig: 32, 85
+  offset: 1, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 457, 230
+  size: 34, 93
+  orig: 34, 93
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 16, 138
+  size: 29, 56
+  orig: 30, 56
+  offset: 1, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 336, 467
+  size: 17, 18
+  orig: 18, 18
+  offset: 1, 0
+  index: -1
+Rear
+  rotate: 180
+  xy: 399, 139
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 104, 162
+  size: 42, 61
+  orig: 42, 61
+  offset: 0, 0
+  index: -1
+Rhorn
+  rotate: false
+  xy: 458, 322
+  size: 42, 91
+  orig: 42, 94
+  offset: 0, 1
+  index: -1
+Rleg
+  rotate: true
+  xy: 0, 168
+  size: 38, 105
+  orig: 38, 105
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 296, 139
+  size: 32, 55
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+bangs
+  rotate: true
+  xy: 336, 319
+  size: 184, 122
+  orig: 184, 122
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: false
+  xy: 458, 413
+  size: 44, 90
+  orig: 44, 90
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: true
+  xy: 413, 167
+  size: 85, 67
+  orig: 85, 67
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: true
+  xy: 392, 429
+  size: 27, 66
+  orig: 27, 66
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 169, 265
+  size: 82, 158
+  orig: 82, 158
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 125, 204
+  size: 121, 60
+  orig: 121, 60
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 0, 206
+  size: 105, 47
+  orig: 105, 47
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 0, 253
+  size: 126, 68
+  orig: 126, 182
+  offset: 0, 114
+  index: -1
+eyeopen
+  rotate: false
+  xy: 327, 251
+  size: 126, 69
+  orig: 126, 182
+  offset: 0, 113
+  index: -1
+eyeshocked
+  rotate: true
+  xy: 246, 174
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 186, 346
+  size: 150, 158
+  orig: 150, 158
+  offset: 0, 0
+  index: -1
+hairback
+  rotate: false
+  xy: 0, 320
+  size: 186, 183
+  orig: 186, 183
+  offset: 0, 0
+  index: -1
+hammer
+  rotate: false
+  xy: 326, 201
+  size: 87, 50
+  orig: 94, 57
+  offset: 1, 0
+  index: -1
+mouthgrit
+  rotate: false
+  xy: 439, 397
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 336, 461
+  size: 12, 6
+  orig: 14, 6
+  offset: 1, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 444, 424
+  size: 14, 16
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 336, 485
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+mouthsmie
+  rotate: false
+  xy: 419, 393
+  size: 20, 5
+  orig: 21, 6
+  offset: 1, 1
+  index: -1
+ponytail
+  rotate: false
+  xy: 351, 131
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+tail
+  rotate: 270
+  xy: 217, 146
+  size: 55, 78
+  orig: 55, 78
+  offset: 0, 0
+  index: -1

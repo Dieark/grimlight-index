@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 397
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0039_Scarecrow",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -575,6 +599,10 @@
     "heroStoriesItemList": [
       {
         "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryScarecrow_5"
+      },
+      {
+        "objectType": 18,
         "objectID": "UnlockableKey_LibraryStoryScarecrow_1"
       },
       {
@@ -588,10 +616,6 @@
       {
         "objectType": 18,
         "objectID": "UnlockableKey_LibraryStoryScarecrow_4"
-      },
-      {
-        "objectType": 18,
-        "objectID": "UnlockableKey_LibraryStoryScarecrow_5"
       }
     ],
     "heroSkinItemList": []
@@ -602,23 +626,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 2834
+      "m_PathID": -4470028809746181721
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2835
+      "m_PathID": 2060711141552092796
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2836
+      "m_PathID": 8514436947131108729
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2837
+      "m_PathID": -2356723051031651514
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2838
+      "m_PathID": -8036192784645383022
     }
   ],
   "unitStatData": {
@@ -675,12 +699,12 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2684
+    "m_PathID": 74957204461100758
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2325
+      "m_PathID": -849322412376233531
     }
   ],
   "passiveAbility": {
@@ -689,7 +713,7 @@
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2324
+    "m_PathID": 1858922205696389552
   },
   "Gender": 0,
   "Age": -1

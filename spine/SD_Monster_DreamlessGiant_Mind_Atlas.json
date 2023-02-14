@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "SD_Monster_DreamlessGiant_Mind_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 1629489870366211471
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2960726449129328130
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7095575251129469780
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3196108437800575076
+    }
+  ]
+}

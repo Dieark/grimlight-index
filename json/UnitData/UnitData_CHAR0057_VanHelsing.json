@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 397
+    "m_PathID": 431
   },
   "m_Name": "UnitData_CHAR0057_VanHelsing",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -727,29 +751,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2694
+    "m_PathID": 3278
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2355
+      "m_PathID": 2931
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2356
+      "m_PathID": 2932
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2357
+      "m_PathID": 2933
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2354
+    "m_PathID": 2930
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2353
+    "m_PathID": 2929
   },
   "Gender": 1,
   "Age": -1

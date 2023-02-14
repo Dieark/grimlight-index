@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "SD_Monster_Rocklizard_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 164797217653644322
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6261613700950396472
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2017782139319490444
+    }
+  ]
+}

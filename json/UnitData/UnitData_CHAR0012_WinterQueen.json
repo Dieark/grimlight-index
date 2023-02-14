@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 429
+    "m_PathID": 431
   },
   "m_Name": "UnitData_CHAR0012_WinterQueen",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -738,29 +762,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 30714
+    "m_PathID": 3284
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 30203
+      "m_PathID": 2955
     },
     {
       "m_FileID": 0,
-      "m_PathID": 30202
+      "m_PathID": 2954
     },
     {
       "m_FileID": 0,
-      "m_PathID": 30204
+      "m_PathID": 2956
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 30201
+    "m_PathID": 2953
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 30200
+    "m_PathID": 2952
   },
   "Gender": 0,
   "Age": -1

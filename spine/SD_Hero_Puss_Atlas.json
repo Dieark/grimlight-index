@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "SD_Hero_Puss_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -5200037783126229380
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8529405780673866728
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1167145451874386011
+    }
+  ]
+}

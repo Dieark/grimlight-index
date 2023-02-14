@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 397
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0037_Caterpillar",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -727,21 +751,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2638
+    "m_PathID": 3426529814327989216
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2151
+      "m_PathID": -8475951453302872535
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2150
+    "m_PathID": -1544132349702248116
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2149
+    "m_PathID": -3330355782897264181
   },
   "Gender": 0,
   "Age": -1

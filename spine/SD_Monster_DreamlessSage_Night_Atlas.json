@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "SD_Monster_DreamlessSage_Night_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -6227430241300167647
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 52550191941511864
+    }
+  ]
+}

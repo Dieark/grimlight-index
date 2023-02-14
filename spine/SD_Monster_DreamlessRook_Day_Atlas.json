@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "SD_Monster_DreamlessRook_Day_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -7455034609544564485
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6158530955801810284
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6575572675337622783
+    }
+  ]
+}

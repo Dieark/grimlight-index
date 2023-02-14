@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "SD_Monster_NightmareBriarRose_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -7984335164226961969
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6091451866385201337
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6421063047875143072
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5439054852025641715
+    }
+  ]
+}

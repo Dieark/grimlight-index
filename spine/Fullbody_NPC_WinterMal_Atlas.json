@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "Fullbody_NPC_WinterMal_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -7366032659994522097
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1958811090357435871
+    }
+  ]
+}

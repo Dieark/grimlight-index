@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "SD_Hero_RedQueen_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 8245918034601990052
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1996944138830738523
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3393219395450398439
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "SDMonster_CrystalHedgehog_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 7545581344526477701
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1303857879415988250
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "SD_Hero_PeterPan_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -6168012379293543634
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6134652010074924383
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1620463324715295395
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7895775440507783147
+    }
+  ]
+}

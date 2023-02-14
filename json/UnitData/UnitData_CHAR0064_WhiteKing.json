@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 397
+    "m_PathID": 431
   },
   "m_Name": "UnitData_CHAR0064_WhiteKing",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -727,25 +751,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2696
+    "m_PathID": 3280
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2363
+      "m_PathID": 2939
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2364
+      "m_PathID": 2940
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2362
+    "m_PathID": 2938
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2361
+    "m_PathID": 2937
   },
   "Gender": 1,
   "Age": -1

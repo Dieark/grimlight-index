@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 429
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0004_Hina",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -727,25 +751,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 30666
+    "m_PathID": 2173586990418349345
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 30027
+      "m_PathID": 2250875918415178877
     },
     {
       "m_FileID": 0,
-      "m_PathID": 30026
+      "m_PathID": -8369681805475229292
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 30025
+    "m_PathID": -930861017439793096
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 30024
+    "m_PathID": -6330397343376384608
   },
   "Gender": 0,
   "Age": 0

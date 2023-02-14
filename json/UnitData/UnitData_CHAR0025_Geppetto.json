@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 397
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0025_Geppetto",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -727,21 +751,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2646
+    "m_PathID": 6291206524071798358
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2183
+      "m_PathID": 4686704609700688208
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2182
+    "m_PathID": -3622111048171978602
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2181
+    "m_PathID": 8118579847111740829
   },
   "Gender": 1,
   "Age": 17

@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "SD_Hero_Puss_Skin1_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 873162516215896662
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5199997533367300552
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 50942357724470233
+    }
+  ]
+}

@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 429
+    "m_PathID": 439
   },
   "m_Name": "UnitData_CHAR0002_Vita",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -707,23 +731,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 31596
+      "m_PathID": 36694
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31597
+      "m_PathID": 36695
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31598
+      "m_PathID": 36696
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31599
+      "m_PathID": 36697
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31600
+      "m_PathID": 36698
     }
   ],
   "unitStatData": {
@@ -780,21 +804,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 30709
+    "m_PathID": 35781
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 30184
+      "m_PathID": 35243
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 30183
+    "m_PathID": 35242
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 30182
+    "m_PathID": 35241
   },
   "Gender": 0,
   "Age": -1

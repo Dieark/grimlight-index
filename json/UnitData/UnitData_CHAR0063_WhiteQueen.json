@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 431
   },
   "m_Name": "UnitData_CHAR0063_WhiteQueen",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -727,29 +751,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 9179629250983403994
+    "m_PathID": 3282
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 6812841101542218670
+      "m_PathID": 2946
     },
     {
       "m_FileID": 0,
-      "m_PathID": -5409303226399742625
+      "m_PathID": 2947
     },
     {
       "m_FileID": 0,
-      "m_PathID": -5566874152336057141
+      "m_PathID": 2948
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": -8863861661185605755
+    "m_PathID": 2945
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": -8180049601585161618
+    "m_PathID": 2944
   },
   "Gender": 0,
   "Age": -1

@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 397
+    "m_PathID": 431
   },
   "m_Name": "UnitData_CHAR0020_CheshireCat",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -733,25 +757,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2639
+    "m_PathID": 3221
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2154
+      "m_PathID": 2721
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2155
+      "m_PathID": 2722
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2153
+    "m_PathID": 2720
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2152
+    "m_PathID": 2719
   },
   "Gender": 0,
   "Age": -1

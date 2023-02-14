@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "Fullbody_Hero_Vita_Skin1_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -2187263399729675322
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8113727693460005984
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3708243335535884675
+    }
+  ]
+}

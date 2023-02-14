@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 397
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0027_Bathory",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -733,21 +757,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2633
+    "m_PathID": -3930280313609539146
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2135
+      "m_PathID": 4158875828238421937
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2134
+    "m_PathID": -2902614906410083014
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2133
+    "m_PathID": 3034380223413092900
   },
   "Gender": 0,
   "Age": -1

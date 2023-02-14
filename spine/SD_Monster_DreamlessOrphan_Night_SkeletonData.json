@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8302033850027404168
+  },
+  "m_Name": "SD_Monster_DreamlessOrphan_Night_SkeletonData",
+  "atlasAssets": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7388134242564575137
+    }
+  ],
+  "scale": 0.01,
+  "skeletonJSON": {
+    "m_FileID": 0,
+    "m_PathID": -3131970927471411927
+  },
+  "skeletonDataModifiers": [],
+  "fromAnimation": [],
+  "toAnimation": [],
+  "duration": [],
+  "defaultMix": 0.0,
+  "controller": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

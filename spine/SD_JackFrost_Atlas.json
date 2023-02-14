@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "SD_JackFrost_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 5641375979464380506
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4271797881890524318
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4352858126192440457
+    }
+  ]
+}

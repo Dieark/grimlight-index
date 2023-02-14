@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 397
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0046_TheHuntsman",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -633,12 +657,12 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2690
+    "m_PathID": 229874367959378206
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2209
+      "m_PathID": 5188493192748222891
     }
   ],
   "passiveAbility": {
@@ -647,7 +671,7 @@
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2208
+    "m_PathID": 4099006092990487843
   },
   "Gender": 1,
   "Age": 28

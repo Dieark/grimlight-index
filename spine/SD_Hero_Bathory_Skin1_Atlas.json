@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "SD_Hero_Bathory_Skin1_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 5892146756852979963
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -9049765323192450986
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -195364914523296277
+    }
+  ]
+}

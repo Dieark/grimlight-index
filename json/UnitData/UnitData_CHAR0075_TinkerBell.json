@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 397
+    "m_PathID": 439
   },
   "m_Name": "UnitData_CHAR0075_TinkerBell",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -727,29 +751,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2693
+    "m_PathID": 35779
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2352
+      "m_PathID": 35235
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2351
+      "m_PathID": 35234
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2350
+      "m_PathID": 35233
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2349
+    "m_PathID": 35232
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2348
+    "m_PathID": 35231
   },
   "Gender": 0,
   "Age": -1

@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "Fullbody_TamamoNoMae_Skin2_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -229420355302404935
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1687361758141380720
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6689996158477273561
+    }
+  ]
+}

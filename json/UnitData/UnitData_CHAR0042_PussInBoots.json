@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 429
+    "m_PathID": 439
   },
   "m_Name": "UnitData_CHAR0042_PussInBoots",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -733,21 +757,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 30687
+    "m_PathID": 35758
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 30108
+      "m_PathID": 35163
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 30107
+    "m_PathID": 35162
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 30106
+    "m_PathID": 35161
   },
   "Gender": 0,
   "Age": 18

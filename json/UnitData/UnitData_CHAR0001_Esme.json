@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -691,12 +715,17 @@
     "heroSkinItemList": [
       {
         "objectType": 17,
+        "objectID": "Esme_Skin1"
+      },
+      {
+        "objectType": 17,
         "objectID": "Esme_Skin2"
       }
     ]
   },
   "skinAssetNames": [
     "UnitSkinAssets_Char0001_Esme",
+    "UnitSkinAssets_Char0001_Esme_Skin1",
     "UnitSkinAssets_Char0001_Esme_Skin2"
   ],
   "storyDatas": [

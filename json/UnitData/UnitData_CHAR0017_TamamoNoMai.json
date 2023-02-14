@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -670,11 +694,11 @@
     "heroSkinItemList": [
       {
         "objectType": 17,
-        "objectID": "TamamoNoMai_Skin2"
+        "objectID": "TamamoNoMai_Skin1"
       },
       {
         "objectType": 17,
-        "objectID": "TamamoNoMai_Skin1"
+        "objectID": "TamamoNoMai_Skin2"
       }
     ]
   },

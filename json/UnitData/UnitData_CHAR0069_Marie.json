@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 429
+    "m_PathID": 439
   },
   "m_Name": "UnitData_CHAR0069_Marie",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -727,25 +751,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 30678
+    "m_PathID": 35749
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 30080
+      "m_PathID": 35135
     },
     {
       "m_FileID": 0,
-      "m_PathID": 30079
+      "m_PathID": 35134
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 30078
+    "m_PathID": 35133
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 30077
+    "m_PathID": 35132
   },
   "Gender": 0,
   "Age": -1

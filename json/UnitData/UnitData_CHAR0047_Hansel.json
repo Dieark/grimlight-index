@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 431
   },
   "m_Name": "UnitData_CHAR0047_Hansel",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -633,16 +657,16 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": -4697470282574282661
+    "m_PathID": 3232
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": -4603819286340887687
+      "m_PathID": 2760
     },
     {
       "m_FileID": 0,
-      "m_PathID": -7231370655830755166
+      "m_PathID": 2761
     }
   ],
   "passiveAbility": {
@@ -651,7 +675,7 @@
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 8845286357202656958
+    "m_PathID": 2759
   },
   "Gender": 1,
   "Age": 16

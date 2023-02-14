@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 397
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0031_MadHatter",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -727,25 +751,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2662
+    "m_PathID": -8771157027667815576
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2247
+      "m_PathID": -5253925773546181174
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2248
+      "m_PathID": 242522588677444783
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2246
+    "m_PathID": -5720430862232163242
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2245
+    "m_PathID": -7031691457445248849
   },
   "Gender": 1,
   "Age": 36

@@ -1,0 +1,335 @@
+
+SD_Hero_Juliet.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 168, 27
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+Learring
+  rotate: true
+  xy: 1, 327
+  size: 16, 37
+  orig: 16, 37
+  offset: 0, 0
+  index: -1
+Rearring
+  rotate: true
+  xy: 1, 327
+  size: 16, 37
+  orig: 16, 37
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: 270
+  xy: 186, 57
+  size: 27, 81
+  orig: 27, 81
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 210, 401
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Lscarf
+  rotate: 180
+  xy: 357, 40
+  size: 27, 92
+  orig: 27, 92
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 462, 39
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 494, 472
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 98, 31
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: true
+  xy: 269, 41
+  size: 29, 77
+  orig: 29, 77
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 240, 253
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+Rscarf1
+  rotate: false
+  xy: 210, 22
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+Rscarf2
+  rotate: true
+  xy: 386, 36
+  size: 38, 63
+  orig: 38, 63
+  offset: 0, 0
+  index: -1
+Rscarf3
+  rotate: 270
+  xy: 48, 22
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 1, 36
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 494, 490
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+backdress
+  rotate: true
+  xy: 415, 421
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+backhair
+  rotate: false
+  xy: 1, 323
+  size: 233, 188
+  orig: 233, 188
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: 180
+  xy: 122, 206
+  size: 117, 116
+  orig: 117, 116
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: false
+  xy: 473, 144
+  size: 31, 93
+  orig: 31, 93
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: false
+  xy: 463, 239
+  size: 41, 120
+  orig: 41, 120
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: false
+  xy: 237, 28
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: false
+  xy: 1, 345
+  size: 45, 88
+  orig: 45, 88
+  offset: 0, 0
+  index: -1
+bangs6
+  rotate: true
+  xy: 377, 137
+  size: 51, 96
+  orig: 51, 96
+  offset: 0, 0
+  index: -1
+dress1
+  rotate: true
+  xy: 377, 64
+  size: 71, 82
+  orig: 71, 82
+  offset: 0, 0
+  index: -1
+dress2
+  rotate: false
+  xy: 200, 323
+  size: 34, 75
+  orig: 34, 75
+  offset: 0, 0
+  index: -1
+dress3
+  rotate: 180
+  xy: 102, 130
+  size: 79, 74
+  orig: 79, 74
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 183, 132
+  size: 95, 56
+  orig: 95, 56
+  offset: 0, 0
+  index: -1
+eyehappy
+  rotate: false
+  xy: 1, 139
+  size: 83, 66
+  orig: 83, 66
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 183, 87
+  size: 80, 44
+  orig: 80, 44
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 280, 134
+  size: 96, 55
+  orig: 96, 55
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 415, 362
+  size: 93, 57
+  orig: 93, 57
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 1, 69
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1, 207
+  size: 115, 120
+  orig: 115, 120
+  offset: 0, 0
+  index: -1
+hairbow
+  rotate: true
+  xy: 129, 31
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+hairbun
+  rotate: false
+  xy: 280, 73
+  size: 76, 59
+  orig: 76, 59
+  offset: 0, 0
+  index: -1
+hairdec
+  rotate: false
+  xy: 315, 252
+  size: 146, 99
+  orig: 146, 99
+  offset: 0, 0
+  index: -1
+hairflower
+  rotate: false
+  xy: 70, 66
+  size: 55, 63
+  orig: 55, 63
+  offset: 0, 0
+  index: -1
+hairtop
+  rotate: true
+  xy: 315, 353
+  size: 157, 98
+  orig: 157, 98
+  offset: 0, 0
+  index: -1
+knife
+  rotate: true
+  xy: 462, 71
+  size: 65, 43
+  orig: 65, 43
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 494, 451
+  size: 13, 5
+  orig: 13, 5
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 494, 458
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 40, 328
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+staff
+  rotate: true
+  xy: 236, 277
+  size: 233, 77
+  orig: 233, 77
+  offset: 0, 0
+  index: -1
+staffglow1
+  rotate: false
+  xy: 241, 191
+  size: 112, 60
+  orig: 112, 60
+  offset: 0, 0
+  index: -1
+staffglow2
+  rotate: false
+  xy: 354, 191
+  size: 112, 60
+  orig: 112, 60
+  offset: 0, 0
+  index: -1
+torso
+  rotate: 180
+  xy: 127, 59
+  size: 57, 68
+  orig: 57, 68
+  offset: 0, 0
+  index: -1

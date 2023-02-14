@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "SD_Monster_DreamlessRook_Mind_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 2429232693668400296
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6589867259126322802
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5604509754876681307
+    }
+  ]
+}

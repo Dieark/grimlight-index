@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "Fullbody_Hero_Tin_Skin1_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 6672972515331594314
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 840762075221756662
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1315056257192128975
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1751536738213109156
+    }
+  ]
+}

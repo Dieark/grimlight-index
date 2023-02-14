@@ -1,0 +1,439 @@
+
+SD_Monster_Nightmare_Sentinel.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 381, 185
+  size: 129, 159
+  orig: 129, 159
+  offset: 0, 0
+  index: -1
+Lclaw2_1
+  rotate: false
+  xy: 381, 140
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: false
+  xy: 435, 150
+  size: 65, 34
+  orig: 65, 34
+  offset: 0, 0
+  index: -1
+Lshoulderplate
+  rotate: true
+  xy: 176, 9
+  size: 131, 175
+  orig: 161, 308
+  offset: 30, 133
+  index: -1
+Rarm
+  rotate: true
+  xy: 0, 104
+  size: 149, 176
+  orig: 149, 176
+  offset: 0, 0
+  index: -1
+Rfinger3_2
+  rotate: false
+  xy: 131, 3
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+Rshoulderplate
+  rotate: false
+  xy: 187, 138
+  size: 194, 162
+  orig: 194, 162
+  offset: 0, 0
+  index: -1
+Rtoe_1
+  rotate: false
+  xy: 497, 483
+  size: 12, 28
+  orig: 12, 28
+  offset: 0, 0
+  index: -1
+Sentinel_Roar
+  rotate: true
+  xy: 187, 299
+  size: 211, 187
+  orig: 215, 187
+  offset: 2, 0
+  index: -1
+backplate
+  rotate: false
+  xy: 374, 344
+  size: 123, 167
+  orig: 123, 167
+  offset: 0, 0
+  index: -1
+chest
+  rotate: false
+  xy: 0, 253
+  size: 187, 258
+  orig: 187, 258
+  offset: 0, 0
+  index: -1
+frontneckplate
+  rotate: true
+  xy: 0, 2
+  size: 103, 131
+  orig: 103, 131
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 350, 7
+  size: 131, 151
+  orig: 131, 151
+  offset: 0, 0
+  index: -1
+neckplate2
+  rotate: false
+  xy: 131, 36
+  size: 37, 69
+  orig: 37, 69
+  offset: 0, 0
+  index: -1
+
+SD_Monster_Nightmare_Sentinel2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 2
+  rotate: false
+  xy: 241, 467
+  size: 39, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: -1
+Lclaw1_1
+  rotate: false
+  xy: 85, 161
+  size: 28, 59
+  orig: 28, 59
+  offset: 0, 0
+  index: -1
+Lclaw1_2
+  rotate: false
+  xy: 262, 75
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+Lclaw2_2
+  rotate: false
+  xy: 200, 87
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+Lclaw3_1
+  rotate: false
+  xy: 144, 87
+  size: 56, 36
+  orig: 56, 36
+  offset: 0, 0
+  index: -1
+Lclaws3_2
+  rotate: true
+  xy: 85, 142
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+Lclaws4_1
+  rotate: true
+  xy: 231, 165
+  size: 50, 25
+  orig: 50, 25
+  offset: 0, 0
+  index: -1
+Lclaws4_2
+  rotate: false
+  xy: 280, 488
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+Lclaws5_1
+  rotate: false
+  xy: 335, 390
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+Lclaws5_2
+  rotate: true
+  xy: 131, 423
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+Lfootguard
+  rotate: false
+  xy: 398, 76
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 115, 141
+  size: 68, 84
+  orig: 68, 84
+  offset: 0, 0
+  index: -1
+Lhip
+  rotate: true
+  xy: 257, 153
+  size: 72, 98
+  orig: 72, 98
+  offset: 0, 0
+  index: -1
+Lkneeplate
+  rotate: true
+  xy: 293, 105
+  size: 49, 60
+  orig: 49, 60
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 85, 93
+  size: 60, 49
+  orig: 60, 49
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 131, 437
+  size: 74, 110
+  orig: 74, 110
+  offset: 0, 0
+  index: -1
+Ltoe1
+  rotate: true
+  xy: 241, 452
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+Ltoe2
+  rotate: true
+  xy: 85, 75
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+Ltoe3
+  rotate: true
+  xy: 228, 75
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+Relbow
+  rotate: true
+  xy: 0, 283
+  size: 114, 119
+  orig: 114, 119
+  offset: 0, 0
+  index: -1
+Rfinger1_1
+  rotate: false
+  xy: 355, 109
+  size: 62, 51
+  orig: 62, 51
+  offset: 0, 0
+  index: -1
+Rfinger1_2
+  rotate: false
+  xy: 417, 98
+  size: 61, 35
+  orig: 61, 35
+  offset: 0, 0
+  index: -1
+Rfinger2_1
+  rotate: true
+  xy: 52, 90
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+Rfinger2_2
+  rotate: true
+  xy: 478, 87
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+Rfinger3_1
+  rotate: false
+  xy: 437, 78
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+Rfingers4_1
+  rotate: false
+  xy: 310, 232
+  size: 60, 59
+  orig: 60, 59
+  offset: 0, 0
+  index: -1
+Rfingers4_2
+  rotate: true
+  xy: 417, 137
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: true
+  xy: 115, 232
+  size: 52, 42
+  orig: 52, 42
+  offset: 0, 0
+  index: -1
+Rfootguard
+  rotate: false
+  xy: 354, 84
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 375, 210
+  size: 82, 120
+  orig: 82, 120
+  offset: 0, 0
+  index: -1
+Rhip
+  rotate: true
+  xy: 0, 220
+  size: 64, 115
+  orig: 64, 115
+  offset: 0, 0
+  index: -1
+Rkneeplate
+  rotate: true
+  xy: 231, 102
+  size: 51, 62
+  orig: 51, 62
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 0, 91
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 242, 291
+  size: 98, 134
+  orig: 98, 134
+  offset: 0, 0
+  index: -1
+Rtoe_2
+  rotate: true
+  xy: 144, 124
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+Rtoe_3
+  rotate: true
+  xy: 0, 75
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+backspike1
+  rotate: true
+  xy: 119, 285
+  size: 100, 121
+  orig: 100, 121
+  offset: 0, 0
+  index: -1
+backspike2
+  rotate: false
+  xy: 0, 397
+  size: 131, 115
+  orig: 131, 115
+  offset: 0, 0
+  index: -1
+eyeblack
+  rotate: false
+  xy: 293, 85
+  size: 56, 20
+  orig: 56, 20
+  offset: 0, 0
+  index: -1
+headcrest
+  rotate: true
+  xy: 355, 160
+  size: 49, 92
+  orig: 49, 92
+  offset: 0, 0
+  index: -1
+headfeathers
+  rotate: false
+  xy: 157, 215
+  size: 153, 77
+  orig: 153, 77
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 375, 388
+  size: 123, 120
+  orig: 123, 120
+  offset: 0, 0
+  index: -1
+neckguardback
+  rotate: false
+  xy: 183, 123
+  size: 48, 92
+  orig: 48, 92
+  offset: 0, 0
+  index: -1
+neckplate1
+  rotate: false
+  xy: 447, 133
+  size: 53, 76
+  orig: 53, 76
+  offset: 0, 0
+  index: -1
+orbdead
+  rotate: false
+  xy: 0, 138
+  size: 85, 81
+  orig: 85, 81
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: true
+  xy: 375, 291
+  size: 97, 124
+  orig: 97, 124
+  offset: 0, 0
+  index: -1
+tail
+  rotate: 180
+  xy: 130, 384
+  size: 245, 127
+  orig: 245, 127
+  offset: 0, 0
+  index: -1

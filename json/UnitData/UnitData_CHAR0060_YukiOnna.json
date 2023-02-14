@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 429
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0060_YukiOnna",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -727,29 +751,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 30715
+    "m_PathID": 4800991878209368381
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 30207
+      "m_PathID": -4741784534427260903
     },
     {
       "m_FileID": 0,
-      "m_PathID": 30208
+      "m_PathID": 6776416577896577107
     },
     {
       "m_FileID": 0,
-      "m_PathID": 30209
+      "m_PathID": -2884130690130644693
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 30206
+    "m_PathID": 8535058085264069264
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 30205
+    "m_PathID": 5455743409265190868
   },
   "Gender": 0,
   "Age": -1

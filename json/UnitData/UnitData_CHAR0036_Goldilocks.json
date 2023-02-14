@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 429
+    "m_PathID": 431
   },
   "m_Name": "UnitData_CHAR0036_Goldilocks",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -702,23 +726,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 31551
+      "m_PathID": 3395
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31552
+      "m_PathID": 3396
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31553
+      "m_PathID": 3397
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31554
+      "m_PathID": 3398
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31555
+      "m_PathID": 3399
     }
   ],
   "unitStatData": {
@@ -775,21 +799,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 30662
+    "m_PathID": 3230
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 30012
+      "m_PathID": 2755
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 30011
+    "m_PathID": 2754
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 30010
+    "m_PathID": 2753
   },
   "Gender": 0,
   "Age": 18

@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "SD_Monster_PhantomHelm_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 5527941772691677373
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6571767507354910161
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1333934995702360524
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8356442519014589007
+    }
+  ]
+}

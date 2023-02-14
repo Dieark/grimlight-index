@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "SD_Monster_DarkSlime_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 3178345541704868194
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 381260044699208602
+    }
+  ]
+}

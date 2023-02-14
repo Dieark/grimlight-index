@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "SD_Hero_Redknight_Skin1_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 3276476876780126296
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4547182615435849300
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4322501055293023973
+    }
+  ]
+}

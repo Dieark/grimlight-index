@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 439
   },
   "m_Name": "UnitData_CHAR0050_Siegfried",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -727,21 +751,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": -7618870095058432204
+    "m_PathID": 35771
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": -112327470470215352
+      "m_PathID": 35211
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 1364573351184067804
+    "m_PathID": 35210
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": -6277235316734031919
+    "m_PathID": 35209
   },
   "Gender": 1,
   "Age": 22

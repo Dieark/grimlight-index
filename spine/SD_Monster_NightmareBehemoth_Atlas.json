@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "SD_Monster_NightmareBehemoth_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -4636335352421132876
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1181168950375826131
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3354463296750117062
+    }
+  ]
+}

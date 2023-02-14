@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "SD_Hero_Hansel_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -4767545797646096077
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5371369999167636110
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8247825537453260280
+    }
+  ]
+}

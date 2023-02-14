@@ -1,0 +1,426 @@
+
+SD_Hero_Romeo.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lhand
+  rotate: false
+  xy: 232, 263
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 474, 289
+  size: 26, 86
+  orig: 26, 86
+  offset: 0, 0
+  index: -1
+Llowerarm
+  rotate: true
+  xy: 47, 2
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 310, 329
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+Lupperarm
+  rotate: false
+  xy: 450, 324
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+Rcape1
+  rotate: true
+  xy: 335, 24
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+Rcape2
+  rotate: true
+  xy: 479, 403
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+Rcape3
+  rotate: 180
+  xy: 438, 42
+  size: 72, 104
+  orig: 72, 104
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 207, 262
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 176, 172
+  size: 28, 86
+  orig: 28, 86
+  offset: 0, 0
+  index: -1
+Rlowerarm
+  rotate: true
+  xy: 155, 5
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 18, 92
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+Rupperam
+  rotate: false
+  xy: 345, 110
+  size: 24, 41
+  orig: 24, 41
+  offset: 0, 0
+  index: -1
+backhair1
+  rotate: false
+  xy: 176, 152
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+backhair2
+  rotate: false
+  xy: 7, 100
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+backhair3
+  rotate: false
+  xy: 320, 206
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: false
+  xy: 464, 11
+  size: 26, 74
+  orig: 26, 74
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: true
+  xy: 81, 9
+  size: 47, 92
+  orig: 47, 92
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: false
+  xy: 494, 191
+  size: 15, 48
+  orig: 15, 48
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: true
+  xy: 197, 8
+  size: 51, 59
+  orig: 51, 59
+  offset: 0, 0
+  index: -1
+bangs6
+  rotate: false
+  xy: 56, 78
+  size: 59, 92
+  orig: 59, 92
+  offset: 0, 0
+  index: -1
+bangs7
+  rotate: false
+  xy: 452, 187
+  size: 54, 80
+  orig: 54, 80
+  offset: 0, 0
+  index: -1
+bansg4
+  rotate: false
+  xy: 479, 435
+  size: 26, 75
+  orig: 26, 75
+  offset: 0, 0
+  index: -1
+beltflap1
+  rotate: false
+  xy: 488, 145
+  size: 18, 45
+  orig: 18, 45
+  offset: 0, 0
+  index: -1
+beltflap2
+  rotate: false
+  xy: 251, 264
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+beltflap3
+  rotate: false
+  xy: 294, 264
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+bladeglow
+  rotate: true
+  xy: 116, 122
+  size: 136, 61
+  orig: 136, 61
+  offset: 0, 0
+  index: -1
+bottomhair
+  rotate: 180
+  xy: 311, 233
+  size: 164, 131
+  orig: 164, 131
+  offset: 0, 0
+  index: -1
+cape2accessory1
+  rotate: false
+  xy: 68, 135
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+cape2accessory2
+  rotate: false
+  xy: 0, 95
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+cape2back
+  rotate: 270
+  xy: 0, 25
+  size: 68, 82
+  orig: 68, 82
+  offset: 0, 0
+  index: -1
+cape2flap1
+  rotate: false
+  xy: 463, 123
+  size: 28, 82
+  orig: 28, 82
+  offset: 0, 0
+  index: -1
+cape2flap2
+  rotate: false
+  xy: 489, 35
+  size: 19, 76
+  orig: 19, 76
+  offset: 0, 0
+  index: -1
+cape3back
+  rotate: 180
+  xy: 320, 150
+  size: 141, 96
+  orig: 141, 96
+  offset: 0, 0
+  index: -1
+cape3flap1
+  rotate: true
+  xy: 342, 8
+  size: 32, 75
+  orig: 32, 75
+  offset: 0, 0
+  index: -1
+earring2
+  rotate: false
+  xy: 193, 150
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+earring3
+  rotate: false
+  xy: 282, 263
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 197, 59
+  size: 86, 41
+  orig: 86, 41
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 366, 51
+  size: 72, 42
+  orig: 72, 42
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 112, 58
+  size: 85, 42
+  orig: 85, 42
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 283, 58
+  size: 83, 42
+  orig: 83, 42
+  offset: 0, 0
+  index: -1
+eyshocked
+  rotate: false
+  xy: 0, 109
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+hairtail
+  rotate: false
+  xy: 0, 171
+  size: 116, 87
+  orig: 116, 87
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 207, 148
+  size: 112, 114
+  orig: 112, 114
+  offset: 0, 0
+  index: -1
+mouthgrit
+  rotate: false
+  xy: 0, 342
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 13, 345
+  size: 9, 4
+  orig: 9, 4
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 334, 354
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 265, 267
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: 180
+  xy: 256, 26
+  size: 52, 32
+  orig: 52, 32
+  offset: 0, 0
+  index: -1
+shoulderfluff
+  rotate: false
+  xy: 372, 247
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+slash1
+  rotate: false
+  xy: 207, 281
+  size: 103, 60
+  orig: 106, 62
+  offset: 2, 1
+  index: -1
+slash2
+  rotate: false
+  xy: 176, 100
+  size: 169, 48
+  orig: 171, 49
+  offset: 1, 1
+  index: -1
+slash3
+  rotate: false
+  xy: 334, 363
+  size: 145, 147
+  orig: 148, 149
+  offset: 1, 1
+  index: -1
+slash4
+  rotate: false
+  xy: 189, 341
+  size: 145, 169
+  orig: 148, 171
+  offset: 1, 1
+  index: -1
+slash5
+  rotate: false
+  xy: 0, 348
+  size: 189, 162
+  orig: 191, 164
+  offset: 0, 1
+  index: -1
+torso
+  rotate: 270
+  xy: 370, 92
+  size: 58, 76
+  orig: 58, 76
+  offset: 0, 0
+  index: -1
+torsoaccessory1
+  rotate: true
+  xy: 308, 22
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+torsoaccessory2
+  rotate: false
+  xy: 0, 52
+  size: 13, 27
+  orig: 13, 27
+  offset: 0, 0
+  index: -1
+torsoaccessory3
+  rotate: false
+  xy: 32, 89
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 0, 258
+  size: 208, 84
+  orig: 208, 84
+  offset: 0, 0
+  index: -1

@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 397
+    "m_PathID": 431
   },
   "m_Name": "UnitData_CHAR0065_RedKing",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -727,25 +751,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2677
+    "m_PathID": 3260
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2298
+      "m_PathID": 2870
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2299
+      "m_PathID": 2871
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2297
+    "m_PathID": 2869
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2296
+    "m_PathID": 2868
   },
   "Gender": 1,
   "Age": -1

@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "SD_Hero_Beast_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -668153288713695771
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3052561869619852187
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2018631768937705502
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2551947781839384496
+    }
+  ]
+}

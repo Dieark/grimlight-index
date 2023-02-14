@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "SD_Hero_WhiteRabbit_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 7522301374210889502
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2907404754725335122
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4372006388913528077
+    }
+  ]
+}

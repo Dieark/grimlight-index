@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 439
   },
   "m_Name": "UnitData_CHAR0066_RedQueen",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -727,29 +751,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": -7762751475957881371
+    "m_PathID": 35764
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": -3992182468070939605
+      "m_PathID": 35185
     },
     {
       "m_FileID": 0,
-      "m_PathID": -8101185873408393667
+      "m_PathID": 35184
     },
     {
       "m_FileID": 0,
-      "m_PathID": 4976275653181390338
+      "m_PathID": 35186
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 424434824772056862
+    "m_PathID": 35183
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": -3794871944820106522
+    "m_PathID": 35182
   },
   "Gender": 0,
   "Age": -1

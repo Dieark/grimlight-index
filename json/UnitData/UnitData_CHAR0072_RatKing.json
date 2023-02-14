@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 397
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0072_RatKing",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -727,25 +751,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2676
+    "m_PathID": 6068007409622016962
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2295
+      "m_PathID": -979376481117958803
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2294
+      "m_PathID": -2186397149948251268
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2293
+    "m_PathID": 7780465572616082871
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2292
+    "m_PathID": -1369438391569448632
   },
   "Gender": 1,
   "Age": -1

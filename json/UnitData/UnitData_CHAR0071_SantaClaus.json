@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 397
+    "m_PathID": 431
   },
   "m_Name": "UnitData_CHAR0071_SantaClaus",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -727,29 +751,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2683
+    "m_PathID": 3267
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2323
+      "m_PathID": 2899
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2322
+      "m_PathID": 2898
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2321
+      "m_PathID": 2897
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2320
+    "m_PathID": 2896
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2319
+    "m_PathID": 2895
   },
   "Gender": 1,
   "Age": -1

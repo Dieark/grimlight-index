@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 397
+    "m_PathID": 431
   },
   "m_Name": "UnitData_CHAR0070_Krampus",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -727,29 +751,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2658
+    "m_PathID": 3241
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2233
+      "m_PathID": 2805
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2232
+      "m_PathID": 2804
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2231
+      "m_PathID": 2803
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2230
+    "m_PathID": 2802
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2229
+    "m_PathID": 2801
   },
   "Gender": 0,
   "Age": -1

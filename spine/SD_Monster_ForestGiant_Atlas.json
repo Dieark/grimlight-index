@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "SD_Monster_ForestGiant_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -825221318897633011
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3542902403169228162
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1334162896765836958
+    }
+  ]
+}

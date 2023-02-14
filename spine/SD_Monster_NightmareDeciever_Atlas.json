@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "SD_Monster_NightmareDeciever_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -5270480096617388664
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5164149042118194905
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 573933137511272514
+    }
+  ]
+}

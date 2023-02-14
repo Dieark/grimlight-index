@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "Fullbody_Hero_Geppeto_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -6454368243638814901
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4775137246749360845
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3004313039820170580
+    }
+  ]
+}

@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 429
+    "m_PathID": 431
   },
   "m_Name": "UnitData_CHAR0040_Tinman",
   "removeFromGame": 0,
@@ -429,8 +429,32 @@
           }
         }
       ],
+      "altUnlockCost": [],
       "resetCost": [],
-      "bonusStats": []
+      "bonusStats": [],
+      "AwakeningReplacement": {
+        "Replacement3": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement4": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        },
+        "Replacement5": {
+          "objectReference": {
+            "objectType": 0,
+            "objectID": ""
+          },
+          "itemCount": 0
+        }
+      }
     },
     "skillComponentData": {
       "skillDataList": [
@@ -608,23 +632,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 31591
+      "m_PathID": 3435
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31592
+      "m_PathID": 3436
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31593
+      "m_PathID": 3437
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31594
+      "m_PathID": 3438
     },
     {
       "m_FileID": 0,
-      "m_PathID": 31595
+      "m_PathID": 3439
     }
   ],
   "unitStatData": {
@@ -681,12 +705,12 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 30706
+    "m_PathID": 3276
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 30171
+      "m_PathID": 2923
     }
   ],
   "passiveAbility": {
@@ -695,7 +719,7 @@
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 30170
+    "m_PathID": 2922
   },
   "Gender": 0,
   "Age": 27
