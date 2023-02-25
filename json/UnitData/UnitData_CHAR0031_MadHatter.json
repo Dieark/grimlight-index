@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 448
   },
   "m_Name": "UnitData_CHAR0031_MadHatter",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0031",
     "startingTier": 4,
@@ -691,10 +710,16 @@
       }
     ],
     "heroStoriesItemList": [],
-    "heroSkinItemList": []
+    "heroSkinItemList": [
+      {
+        "objectType": 17,
+        "objectID": "MadHatter_Skin2"
+      }
+    ]
   },
   "skinAssetNames": [
-    "UnitSkinAssets_Char0031_MadHatter"
+    "UnitSkinAssets_Char0031_MadHatter",
+    "UnitSkinAssets_Char0031_MadHatter_Skin2"
   ],
   "storyDatas": [],
   "unitStatData": {
@@ -751,25 +776,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": -8771157027667815576
+    "m_PathID": 35793
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": -5253925773546181174
+      "m_PathID": 35156
     },
     {
       "m_FileID": 0,
-      "m_PathID": 242522588677444783
+      "m_PathID": 35157
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": -5720430862232163242
+    "m_PathID": 35155
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": -7031691457445248849
+    "m_PathID": 35154
   },
   "Gender": 1,
   "Age": 36

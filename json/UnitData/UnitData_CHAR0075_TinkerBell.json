@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 439
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0075_TinkerBell",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0075",
     "startingTier": 5,
@@ -751,29 +770,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 35779
+    "m_PathID": 2237698580375964986
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 35235
+      "m_PathID": 6320797396271151328
     },
     {
       "m_FileID": 0,
-      "m_PathID": 35234
+      "m_PathID": -4229109042422167977
     },
     {
       "m_FileID": 0,
-      "m_PathID": 35233
+      "m_PathID": 6670359444082857415
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 35232
+    "m_PathID": 803718977379471228
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 35231
+    "m_PathID": -853531772254447791
   },
   "Gender": 0,
   "Age": -1

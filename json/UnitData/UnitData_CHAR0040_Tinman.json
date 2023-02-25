@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 431
+    "m_PathID": 438
   },
   "m_Name": "UnitData_CHAR0040_Tinman",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0040",
     "startingTier": 3,
@@ -632,23 +651,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 3435
+      "m_PathID": 3361
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3436
+      "m_PathID": 3362
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3437
+      "m_PathID": 3363
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3438
+      "m_PathID": 3364
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3439
+      "m_PathID": 3365
     }
   ],
   "unitStatData": {
@@ -705,12 +724,12 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3276
+    "m_PathID": 3196
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2923
+      "m_PathID": 2828
     }
   ],
   "passiveAbility": {
@@ -719,7 +738,7 @@
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2922
+    "m_PathID": 2827
   },
   "Gender": 0,
   "Age": 27

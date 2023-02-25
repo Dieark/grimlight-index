@@ -1,0 +1,335 @@
+
+SD_Hero_TsuruNyobo.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Head
+  rotate: false
+  xy: 0, 356
+  size: 152, 157
+  orig: 152, 157
+  offset: 0, 0
+  index: -1
+Larm
+  rotate: false
+  xy: 328, 147
+  size: 38, 49
+  orig: 46, 49
+  offset: 8, 0
+  index: -1
+Lhand
+  rotate: true
+  xy: 208, 44
+  size: 35, 56
+  orig: 35, 56
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: 270
+  xy: 201, 79
+  size: 35, 95
+  orig: 35, 98
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 0, 76
+  size: 32, 82
+  orig: 32, 82
+  offset: 0, 0
+  index: -1
+Lwing
+  rotate: true
+  xy: 409, 66
+  size: 67, 100
+  orig: 85, 122
+  offset: 0, 0
+  index: -1
+Lwing2
+  rotate: false
+  xy: 245, 111
+  size: 93, 92
+  orig: 100, 115
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 0, 38
+  size: 45, 39
+  orig: 58, 52
+  offset: 0, 13
+  index: -1
+Rhand
+  rotate: true
+  xy: 154, 48
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 331, 95
+  size: 36, 92
+  orig: 36, 92
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 448, 52
+  size: 34, 64
+  orig: 34, 64
+  offset: 0, 0
+  index: -1
+Rwing
+  rotate: true
+  xy: 88, 112
+  size: 71, 114
+  orig: 71, 122
+  offset: 0, 0
+  index: -1
+Rwing2
+  rotate: true
+  xy: 361, 118
+  size: 84, 88
+  orig: 92, 123
+  offset: 8, 0
+  index: -1
+Torso
+  rotate: 270
+  xy: 324, 193
+  size: 62, 74
+  orig: 62, 74
+  offset: 0, 0
+  index: -1
+bang
+  rotate: 270
+  xy: 295, 66
+  size: 50, 119
+  orig: 50, 119
+  offset: 0, 0
+  index: -1
+bangs
+  rotate: 270
+  xy: 146, 327
+  size: 185, 138
+  orig: 185, 138
+  offset: 0, 0
+  index: -1
+coatR
+  rotate: 270
+  xy: 98, 225
+  size: 47, 147
+  orig: 47, 147
+  offset: 0, 0
+  index: -1
+coat_back
+  rotate: true
+  xy: 395, 368
+  size: 144, 112
+  orig: 144, 112
+  offset: 0, 0
+  index: -1
+decor_string
+  rotate: true
+  xy: 394, 28
+  size: 47, 106
+  orig: 47, 106
+  offset: 0, 0
+  index: -1
+decor_string2
+  rotate: true
+  xy: 73, 29
+  size: 29, 113
+  orig: 29, 113
+  offset: 0, 0
+  index: -1
+decor_wing
+  rotate: true
+  xy: 398, 195
+  size: 48, 86
+  orig: 48, 86
+  offset: 0, 0
+  index: -1
+decor_wing2
+  rotate: 180
+  xy: 81, 65
+  size: 84, 47
+  orig: 84, 47
+  offset: 0, 0
+  index: -1
+decor_wing3
+  rotate: true
+  xy: 264, 25
+  size: 54, 60
+  orig: 54, 60
+  offset: 0, 0
+  index: -1
+dress
+  rotate: true
+  xy: 268, 297
+  size: 72, 101
+  orig: 72, 101
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 0, 221
+  size: 98, 52
+  orig: 98, 52
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 93, 273
+  size: 119, 55
+  orig: 119, 55
+  offset: 0, 0
+  index: -1
+eyshocked
+  rotate: false
+  xy: 395, 294
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+feather
+  rotate: true
+  xy: 0, 108
+  size: 26, 126
+  orig: 28, 128
+  offset: 1, 1
+  index: -1
+fringeL
+  rotate: false
+  xy: 445, 132
+  size: 54, 63
+  orig: 54, 63
+  offset: 0, 0
+  index: -1
+fringeL2
+  rotate: false
+  xy: 483, 204
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+fringeR
+  rotate: true
+  xy: 0, 152
+  size: 41, 89
+  orig: 41, 89
+  offset: 0, 0
+  index: -1
+fringeR2
+  rotate: false
+  xy: 44, 38
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: true
+  xy: 131, 160
+  size: 65, 114
+  orig: 65, 114
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: 270
+  xy: 212, 255
+  size: 53, 151
+  orig: 53, 151
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 284, 369
+  size: 110, 143
+  orig: 110, 143
+  offset: 0, 0
+  index: -1
+hair_ribbon
+  rotate: true
+  xy: 0, 194
+  size: 28, 150
+  orig: 28, 150
+  offset: 0, 0
+  index: -1
+hair_ribbon2
+  rotate: true
+  xy: 363, 243
+  size: 51, 124
+  orig: 51, 124
+  offset: 0, 0
+  index: -1
+hairbun1
+  rotate: false
+  xy: 201, 115
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1
+hairbun2
+  rotate: false
+  xy: 0, 283
+  size: 93, 74
+  orig: 93, 74
+  offset: 0, 0
+  index: -1
+knife
+  rotate: false
+  xy: 245, 202
+  size: 80, 53
+  orig: 80, 53
+  offset: 0, 0
+  index: -1
+mouthgrit
+  rotate: false
+  xy: 234, 504
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 214, 508
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 395, 500
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 256, 493
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+obi_bow
+  rotate: false
+  xy: 321, 33
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+obi_ribbonL
+  rotate: false
+  xy: 368, 329
+  size: 17, 41
+  orig: 17, 41
+  offset: 0, 0
+  index: -1
+obi_ribbonR
+  rotate: false
+  xy: 152, 400
+  size: 20, 43
+  orig: 20, 43
+  offset: 0, 0
+  index: -1

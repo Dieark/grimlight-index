@@ -1,0 +1,181 @@
+
+SD_Monster_Banshee.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lfinger
+  rotate: false
+  xy: 350, 421
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: true
+  xy: 329, 48
+  size: 112, 54
+  orig: 112, 54
+  offset: 0, 0
+  index: -1
+Lsleeve
+  rotate: false
+  xy: 0, 64
+  size: 65, 119
+  orig: 65, 119
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 383, 108
+  size: 81, 36
+  orig: 81, 36
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 337, 180
+  size: 67, 84
+  orig: 67, 84
+  offset: 0, 0
+  index: -1
+Rsleeve
+  rotate: true
+  xy: 330, 299
+  size: 86, 91
+  orig: 86, 91
+  offset: 0, 0
+  index: -1
+Rsleeve_back
+  rotate: true
+  xy: 64, 73
+  size: 69, 54
+  orig: 69, 54
+  offset: 0, 0
+  index: -1
+bang
+  rotate: 180
+  xy: 379, 354
+  size: 85, 105
+  orig: 85, 105
+  offset: 0, 0
+  index: -1
+dress
+  rotate: true
+  xy: 0, 76
+  size: 246, 263
+  orig: 246, 263
+  offset: 0, 0
+  index: -1
+dress2
+  rotate: false
+  xy: 0, 296
+  size: 262, 196
+  orig: 262, 196
+  offset: 0, 0
+  index: -1
+eyedark
+  rotate: false
+  xy: 0, 278
+  size: 63, 22
+  orig: 63, 22
+  offset: 0, 0
+  index: -1
+eyeglow
+  rotate: false
+  xy: 336, 6
+  size: 76, 42
+  orig: 76, 42
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 380, 473
+  size: 59, 18
+  orig: 59, 18
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 279, 275
+  size: 86, 109
+  orig: 86, 109
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 383, 6
+  size: 59, 71
+  orig: 59, 71
+  offset: 0, 0
+  index: -1
+hair2x
+  rotate: true
+  xy: 241, 199
+  size: 128, 107
+  orig: 128, 107
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: false
+  xy: 296, 137
+  size: 43, 102
+  orig: 43, 102
+  offset: 0, 0
+  index: -1
+hair4
+  rotate: false
+  xy: 416, 432
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+hairback
+  rotate: 180
+  xy: 29, 2
+  size: 217, 106
+  orig: 217, 106
+  offset: 0, 0
+  index: -1
+hairback2
+  rotate: 270
+  xy: 384, 221
+  size: 83, 54
+  orig: 83, 54
+  offset: 0, 0
+  index: -1
+hairback3
+  rotate: 270
+  xy: 242, 16
+  size: 138, 98
+  orig: 138, 98
+  offset: 0, 0
+  index: -1
+hairback4
+  rotate: true
+  xy: 357, 365
+  size: 127, 60
+  orig: 127, 60
+  offset: 0, 0
+  index: -1
+hairback5
+  rotate: false
+  xy: 0, 38
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 262, 384
+  size: 89, 108
+  orig: 89, 108
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 207, 449
+  size: 54, 43
+  orig: 54, 43
+  offset: 0, 0
+  index: -1

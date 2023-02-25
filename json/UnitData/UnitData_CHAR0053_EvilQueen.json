@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 431
+    "m_PathID": 448
   },
   "m_Name": "UnitData_CHAR0053_EvilQueen",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0053",
     "startingTier": 5,
@@ -751,29 +770,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3226
+    "m_PathID": 35774
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2741
+      "m_PathID": 35078
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2739
+      "m_PathID": 35076
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2740
+      "m_PathID": 35077
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2738
+    "m_PathID": 35075
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2737
+    "m_PathID": 35074
   },
   "Gender": 0,
   "Age": -1

@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 448
   },
   "m_Name": "UnitData_CHAR0060_YukiOnna",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0060",
     "startingTier": 5,
@@ -751,29 +770,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 4800991878209368381
+    "m_PathID": 35835
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": -4741784534427260903
+      "m_PathID": 35306
     },
     {
       "m_FileID": 0,
-      "m_PathID": 6776416577896577107
+      "m_PathID": 35307
     },
     {
       "m_FileID": 0,
-      "m_PathID": -2884130690130644693
+      "m_PathID": 35308
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 8535058085264069264
+    "m_PathID": 35305
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 5455743409265190868
+    "m_PathID": 35304
   },
   "Gender": 0,
   "Age": -1

@@ -1,0 +1,272 @@
+
+SD_Monster_PigStick.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+-
+  rotate: true
+  xy: 163, 380
+  size: 133, 135
+  orig: 133, 135
+  offset: 0, 0
+  index: -1
+Lear
+  rotate: true
+  xy: 366, 156
+  size: 52, 61
+  orig: 52, 61
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 116, 305
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 165, 162
+  size: 29, 96
+  orig: 29, 96
+  offset: 0, 0
+  index: -1
+Llowerarm
+  rotate: false
+  xy: 254, 345
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 498, 476
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+Lupperarm
+  rotate: false
+  xy: 479, 161
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+Rear
+  rotate: true
+  xy: 0, 161
+  size: 51, 68
+  orig: 51, 68
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 0, 307
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 156, 347
+  size: 33, 97
+  orig: 33, 97
+  offset: 0, 0
+  index: -1
+Rlowerarm
+  rotate: false
+  xy: 309, 157
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 498, 491
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+Rupperarm
+  rotate: false
+  xy: 218, 191
+  size: 29, 54
+  orig: 29, 54
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: true
+  xy: 156, 304
+  size: 43, 158
+  orig: 43, 158
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: false
+  xy: 298, 327
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: true
+  xy: 257, 186
+  size: 63, 110
+  orig: 63, 110
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: true
+  xy: 28, 305
+  size: 25, 88
+  orig: 25, 88
+  offset: 0, 0
+  index: -1
+bottomhair
+  rotate: false
+  xy: 0, 384
+  size: 163, 129
+  orig: 163, 129
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 0, 212
+  size: 94, 60
+  orig: 94, 60
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: true
+  xy: 464, 339
+  size: 85, 47
+  orig: 85, 47
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 392, 259
+  size: 103, 59
+  orig: 103, 59
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 200, 244
+  size: 101, 59
+  orig: 101, 59
+  offset: 0, 0
+  index: -1
+eyshocked
+  rotate: false
+  xy: 314, 249
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+hatbacak
+  rotate: false
+  xy: 0, 272
+  size: 200, 32
+  orig: 200, 32
+  offset: 0, 0
+  index: -1
+hatfront
+  rotate: false
+  xy: 298, 424
+  size: 200, 88
+  orig: 200, 88
+  offset: 0, 0
+  index: -1
+hatstrap2
+  rotate: false
+  xy: 498, 451
+  size: 7, 24
+  orig: 7, 24
+  offset: 0, 0
+  index: -1
+hatstrap3
+  rotate: false
+  xy: 505, 455
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+hatstrap4
+  rotate: false
+  xy: 379, 329
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+mouthgrit
+  rotate: false
+  xy: 0, 377
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 15, 380
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 498, 440
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 280, 349
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+pigtail1
+  rotate: true
+  xy: 0, 330
+  size: 55, 157
+  orig: 55, 157
+  offset: 0, 0
+  index: -1
+pigtail2
+  rotate: true
+  xy: 94, 204
+  size: 41, 122
+  orig: 41, 122
+  offset: 0, 0
+  index: -1
+sticks
+  rotate: false
+  xy: 392, 208
+  size: 107, 51
+  orig: 107, 51
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 427, 175
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+topbangs
+  rotate: false
+  xy: 68, 177
+  size: 98, 34
+  orig: 98, 34
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 396, 319
+  size: 68, 106
+  orig: 68, 106
+  offset: 0, 0
+  index: -1

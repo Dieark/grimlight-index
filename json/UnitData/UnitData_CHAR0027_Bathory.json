@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 438
   },
   "m_Name": "UnitData_CHAR0027_Bathory",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0027",
     "startingTier": 4,
@@ -757,21 +776,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": -3930280313609539146
+    "m_PathID": 3133
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 4158875828238421937
+      "m_PathID": 2597
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": -2902614906410083014
+    "m_PathID": 2596
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 3034380223413092900
+    "m_PathID": 2595
   },
   "Gender": 0,
   "Age": -1

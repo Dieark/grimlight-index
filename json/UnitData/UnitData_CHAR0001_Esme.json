@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 448
   },
   "m_Name": "UnitData_CHAR0001_Esme",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0001",
     "startingTier": 4,
@@ -731,23 +750,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 484315098674111504
+      "m_PathID": 36712
     },
     {
       "m_FileID": 0,
-      "m_PathID": -7534308005647225744
+      "m_PathID": 36713
     },
     {
       "m_FileID": 0,
-      "m_PathID": -618472331808185009
+      "m_PathID": 36714
     },
     {
       "m_FileID": 0,
-      "m_PathID": -130422670799050711
+      "m_PathID": 36715
     },
     {
       "m_FileID": 0,
-      "m_PathID": -8722737781009150331
+      "m_PathID": 36716
     }
   ],
   "unitStatData": {
@@ -804,21 +823,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 1942575440262661413
+    "m_PathID": 35773
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 3697729047045236337
+      "m_PathID": 35073
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 3951103972787493190
+    "m_PathID": 35072
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": -1093268284598888304
+    "m_PathID": 35071
   },
   "Gender": 0,
   "Age": -1

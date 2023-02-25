@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 431
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0043_Gretel",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0043",
     "startingTier": 3,
@@ -657,16 +676,16 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3231
+    "m_PathID": -6388849300451833974
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2757
+      "m_PathID": -1175214094258165657
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2758
+      "m_PathID": 3968167368061755466
     }
   ],
   "passiveAbility": {
@@ -675,7 +694,7 @@
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2756
+    "m_PathID": 41644697825733595
   },
   "Gender": 0,
   "Age": 17

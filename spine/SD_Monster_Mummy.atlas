@@ -1,0 +1,69 @@
+
+SD_Monster_Mummy.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 399, 360
+  size: 58, 140
+  orig: 58, 140
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: 270
+  xy: 343, 311
+  size: 44, 119
+  orig: 44, 119
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: 180
+  xy: 365, 355
+  size: 39, 146
+  orig: 39, 147
+  offset: 0, 1
+  index: -1
+Rleg
+  rotate: false
+  xy: 457, 368
+  size: 42, 132
+  orig: 42, 132
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 264, 348
+  size: 102, 152
+  orig: 102, 152
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 131, 313
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 0, 336
+  size: 159, 164
+  orig: 159, 164
+  offset: 0, 0
+  index: -1
+head_cloth
+  rotate: true
+  xy: 0, 301
+  size: 35, 132
+  orig: 35, 132
+  offset: 0, 0
+  index: -1
+sword
+  rotate: true
+  xy: 159, 335
+  size: 165, 105
+  orig: 165, 105
+  offset: 0, 0
+  index: -1

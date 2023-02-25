@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 45
   },
   "m_Name": "UnitData_CHAR0015_Alice",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0015",
     "startingTier": 5,
@@ -767,25 +786,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 8171030483865535829
+    "m_PathID": 111
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 4068607707639125587
+      "m_PathID": 109
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3989424657289506799
+      "m_PathID": 108
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": -3240793437133229187
+    "m_PathID": 107
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2164943359265356403
+    "m_PathID": 106
   },
   "Gender": 0,
   "Age": -1

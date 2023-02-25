@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 439
+    "m_PathID": 448
   },
   "m_Name": "UnitData_CHAR0005_Nyx",
   "removeFromGame": 1,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0005",
     "startingTier": 4,
@@ -562,7 +581,7 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 35752
+    "m_PathID": 35798
   },
   "traits": [],
   "passiveAbility": {

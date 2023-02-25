@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 431
+    "m_PathID": 448
   },
   "m_Name": "UnitData_CHAR0070_Krampus",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0070",
     "startingTier": 5,
@@ -751,29 +770,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3241
+    "m_PathID": 35789
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2805
+      "m_PathID": 35142
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2804
+      "m_PathID": 35141
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2803
+      "m_PathID": 35140
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2802
+    "m_PathID": 35139
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2801
+    "m_PathID": 35138
   },
   "Gender": 0,
   "Age": -1

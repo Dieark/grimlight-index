@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 438
   },
   "m_Name": "UnitData_CHAR0017_TamamoNoMai",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0017",
     "startingTier": 5,
@@ -762,25 +781,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": -498262710863701051
+    "m_PathID": 3191
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2472880894518837969
+      "m_PathID": 2814
     },
     {
       "m_FileID": 0,
-      "m_PathID": -123941781081997226
+      "m_PathID": 2815
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": -5813436432796359283
+    "m_PathID": 2813
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 779274987349538271
+    "m_PathID": 2812
   },
   "Gender": 0,
   "Age": -1

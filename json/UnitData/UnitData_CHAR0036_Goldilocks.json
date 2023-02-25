@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 431
+    "m_PathID": 438
   },
   "m_Name": "UnitData_CHAR0036_Goldilocks",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0036",
     "startingTier": 4,
@@ -726,23 +745,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 3395
+      "m_PathID": 3321
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3396
+      "m_PathID": 3322
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3397
+      "m_PathID": 3323
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3398
+      "m_PathID": 3324
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3399
+      "m_PathID": 3325
     }
   ],
   "unitStatData": {
@@ -799,21 +818,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3230
+    "m_PathID": 3148
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2755
+      "m_PathID": 2650
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2754
+    "m_PathID": 2649
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2753
+    "m_PathID": 2648
   },
   "Gender": 0,
   "Age": 18

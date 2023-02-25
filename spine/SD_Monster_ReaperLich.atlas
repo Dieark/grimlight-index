@@ -1,0 +1,159 @@
+
+SD_Monster_ReaperLich.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 324, 18
+  size: 17, 68
+  orig: 17, 68
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: 270
+  xy: 198, 5
+  size: 35, 126
+  orig: 35, 126
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 168, 54
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 168, 128
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+hood_back
+  rotate: true
+  xy: 168, 40
+  size: 100, 157
+  orig: 100, 157
+  offset: 0, 0
+  index: -1
+ribs_black
+  rotate: true
+  xy: 0, 34
+  size: 105, 169
+  orig: 105, 169
+  offset: 0, 0
+  index: -1
+scythe
+  rotate: false
+  xy: 0, 139
+  size: 486, 367
+  orig: 486, 367
+  offset: 0, 0
+  index: -1
+shoulder_bone
+  rotate: true
+  xy: 64, 1
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+shoulder_bone2
+  rotate: true
+  xy: 118, 3
+  size: 32, 53
+  orig: 32, 53
+  offset: 0, 0
+  index: -1
+shoulder_ribs
+  rotate: true
+  xy: 0, 5
+  size: 29, 64
+  orig: 29, 64
+  offset: 0, 0
+  index: -1
+shoulder_spine
+  rotate: false
+  xy: 415, 24
+  size: 80, 116
+  orig: 80, 116
+  offset: 0, 0
+  index: -1
+skull_head
+  rotate: false
+  xy: 325, 35
+  size: 90, 105
+  orig: 90, 105
+  offset: 0, 0
+  index: -1
+
+SD_Monster_ReaperLich2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rarm
+  rotate: false
+  xy: 216, 297
+  size: 48, 81
+  orig: 48, 81
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: 270
+  xy: 374, 79
+  size: 74, 138
+  orig: 74, 138
+  offset: 0, 0
+  index: -1
+cape1
+  rotate: 270
+  xy: 264, 277
+  size: 235, 186
+  orig: 235, 186
+  offset: 0, 0
+  index: -1
+cape2
+  rotate: false
+  xy: 0, 185
+  size: 277, 327
+  orig: 277, 327
+  offset: 0, 0
+  index: -1
+cape_back
+  rotate: 180
+  xy: 254, 130
+  size: 257, 158
+  orig: 257, 158
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 441, 425
+  size: 69, 87
+  orig: 69, 87
+  offset: 0, 0
+  index: -1
+hood
+  rotate: 270
+  xy: 91, 91
+  size: 161, 173
+  orig: 161, 173
+  offset: 0, 0
+  index: -1
+ribs
+  rotate: false
+  xy: 0, 91
+  size: 89, 95
+  orig: 89, 95
+  offset: 0, 0
+  index: -1
+shoulder_skull
+  rotate: false
+  xy: 450, 341
+  size: 61, 85
+  orig: 61, 85
+  offset: 0, 0
+  index: -1

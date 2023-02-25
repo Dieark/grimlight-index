@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 439
+    "m_PathID": 438
   },
   "m_Name": "UnitData_CHAR0016_Cinderella",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0016",
     "startingTier": 5,
@@ -757,25 +776,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 35724
+    "m_PathID": 3140
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 35032
+      "m_PathID": 2620
     },
     {
       "m_FileID": 0,
-      "m_PathID": 35033
+      "m_PathID": 2621
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 35031
+    "m_PathID": 2619
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 35030
+    "m_PathID": 2618
   },
   "Gender": 0,
   "Age": 21

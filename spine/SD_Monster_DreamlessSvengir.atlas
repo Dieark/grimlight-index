@@ -1,0 +1,230 @@
+
+SD_Monster_DreamlessSvengir.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 125, 49
+  size: 51, 96
+  orig: 51, 96
+  offset: 0, 0
+  index: -1
+Ldress
+  rotate: true
+  xy: 172, 14
+  size: 62, 109
+  orig: 62, 109
+  offset: 0, 0
+  index: -1
+Lfingers
+  rotate: false
+  xy: 210, 290
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 454, 67
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1
+Lhipplate
+  rotate: false
+  xy: 281, 1
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+Lhorn
+  rotate: false
+  xy: 363, 32
+  size: 42, 87
+  orig: 42, 87
+  offset: 0, 0
+  index: -1
+Lpauldron
+  rotate: true
+  xy: 39, 31
+  size: 50, 86
+  orig: 50, 86
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 221, 58
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+Lwing
+  rotate: true
+  xy: 91, 128
+  size: 73, 89
+  orig: 73, 89
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 180, 101
+  size: 59, 102
+  orig: 59, 102
+  offset: 0, 0
+  index: -1
+Rdress
+  rotate: false
+  xy: 409, 68
+  size: 74, 128
+  orig: 74, 128
+  offset: 0, 0
+  index: -1
+Rfingers
+  rotate: false
+  xy: 405, 10
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 0, 266
+  size: 54, 63
+  orig: 54, 63
+  offset: 0, 0
+  index: -1
+Rhipplate
+  rotate: true
+  xy: 281, 56
+  size: 62, 82
+  orig: 62, 82
+  offset: 0, 0
+  index: -1
+Rhorn
+  rotate: true
+  xy: 0, 137
+  size: 24, 90
+  orig: 24, 90
+  offset: 0, 0
+  index: -1
+Rpauldron
+  rotate: true
+  xy: 224, 159
+  size: 71, 105
+  orig: 71, 105
+  offset: 0, 0
+  index: -1
+Rwing
+  rotate: true
+  xy: 266, 231
+  size: 127, 110
+  orig: 127, 110
+  offset: 0, 0
+  index: -1
+cape
+  rotate: false
+  xy: 0, 319
+  size: 172, 187
+  orig: 172, 187
+  offset: 0, 0
+  index: -1
+chest_dark
+  rotate: false
+  xy: 150, 327
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+collar
+  rotate: false
+  xy: 74, 201
+  size: 169, 127
+  orig: 169, 127
+  offset: 0, 0
+  index: -1
+dressback
+  rotate: 180
+  xy: 0, 162
+  size: 91, 103
+  orig: 91, 103
+  offset: 0, 0
+  index: -1
+eyedark
+  rotate: false
+  xy: 33, 489
+  size: 41, 18
+  orig: 41, 18
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 376, 195
+  size: 75, 130
+  orig: 75, 130
+  offset: 0, 0
+  index: -1
+loincloth
+  rotate: 270
+  xy: 0, 80
+  size: 53, 125
+  orig: 53, 125
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 329, 119
+  size: 82, 77
+  orig: 82, 77
+  offset: 0, 0
+  index: -1
+pelvis_dark
+  rotate: false
+  xy: 74, 488
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+rib_back
+  rotate: false
+  xy: 180, 168
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+ribs_top
+  rotate: true
+  xy: 0, 27
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+spearglow
+  rotate: true
+  xy: 172, 314
+  size: 192, 94
+  orig: 192, 94
+  offset: 0, 0
+  index: -1
+spearshaft
+  rotate: true
+  xy: 463, 237
+  size: 269, 24
+  orig: 269, 24
+  offset: 0, 0
+  index: -1
+speartip
+  rotate: true
+  xy: 379, 324
+  size: 182, 84
+  orig: 182, 84
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 266, 357
+  size: 113, 149
+  orig: 113, 149
+  offset: 0, 0
+  index: -1

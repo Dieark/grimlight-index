@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 431
+    "m_PathID": 438
   },
   "m_Name": "UnitData_CHAR0047_Hansel",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0047",
     "startingTier": 3,
@@ -657,16 +676,16 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3232
+    "m_PathID": 3150
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2760
+      "m_PathID": 2655
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2761
+      "m_PathID": 2656
     }
   ],
   "passiveAbility": {
@@ -675,7 +694,7 @@
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2759
+    "m_PathID": 2654
   },
   "Gender": 1,
   "Age": 16

@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 439
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0013_Kaguya",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0013",
     "startingTier": 5,
@@ -731,23 +750,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 36654
+      "m_PathID": -8819924683709632984
     },
     {
       "m_FileID": 0,
-      "m_PathID": 36655
+      "m_PathID": -6168925064103542616
     },
     {
       "m_FileID": 0,
-      "m_PathID": 36656
+      "m_PathID": -3173238866503920949
     },
     {
       "m_FileID": 0,
-      "m_PathID": 36657
+      "m_PathID": 7384076554966834856
     },
     {
       "m_FileID": 0,
-      "m_PathID": 36658
+      "m_PathID": 5495373328593995067
     }
   ],
   "unitStatData": {
@@ -804,25 +823,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 35741
+    "m_PathID": 5713052362251830285
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 35102
+      "m_PathID": -7514886041418901489
     },
     {
       "m_FileID": 0,
-      "m_PathID": 35103
+      "m_PathID": -6508335848278187005
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 35101
+    "m_PathID": -1383220627230752669
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 35100
+    "m_PathID": -7400558851540971786
   },
   "Gender": 0,
   "Age": 22

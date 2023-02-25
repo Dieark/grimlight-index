@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 438
   },
   "m_Name": "UnitData_CHAR0044_Ginger",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0044",
     "startingTier": 4,
@@ -757,16 +776,16 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 6269608656494434683
+    "m_PathID": 3147
   },
   "traits": [],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": -4341071763342583631
+    "m_PathID": 2647
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 7469128096433291667
+    "m_PathID": 2646
   },
   "Gender": 0,
   "Age": 22

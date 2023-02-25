@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 431
+    "m_PathID": 448
   },
   "m_Name": "UnitData_CHAR0065_RedKing",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0065",
     "startingTier": 4,
@@ -751,25 +770,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3260
+    "m_PathID": 35808
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2870
+      "m_PathID": 35207
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2871
+      "m_PathID": 35208
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2869
+    "m_PathID": 35206
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2868
+    "m_PathID": 35205
   },
   "Gender": 1,
   "Age": -1

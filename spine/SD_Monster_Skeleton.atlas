@@ -1,0 +1,146 @@
+
+SD_Monster_Skeleton.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 299, 311
+  size: 37, 80
+  orig: 37, 80
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: false
+  xy: 151, 289
+  size: 47, 25
+  orig: 47, 25
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 454, 326
+  size: 34, 85
+  orig: 34, 85
+  offset: 0, 0
+  index: -1
+Lshin
+  rotate: true
+  xy: 454, 298
+  size: 28, 53
+  orig: 28, 53
+  offset: 0, 0
+  index: -1
+Lthigh
+  rotate: true
+  xy: 58, 295
+  size: 28, 52
+  orig: 28, 52
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: true
+  xy: 110, 285
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+Rshin
+  rotate: false
+  xy: 228, 361
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 0, 284
+  size: 39, 58
+  orig: 39, 58
+  offset: 0, 0
+  index: -1
+Rthigh
+  rotate: true
+  xy: 379, 300
+  size: 23, 58
+  orig: 23, 58
+  offset: 0, 0
+  index: -1
+axe
+  rotate: false
+  xy: 124, 380
+  size: 104, 128
+  orig: 104, 128
+  offset: 0, 0
+  index: -1
+cloth
+  rotate: true
+  xy: 266, 347
+  size: 70, 132
+  orig: 70, 132
+  offset: 0, 0
+  index: -1
+cloth_back
+  rotate: true
+  xy: 221, 310
+  size: 50, 78
+  orig: 50, 78
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 486, 491
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+eyeblack
+  rotate: true
+  xy: 398, 323
+  size: 88, 56
+  orig: 88, 56
+  offset: 0, 0
+  index: -1
+head_face
+  rotate: false
+  xy: 0, 365
+  size: 124, 143
+  orig: 124, 143
+  offset: 0, 0
+  index: -1
+headback
+  rotate: true
+  xy: 322, 417
+  size: 91, 88
+  orig: 91, 88
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: false
+  xy: 147, 314
+  size: 74, 66
+  orig: 74, 66
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 410, 411
+  size: 76, 97
+  orig: 76, 97
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 228, 410
+  size: 94, 98
+  orig: 94, 98
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 0, 323
+  size: 147, 42
+  orig: 147, 42
+  offset: 0, 0
+  index: -1

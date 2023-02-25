@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 438
   },
   "m_Name": "UnitData_CHAR0032_Hook",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0032",
     "startingTier": 5,
@@ -751,25 +770,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 5401820126049370675
+    "m_PathID": 3154
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": -4248042423185786414
+      "m_PathID": 2674
     },
     {
       "m_FileID": 0,
-      "m_PathID": 8056631582714451062
+      "m_PathID": 2673
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": -4576611108585664550
+    "m_PathID": 2672
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": -8894992458384845250
+    "m_PathID": 2671
   },
   "Gender": 0,
   "Age": 33

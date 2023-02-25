@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 438
   },
   "m_Name": "UnitData_CHAR0035_TheBeast",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0035",
     "startingTier": 4,
@@ -762,21 +781,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": -8787036446061215382
+    "m_PathID": 3192
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 3262658074380610945
+      "m_PathID": 2818
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 6416334643301317451
+    "m_PathID": 2817
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 5111048216607439515
+    "m_PathID": 2816
   },
   "Gender": 1,
   "Age": 87

@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 439
+    "m_PathID": 438
   },
   "m_Name": "UnitData_CHAR0014_Dracula",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0014",
     "startingTier": 5,
@@ -762,25 +781,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 35726
+    "m_PathID": 3142
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 35039
+      "m_PathID": 2627
     },
     {
       "m_FileID": 0,
-      "m_PathID": 35040
+      "m_PathID": 2628
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 35038
+    "m_PathID": 2626
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 35037
+    "m_PathID": 2625
   },
   "Gender": 1,
   "Age": -1

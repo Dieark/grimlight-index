@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 438
   },
   "m_Name": "UnitData_CHAR0011_QueenOfHearts",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0011",
     "startingTier": 5,
@@ -726,23 +745,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 4628970522570250164
+      "m_PathID": 3341
     },
     {
       "m_FileID": 0,
-      "m_PathID": 1042749979222628078
+      "m_PathID": 3342
     },
     {
       "m_FileID": 0,
-      "m_PathID": 5977898183095871393
+      "m_PathID": 3343
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2228719580773932259
+      "m_PathID": 3344
     },
     {
       "m_FileID": 0,
-      "m_PathID": 8300325373696527081
+      "m_PathID": 3345
     }
   ],
   "unitStatData": {
@@ -799,25 +818,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": -3382165616167551899
+    "m_PathID": 3176
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 3824427496398277607
+      "m_PathID": 2759
     },
     {
       "m_FileID": 0,
-      "m_PathID": -1765319912209862238
+      "m_PathID": 2760
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": -1006562992479082086
+    "m_PathID": 2758
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 1611928506083749897
+    "m_PathID": 2757
   },
   "Gender": 0,
   "Age": -1

@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 431
+    "m_PathID": 448
   },
   "m_Name": "UnitData_CHAR0059_HeadlessHorseman",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0059",
     "startingTier": 5,
@@ -751,29 +770,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3233
+    "m_PathID": 35781
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2764
+      "m_PathID": 35101
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2765
+      "m_PathID": 35102
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2766
+      "m_PathID": 35103
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2763
+    "m_PathID": 35100
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2762
+    "m_PathID": 35099
   },
   "Gender": 1,
   "Age": -1

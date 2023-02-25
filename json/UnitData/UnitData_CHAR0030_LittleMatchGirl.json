@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 439
+    "m_PathID": 448
   },
   "m_Name": "UnitData_CHAR0030_LittleMatchGirl",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0030",
     "startingTier": 4,
@@ -720,23 +739,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 36659
+      "m_PathID": 36727
     },
     {
       "m_FileID": 0,
-      "m_PathID": 36660
+      "m_PathID": 36728
     },
     {
       "m_FileID": 0,
-      "m_PathID": 36661
+      "m_PathID": 36729
     },
     {
       "m_FileID": 0,
-      "m_PathID": 36662
+      "m_PathID": 36730
     },
     {
       "m_FileID": 0,
-      "m_PathID": 36663
+      "m_PathID": 36731
     }
   ],
   "unitStatData": {
@@ -793,21 +812,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 35745
+    "m_PathID": 35791
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 35119
+      "m_PathID": 35149
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 35118
+    "m_PathID": 35148
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 35117
+    "m_PathID": 35147
   },
   "Gender": 0,
   "Age": 14

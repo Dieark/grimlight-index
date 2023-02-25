@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 431
+    "m_PathID": 438
   },
   "m_Name": "UnitData_CHAR0071_SantaClaus",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0071",
     "startingTier": 5,
@@ -751,29 +770,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3267
+    "m_PathID": 3186
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2899
+      "m_PathID": 2799
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2898
+      "m_PathID": 2798
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2897
+      "m_PathID": 2797
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2896
+    "m_PathID": 2796
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2895
+    "m_PathID": 2795
   },
   "Gender": 1,
   "Age": -1

@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 431
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0061_JackFrost",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0061",
     "startingTier": 5,
@@ -751,33 +770,33 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3236
+    "m_PathID": 1845069891317867535
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2780
+      "m_PathID": 4372901685772673727
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2782
+      "m_PathID": -426782618296976128
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2779
+      "m_PathID": 7034493427792275152
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2781
+      "m_PathID": 21249363168465950
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2778
+    "m_PathID": 5808076772652395728
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2777
+    "m_PathID": 3653646351133152354
   },
   "Gender": 1,
   "Age": -1

@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 448
   },
   "m_Name": "UnitData_CHAR0052_Ozma",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0052",
     "startingTier": 5,
@@ -726,23 +745,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": -2901567081226270174
+      "m_PathID": 36732
     },
     {
       "m_FileID": 0,
-      "m_PathID": 5350446987863253906
+      "m_PathID": 36733
     },
     {
       "m_FileID": 0,
-      "m_PathID": -9061747173285241494
+      "m_PathID": 36734
     },
     {
       "m_FileID": 0,
-      "m_PathID": 673306223106710415
+      "m_PathID": 36735
     },
     {
       "m_FileID": 0,
-      "m_PathID": 8273148609356554363
+      "m_PathID": 36736
     }
   ],
   "unitStatData": {
@@ -799,25 +818,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3530575405920990331
+    "m_PathID": 35802
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": -8383767852344877631
+      "m_PathID": 35184
     },
     {
       "m_FileID": 0,
-      "m_PathID": -7635174951247248324
+      "m_PathID": 35185
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 8930153294670048184
+    "m_PathID": 35183
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 6388651661762542450
+    "m_PathID": 35182
   },
   "Gender": 0,
   "Age": -1

@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 439
+    "m_PathID": 438
   },
   "m_Name": "UnitData_CHAR0026_RedKnight",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0026",
     "startingTier": 4,
@@ -757,21 +776,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 35763
+    "m_PathID": 3180
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 35181
+      "m_PathID": 2774
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 35180
+    "m_PathID": 2773
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 35179
+    "m_PathID": 2772
   },
   "Gender": 0,
   "Age": 36

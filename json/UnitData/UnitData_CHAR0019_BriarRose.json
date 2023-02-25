@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 438
   },
   "m_Name": "UnitData_CHAR0019_BriarRose",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0019",
     "startingTier": 5,
@@ -731,23 +750,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 1566990091033553273
+      "m_PathID": 3306
     },
     {
       "m_FileID": 0,
-      "m_PathID": 8499183368883695454
+      "m_PathID": 3307
     },
     {
       "m_FileID": 0,
-      "m_PathID": -6726118432843114103
+      "m_PathID": 3308
     },
     {
       "m_FileID": 0,
-      "m_PathID": -4738202128286830699
+      "m_PathID": 3309
     },
     {
       "m_FileID": 0,
-      "m_PathID": -7568079368826813646
+      "m_PathID": 3310
     }
   ],
   "unitStatData": {
@@ -804,25 +823,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": -3040261826345108758
+    "m_PathID": 3137
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 1630275680457128183
+      "m_PathID": 2610
     },
     {
       "m_FileID": 0,
-      "m_PathID": -8265570200352524463
+      "m_PathID": 2609
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": -6008512307152981492
+    "m_PathID": 2608
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": -3167668370296189913
+    "m_PathID": 2607
   },
   "Gender": 0,
   "Age": -1

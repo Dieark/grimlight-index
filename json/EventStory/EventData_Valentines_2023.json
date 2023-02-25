@@ -1,0 +1,126 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 883593164346502919
+  },
+  "m_Name": "EventData_Valentines_2023",
+  "EventName": "Events/Label_ValentinesEvent_Name",
+  "EventDescription": "Events/Label_ValentinesEvent_Description",
+  "EventID": "EventData_Valentines2023",
+  "EventButtonIcon": {
+    "m_FileID": 0,
+    "m_PathID": -5559210909306948767
+  },
+  "EventBackgroundSprite": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "UnityEventArcDatas": [
+    {
+      "ArcName": "Events/Button_MainCampaign_Generic",
+      "ArcIcon": {
+        "m_FileID": 0,
+        "m_PathID": -1231190488485714612
+      },
+      "ProgressionDatas": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 9028082382470487561
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 4526130402583091863
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 4612771641812343025
+        }
+      ],
+      "StoryBattleLayout": {
+        "m_FileID": 0,
+        "m_PathID": -4987880836799338779
+      },
+      "StartTime": {
+        "year": 2023,
+        "month": 1,
+        "day": 20,
+        "hour": 0,
+        "minute": 0,
+        "second": 9
+      }
+    },
+    {
+      "ArcName": "Events/Button_Challenge_Generic",
+      "ArcIcon": {
+        "m_FileID": 0,
+        "m_PathID": -4320865505279480641
+      },
+      "ProgressionDatas": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -7557636127719716553
+        }
+      ],
+      "StoryBattleLayout": {
+        "m_FileID": 0,
+        "m_PathID": -8566498088022534603
+      },
+      "StartTime": {
+        "year": 2023,
+        "month": 2,
+        "day": 23,
+        "hour": 0,
+        "minute": 0,
+        "second": 9
+      }
+    }
+  ],
+  "EventMaterialDatas": [
+    {
+      "m_FileID": 6,
+      "m_PathID": 5534470464864795115
+    }
+  ],
+  "EventShopButtonIcon": {
+    "m_FileID": 2,
+    "m_PathID": 8750138496285632611
+  },
+  "EventShopData": {
+    "m_FileID": 10,
+    "m_PathID": -1227551391215254954
+  },
+  "eventSummonConfig": {
+    "eventSummonIcon": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "summonShopData": {
+      "m_FileID": 10,
+      "m_PathID": -6532129245154561258
+    }
+  },
+  "DaysAfterToCloseShop": 7,
+  "EventInterval": {
+    "startTime": {
+      "year": 2023,
+      "month": 1,
+      "day": 20,
+      "hour": 0,
+      "minute": 0,
+      "second": 59
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 3,
+      "day": 9,
+      "hour": 0,
+      "minute": 0,
+      "second": 59
+    }
+  }
+}

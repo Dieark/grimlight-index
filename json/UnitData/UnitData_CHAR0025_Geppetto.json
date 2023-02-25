@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 438
   },
   "m_Name": "UnitData_CHAR0025_Geppetto",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0025",
     "startingTier": 4,
@@ -751,21 +770,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 6291206524071798358
+    "m_PathID": 3146
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 4686704609700688208
+      "m_PathID": 2645
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": -3622111048171978602
+    "m_PathID": 2644
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 8118579847111740829
+    "m_PathID": 2643
   },
   "Gender": 1,
   "Age": 17

@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 431
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0000_Aurora",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0000",
     "startingTier": 5,
@@ -726,23 +745,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 3375
+      "m_PathID": 62297885057450314
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3376
+      "m_PathID": 3321923933979640225
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3377
+      "m_PathID": 3229782789920179665
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3378
+      "m_PathID": -1046724252405102500
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3379
+      "m_PathID": -1516004727130863723
     }
   ],
   "unitStatData": {
@@ -799,25 +818,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3214
+    "m_PathID": 7667896272647603153
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2698
+      "m_PathID": 3128278146077520071
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2699
+      "m_PathID": -7561205471606638058
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2697
+    "m_PathID": 7392841506696043370
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2696
+    "m_PathID": -3170921025893148448
   },
   "Gender": 0,
   "Age": -1

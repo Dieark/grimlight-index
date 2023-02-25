@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 439
+    "m_PathID": 448
   },
   "m_Name": "UnitData_CHAR0066_RedQueen",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0066",
     "startingTier": 5,
@@ -751,29 +770,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 35764
+    "m_PathID": 35810
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 35185
+      "m_PathID": 35215
     },
     {
       "m_FileID": 0,
-      "m_PathID": 35184
+      "m_PathID": 35214
     },
     {
       "m_FileID": 0,
-      "m_PathID": 35186
+      "m_PathID": 35216
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 35183
+    "m_PathID": 35213
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 35182
+    "m_PathID": 35212
   },
   "Gender": 0,
   "Age": -1

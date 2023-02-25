@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 431
+    "m_PathID": 438
   },
   "m_Name": "UnitData_CHAR0063_WhiteQueen",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0063",
     "startingTier": 5,
@@ -751,29 +770,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3282
+    "m_PathID": 3203
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2946
+      "m_PathID": 2856
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2947
+      "m_PathID": 2857
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2948
+      "m_PathID": 2858
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2945
+    "m_PathID": 2855
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2944
+    "m_PathID": 2854
   },
   "Gender": 0,
   "Age": -1

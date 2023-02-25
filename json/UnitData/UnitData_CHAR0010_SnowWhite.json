@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 431
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0010_SnowWhite",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0010",
     "startingTier": 5,
@@ -736,23 +755,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 3425
+      "m_PathID": 4340158860036358484
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3426
+      "m_PathID": 9000650365857601445
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3427
+      "m_PathID": 1719195355642631440
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3428
+      "m_PathID": -5039605291736535774
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3429
+      "m_PathID": -8205214085146736467
     }
   ],
   "unitStatData": {
@@ -809,21 +828,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3270
+    "m_PathID": 6887533137498814982
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2907
+      "m_PathID": 1648105360950166637
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2906
+    "m_PathID": 7730684202192784019
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2905
+    "m_PathID": -8471034155944453712
   },
   "Gender": 0,
   "Age": 23

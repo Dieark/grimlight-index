@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 448
   },
   "m_Name": "UnitData_CHAR0024_RobinHood",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0024",
     "startingTier": 4,
@@ -757,21 +776,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": -1678170268886864446
+    "m_PathID": 35812
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": -4827712542493342363
+      "m_PathID": 35221
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 8221934676892476044
+    "m_PathID": 35222
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 3293086867044855772
+    "m_PathID": 35220
   },
   "Gender": 0,
   "Age": 29

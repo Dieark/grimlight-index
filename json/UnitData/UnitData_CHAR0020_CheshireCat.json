@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 431
+    "m_PathID": 448
   },
   "m_Name": "UnitData_CHAR0020_CheshireCat",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0020",
     "startingTier": 4,
@@ -695,12 +714,17 @@
       {
         "objectType": 17,
         "objectID": "CheshireCat_Skin1"
+      },
+      {
+        "objectType": 17,
+        "objectID": "CheshireCat_Skin2"
       }
     ]
   },
   "skinAssetNames": [
     "UnitSkinAssets_Char0020_CheshireCat",
-    "UnitSkinAssets_Char0020_CheshireCat_Skin1"
+    "UnitSkinAssets_Char0020_CheshireCat_Skin1",
+    "UnitSkinAssets_Char0020_CheshireCat_Skin2"
   ],
   "storyDatas": [],
   "unitStatData": {
@@ -757,25 +781,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3221
+    "m_PathID": 35769
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2721
+      "m_PathID": 35058
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2722
+      "m_PathID": 35059
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2720
+    "m_PathID": 35057
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2719
+    "m_PathID": 35056
   },
   "Gender": 0,
   "Age": -1

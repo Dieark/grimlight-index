@@ -1,0 +1,243 @@
+
+SD_Monster_Gargoyle.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lear
+  rotate: 270
+  xy: 143, 156
+  size: 94, 68
+  orig: 94, 68
+  offset: 0, 0
+  index: -1
+Lfinger1
+  rotate: false
+  xy: 219, 57
+  size: 67, 55
+  orig: 67, 55
+  offset: 0, 0
+  index: -1
+Lfinger2
+  rotate: 180
+  xy: 0, 7
+  size: 63, 61
+  orig: 63, 61
+  offset: 0, 0
+  index: -1
+Lfinger3
+  rotate: true
+  xy: 95, 148
+  size: 41, 49
+  orig: 41, 49
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: false
+  xy: 400, 305
+  size: 52, 40
+  orig: 52, 40
+  offset: 0, 0
+  index: -1
+Lfootx
+  rotate: false
+  xy: 47, 347
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+Lhip
+  rotate: false
+  xy: 451, 103
+  size: 61, 118
+  orig: 61, 118
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 0, 387
+  size: 126, 163
+  orig: 126, 163
+  offset: 0, 0
+  index: -1
+Lwing2
+  rotate: false
+  xy: 0, 151
+  size: 232, 362
+  orig: 232, 362
+  offset: 0, 0
+  index: -1
+Rear
+  rotate: false
+  xy: 0, 215
+  size: 25, 57
+  orig: 25, 57
+  offset: 0, 0
+  index: -1
+Rfinger1
+  rotate: false
+  xy: 163, 450
+  size: 34, 62
+  orig: 34, 62
+  offset: 0, 0
+  index: -1
+Rfinger3
+  rotate: true
+  xy: 267, 68
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+Rhip
+  rotate: false
+  xy: 318, 21
+  size: 133, 91
+  orig: 133, 91
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 451, 30
+  size: 72, 61
+  orig: 72, 61
+  offset: 0, 0
+  index: -1
+Rwing2
+  rotate: true
+  xy: 0, 20
+  size: 131, 318
+  orig: 131, 318
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 93, 368
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 0, 369
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+head-mouthmid
+  rotate: true
+  xy: 211, 112
+  size: 169, 223
+  orig: 169, 223
+  offset: 0, 0
+  index: -1
+head-mouthopen
+  rotate: false
+  xy: 232, 280
+  size: 169, 232
+  orig: 169, 232
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: true
+  xy: 400, 410
+  size: 102, 98
+  orig: 102, 98
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 420, 220
+  size: 190, 85
+  orig: 190, 85
+  offset: 0, 0
+  index: -1
+
+SD_Monster_Gargoyle2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 387, 399
+  size: 113, 114
+  orig: 113, 114
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 203, 323
+  size: 99, 67
+  orig: 99, 67
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 93, 241
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+Lneck
+  rotate: false
+  xy: 172, 374
+  size: 168, 138
+  orig: 168, 138
+  offset: 0, 0
+  index: -1
+Lwing1
+  rotate: false
+  xy: 154, 146
+  size: 233, 366
+  orig: 233, 366
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 0, 180
+  size: 100, 122
+  orig: 100, 122
+  offset: 0, 0
+  index: -1
+Rfinger2
+  rotate: false
+  xy: 458, 338
+  size: 50, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 242, 124
+  size: 55, 90
+  orig: 55, 90
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 387, 279
+  size: 70, 121
+  orig: 70, 121
+  offset: 0, 0
+  index: -1
+Rwing1
+  rotate: true
+  xy: 0, 71
+  size: 137, 314
+  orig: 137, 314
+  offset: 0, 0
+  index: -1
+head-mouthclosed
+  rotate: false
+  xy: 0, 301
+  size: 172, 211
+  orig: 172, 211
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 327, 91
+  size: 185, 187
+  orig: 185, 187
+  offset: 0, 0
+  index: -1

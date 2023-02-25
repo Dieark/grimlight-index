@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 431
+    "m_PathID": 448
   },
   "m_Name": "UnitData_CHAR0068_SugarPlumFairy",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0068",
     "startingTier": 4,
@@ -751,25 +770,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3271
+    "m_PathID": 35819
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2910
+      "m_PathID": 35247
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2911
+      "m_PathID": 35248
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2909
+    "m_PathID": 35246
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2908
+    "m_PathID": 35245
   },
   "Gender": 0,
   "Age": -1

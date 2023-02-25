@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 439
+    "m_PathID": 438
   },
   "m_Name": "UnitData_CHAR0077_Romeo",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0077",
     "startingTier": 5,
@@ -751,25 +770,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 35767
+    "m_PathID": 3184
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 35195
+      "m_PathID": 2788
     },
     {
       "m_FileID": 0,
-      "m_PathID": 35196
+      "m_PathID": 2789
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 35194
+    "m_PathID": 2787
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 35193
+    "m_PathID": 2786
   },
   "Gender": 1,
   "Age": -1

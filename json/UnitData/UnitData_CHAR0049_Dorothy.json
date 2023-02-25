@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 431
+    "m_PathID": 438
   },
   "m_Name": "UnitData_CHAR0049_Dorothy",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0049",
     "startingTier": 5,
@@ -731,23 +750,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 3385
+      "m_PathID": 3311
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3386
+      "m_PathID": 3312
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3387
+      "m_PathID": 3313
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3388
+      "m_PathID": 3314
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3389
+      "m_PathID": 3315
     }
   ],
   "unitStatData": {
@@ -804,21 +823,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3223
+    "m_PathID": 3141
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2729
+      "m_PathID": 2624
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2728
+    "m_PathID": 2623
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2727
+    "m_PathID": 2622
   },
   "Gender": 0,
   "Age": 21

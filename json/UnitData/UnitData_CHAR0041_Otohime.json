@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 438
   },
   "m_Name": "UnitData_CHAR0041_Otohime",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0041",
     "startingTier": 3,
@@ -751,16 +770,16 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 4169681529421273993
+    "m_PathID": 3172
   },
   "traits": [],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 7151350991690998872
+    "m_PathID": 2744
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 4159470088369841208
+    "m_PathID": 2743
   },
   "Gender": 0,
   "Age": -1

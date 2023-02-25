@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 439
+    "m_PathID": 438
   },
   "m_Name": "UnitData_CHAR0002_Vita",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0002",
     "startingTier": 4,
@@ -731,23 +750,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 36694
+      "m_PathID": 3366
     },
     {
       "m_FileID": 0,
-      "m_PathID": 36695
+      "m_PathID": 3367
     },
     {
       "m_FileID": 0,
-      "m_PathID": 36696
+      "m_PathID": 3368
     },
     {
       "m_FileID": 0,
-      "m_PathID": 36697
+      "m_PathID": 3369
     },
     {
       "m_FileID": 0,
-      "m_PathID": 36698
+      "m_PathID": 3370
     }
   ],
   "unitStatData": {
@@ -804,21 +823,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 35781
+    "m_PathID": 3200
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 35243
+      "m_PathID": 2846
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 35242
+    "m_PathID": 2845
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 35241
+    "m_PathID": 2844
   },
   "Gender": 0,
   "Age": -1

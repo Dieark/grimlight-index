@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 439
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0028_Odile",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0028",
     "startingTier": 4,
@@ -757,21 +776,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 35754
+    "m_PathID": 1965066021989591024
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 35149
+      "m_PathID": 5220690230642754396
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 35148
+    "m_PathID": 7164825467002136848
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 35147
+    "m_PathID": 2048594388200236715
   },
   "Gender": 0,
   "Age": 21

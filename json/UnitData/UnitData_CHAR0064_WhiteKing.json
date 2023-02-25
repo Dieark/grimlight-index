@@ -6,10 +6,29 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 431
+    "m_PathID": 448
   },
   "m_Name": "UnitData_CHAR0064_WhiteKing",
   "removeFromGame": 0,
+  "timeLimitSettings": {
+    "limitByTime": 0,
+    "startTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    },
+    "endTime": {
+      "year": 2023,
+      "month": 2,
+      "day": 16,
+      "hour": 22,
+      "minute": 18,
+      "second": 37
+    }
+  },
   "unitData": {
     "unitID": "CHAR0064",
     "startingTier": 4,
@@ -751,25 +770,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3280
+    "m_PathID": 35830
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2939
+      "m_PathID": 35286
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2940
+      "m_PathID": 35287
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2938
+    "m_PathID": 35285
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2937
+    "m_PathID": 35284
   },
   "Gender": 1,
   "Age": -1
