@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 448
+    "m_PathID": 450
   },
   "m_Name": "UnitData_CHAR0020_CheshireCat",
   "removeFromGame": 0,
@@ -781,25 +781,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 35769
+    "m_PathID": 3201
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 35058
+      "m_PathID": 2659
     },
     {
       "m_FileID": 0,
-      "m_PathID": 35059
+      "m_PathID": 2660
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 35057
+    "m_PathID": 2658
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 35056
+    "m_PathID": 2657
   },
   "Gender": 0,
   "Age": -1

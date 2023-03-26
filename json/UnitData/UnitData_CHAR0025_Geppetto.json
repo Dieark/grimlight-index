@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 438
+    "m_PathID": 450
   },
   "m_Name": "UnitData_CHAR0025_Geppetto",
   "removeFromGame": 0,
@@ -710,10 +710,16 @@
       }
     ],
     "heroStoriesItemList": [],
-    "heroSkinItemList": []
+    "heroSkinItemList": [
+      {
+        "objectType": 17,
+        "objectID": "Geppeto_Skin2"
+      }
+    ]
   },
   "skinAssetNames": [
-    "UnitSkinAssets_Char0025_Geppeto"
+    "UnitSkinAssets_Char0025_Geppeto",
+    "UnitSkinAssets_Char0025_Geppeto_Skin1"
   ],
   "storyDatas": [],
   "unitStatData": {
@@ -766,25 +772,25 @@
   },
   "awakeningRareMat": {
     "objectType": 0,
-    "objectID": ""
+    "objectID": "CHAR0000"
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3146
+    "m_PathID": 3208
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2645
+      "m_PathID": 2688
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2644
+    "m_PathID": 2687
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2643
+    "m_PathID": 2686
   },
   "Gender": 1,
   "Age": 17

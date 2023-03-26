@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 438
+    "m_PathID": 450
   },
   "m_Name": "UnitData_CHAR0034_Odette",
   "removeFromGame": 0,
@@ -770,21 +770,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3170
+    "m_PathID": 3232
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2739
+      "m_PathID": 2782
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2738
+    "m_PathID": 2781
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2737
+    "m_PathID": 2780
   },
   "Gender": 0,
   "Age": 21

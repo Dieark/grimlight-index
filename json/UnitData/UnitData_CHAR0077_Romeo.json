@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 438
+    "m_PathID": 450
   },
   "m_Name": "UnitData_CHAR0077_Romeo",
   "removeFromGame": 0,
@@ -770,25 +770,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3184
+    "m_PathID": 3247
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2788
+      "m_PathID": 2835
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2789
+      "m_PathID": 2836
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2787
+    "m_PathID": 2834
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2786
+    "m_PathID": 2833
   },
   "Gender": 1,
   "Age": -1

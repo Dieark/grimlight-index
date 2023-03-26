@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 438
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0054_JeonWooChi",
   "removeFromGame": 0,
@@ -776,29 +776,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3156
+    "m_PathID": 1765045311099911729
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2687
+      "m_PathID": 3468159751448688022
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2685
+      "m_PathID": 6523010120292270452
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2686
+      "m_PathID": -2695979098779004453
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2684
+    "m_PathID": 6208824434802651035
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2683
+    "m_PathID": 6904838323391745222
   },
   "Gender": 1,
   "Age": -1

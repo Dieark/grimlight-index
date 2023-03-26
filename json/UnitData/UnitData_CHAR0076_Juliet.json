@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 438
+    "m_PathID": 450
   },
   "m_Name": "UnitData_CHAR0076_Juliet",
   "removeFromGame": 0,
@@ -770,29 +770,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3157
+    "m_PathID": 3219
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2691
+      "m_PathID": 2734
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2690
+      "m_PathID": 2733
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2692
+      "m_PathID": 2735
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2689
+    "m_PathID": 2732
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2688
+    "m_PathID": 2731
   },
   "Gender": 0,
   "Age": -1

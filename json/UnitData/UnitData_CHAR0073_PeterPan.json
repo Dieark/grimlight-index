@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 448
+    "m_PathID": 450
   },
   "m_Name": "UnitData_CHAR0073_PeterPan",
   "removeFromGame": 0,
@@ -756,7 +756,7 @@
     "attackRange": 11.0,
     "energyGainPerAttack": 13,
     "moveSpeed": 15.0,
-    "laneSearch": 1,
+    "laneSearch": 0,
     "aggroRange": 60.0,
     "pushRadius": 0.0,
     "knockbackImmune": 0,
@@ -770,29 +770,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 35803
+    "m_PathID": 3236
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 35188
+      "m_PathID": 2794
     },
     {
       "m_FileID": 0,
-      "m_PathID": 35189
+      "m_PathID": 2795
     },
     {
       "m_FileID": 0,
-      "m_PathID": 35190
+      "m_PathID": 2796
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 35187
+    "m_PathID": 2793
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 35186
+    "m_PathID": 2792
   },
   "Gender": 1,
   "Age": -1

@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 450
   },
   "m_Name": "UnitData_CHAR0075_TinkerBell",
   "removeFromGame": 0,
@@ -770,29 +770,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 2237698580375964986
+    "m_PathID": 3261
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 6320797396271151328
+      "m_PathID": 2884
     },
     {
       "m_FileID": 0,
-      "m_PathID": -4229109042422167977
+      "m_PathID": 2883
     },
     {
       "m_FileID": 0,
-      "m_PathID": 6670359444082857415
+      "m_PathID": 2882
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 803718977379471228
+    "m_PathID": 2881
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": -853531772254447791
+    "m_PathID": 2880
   },
   "Gender": 0,
   "Age": -1

@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 438
+    "m_PathID": 450
   },
   "m_Name": "UnitData_CHAR0027_Bathory",
   "removeFromGame": 0,
@@ -776,21 +776,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3133
+    "m_PathID": 3195
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2597
+      "m_PathID": 2640
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2596
+    "m_PathID": 2639
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2595
+    "m_PathID": 2638
   },
   "Gender": 0,
   "Age": -1

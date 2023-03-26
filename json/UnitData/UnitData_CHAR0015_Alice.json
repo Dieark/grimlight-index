@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 45
+    "m_PathID": 44
   },
   "m_Name": "UnitData_CHAR0015_Alice",
   "removeFromGame": 0,
@@ -786,25 +786,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 111
+    "m_PathID": 109
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 109
+      "m_PathID": 107
     },
     {
       "m_FileID": 0,
-      "m_PathID": 108
+      "m_PathID": 106
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 107
+    "m_PathID": 105
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 106
+    "m_PathID": 104
   },
   "Gender": 0,
   "Age": -1

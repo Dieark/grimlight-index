@@ -1,0 +1,487 @@
+
+SD_Hero_Hook_Skin1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lfoot
+  rotate: false
+  xy: 485, 295
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+Lhook
+  rotate: false
+  xy: 485, 449
+  size: 25, 64
+  orig: 25, 64
+  offset: 0, 0
+  index: -1
+Lhookchain
+  rotate: false
+  xy: 498, 333
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+Lpants_top
+  rotate: false
+  xy: 308, 138
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: false
+  xy: 372, 240
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 323, 148
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: false
+  xy: 308, 167
+  size: 43, 29
+  orig: 43, 29
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: false
+  xy: 327, 74
+  size: 185, 221
+  orig: 185, 221
+  offset: 0, 0
+  index: -1
+bangs7
+  rotate: false
+  xy: 485, 369
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+birdclaws
+  rotate: false
+  xy: 498, 345
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+cannon1
+  rotate: false
+  xy: 308, 7
+  size: 137, 67
+  orig: 137, 67
+  offset: 0, 0
+  index: -1
+cannon3
+  rotate: false
+  xy: 308, 7
+  size: 137, 67
+  orig: 137, 67
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 444, 8
+  size: 53, 65
+  orig: 53, 65
+  offset: 0, 0
+  index: -1
+hattop
+  rotate: true
+  xy: 372, 302
+  size: 210, 113
+  orig: 210, 113
+  offset: 0, 0
+  index: -1
+hookrim
+  rotate: true
+  xy: 372, 270
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+mouthgrit
+  rotate: false
+  xy: 399, 294
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 417, 297
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 498, 357
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: true
+  xy: 308, 116
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+rimglow2
+  rotate: true
+  xy: 0, 11
+  size: 185, 308
+  orig: 189, 311
+  offset: 2, 1
+  index: -1
+rimglow3
+  rotate: false
+  xy: 191, 196
+  size: 181, 316
+  orig: 184, 318
+  offset: 2, 1
+  index: -1
+rimglow4
+  rotate: false
+  xy: 0, 211
+  size: 191, 301
+  orig: 194, 304
+  offset: 1, 1
+  index: -1
+sheathstrap1
+  rotate: false
+  xy: 491, 402
+  size: 21, 47
+  orig: 21, 47
+  offset: 0, 0
+  index: -1
+sheathstrap2
+  rotate: false
+  xy: 485, 321
+  size: 13, 48
+  orig: 13, 48
+  offset: 0, 0
+  index: -1
+
+SD_Hero_Hook_Skin12.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BlurCannon
+  rotate: false
+  xy: 359, 216
+  size: 127, 68
+  orig: 127, 68
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 0, 5
+  size: 37, 111
+  orig: 37, 114
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 194, 2
+  size: 35, 61
+  orig: 35, 61
+  offset: 0, 0
+  index: -1
+Rpants_top
+  rotate: false
+  xy: 400, 8
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 255, 7
+  size: 29, 58
+  orig: 29, 58
+  offset: 0, 0
+  index: -1
+backhair
+  rotate: false
+  xy: 0, 41
+  size: 178, 163
+  orig: 178, 163
+  offset: 0, 0
+  index: -1
+bird
+  rotate: true
+  xy: 354, 6
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+cannon2
+  rotate: false
+  xy: 359, 284
+  size: 137, 73
+  orig: 137, 73
+  offset: 0, 0
+  index: -1
+cannon4
+  rotate: false
+  xy: 359, 284
+  size: 137, 73
+  orig: 137, 73
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: true
+  xy: 110, 5
+  size: 32, 85
+  orig: 32, 85
+  offset: 0, 0
+  index: -1
+eyewink
+  rotate: false
+  xy: 472, 162
+  size: 40, 54
+  orig: 40, 54
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 359, 356
+  size: 143, 156
+  orig: 143, 156
+  offset: 0, 0
+  index: -1
+feather
+  rotate: 270
+  xy: 429, 7
+  size: 131, 82
+  orig: 131, 82
+  offset: 0, 0
+  index: -1
+portal
+  rotate: false
+  xy: 0, 203
+  size: 178, 309
+  orig: 181, 311
+  offset: 2, 2
+  index: -1
+rimglow1
+  rotate: true
+  xy: 178, 36
+  size: 176, 294
+  orig: 178, 298
+  offset: 1, 2
+  index: -1
+rimglow5
+  rotate: false
+  xy: 178, 212
+  size: 181, 300
+  orig: 184, 303
+  offset: 1, 1
+  index: -1
+swordhilt
+  rotate: true
+  xy: 313, 9
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+
+SD_Hero_Hook_Skin13.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 471, 287
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+Layer16
+  rotate: true
+  xy: 147, 206
+  size: 306, 151
+  orig: 306, 151
+  offset: 0, 0
+  index: -1
+Lcoat_collar
+  rotate: false
+  xy: 479, 33
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+Rcoat_collar
+  rotate: false
+  xy: 411, 374
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 299, 30
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 73, 43
+  size: 43, 80
+  orig: 43, 80
+  offset: 0, 0
+  index: -1
+anchorchainL
+  rotate: 270
+  xy: 286, 72
+  size: 41, 102
+  orig: 41, 102
+  offset: 0, 0
+  index: -1
+anchorchainR
+  rotate: true
+  xy: 380, 32
+  size: 41, 99
+  orig: 41, 102
+  offset: 0, 0
+  index: -1
+backhat
+  rotate: true
+  xy: 297, 211
+  size: 302, 64
+  orig: 302, 64
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: false
+  xy: 361, 248
+  size: 114, 106
+  orig: 114, 106
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: 270
+  xy: 297, 97
+  size: 114, 130
+  orig: 114, 130
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: true
+  xy: 427, 68
+  size: 44, 81
+  orig: 44, 81
+  offset: 0, 0
+  index: -1
+bangs6
+  rotate: 270
+  xy: 356, 183
+  size: 87, 155
+  orig: 87, 155
+  offset: 0, 0
+  index: -1
+birdtail
+  rotate: false
+  xy: 413, 130
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+coat_backL
+  rotate: false
+  xy: 427, 357
+  size: 60, 155
+  orig: 60, 155
+  offset: 0, 0
+  index: -1
+coat_backR
+  rotate: false
+  xy: 361, 353
+  size: 66, 160
+  orig: 66, 160
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: true
+  xy: 153, 41
+  size: 44, 65
+  orig: 44, 65
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 0, 20
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+feather2
+  rotate: false
+  xy: 90, 84
+  size: 134, 79
+  orig: 134, 79
+  offset: 0, 0
+  index: -1
+feather3
+  rotate: true
+  xy: 214, 27
+  size: 87, 85
+  orig: 87, 85
+  offset: 0, 0
+  index: -1
+feather4
+  rotate: false
+  xy: 110, 125
+  size: 127, 81
+  orig: 127, 81
+  offset: 0, 0
+  index: -1
+feather5
+  rotate: false
+  xy: 0, 64
+  size: 74, 62
+  orig: 74, 62
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 236, 104
+  size: 51, 102
+  orig: 51, 102
+  offset: 0, 0
+  index: -1
+portal flash
+  rotate: false
+  xy: 0, 193
+  size: 147, 319
+  orig: 149, 327
+  offset: 1, 4
+  index: -1
+swordsheath
+  rotate: false
+  xy: 446, 113
+  size: 65, 79
+  orig: 65, 79
+  offset: 0, 0
+  index: -1
+torso
+  rotate: true
+  xy: 0, 124
+  size: 69, 110
+  orig: 69, 110
+  offset: 0, 0
+  index: -1

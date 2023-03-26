@@ -6,24 +6,24 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 448
+    "m_PathID": 450
   },
   "m_Name": "UnitData_CHAR0079_ThreeLittlePigs",
   "removeFromGame": 0,
   "timeLimitSettings": {
-    "limitByTime": 1,
+    "limitByTime": 0,
     "startTime": {
       "year": 2023,
-      "month": 2,
-      "day": 17,
-      "hour": 14,
+      "month": 3,
+      "day": 2,
+      "hour": 0,
       "minute": 0,
       "second": 37
     },
     "endTime": {
       "year": 2027,
-      "month": 2,
-      "day": 16,
+      "month": 12,
+      "day": 31,
       "hour": 22,
       "minute": 18,
       "second": 37
@@ -770,29 +770,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 35823
+    "m_PathID": 3258
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 35260
+      "m_PathID": 2874
     },
     {
       "m_FileID": 0,
-      "m_PathID": 35259
+      "m_PathID": 2873
     },
     {
       "m_FileID": 0,
-      "m_PathID": 35258
+      "m_PathID": 2872
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 35257
+    "m_PathID": 2871
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 35256
+    "m_PathID": 2870
   },
   "Gender": 0,
   "Age": -1

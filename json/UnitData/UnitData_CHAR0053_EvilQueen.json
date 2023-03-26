@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 448
+    "m_PathID": 451
   },
   "m_Name": "UnitData_CHAR0053_EvilQueen",
   "removeFromGame": 0,
@@ -770,29 +770,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 35774
+    "m_PathID": 36476
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 35078
+      "m_PathID": 35718
     },
     {
       "m_FileID": 0,
-      "m_PathID": 35076
+      "m_PathID": 35716
     },
     {
       "m_FileID": 0,
-      "m_PathID": 35077
+      "m_PathID": 35717
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 35075
+    "m_PathID": 35715
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 35074
+    "m_PathID": 35714
   },
   "Gender": 0,
   "Age": -1

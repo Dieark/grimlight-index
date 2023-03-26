@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 438
+    "m_PathID": 450
   },
   "m_Name": "UnitData_CHAR0051_Thumbelina",
   "removeFromGame": 0,
@@ -745,23 +745,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 3356
+      "m_PathID": 3424
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3357
+      "m_PathID": 3425
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3358
+      "m_PathID": 3426
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3359
+      "m_PathID": 3427
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3360
+      "m_PathID": 3428
     }
   ],
   "unitStatData": {
@@ -818,21 +818,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3195
+    "m_PathID": 3259
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2826
+      "m_PathID": 2877
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2825
+    "m_PathID": 2876
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2824
+    "m_PathID": 2875
   },
   "Gender": 0,
   "Age": 19

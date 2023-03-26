@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 438
+    "m_PathID": 451
   },
   "m_Name": "UnitData_CHAR0016_Cinderella",
   "removeFromGame": 0,
@@ -776,25 +776,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3140
+    "m_PathID": 36472
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2620
+      "m_PathID": 35702
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2621
+      "m_PathID": 35703
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2619
+    "m_PathID": 35701
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2618
+    "m_PathID": 35700
   },
   "Gender": 0,
   "Age": 21

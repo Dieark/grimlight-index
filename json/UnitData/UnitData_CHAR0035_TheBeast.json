@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 438
+    "m_PathID": 450
   },
   "m_Name": "UnitData_CHAR0035_TheBeast",
   "removeFromGame": 0,
@@ -781,21 +781,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3192
+    "m_PathID": 3256
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2818
+      "m_PathID": 2869
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2817
+    "m_PathID": 2868
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2816
+    "m_PathID": 2867
   },
   "Gender": 1,
   "Age": 87

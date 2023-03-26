@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 448
+    "m_PathID": 451
   },
   "m_Name": "UnitData_CHAR0050_Siegfried",
   "removeFromGame": 0,
@@ -770,21 +770,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 35817
+    "m_PathID": 36522
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 35241
+      "m_PathID": 35894
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 35240
+    "m_PathID": 35893
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 35239
+    "m_PathID": 35892
   },
   "Gender": 1,
   "Age": 22
