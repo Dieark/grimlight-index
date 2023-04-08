@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 453
   },
   "m_Name": "UnitData_CHAR0026_RedKnight",
   "removeFromGame": 0,
@@ -776,21 +776,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": -1933446778181130548
+    "m_PathID": 36507
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 6284633194915919266
+      "m_PathID": 35851
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 8325285028101679279
+    "m_PathID": 35850
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": -2674153618687534792
+    "m_PathID": 35849
   },
   "Gender": 0,
   "Age": 36

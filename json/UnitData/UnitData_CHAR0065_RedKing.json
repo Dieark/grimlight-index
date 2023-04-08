@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 453
   },
   "m_Name": "UnitData_CHAR0065_RedKing",
   "removeFromGame": 0,
@@ -770,25 +770,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 7640143955807541010
+    "m_PathID": 36506
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2655939411801737716
+      "m_PathID": 35847
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3406722227563388100
+      "m_PathID": 35848
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": -3099910006938358669
+    "m_PathID": 35846
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 3990634345308810707
+    "m_PathID": 35845
   },
   "Gender": 1,
   "Age": -1

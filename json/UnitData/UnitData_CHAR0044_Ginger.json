@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 452
   },
   "m_Name": "UnitData_CHAR0044_Ginger",
   "removeFromGame": 0,
@@ -776,16 +776,16 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 6269608656494434683
+    "m_PathID": 3216
   },
   "traits": [],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": -4341071763342583631
+    "m_PathID": 2695
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 7469128096433291667
+    "m_PathID": 2694
   },
   "Gender": 0,
   "Age": 22

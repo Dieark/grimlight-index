@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 452
   },
   "m_Name": "UnitData_CHAR0039_Scarecrow",
   "removeFromGame": 0,
@@ -645,23 +645,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": -4470028809746181721
+      "m_PathID": 3421
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2060711141552092796
+      "m_PathID": 3422
     },
     {
       "m_FileID": 0,
-      "m_PathID": 8514436947131108729
+      "m_PathID": 3423
     },
     {
       "m_FileID": 0,
-      "m_PathID": -2356723051031651514
+      "m_PathID": 3424
     },
     {
       "m_FileID": 0,
-      "m_PathID": -8036192784645383022
+      "m_PathID": 3425
     }
   ],
   "unitStatData": {
@@ -718,12 +718,12 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 74957204461100758
+    "m_PathID": 3258
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": -849322412376233531
+      "m_PathID": 2857
     }
   ],
   "passiveAbility": {
@@ -732,7 +732,7 @@
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 1858922205696389552
+    "m_PathID": 2856
   },
   "Gender": 0,
   "Age": -1

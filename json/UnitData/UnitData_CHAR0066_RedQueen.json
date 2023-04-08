@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 451
+    "m_PathID": 452
   },
   "m_Name": "UnitData_CHAR0066_RedQueen",
   "removeFromGame": 0,
@@ -770,29 +770,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 36514
+    "m_PathID": 3251
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 35864
+      "m_PathID": 2830
     },
     {
       "m_FileID": 0,
-      "m_PathID": 35863
+      "m_PathID": 2829
     },
     {
       "m_FileID": 0,
-      "m_PathID": 35865
+      "m_PathID": 2831
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 35862
+    "m_PathID": 2828
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 35861
+    "m_PathID": 2827
   },
   "Gender": 0,
   "Age": -1

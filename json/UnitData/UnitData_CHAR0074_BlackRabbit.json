@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 451
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0074_BlackRabbit",
   "removeFromGame": 0,
@@ -770,25 +770,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 36468
+    "m_PathID": 9176783218271268365
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 35688
+      "m_PathID": -3057203247163775461
     },
     {
       "m_FileID": 0,
-      "m_PathID": 35687
+      "m_PathID": 6166430487020396365
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 35686
+    "m_PathID": -7649596068711880893
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 35685
+    "m_PathID": -8061351452267539508
   },
   "Gender": 0,
   "Age": -1

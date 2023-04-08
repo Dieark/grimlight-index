@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 450
+    "m_PathID": 453
   },
   "m_Name": "UnitData_CHAR0017_TamamoNoMai",
   "removeFromGame": 0,
@@ -781,25 +781,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3255
+    "m_PathID": 36519
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2865
+      "m_PathID": 35895
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2866
+      "m_PathID": 35896
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2864
+    "m_PathID": 35894
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2863
+    "m_PathID": 35893
   },
   "Gender": 0,
   "Age": -1

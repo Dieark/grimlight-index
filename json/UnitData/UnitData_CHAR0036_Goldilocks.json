@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 450
+    "m_PathID": 452
   },
   "m_Name": "UnitData_CHAR0036_Goldilocks",
   "removeFromGame": 0,
@@ -745,23 +745,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 3389
+      "m_PathID": 3396
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3390
+      "m_PathID": 3397
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3391
+      "m_PathID": 3398
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3392
+      "m_PathID": 3399
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3393
+      "m_PathID": 3400
     }
   ],
   "unitStatData": {
@@ -818,21 +818,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3210
+    "m_PathID": 3218
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2693
+      "m_PathID": 2703
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2692
+    "m_PathID": 2702
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2691
+    "m_PathID": 2701
   },
   "Gender": 0,
   "Age": 18

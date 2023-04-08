@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 450
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0059_HeadlessHorseman",
   "removeFromGame": 0,
@@ -770,29 +770,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3213
+    "m_PathID": -9012357250240465102
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2702
+      "m_PathID": -9065095397290194269
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2703
+      "m_PathID": -1880061365631588587
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2704
+      "m_PathID": -4419011365090400217
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2701
+    "m_PathID": -1910746428569823459
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2700
+    "m_PathID": -5169380460729113191
   },
   "Gender": 1,
   "Age": -1

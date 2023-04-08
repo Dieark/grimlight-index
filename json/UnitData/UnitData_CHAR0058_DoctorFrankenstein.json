@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 451
+    "m_PathID": 452
   },
   "m_Name": "UnitData_CHAR0058_DoctorFrankenstein",
   "removeFromGame": 0,
@@ -770,33 +770,33 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 36477
+    "m_PathID": 3214
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 35723
+      "m_PathID": 2689
     },
     {
       "m_FileID": 0,
-      "m_PathID": 35722
+      "m_PathID": 2688
     },
     {
       "m_FileID": 0,
-      "m_PathID": 35724
+      "m_PathID": 2690
     },
     {
       "m_FileID": 0,
-      "m_PathID": 35721
+      "m_PathID": 2687
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 35720
+    "m_PathID": 2686
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 35719
+    "m_PathID": 2685
   },
   "Gender": 0,
   "Age": -1

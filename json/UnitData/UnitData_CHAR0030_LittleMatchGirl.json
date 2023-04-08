@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 451
+    "m_PathID": 453
   },
   "m_Name": "UnitData_CHAR0030_LittleMatchGirl",
   "removeFromGame": 0,
@@ -739,23 +739,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 37485
+      "m_PathID": 37508
     },
     {
       "m_FileID": 0,
-      "m_PathID": 37486
+      "m_PathID": 37509
     },
     {
       "m_FileID": 0,
-      "m_PathID": 37487
+      "m_PathID": 37510
     },
     {
       "m_FileID": 0,
-      "m_PathID": 37488
+      "m_PathID": 37511
     },
     {
       "m_FileID": 0,
-      "m_PathID": 37489
+      "m_PathID": 37512
     }
   ],
   "unitStatData": {
@@ -812,21 +812,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 36494
+    "m_PathID": 36488
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 35794
+      "m_PathID": 35785
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 35793
+    "m_PathID": 35784
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 35792
+    "m_PathID": 35783
   },
   "Gender": 0,
   "Age": 14

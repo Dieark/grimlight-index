@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 451
+    "m_PathID": 452
   },
   "m_Name": "UnitData_CHAR0003_Saffi",
   "removeFromGame": 0,
@@ -776,29 +776,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 36519
+    "m_PathID": 3256
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 35882
+      "m_PathID": 2848
     },
     {
       "m_FileID": 0,
-      "m_PathID": 35883
+      "m_PathID": 2849
     },
     {
       "m_FileID": 0,
-      "m_PathID": 35884
+      "m_PathID": 2850
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 35881
+    "m_PathID": 2847
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 35880
+    "m_PathID": 2846
   },
   "Gender": 0,
   "Age": 0

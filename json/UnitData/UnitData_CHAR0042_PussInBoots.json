@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 450
+    "m_PathID": 453
   },
   "m_Name": "UnitData_CHAR0042_PussInBoots",
   "removeFromGame": 0,
@@ -776,21 +776,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3238
+    "m_PathID": 36502
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2803
+      "m_PathID": 35833
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2802
+    "m_PathID": 35832
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2801
+    "m_PathID": 35831
   },
   "Gender": 0,
   "Age": 18

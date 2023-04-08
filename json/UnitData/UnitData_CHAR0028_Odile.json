@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 450
+    "m_PathID": 452
   },
   "m_Name": "UnitData_CHAR0028_Odile",
   "removeFromGame": 0,
@@ -776,21 +776,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3233
+    "m_PathID": 3240
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2785
+      "m_PathID": 2790
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2784
+    "m_PathID": 2789
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2783
+    "m_PathID": 2788
   },
   "Gender": 0,
   "Age": 21

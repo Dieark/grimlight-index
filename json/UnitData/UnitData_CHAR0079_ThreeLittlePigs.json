@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 450
+    "m_PathID": 452
   },
   "m_Name": "UnitData_CHAR0079_ThreeLittlePigs",
   "removeFromGame": 0,
@@ -770,29 +770,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3258
+    "m_PathID": 3265
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2874
+      "m_PathID": 2879
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2873
+      "m_PathID": 2878
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2872
+      "m_PathID": 2877
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2871
+    "m_PathID": 2876
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2870
+    "m_PathID": 2875
   },
   "Gender": 0,
   "Age": -1

@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 450
+    "m_PathID": 452
   },
   "m_Name": "UnitData_CHAR0033_MarchHare",
   "removeFromGame": 0,
@@ -776,25 +776,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3227
+    "m_PathID": 3234
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2766
+      "m_PathID": 2771
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2767
+      "m_PathID": 2772
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2765
+    "m_PathID": 2770
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2764
+    "m_PathID": 2769
   },
   "Gender": 0,
   "Age": -1

@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 452
   },
   "m_Name": "UnitData_CHAR0043_Gretel",
   "removeFromGame": 0,
@@ -676,16 +676,16 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": -6388849300451833974
+    "m_PathID": 3219
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": -1175214094258165657
+      "m_PathID": 2705
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3968167368061755466
+      "m_PathID": 2706
     }
   ],
   "passiveAbility": {
@@ -694,7 +694,7 @@
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 41644697825733595
+    "m_PathID": 2704
   },
   "Gender": 0,
   "Age": 17

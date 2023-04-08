@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 450
+    "m_PathID": 452
   },
   "m_Name": "UnitData_CHAR0024_RobinHood",
   "removeFromGame": 0,
@@ -776,21 +776,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3246
+    "m_PathID": 3253
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2831
+      "m_PathID": 2836
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2832
+    "m_PathID": 2837
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2830
+    "m_PathID": 2835
   },
   "Gender": 0,
   "Age": 29

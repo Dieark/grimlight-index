@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 450
+    "m_PathID": 453
   },
   "m_Name": "UnitData_CHAR0022_WhiteRabbit",
   "removeFromGame": 0,
@@ -781,21 +781,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3268
+    "m_PathID": 36532
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2912
+      "m_PathID": 35942
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2911
+    "m_PathID": 35941
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2910
+    "m_PathID": 35940
   },
   "Gender": 0,
   "Age": -1
