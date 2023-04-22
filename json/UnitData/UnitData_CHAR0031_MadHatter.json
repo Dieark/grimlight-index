@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 452
+    "m_PathID": 478
   },
   "m_Name": "UnitData_CHAR0031_MadHatter",
   "removeFromGame": 0,
@@ -762,6 +762,7 @@
     "attackRange": 40.0,
     "energyGainPerAttack": 20,
     "moveSpeed": 15.0,
+    "targetZAlignment": 0.0,
     "laneSearch": 5,
     "aggroRange": 50.0,
     "pushRadius": 0.0,
@@ -776,25 +777,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3233
+    "m_PathID": 41544
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2767
+      "m_PathID": 40839
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2768
+      "m_PathID": 40840
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2766
+    "m_PathID": 40838
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2765
+    "m_PathID": 40837
   },
   "Gender": 1,
   "Age": 36

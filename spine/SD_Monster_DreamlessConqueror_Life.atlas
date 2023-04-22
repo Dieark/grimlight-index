@@ -1,0 +1,286 @@
+
+SD_Monster_DreamlessConqueror_Life.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DreamlessConqueror_Blur
+  rotate: false
+  xy: 377, 140
+  size: 77, 72
+  orig: 81, 76
+  offset: 4, 0
+  index: -1
+Larm
+  rotate: false
+  xy: 0, 90
+  size: 45, 55
+  orig: 45, 55
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: true
+  xy: 482, 66
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+Lfootplate
+  rotate: false
+  xy: 411, 61
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 291, 66
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+Lhipplate
+  rotate: true
+  xy: 91, 70
+  size: 24, 45
+  orig: 24, 45
+  offset: 0, 0
+  index: -1
+Lhorn
+  rotate: true
+  xy: 33, 55
+  size: 16, 49
+  orig: 16, 49
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 320, 66
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+Lpauldron
+  rotate: false
+  xy: 476, 321
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+Lpauldron_back
+  rotate: false
+  xy: 142, 107
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+Lshoulderfur
+  rotate: false
+  xy: 190, 66
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 454, 95
+  size: 47, 58
+  orig: 47, 58
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: false
+  xy: 431, 114
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+Rfootplate
+  rotate: false
+  xy: 435, 101
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 435, 70
+  size: 24, 47
+  orig: 24, 47
+  offset: 0, 0
+  index: -1
+Rhead
+  rotate: false
+  xy: 440, 239
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+Rhipplate
+  rotate: false
+  xy: 99, 94
+  size: 43, 51
+  orig: 43, 51
+  offset: 0, 0
+  index: -1
+Rhorn
+  rotate: true
+  xy: 361, 54
+  size: 19, 51
+  orig: 19, 51
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 44, 72
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+Rpauldron
+  rotate: false
+  xy: 254, 99
+  size: 66, 57
+  orig: 66, 57
+  offset: 0, 0
+  index: -1
+Rshoulderfur
+  rotate: false
+  xy: 44, 104
+  size: 55, 42
+  orig: 55, 42
+  offset: 0, 0
+  index: -1
+belts
+  rotate: false
+  xy: 469, 445
+  size: 37, 67
+  orig: 37, 67
+  offset: 0, 0
+  index: -1
+chest
+  rotate: true
+  xy: 399, 309
+  size: 81, 77
+  orig: 81, 77
+  offset: 0, 0
+  index: -1
+chestdark
+  rotate: false
+  xy: 227, 62
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 231, 140
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+eyedark
+  rotate: false
+  xy: 142, 68
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+hipplates_back
+  rotate: false
+  xy: 254, 64
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+hipplates_back2
+  rotate: false
+  xy: 0, 62
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+middleplate
+  rotate: false
+  xy: 374, 74
+  size: 61, 29
+  orig: 61, 29
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 374, 102
+  size: 56, 38
+  orig: 56, 38
+  offset: 0, 0
+  index: -1
+skirtL
+  rotate: false
+  xy: 473, 376
+  size: 34, 70
+  orig: 34, 70
+  offset: 0, 0
+  index: -1
+skirtR
+  rotate: true
+  xy: 176, 86
+  size: 70, 79
+  orig: 70, 79
+  offset: 0, 0
+  index: -1
+skirt_back
+  rotate: true
+  xy: 454, 153
+  size: 87, 49
+  orig: 87, 49
+  offset: 0, 0
+  index: -1
+slash1
+  rotate: true
+  xy: 399, 389
+  size: 122, 70
+  orig: 126, 74
+  offset: 2, 3
+  index: -1
+slash2
+  rotate: false
+  xy: 176, 155
+  size: 201, 57
+  orig: 205, 59
+  offset: 2, 1
+  index: -1
+slash3
+  rotate: true
+  xy: 0, 145
+  size: 172, 176
+  orig: 177, 179
+  offset: 2, 2
+  index: -1
+slash4
+  rotate: false
+  xy: 226, 308
+  size: 173, 203
+  orig: 178, 206
+  offset: 2, 1
+  index: -1
+slash5
+  rotate: false
+  xy: 0, 317
+  size: 226, 194
+  orig: 229, 197
+  offset: 1, 2
+  index: -1
+torso
+  rotate: false
+  xy: 320, 99
+  size: 54, 56
+  orig: 54, 56
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 176, 212
+  size: 96, 265
+  orig: 96, 265
+  offset: 0, 0
+  index: -1

@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 452
+    "m_PathID": 478
   },
   "m_Name": "UnitData_CHAR0004_Hina",
   "removeFromGame": 0,
@@ -756,6 +756,7 @@
     "attackRange": 10.0,
     "energyGainPerAttack": 14,
     "moveSpeed": 15.0,
+    "targetZAlignment": 0.0,
     "laneSearch": 5,
     "aggroRange": 50.0,
     "pushRadius": 0.0,
@@ -770,25 +771,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3222
+    "m_PathID": 41532
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2718
+      "m_PathID": 40786
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2717
+      "m_PathID": 40785
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2716
+    "m_PathID": 40784
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2715
+    "m_PathID": 40783
   },
   "Gender": 0,
   "Age": 0

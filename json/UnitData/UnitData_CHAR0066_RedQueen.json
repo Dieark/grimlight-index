@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 452
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0066_RedQueen",
   "removeFromGame": 0,
@@ -756,6 +756,7 @@
     "attackRange": 12.0,
     "energyGainPerAttack": 10,
     "moveSpeed": 15.0,
+    "targetZAlignment": 0.0,
     "laneSearch": 0,
     "aggroRange": 80.0,
     "pushRadius": 0.0,
@@ -770,29 +771,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3251
+    "m_PathID": -7762751475957881371
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2830
+      "m_PathID": -3992182468070939605
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2829
+      "m_PathID": -8101185873408393667
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2831
+      "m_PathID": 4976275653181390338
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2828
+    "m_PathID": 424434824772056862
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2827
+    "m_PathID": -3794871944820106522
   },
   "Gender": 0,
   "Age": -1

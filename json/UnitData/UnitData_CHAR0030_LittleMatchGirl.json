@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 453
+    "m_PathID": 454
   },
   "m_Name": "UnitData_CHAR0030_LittleMatchGirl",
   "removeFromGame": 0,
@@ -739,23 +739,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 37508
+      "m_PathID": 3418
     },
     {
       "m_FileID": 0,
-      "m_PathID": 37509
+      "m_PathID": 3419
     },
     {
       "m_FileID": 0,
-      "m_PathID": 37510
+      "m_PathID": 3420
     },
     {
       "m_FileID": 0,
-      "m_PathID": 37511
+      "m_PathID": 3421
     },
     {
       "m_FileID": 0,
-      "m_PathID": 37512
+      "m_PathID": 3422
     }
   ],
   "unitStatData": {
@@ -798,6 +798,7 @@
     "attackRange": 40.0,
     "energyGainPerAttack": 15,
     "moveSpeed": 15.0,
+    "targetZAlignment": 0.0,
     "laneSearch": 5,
     "aggroRange": 50.0,
     "pushRadius": 0.0,
@@ -812,21 +813,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 36488
+    "m_PathID": 3242
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 35785
+      "m_PathID": 2768
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 35784
+    "m_PathID": 2767
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 35783
+    "m_PathID": 2766
   },
   "Gender": 0,
   "Age": 14

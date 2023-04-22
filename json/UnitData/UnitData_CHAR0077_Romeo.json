@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 454
   },
   "m_Name": "UnitData_CHAR0077_Romeo",
   "removeFromGame": 0,
@@ -756,6 +756,7 @@
     "attackRange": 10.0,
     "energyGainPerAttack": 10,
     "moveSpeed": 15.0,
+    "targetZAlignment": 0.0,
     "laneSearch": 5,
     "aggroRange": 60.0,
     "pushRadius": 0.0,
@@ -770,25 +771,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": -1725347226023263095
+    "m_PathID": 3265
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 8308587987865247172
+      "m_PathID": 2848
     },
     {
       "m_FileID": 0,
-      "m_PathID": -2902435736810001588
+      "m_PathID": 2849
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 3094362016274911963
+    "m_PathID": 2847
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": -3902657771908227220
+    "m_PathID": 2846
   },
   "Gender": 1,
   "Age": -1

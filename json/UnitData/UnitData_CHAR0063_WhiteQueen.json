@@ -756,6 +756,7 @@
     "attackRange": 40.0,
     "energyGainPerAttack": 12,
     "moveSpeed": 15.0,
+    "targetZAlignment": 0.0,
     "laneSearch": 4,
     "aggroRange": 55.0,
     "pushRadius": 0.0,

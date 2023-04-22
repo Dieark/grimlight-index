@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 453
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0062_Lily",
   "removeFromGame": 0,
@@ -756,6 +756,7 @@
     "attackRange": 40.0,
     "energyGainPerAttack": 15,
     "moveSpeed": 12.0,
+    "targetZAlignment": 0.0,
     "laneSearch": 0,
     "aggroRange": 50.0,
     "pushRadius": 0.0,
@@ -770,25 +771,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 36487
+    "m_PathID": 1684283568782226856
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 35782
+      "m_PathID": 4476213009786355705
     },
     {
       "m_FileID": 0,
-      "m_PathID": 35781
+      "m_PathID": 4873736541896342764
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 35780
+    "m_PathID": -1680748879054779522
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 35779
+    "m_PathID": 8984526778260856821
   },
   "Gender": 0,
   "Age": -1

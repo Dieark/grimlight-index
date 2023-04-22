@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 452
+    "m_PathID": 454
   },
   "m_Name": "UnitData_CHAR0079_ThreeLittlePigs",
   "removeFromGame": 0,
@@ -756,6 +756,7 @@
     "attackRange": 15.0,
     "energyGainPerAttack": 12,
     "moveSpeed": 15.0,
+    "targetZAlignment": 0.0,
     "laneSearch": 5,
     "aggroRange": 60.0,
     "pushRadius": 0.0,
@@ -770,29 +771,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3265
+    "m_PathID": 3276
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2879
+      "m_PathID": 2887
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2878
+      "m_PathID": 2886
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2877
+      "m_PathID": 2885
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2876
+    "m_PathID": 2884
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2875
+    "m_PathID": 2883
   },
   "Gender": 0,
   "Age": -1

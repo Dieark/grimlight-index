@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 452
+    "m_PathID": 478
   },
   "m_Name": "UnitData_CHAR0076_Juliet",
   "removeFromGame": 0,
@@ -756,6 +756,7 @@
     "attackRange": 40.0,
     "energyGainPerAttack": 15,
     "moveSpeed": 15.0,
+    "targetZAlignment": 0.0,
     "laneSearch": 5,
     "aggroRange": 60.0,
     "pushRadius": 0.0,
@@ -770,29 +771,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3226
+    "m_PathID": 41537
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2739
+      "m_PathID": 40811
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2738
+      "m_PathID": 40810
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2740
+      "m_PathID": 40812
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2737
+    "m_PathID": 40809
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2736
+    "m_PathID": 40808
   },
   "Gender": 0,
   "Age": -1

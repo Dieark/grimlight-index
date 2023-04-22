@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 452
+    "m_PathID": 478
   },
   "m_Name": "UnitData_CHAR0045_Beauty",
   "removeFromGame": 0,
@@ -756,6 +756,7 @@
     "attackRange": 40.0,
     "energyGainPerAttack": 20,
     "moveSpeed": 15.0,
+    "targetZAlignment": 0.0,
     "laneSearch": 5,
     "aggroRange": 50.0,
     "pushRadius": 0.0,
@@ -770,21 +771,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3203
+    "m_PathID": 41513
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2648
+      "m_PathID": 40716
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2647
+    "m_PathID": 40715
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2646
+    "m_PathID": 40714
   },
   "Gender": 0,
   "Age": 23

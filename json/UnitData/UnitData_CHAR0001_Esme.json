@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 453
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0001_Esme",
   "removeFromGame": 0,
@@ -750,23 +750,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 37493
+      "m_PathID": 484315098674111504
     },
     {
       "m_FileID": 0,
-      "m_PathID": 37494
+      "m_PathID": -7534308005647225744
     },
     {
       "m_FileID": 0,
-      "m_PathID": 37495
+      "m_PathID": -618472331808185009
     },
     {
       "m_FileID": 0,
-      "m_PathID": 37496
+      "m_PathID": -130422670799050711
     },
     {
       "m_FileID": 0,
-      "m_PathID": 37497
+      "m_PathID": -8722737781009150331
     }
   ],
   "unitStatData": {
@@ -809,6 +809,7 @@
     "attackRange": 50.0,
     "energyGainPerAttack": 10,
     "moveSpeed": 15.0,
+    "targetZAlignment": 0.0,
     "laneSearch": 5,
     "aggroRange": 50.0,
     "pushRadius": 0.0,
@@ -823,21 +824,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 36469
+    "m_PathID": 1942575440262661413
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 35704
+      "m_PathID": 3697729047045236337
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 35703
+    "m_PathID": 3951103972787493190
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 35702
+    "m_PathID": -1093268284598888304
   },
   "Gender": 0,
   "Age": -1

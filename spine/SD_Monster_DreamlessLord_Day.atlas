@@ -1,0 +1,237 @@
+
+SD_Monster_DreamlessLord_Day.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DreamlessLord_Blur
+  rotate: false
+  xy: 407, 79
+  size: 74, 69
+  orig: 75, 69
+  offset: 1, 0
+  index: -1
+Lfoot
+  rotate: false
+  xy: 353, 55
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+Lfootplate
+  rotate: false
+  xy: 496, 359
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 481, 70
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+Lhipplate
+  rotate: true
+  xy: 193, 42
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 132, 84
+  size: 34, 62
+  orig: 34, 62
+  offset: 0, 0
+  index: -1
+Lpauldron
+  rotate: false
+  xy: 445, 286
+  size: 53, 67
+  orig: 53, 67
+  offset: 0, 0
+  index: -1
+Lthigh
+  rotate: false
+  xy: 320, 51
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 258, 52
+  size: 33, 62
+  orig: 33, 62
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: false
+  xy: 381, 53
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+Rfootplate
+  rotate: false
+  xy: 480, 360
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 481, 110
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+Rhipplate
+  rotate: true
+  xy: 445, 228
+  size: 57, 52
+  orig: 57, 52
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 132, 47
+  size: 33, 62
+  orig: 33, 62
+  offset: 0, 0
+  index: -1
+Rpauldron
+  rotate: false
+  xy: 331, 79
+  size: 76, 70
+  orig: 76, 70
+  offset: 0, 0
+  index: -1
+Rthigh
+  rotate: false
+  xy: 407, 50
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+cape
+  rotate: false
+  xy: 399, 352
+  size: 77, 161
+  orig: 77, 161
+  offset: 0, 0
+  index: -1
+chestdark
+  rotate: false
+  xy: 448, 45
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 462, 356
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+eyedark
+  rotate: false
+  xy: 0, 62
+  size: 54, 49
+  orig: 54, 49
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 258, 86
+  size: 74, 76
+  orig: 74, 76
+  offset: 0, 0
+  index: -1
+hipback
+  rotate: true
+  xy: 467, 374
+  size: 63, 36
+  orig: 63, 36
+  offset: 0, 0
+  index: -1
+loincloth
+  rotate: true
+  xy: 56, 69
+  size: 42, 76
+  orig: 42, 76
+  offset: 0, 0
+  index: -1
+middleplate
+  rotate: true
+  xy: 399, 317
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 475, 437
+  size: 67, 36
+  orig: 67, 36
+  offset: 0, 0
+  index: -1
+shield
+  rotate: true
+  xy: 0, 110
+  size: 37, 132
+  orig: 37, 132
+  offset: 0, 0
+  index: -1
+slash1
+  rotate: false
+  xy: 377, 148
+  size: 122, 70
+  orig: 126, 74
+  offset: 2, 3
+  index: -1
+slash2
+  rotate: false
+  xy: 176, 161
+  size: 201, 57
+  orig: 205, 59
+  offset: 2, 1
+  index: -1
+slash3
+  rotate: true
+  xy: 0, 146
+  size: 172, 176
+  orig: 177, 179
+  offset: 2, 2
+  index: -1
+slash4
+  rotate: false
+  xy: 226, 309
+  size: 173, 203
+  orig: 178, 206
+  offset: 2, 1
+  index: -1
+slash5
+  rotate: false
+  xy: 0, 318
+  size: 226, 194
+  orig: 229, 197
+  offset: 1, 2
+  index: -1
+torso
+  rotate: true
+  xy: 176, 80
+  size: 81, 82
+  orig: 81, 82
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 176, 218
+  size: 92, 270
+  orig: 92, 270
+  offset: 0, 0
+  index: -1

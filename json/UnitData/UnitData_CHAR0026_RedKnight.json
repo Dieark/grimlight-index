@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 453
+    "m_PathID": 454
   },
   "m_Name": "UnitData_CHAR0026_RedKnight",
   "removeFromGame": 0,
@@ -762,6 +762,7 @@
     "attackRange": 10.0,
     "energyGainPerAttack": 10,
     "moveSpeed": 15.0,
+    "targetZAlignment": 3.0,
     "laneSearch": 3,
     "aggroRange": 50.0,
     "pushRadius": 0.0,
@@ -772,25 +773,25 @@
   },
   "awakeningRareMat": {
     "objectType": 0,
-    "objectID": ""
+    "objectID": "CHAR0000"
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 36507
+    "m_PathID": 3261
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 35851
+      "m_PathID": 2834
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 35850
+    "m_PathID": 2833
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 35849
+    "m_PathID": 2832
   },
   "Gender": 0,
   "Age": 36

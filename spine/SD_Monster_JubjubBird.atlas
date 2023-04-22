@@ -1,0 +1,284 @@
+
+SD_Monster_JubjubBird.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ltoe1
+  rotate: true
+  xy: 12, 2
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+Ltoe2
+  rotate: false
+  xy: 279, 3
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Ltoe3
+  rotate: true
+  xy: 240, 485
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+Ltongue
+  rotate: true
+  xy: 252, 6
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+Lwing2
+  rotate: false
+  xy: 0, 273
+  size: 188, 239
+  orig: 188, 239
+  offset: 0, 0
+  index: -1
+Lwing3
+  rotate: true
+  xy: 187, 273
+  size: 211, 149
+  orig: 211, 149
+  offset: 0, 0
+  index: -1
+Lwing4
+  rotate: false
+  xy: 167, 44
+  size: 207, 63
+  orig: 207, 63
+  offset: 0, 0
+  index: -1
+Lwing6
+  rotate: false
+  xy: 382, 16
+  size: 109, 258
+  orig: 109, 258
+  offset: 0, 0
+  index: -1
+Lwing8
+  rotate: true
+  xy: 213, 107
+  size: 166, 170
+  orig: 166, 170
+  offset: 0, 0
+  index: -1
+Lwing9
+  rotate: true
+  xy: 337, 274
+  size: 193, 156
+  orig: 193, 156
+  offset: 0, 0
+  index: -1
+Rtoe1
+  rotate: true
+  xy: 0, 1
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+Rwing4
+  rotate: false
+  xy: 337, 474
+  size: 154, 39
+  orig: 154, 39
+  offset: 0, 0
+  index: -1
+Rwing7
+  rotate: true
+  xy: 0, 139
+  size: 134, 213
+  orig: 134, 213
+  offset: 0, 0
+  index: -1
+Rwing8
+  rotate: false
+  xy: 0, 17
+  size: 168, 123
+  orig: 168, 123
+  offset: 0, 0
+  index: -1
+beak1
+  rotate: false
+  xy: 240, 494
+  size: 58, 18
+  orig: 58, 18
+  offset: 0, 0
+  index: -1
+beak2
+  rotate: true
+  xy: 187, 491
+  size: 21, 53
+  orig: 21, 53
+  offset: 0, 0
+  index: -1
+beak3
+  rotate: true
+  xy: 245, 26
+  size: 19, 49
+  orig: 19, 49
+  offset: 0, 0
+  index: -1
+beak4
+  rotate: false
+  xy: 298, 485
+  size: 35, 11
+  orig: 35, 11
+  offset: 0, 0
+  index: -1
+beakskinflap
+  rotate: false
+  xy: 323, 500
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 187, 486
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 195, 487
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 167, 115
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+headfeathers
+  rotate: false
+  xy: 167, 2
+  size: 46, 43
+  orig: 46, 43
+  offset: 0, 0
+  index: -1
+tail2
+  rotate: false
+  xy: 207, 1
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+waddle
+  rotate: false
+  xy: 298, 496
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+
+SD_Monster_JubjubBird2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lhip
+  rotate: false
+  xy: 411, 176
+  size: 50, 97
+  orig: 52, 97
+  offset: 2, 0
+  index: -1
+Lwing5
+  rotate: true
+  xy: 0, 84
+  size: 173, 148
+  orig: 173, 148
+  offset: 0, 0
+  index: -1
+Lwing7
+  rotate: false
+  xy: 148, 61
+  size: 114, 216
+  orig: 114, 216
+  offset: 0, 0
+  index: -1
+Rtoe2
+  rotate: 180
+  xy: 379, 350
+  size: 66, 70
+  orig: 66, 70
+  offset: 0, 0
+  index: -1
+Rwing2
+  rotate: false
+  xy: 114, 276
+  size: 112, 224
+  orig: 112, 224
+  offset: 0, 0
+  index: -1
+Rwing3
+  rotate: true
+  xy: 227, 341
+  size: 158, 153
+  orig: 158, 153
+  offset: 0, 0
+  index: -1
+Rwing5
+  rotate: false
+  xy: 262, 36
+  size: 164, 144
+  orig: 164, 144
+  offset: 0, 0
+  index: -1
+Rwing6
+  rotate: false
+  xy: 0, 256
+  size: 115, 243
+  orig: 115, 243
+  offset: 0, 0
+  index: -1
+Rwing9
+  rotate: false
+  xy: 262, 180
+  size: 149, 162
+  orig: 149, 162
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 411, 251
+  size: 127, 86
+  orig: 127, 86
+  offset: 0, 0
+  index: -1
+tail1
+  rotate: false
+  xy: 379, 368
+  size: 119, 132
+  orig: 119, 132
+  offset: 0, 0
+  index: -1
+
+SD_Monster_JubjubBird3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lwing1
+  rotate: false
+  xy: 0, 99
+  size: 214, 206
+  orig: 214, 206
+  offset: 0, 0
+  index: -1
+Rwing1
+  rotate: true
+  xy: 85, 150
+  size: 154, 218
+  orig: 154, 218
+  offset: 0, 0
+  index: -1

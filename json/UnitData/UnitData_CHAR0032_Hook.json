@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 453
+    "m_PathID": 478
   },
   "m_Name": "UnitData_CHAR0032_Hook",
   "removeFromGame": 0,
@@ -762,6 +762,7 @@
     "attackRange": 60.0,
     "energyGainPerAttack": 9,
     "moveSpeed": 15.0,
+    "targetZAlignment": 0.0,
     "laneSearch": 5,
     "aggroRange": 60.0,
     "pushRadius": 0.0,
@@ -776,25 +777,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 36480
+    "m_PathID": 41533
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 35747
+      "m_PathID": 40790
     },
     {
       "m_FileID": 0,
-      "m_PathID": 35746
+      "m_PathID": 40789
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 35745
+    "m_PathID": 40788
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 35744
+    "m_PathID": 40787
   },
   "Gender": 0,
   "Age": -1

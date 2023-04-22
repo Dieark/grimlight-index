@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 452
+    "m_PathID": 478
   },
   "m_Name": "UnitData_CHAR0052_Ozma",
   "removeFromGame": 0,
@@ -745,23 +745,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 3411
+      "m_PathID": 42608
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3412
+      "m_PathID": 42609
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3413
+      "m_PathID": 42610
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3414
+      "m_PathID": 42611
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3415
+      "m_PathID": 42612
     }
   ],
   "unitStatData": {
@@ -804,6 +804,7 @@
     "attackRange": 50.0,
     "energyGainPerAttack": 13,
     "moveSpeed": 15.0,
+    "targetZAlignment": 0.0,
     "laneSearch": 5,
     "aggroRange": 50.0,
     "pushRadius": 0.0,
@@ -818,25 +819,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3242
+    "m_PathID": 41553
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2795
+      "m_PathID": 40867
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2796
+      "m_PathID": 40868
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2794
+    "m_PathID": 40866
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2793
+    "m_PathID": 40865
   },
   "Gender": 0,
   "Age": -1

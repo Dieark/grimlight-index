@@ -1,0 +1,104 @@
+
+SD_Monster_DreamlessMagister_Heart.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lhorn
+  rotate: true
+  xy: 228, 16
+  size: 48, 140
+  orig: 48, 140
+  offset: 0, 0
+  index: -1
+Rhorn
+  rotate: true
+  xy: 87, 52
+  size: 56, 141
+  orig: 56, 141
+  offset: 0, 0
+  index: -1
+cape
+  rotate: true
+  xy: 87, 288
+  size: 224, 179
+  orig: 224, 179
+  offset: 0, 0
+  index: -1
+chestplate
+  rotate: false
+  xy: 425, 304
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+collar
+  rotate: true
+  xy: 425, 368
+  size: 145, 55
+  orig: 145, 55
+  offset: 0, 0
+  index: -1
+drerss
+  rotate: false
+  xy: 87, 107
+  size: 171, 135
+  orig: 171, 135
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 87, 281
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 248, 64
+  size: 126, 112
+  orig: 126, 112
+  offset: 0, 0
+  index: -1
+hood
+  rotate: false
+  xy: 247, 176
+  size: 170, 172
+  orig: 170, 172
+  offset: 0, 0
+  index: -1
+hood_dark
+  rotate: false
+  xy: 417, 258
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+hoodback
+  rotate: true
+  xy: 378, 88
+  size: 149, 133
+  orig: 149, 133
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 87, 502
+  size: 33, 11
+  orig: 33, 11
+  offset: 0, 0
+  index: -1
+staff
+  rotate: false
+  xy: 0, 80
+  size: 87, 433
+  orig: 87, 433
+  offset: 0, 0
+  index: -1
+staff_glow
+  rotate: false
+  xy: 266, 347
+  size: 159, 166
+  orig: 159, 166
+  offset: 0, 0
+  index: -1

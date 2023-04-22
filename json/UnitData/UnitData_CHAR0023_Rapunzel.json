@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 454
   },
   "m_Name": "UnitData_CHAR0023_Rapunzel",
   "removeFromGame": 0,
@@ -762,6 +762,7 @@
     "attackRange": 40.0,
     "energyGainPerAttack": 20,
     "moveSpeed": 15.0,
+    "targetZAlignment": 0.0,
     "laneSearch": 5,
     "aggroRange": 50.0,
     "pushRadius": 0.0,
@@ -776,21 +777,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 4250093039325437563
+    "m_PathID": 3258
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 5075516581656069571
+      "m_PathID": 2823
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": -306318174296220549
+    "m_PathID": 2822
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": -2630883564942446202
+    "m_PathID": 2821
   },
   "Gender": 0,
   "Age": 16

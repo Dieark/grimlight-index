@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 453
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0082_Glinda",
   "removeFromGame": 0,
@@ -756,6 +756,7 @@
     "attackRange": 40.0,
     "energyGainPerAttack": 15,
     "moveSpeed": 15.0,
+    "targetZAlignment": 0.0,
     "laneSearch": 5,
     "aggroRange": 60.0,
     "pushRadius": 0.0,
@@ -770,29 +771,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 36474
+    "m_PathID": 1536187362286772062
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 35723
+      "m_PathID": 295476668027749346
     },
     {
       "m_FileID": 0,
-      "m_PathID": 35724
+      "m_PathID": -6646887442693932769
     },
     {
       "m_FileID": 0,
-      "m_PathID": 35725
+      "m_PathID": -2021533373891996857
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 35722
+    "m_PathID": 3930954185576790527
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 35721
+    "m_PathID": -3741800756868208610
   },
   "Gender": 0,
   "Age": -1

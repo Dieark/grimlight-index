@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 478
   },
   "m_Name": "UnitData_CHAR0078_TsuruNyobo",
   "removeFromGame": 0,
@@ -756,6 +756,7 @@
     "attackRange": 10.0,
     "energyGainPerAttack": 12,
     "moveSpeed": 15.0,
+    "targetZAlignment": 0.0,
     "laneSearch": 5,
     "aggroRange": 60.0,
     "pushRadius": 0.0,
@@ -770,29 +771,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3336392459335564532
+    "m_PathID": 41580
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 1058599448519496493
+      "m_PathID": 40966
     },
     {
       "m_FileID": 0,
-      "m_PathID": 6059842139508945535
+      "m_PathID": 40964
     },
     {
       "m_FileID": 0,
-      "m_PathID": 5230260283607123729
+      "m_PathID": 40965
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": -8155193508206110163
+    "m_PathID": 40963
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 845900290164538248
+    "m_PathID": 40962
   },
   "Gender": 0,
   "Age": -1

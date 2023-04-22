@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 454
   },
   "m_Name": "UnitData_CHAR0010_SnowWhite",
   "removeFromGame": 0,
@@ -755,23 +755,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 4340158860036358484
+      "m_PathID": 3438
     },
     {
       "m_FileID": 0,
-      "m_PathID": 9000650365857601445
+      "m_PathID": 3439
     },
     {
       "m_FileID": 0,
-      "m_PathID": 1719195355642631440
+      "m_PathID": 3440
     },
     {
       "m_FileID": 0,
-      "m_PathID": -5039605291736535774
+      "m_PathID": 3441
     },
     {
       "m_FileID": 0,
-      "m_PathID": -8205214085146736467
+      "m_PathID": 3442
     }
   ],
   "unitStatData": {
@@ -814,6 +814,7 @@
     "attackRange": 8.0,
     "energyGainPerAttack": 10,
     "moveSpeed": 15.0,
+    "targetZAlignment": 0.0,
     "laneSearch": 3,
     "aggroRange": 50.0,
     "pushRadius": 0.0,
@@ -828,21 +829,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 6887533137498814982
+    "m_PathID": 3271
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 1648105360950166637
+      "m_PathID": 2871
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 7730684202192784019
+    "m_PathID": 2870
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": -8471034155944453712
+    "m_PathID": 2869
   },
   "Gender": 0,
   "Age": 23

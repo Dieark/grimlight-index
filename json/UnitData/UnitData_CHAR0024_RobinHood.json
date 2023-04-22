@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 452
+    "m_PathID": 454
   },
   "m_Name": "UnitData_CHAR0024_RobinHood",
   "removeFromGame": 0,
@@ -762,6 +762,7 @@
     "attackRange": 50.0,
     "energyGainPerAttack": 10,
     "moveSpeed": 15.0,
+    "targetZAlignment": 0.0,
     "laneSearch": 5,
     "aggroRange": 50.0,
     "pushRadius": 0.0,
@@ -776,21 +777,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3253
+    "m_PathID": 3264
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2836
+      "m_PathID": 2844
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2837
+    "m_PathID": 2845
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2835
+    "m_PathID": 2843
   },
   "Gender": 0,
   "Age": 29

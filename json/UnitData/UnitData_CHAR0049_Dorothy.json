@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 453
+    "m_PathID": 454
   },
   "m_Name": "UnitData_CHAR0049_Dorothy",
   "removeFromGame": 0,
@@ -750,23 +750,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 37488
+      "m_PathID": 3398
     },
     {
       "m_FileID": 0,
-      "m_PathID": 37489
+      "m_PathID": 3399
     },
     {
       "m_FileID": 0,
-      "m_PathID": 37490
+      "m_PathID": 3400
     },
     {
       "m_FileID": 0,
-      "m_PathID": 37491
+      "m_PathID": 3401
     },
     {
       "m_FileID": 0,
-      "m_PathID": 37492
+      "m_PathID": 3402
     }
   ],
   "unitStatData": {
@@ -809,6 +809,7 @@
     "attackRange": 40.0,
     "energyGainPerAttack": 15,
     "moveSpeed": 15.0,
+    "targetZAlignment": 0.0,
     "laneSearch": 5,
     "aggroRange": 50.0,
     "pushRadius": 0.0,
@@ -823,21 +824,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 36467
+    "m_PathID": 3220
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 35697
+      "m_PathID": 2676
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 35696
+    "m_PathID": 2675
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 35695
+    "m_PathID": 2674
   },
   "Gender": 0,
   "Age": 21

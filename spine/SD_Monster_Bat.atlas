@@ -1,0 +1,90 @@
+
+SD_Monster_Bat.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BatScream
+  rotate: true
+  xy: 375, 363
+  size: 128, 96
+  orig: 128, 96
+  offset: 0, 0
+  index: -1
+Lear
+  rotate: true
+  xy: 142, 149
+  size: 57, 75
+  orig: 57, 75
+  offset: 0, 0
+  index: -1
+Lwing
+  rotate: true
+  xy: 2, 71
+  size: 158, 203
+  orig: 158, 203
+  offset: 0, 0
+  index: -1
+Rear
+  rotate: false
+  xy: 403, 165
+  size: 51, 91
+  orig: 51, 91
+  offset: 0, 0
+  index: -1
+Rwing
+  rotate: false
+  xy: 2, 314
+  size: 253, 178
+  orig: 253, 178
+  offset: 0, 0
+  index: -1
+Rwing2
+  rotate: 180
+  xy: 2, 208
+  size: 271, 104
+  orig: 271, 104
+  offset: 0, 0
+  index: -1
+Rwing3
+  rotate: 270
+  xy: 241, 207
+  size: 284, 145
+  orig: 284, 145
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 262, 84
+  size: 132, 161
+  orig: 132, 161
+  offset: 0, 0
+  index: -1
+eyedeath
+  rotate: false
+  xy: 146, 470
+  size: 68, 21
+  orig: 68, 21
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 196, 128
+  size: 64, 21
+  orig: 64, 21
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 425, 141
+  size: 64, 22
+  orig: 64, 22
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 388, 258
+  size: 102, 103
+  orig: 102, 103
+  offset: 0, 0
+  index: -1

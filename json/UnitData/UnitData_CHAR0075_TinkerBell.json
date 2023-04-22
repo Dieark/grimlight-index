@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 452
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0075_TinkerBell",
   "removeFromGame": 0,
@@ -756,6 +756,7 @@
     "attackRange": 100.0,
     "energyGainPerAttack": 15,
     "moveSpeed": 15.0,
+    "targetZAlignment": 0.0,
     "laneSearch": 5,
     "aggroRange": 60.0,
     "pushRadius": 0.0,
@@ -770,29 +771,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3268
+    "m_PathID": 2237698580375964986
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2889
+      "m_PathID": 6320797396271151328
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2888
+      "m_PathID": -4229109042422167977
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2887
+      "m_PathID": 6670359444082857415
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2886
+    "m_PathID": 803718977379471228
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2885
+    "m_PathID": -853531772254447791
   },
   "Gender": 0,
   "Age": -1

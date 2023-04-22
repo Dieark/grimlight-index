@@ -1,0 +1,153 @@
+
+SD_Monster_DreamlessArtillary_Heart.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BL_leg
+  rotate: true
+  xy: 0, 32
+  size: 69, 96
+  orig: 69, 96
+  offset: 0, 0
+  index: -1
+BR_leg
+  rotate: false
+  xy: 166, 11
+  size: 57, 73
+  orig: 57, 73
+  offset: 0, 0
+  index: -1
+FL_leg
+  rotate: false
+  xy: 93, 20
+  size: 74, 82
+  orig: 74, 82
+  offset: 0, 0
+  index: -1
+FR_leg
+  rotate: false
+  xy: 345, 5
+  size: 57, 68
+  orig: 57, 68
+  offset: 0, 0
+  index: -1
+armor_back
+  rotate: true
+  xy: 324, 428
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1
+backplate
+  rotate: false
+  xy: 349, 73
+  size: 102, 88
+  orig: 102, 88
+  offset: 0, 0
+  index: -1
+backskin
+  rotate: true
+  xy: 277, 70
+  size: 86, 68
+  orig: 86, 68
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 174
+  size: 243, 117
+  orig: 243, 117
+  offset: 0, 0
+  index: -1
+bodyarmor
+  rotate: false
+  xy: 0, 291
+  size: 216, 188
+  orig: 216, 188
+  offset: 0, 0
+  index: -1
+cannon
+  rotate: true
+  xy: 216, 292
+  size: 167, 108
+  orig: 167, 108
+  offset: 0, 0
+  index: -1
+cannonglow
+  rotate: true
+  xy: 154, 84
+  size: 73, 122
+  orig: 73, 122
+  offset: 0, 0
+  index: -1
+eyedark
+  rotate: false
+  xy: 282, 29
+  size: 55, 41
+  orig: 55, 41
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 349, 161
+  size: 131, 100
+  orig: 131, 100
+  offset: 0, 0
+  index: -1
+headplate
+  rotate: true
+  xy: 243, 156
+  size: 136, 106
+  orig: 136, 106
+  offset: 0, 0
+  index: -1
+headplate_back
+  rotate: true
+  xy: 324, 292
+  size: 136, 106
+  orig: 136, 106
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: false
+  xy: 223, 17
+  size: 59, 52
+  orig: 59, 52
+  offset: 0, 0
+  index: -1
+jaw_back
+  rotate: true
+  xy: 60, 2
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+mark
+  rotate: false
+  xy: 402, 19
+  size: 51, 55
+  orig: 51, 55
+  offset: 0, 0
+  index: -1
+markdark
+  rotate: false
+  xy: 430, 333
+  size: 49, 53
+  orig: 49, 53
+  offset: 0, 0
+  index: -1
+sideplate
+  rotate: false
+  xy: 0, 101
+  size: 155, 74
+  orig: 155, 74
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 394, 386
+  size: 94, 71
+  orig: 94, 71
+  offset: 0, 0
+  index: -1

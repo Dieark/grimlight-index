@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 452
+    "m_PathID": 454
   },
   "m_Name": "UnitData_CHAR0069_Marie",
   "removeFromGame": 0,
@@ -756,6 +756,7 @@
     "attackRange": 40.0,
     "energyGainPerAttack": 15,
     "moveSpeed": 15.0,
+    "targetZAlignment": 0.0,
     "laneSearch": 5,
     "aggroRange": 60.0,
     "pushRadius": 0.0,
@@ -770,25 +771,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3235
+    "m_PathID": 3246
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2776
+      "m_PathID": 2784
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2775
+      "m_PathID": 2783
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2774
+    "m_PathID": 2782
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2773
+    "m_PathID": 2781
   },
   "Gender": 0,
   "Age": -1

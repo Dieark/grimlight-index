@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 454
   },
   "m_Name": "UnitData_CHAR0015_Alice",
   "removeFromGame": 0,
@@ -772,6 +772,7 @@
     "attackRange": 12.0,
     "energyGainPerAttack": 10,
     "moveSpeed": 15.0,
+    "targetZAlignment": 0.0,
     "laneSearch": 3,
     "aggroRange": 50.0,
     "pushRadius": 0.0,
@@ -786,25 +787,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 8171030483865535829
+    "m_PathID": 3210
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 4068607707639125587
+      "m_PathID": 2642
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3989424657289506799
+      "m_PathID": 2641
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": -3240793437133229187
+    "m_PathID": 2640
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2164943359265356403
+    "m_PathID": 2639
   },
   "Gender": 0,
   "Age": -1

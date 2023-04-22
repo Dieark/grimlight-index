@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 478
   },
   "m_Name": "UnitData_CHAR0000_Aurora",
   "removeFromGame": 0,
@@ -745,23 +745,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 62297885057450314
+      "m_PathID": 42573
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3321923933979640225
+      "m_PathID": 42574
     },
     {
       "m_FileID": 0,
-      "m_PathID": 3229782789920179665
+      "m_PathID": 42575
     },
     {
       "m_FileID": 0,
-      "m_PathID": -1046724252405102500
+      "m_PathID": 42576
     },
     {
       "m_FileID": 0,
-      "m_PathID": -1516004727130863723
+      "m_PathID": 42577
     }
   ],
   "unitStatData": {
@@ -804,6 +804,7 @@
     "attackRange": 50.0,
     "energyGainPerAttack": 10,
     "moveSpeed": 15.0,
+    "targetZAlignment": 0.0,
     "laneSearch": 5,
     "aggroRange": 50.0,
     "pushRadius": 0.0,
@@ -818,25 +819,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 7667896272647603153
+    "m_PathID": 41511
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 3128278146077520071
+      "m_PathID": 40709
     },
     {
       "m_FileID": 0,
-      "m_PathID": -7561205471606638058
+      "m_PathID": 40710
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 7392841506696043370
+    "m_PathID": 40708
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": -3170921025893148448
+    "m_PathID": 40707
   },
   "Gender": 0,
   "Age": -1

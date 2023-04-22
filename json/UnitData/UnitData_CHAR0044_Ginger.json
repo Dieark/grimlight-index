@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 452
+    "m_PathID": 478
   },
   "m_Name": "UnitData_CHAR0044_Ginger",
   "removeFromGame": 0,
@@ -762,6 +762,7 @@
     "attackRange": 40.0,
     "energyGainPerAttack": 15,
     "moveSpeed": 15.0,
+    "targetZAlignment": 0.0,
     "laneSearch": 5,
     "aggroRange": 50.0,
     "pushRadius": 0.0,
@@ -776,16 +777,16 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3216
+    "m_PathID": 41526
   },
   "traits": [],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2695
+    "m_PathID": 40763
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2694
+    "m_PathID": 40762
   },
   "Gender": 0,
   "Age": 22

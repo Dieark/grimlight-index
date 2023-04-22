@@ -1,0 +1,250 @@
+
+SD_Monster_DreamlessGalleon.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BoatShoot
+  rotate: false
+  xy: 394, 43
+  size: 109, 135
+  orig: 123, 144
+  offset: 8, 4
+  index: -1
+body
+  rotate: true
+  xy: 201, 178
+  size: 312, 160
+  orig: 312, 160
+  offset: 0, 0
+  index: -1
+bowspirit
+  rotate: false
+  xy: 361, 383
+  size: 145, 128
+  orig: 145, 128
+  offset: 0, 0
+  index: -1
+cannon_stand
+  rotate: false
+  xy: 0, 3
+  size: 55, 29
+  orig: 55, 29
+  offset: 0, 0
+  index: -1
+legA2
+  rotate: true
+  xy: 54, 3
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+legA3
+  rotate: true
+  xy: 104, 7
+  size: 25, 55
+  orig: 25, 55
+  offset: 0, 0
+  index: -1
+legB
+  rotate: true
+  xy: 176, 12
+  size: 54, 132
+  orig: 54, 132
+  offset: 0, 0
+  index: -1
+legC2
+  rotate: false
+  xy: 462, 2
+  size: 46, 42
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+legback
+  rotate: true
+  xy: 308, 6
+  size: 59, 73
+  orig: 59, 73
+  offset: 0, 0
+  index: -1
+legback2
+  rotate: true
+  xy: 381, 6
+  size: 38, 81
+  orig: 38, 81
+  offset: 0, 0
+  index: -1
+legback3
+  rotate: true
+  xy: 381, 6
+  size: 38, 81
+  orig: 38, 81
+  offset: 0, 0
+  index: -1
+mast2
+  rotate: false
+  xy: 0, 178
+  size: 202, 334
+  orig: 202, 334
+  offset: 0, 0
+  index: -1
+mast3
+  rotate: true
+  xy: 176, 65
+  size: 113, 217
+  orig: 113, 217
+  offset: 0, 0
+  index: -1
+shiphead
+  rotate: true
+  xy: 361, 178
+  size: 201, 132
+  orig: 201, 132
+  offset: 0, 0
+  index: -1
+shiphead_bottom
+  rotate: true
+  xy: 0, 33
+  size: 146, 177
+  orig: 146, 177
+  offset: 0, 0
+  index: -1
+
+SD_Monster_DreamlessGalleon2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BoatSlam
+  rotate: false
+  xy: 157, 166
+  size: 100, 94
+  orig: 108, 101
+  offset: 0, 7
+  index: -1
+body_rope
+  rotate: false
+  xy: 371, 170
+  size: 87, 90
+  orig: 87, 90
+  offset: 0, 0
+  index: -1
+cannon
+  rotate: false
+  xy: 0, 111
+  size: 72, 33
+  orig: 72, 33
+  offset: 0, 0
+  index: -1
+cannon_standback
+  rotate: false
+  xy: 129, 270
+  size: 63, 42
+  orig: 63, 42
+  offset: 0, 0
+  index: -1
+cannonwheel
+  rotate: false
+  xy: 477, 452
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 477, 481
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+eyeblack
+  rotate: true
+  xy: 380, 97
+  size: 61, 51
+  orig: 61, 51
+  offset: 0, 0
+  index: -1
+flag
+  rotate: false
+  xy: 458, 229
+  size: 51, 32
+  orig: 51, 32
+  offset: 0, 0
+  index: -1
+legA
+  rotate: true
+  xy: 0, 144
+  size: 52, 124
+  orig: 52, 124
+  offset: 0, 0
+  index: -1
+legB2
+  rotate: false
+  xy: 468, 278
+  size: 42, 57
+  orig: 42, 57
+  offset: 0, 0
+  index: -1
+legB3
+  rotate: true
+  xy: 124, 103
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+legC
+  rotate: true
+  xy: 257, 192
+  size: 69, 113
+  orig: 69, 113
+  offset: 0, 0
+  index: -1
+mast1
+  rotate: true
+  xy: 228, 334
+  size: 179, 249
+  orig: 179, 249
+  offset: 0, 0
+  index: -1
+mast_rope2
+  rotate: true
+  xy: 228, 261
+  size: 74, 240
+  orig: 74, 240
+  offset: 0, 0
+  index: -1
+mastrope
+  rotate: 180
+  xy: 188, 56
+  size: 215, 95
+  orig: 215, 95
+  offset: 0, 0
+  index: -1
+ropes
+  rotate: true
+  xy: 213, 136
+  size: 54, 167
+  orig: 54, 167
+  offset: 0, 0
+  index: -1
+sail1
+  rotate: 180
+  xy: 427, 117
+  size: 84, 91
+  orig: 84, 91
+  offset: 0, 0
+  index: -1
+ship_back
+  rotate: false
+  xy: 0, 311
+  size: 228, 202
+  orig: 228, 202
+  offset: 0, 0
+  index: -1
+shipback2
+  rotate: false
+  xy: 0, 196
+  size: 158, 116
+  orig: 158, 116
+  offset: 0, 0
+  index: -1

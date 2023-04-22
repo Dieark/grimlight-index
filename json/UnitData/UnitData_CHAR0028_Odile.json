@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 452
+    "m_PathID": 454
   },
   "m_Name": "UnitData_CHAR0028_Odile",
   "removeFromGame": 0,
@@ -762,6 +762,7 @@
     "attackRange": 40.0,
     "energyGainPerAttack": 15,
     "moveSpeed": 15.0,
+    "targetZAlignment": 0.0,
     "laneSearch": 5,
     "aggroRange": 50.0,
     "pushRadius": 0.0,
@@ -776,21 +777,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3240
+    "m_PathID": 3251
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2790
+      "m_PathID": 2798
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2789
+    "m_PathID": 2797
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2788
+    "m_PathID": 2796
   },
   "Gender": 0,
   "Age": 21

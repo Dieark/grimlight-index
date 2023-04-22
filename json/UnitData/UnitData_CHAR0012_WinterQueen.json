@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 452
+    "m_PathID": 478
   },
   "m_Name": "UnitData_CHAR0012_WinterQueen",
   "removeFromGame": 0,
@@ -767,6 +767,7 @@
     "attackRange": 40.0,
     "energyGainPerAttack": 10,
     "moveSpeed": 15.0,
+    "targetZAlignment": 0.0,
     "laneSearch": 5,
     "aggroRange": 50.0,
     "pushRadius": 0.0,
@@ -781,29 +782,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3276
+    "m_PathID": 41587
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2921
+      "m_PathID": 40993
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2920
+      "m_PathID": 40992
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2922
+      "m_PathID": 40994
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2919
+    "m_PathID": 40991
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2918
+    "m_PathID": 40990
   },
   "Gender": 0,
   "Age": -1

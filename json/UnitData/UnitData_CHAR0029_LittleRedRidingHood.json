@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 453
+    "m_PathID": 478
   },
   "m_Name": "UnitData_CHAR0029_LittleRedRidingHood",
   "removeFromGame": 0,
@@ -762,6 +762,7 @@
     "attackRange": 10.0,
     "energyGainPerAttack": 15,
     "moveSpeed": 15.0,
+    "targetZAlignment": 0.0,
     "laneSearch": 3,
     "aggroRange": 50.0,
     "pushRadius": 0.0,
@@ -776,21 +777,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 36509
+    "m_PathID": 41563
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 35859
+      "m_PathID": 40906
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 35858
+    "m_PathID": 40905
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 35857
+    "m_PathID": 40904
   },
   "Gender": 0,
   "Age": 17

@@ -1,0 +1,474 @@
+
+SD_Hero_Jinjur.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lthumb
+  rotate: false
+  xy: 319, 331
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 454, 1
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+attackgun
+  rotate: false
+  xy: 191, 8
+  size: 263, 40
+  orig: 263, 40
+  offset: 0, 0
+  index: -1
+attackgunmuzzleglow
+  rotate: true
+  xy: 484, 289
+  size: 84, 23
+  orig: 89, 23
+  offset: 0, 0
+  index: -1
+backhair2
+  rotate: false
+  xy: 346, 173
+  size: 137, 173
+  orig: 137, 173
+  offset: 0, 0
+  index: -1
+bangs7
+  rotate: false
+  xy: 484, 208
+  size: 21, 82
+  orig: 21, 82
+  offset: 0, 0
+  index: -1
+bladeglow1
+  rotate: true
+  xy: 483, 373
+  size: 138, 19
+  orig: 138, 19
+  offset: 0, 0
+  index: -1
+bladeglow2
+  rotate: true
+  xy: 469, 29
+  size: 144, 25
+  orig: 144, 25
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 484, 180
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+eyefurious
+  rotate: false
+  xy: 191, 54
+  size: 85, 50
+  orig: 85, 50
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 191, 121
+  size: 15, 45
+  orig: 15, 45
+  offset: 0, 0
+  index: -1
+gun 4 hammer
+  rotate: false
+  xy: 320, 64
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+gun1
+  rotate: true
+  xy: 0, 166
+  size: 163, 212
+  orig: 163, 212
+  offset: 0, 0
+  index: -1
+gun2
+  rotate: false
+  xy: 211, 104
+  size: 135, 224
+  orig: 135, 224
+  offset: 0, 0
+  index: -1
+gun2 hammer
+  rotate: false
+  xy: 275, 54
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+gun3
+  rotate: false
+  xy: 376, 355
+  size: 107, 157
+  orig: 107, 157
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 346, 49
+  size: 122, 125
+  orig: 122, 125
+  offset: 0, 0
+  index: -1
+medaltassel
+  rotate: false
+  xy: 494, 136
+  size: 12, 43
+  orig: 12, 43
+  offset: 0, 0
+  index: -1
+mouthgrit
+  rotate: false
+  xy: 331, 329
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 212, 331
+  size: 7, 3
+  orig: 7, 3
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 331, 335
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 297, 331
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+muzzleflash5
+  rotate: false
+  xy: 212, 334
+  size: 85, 11
+  orig: 88, 13
+  offset: 1, 1
+  index: -1
+slash3
+  rotate: false
+  xy: 212, 345
+  size: 164, 166
+  orig: 166, 168
+  offset: 1, 1
+  index: -1
+slash4
+  rotate: true
+  xy: 0, 2
+  size: 164, 191
+  orig: 166, 193
+  offset: 1, 1
+  index: -1
+slash5
+  rotate: false
+  xy: 0, 328
+  size: 212, 183
+  orig: 214, 185
+  offset: 1, 1
+  index: -1
+
+SD_Hero_Jinjur2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lcape
+  rotate: true
+  xy: 335, 13
+  size: 29, 96
+  orig: 29, 96
+  offset: 0, 0
+  index: -1
+Lfrontcoat
+  rotate: 270
+  xy: 275, 1
+  size: 33, 65
+  orig: 33, 65
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: 270
+  xy: 72, 94
+  size: 32, 83
+  orig: 32, 83
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 418, 450
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+Lshoulderfrill
+  rotate: false
+  xy: 444, 43
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+Lshoulderx
+  rotate: false
+  xy: 75, 13
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 157, 6
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+Rcape
+  rotate: true
+  xy: 0, 56
+  size: 71, 130
+  orig: 71, 130
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 200, 278
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 110, 264
+  size: 32, 90
+  orig: 32, 90
+  offset: 0, 0
+  index: -1
+attackgunhammer
+  rotate: false
+  xy: 295, 327
+  size: 58, 31
+  orig: 60, 32
+  offset: 1, 0
+  index: -1
+backcape
+  rotate: true
+  xy: 251, 358
+  size: 121, 109
+  orig: 121, 109
+  offset: 0, 0
+  index: -1
+backhair1
+  rotate: true
+  xy: 110, 198
+  size: 76, 164
+  orig: 76, 164
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: true
+  xy: 130, 58
+  size: 40, 90
+  orig: 40, 90
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: 270
+  xy: 116, 37
+  size: 50, 155
+  orig: 50, 155
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: 270
+  xy: 266, 32
+  size: 32, 103
+  orig: 32, 103
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: true
+  xy: 178, 142
+  size: 71, 149
+  orig: 71, 149
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: 270
+  xy: 257, 92
+  size: 85, 123
+  orig: 85, 123
+  offset: 0, 0
+  index: -1
+bangs6
+  rotate: true
+  xy: 251, 227
+  size: 135, 210
+  orig: 135, 210
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 220, 6
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: true
+  xy: 418, 363
+  size: 83, 46
+  orig: 83, 46
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: true
+  xy: 418, 275
+  size: 87, 44
+  orig: 87, 44
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 164, 97
+  size: 93, 44
+  orig: 93, 44
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 92, 125
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+gun1 hammer
+  rotate: false
+  xy: 397, 43
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+gun3 hammer
+  rotate: true
+  xy: 118, 6
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+gun4
+  rotate: true
+  xy: 0, 295
+  size: 75, 175
+  orig: 75, 175
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 0, 370
+  size: 187, 108
+  orig: 187, 108
+  offset: 0, 0
+  index: -1
+hatmedal
+  rotate: false
+  xy: 431, 5
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+hatribbon
+  rotate: false
+  xy: 225, 276
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+muzzleflash1
+  rotate: true
+  xy: 390, 149
+  size: 78, 70
+  orig: 80, 72
+  offset: 1, 1
+  index: -1
+muzzleflash2
+  rotate: true
+  xy: 0, 127
+  size: 86, 92
+  orig: 89, 96
+  offset: 2, 2
+  index: -1
+muzzleflash3
+  rotate: true
+  xy: 0, 213
+  size: 82, 110
+  orig: 84, 114
+  offset: 1, 2
+  index: -1
+muzzleflash4
+  rotate: false
+  xy: 314, 56
+  size: 83, 38
+  orig: 85, 40
+  offset: 1, 1
+  index: -1
+pelvis
+  rotate: false
+  xy: 0, 7
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+scabbard
+  rotate: true
+  xy: 0, 35
+  size: 37, 75
+  orig: 37, 75
+  offset: 0, 0
+  index: -1
+slash1
+  rotate: false
+  xy: 273, 176
+  size: 117, 71
+  orig: 119, 73
+  offset: 1, 1
+  index: -1
+slash2
+  rotate: true
+  xy: 360, 290
+  size: 188, 58
+  orig: 190, 60
+  offset: 1, 1
+  index: -1
+sword
+  rotate: true
+  xy: 186, 300
+  size: 179, 65
+  orig: 179, 65
+  offset: 0, 0
+  index: -1
+torso
+  rotate: true
+  xy: 377, 90
+  size: 59, 79
+  orig: 59, 79
+  offset: 0, 0
+  index: -1
