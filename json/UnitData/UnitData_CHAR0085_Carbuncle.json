@@ -8,7 +8,7 @@
     "m_FileID": 0,
     "m_PathID": 483
   },
-  "m_Name": "UnitData_CHAR0015_Alice",
+  "m_Name": "UnitData_CHAR0085_Carbuncle",
   "removeFromGame": 0,
   "timeLimitSettings": {
     "limitByTime": 0,
@@ -30,8 +30,8 @@
     }
   },
   "unitData": {
-    "unitID": "CHAR0015",
-    "startingTier": 5,
+    "unitID": "CHAR0085",
+    "startingTier": 4,
     "levelLimitBreakCosts": [
       {
         "primaryCosts": [
@@ -45,14 +45,14 @@
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ElementShardHeart_Tier1"
+              "objectID": "MaterialItem_ElementShardMind_Tier1"
             },
             "itemCount": 15
           },
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ClassMat_Warrior"
+              "objectID": "MaterialItem_ClassMat_Sage"
             },
             "itemCount": 5
           }
@@ -71,14 +71,14 @@
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ElementShardHeart_Tier1"
+              "objectID": "MaterialItem_ElementShardMind_Tier1"
             },
             "itemCount": 30
           },
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ClassMat_Warrior"
+              "objectID": "MaterialItem_ClassMat_Sage"
             },
             "itemCount": 10
           },
@@ -104,14 +104,14 @@
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ElementShardHeart_Tier2"
+              "objectID": "MaterialItem_ElementShardMind_Tier2"
             },
             "itemCount": 10
           },
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ClassMat_Warrior"
+              "objectID": "MaterialItem_ClassMat_Sage"
             },
             "itemCount": 20
           },
@@ -137,14 +137,14 @@
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ElementShardHeart_Tier2"
+              "objectID": "MaterialItem_ElementShardMind_Tier2"
             },
             "itemCount": 15
           },
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ClassMat_Warrior"
+              "objectID": "MaterialItem_ClassMat_Sage"
             },
             "itemCount": 35
           },
@@ -170,14 +170,14 @@
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ElementShardHeart_Tier3"
+              "objectID": "MaterialItem_ElementShardMind_Tier3"
             },
             "itemCount": 20
           },
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ClassMat_Warrior"
+              "objectID": "MaterialItem_ClassMat_Sage"
             },
             "itemCount": 50
           },
@@ -203,14 +203,14 @@
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ElementShardHeart_Tier3"
+              "objectID": "MaterialItem_ElementShardMind_Tier3"
             },
             "itemCount": 30
           },
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ClassMat_Warrior"
+              "objectID": "MaterialItem_ClassMat_Sage"
             },
             "itemCount": 70
           },
@@ -228,7 +228,7 @@
     "duplicateReplacement": {
       "objectReference": {
         "objectType": 4,
-        "objectID": "UnitToken_CHAR0015"
+        "objectID": "UnitToken_CHAR0085"
       },
       "itemCount": 1,
       "dropOptionExtension": {
@@ -263,7 +263,7 @@
               {
                 "objectReference": {
                   "objectType": 4,
-                  "objectID": "UnitToken_CHAR0015"
+                  "objectID": "UnitToken_CHAR0085"
                 },
                 "itemCount": 1
               }
@@ -285,7 +285,7 @@
               {
                 "objectReference": {
                   "objectType": 4,
-                  "objectID": "UnitToken_CHAR0015"
+                  "objectID": "UnitToken_CHAR0085"
                 },
                 "itemCount": 1
               }
@@ -307,7 +307,7 @@
               {
                 "objectReference": {
                   "objectType": 4,
-                  "objectID": "UnitToken_CHAR0015"
+                  "objectID": "UnitToken_CHAR0085"
                 },
                 "itemCount": 1
               }
@@ -329,7 +329,7 @@
               {
                 "objectReference": {
                   "objectType": 4,
-                  "objectID": "UnitToken_CHAR0015"
+                  "objectID": "UnitToken_CHAR0085"
                 },
                 "itemCount": 1
               }
@@ -351,7 +351,7 @@
               {
                 "objectReference": {
                   "objectType": 4,
-                  "objectID": "UnitToken_CHAR0015"
+                  "objectID": "UnitToken_CHAR0085"
                 },
                 "itemCount": 1
               }
@@ -373,7 +373,7 @@
               {
                 "objectReference": {
                   "objectType": 4,
-                  "objectID": "UnitToken_CHAR0015"
+                  "objectID": "UnitToken_CHAR0085"
                 },
                 "itemCount": 1
               }
@@ -395,7 +395,7 @@
               {
                 "objectReference": {
                   "objectType": 4,
-                  "objectID": "UnitToken_CHAR0015"
+                  "objectID": "UnitToken_CHAR0085"
                 },
                 "itemCount": 1
               }
@@ -417,7 +417,7 @@
               {
                 "objectReference": {
                   "objectType": 4,
-                  "objectID": "UnitToken_CHAR0015"
+                  "objectID": "UnitToken_CHAR0085"
                 },
                 "itemCount": 1
               }
@@ -439,7 +439,7 @@
               {
                 "objectReference": {
                   "objectType": 4,
-                  "objectID": "UnitToken_CHAR0015"
+                  "objectID": "UnitToken_CHAR0085"
                 },
                 "itemCount": 1
               }
@@ -478,7 +478,7 @@
     "skillComponentData": {
       "skillDataList": [
         {
-          "skillID": "Ability_Alice_Active",
+          "skillID": "Ability_Carbuncle_Active",
           "maxLevel": 0,
           "upgradeRequirements": [
             {
@@ -488,7 +488,7 @@
                   {
                     "objectReference": {
                       "objectType": 1,
-                      "objectID": "MaterialItem_ElementShardHeart_Tier1"
+                      "objectID": "MaterialItem_ElementShardMind_Tier1"
                     },
                     "itemCount": 10
                   },
@@ -510,7 +510,7 @@
                   {
                     "objectReference": {
                       "objectType": 1,
-                      "objectID": "MaterialItem_ElementShardHeart_Tier1"
+                      "objectID": "MaterialItem_ElementShardMind_Tier1"
                     },
                     "itemCount": 20
                   },
@@ -532,7 +532,7 @@
                   {
                     "objectReference": {
                       "objectType": 1,
-                      "objectID": "MaterialItem_ElementShardHeart_Tier2"
+                      "objectID": "MaterialItem_ElementShardMind_Tier2"
                     },
                     "itemCount": 15
                   },
@@ -554,7 +554,7 @@
                   {
                     "objectReference": {
                       "objectType": 1,
-                      "objectID": "MaterialItem_ElementShardHeart_Tier3"
+                      "objectID": "MaterialItem_ElementShardMind_Tier3"
                     },
                     "itemCount": 15
                   },
@@ -572,7 +572,7 @@
           ]
         },
         {
-          "skillID": "Ability_Alice_Passive1",
+          "skillID": "Ability_Carbuncle_Passive1",
           "maxLevel": 0,
           "upgradeRequirements": [
             {
@@ -582,7 +582,7 @@
                   {
                     "objectReference": {
                       "objectType": 1,
-                      "objectID": "MaterialItem_ElementShardHeart_Tier1"
+                      "objectID": "MaterialItem_ElementShardMind_Tier1"
                     },
                     "itemCount": 10
                   },
@@ -604,7 +604,7 @@
                   {
                     "objectReference": {
                       "objectType": 1,
-                      "objectID": "MaterialItem_ElementShardHeart_Tier1"
+                      "objectID": "MaterialItem_ElementShardMind_Tier1"
                     },
                     "itemCount": 20
                   },
@@ -626,7 +626,7 @@
                   {
                     "objectReference": {
                       "objectType": 1,
-                      "objectID": "MaterialItem_ElementShardHeart_Tier2"
+                      "objectID": "MaterialItem_ElementShardMind_Tier2"
                     },
                     "itemCount": 15
                   },
@@ -648,7 +648,7 @@
                   {
                     "objectReference": {
                       "objectType": 1,
-                      "objectID": "MaterialItem_ElementShardHeart_Tier3"
+                      "objectID": "MaterialItem_ElementShardMind_Tier3"
                     },
                     "itemCount": 15
                   },
@@ -671,7 +671,7 @@
       {
         "objectReference": {
           "objectType": 1,
-          "objectID": "MaterialItem_HavenElementAffinityFire"
+          "objectID": "MaterialItem_HavenElementAffinityWater"
         },
         "itemCount": 1,
         "dropOptionExtension": {
@@ -691,7 +691,7 @@
       {
         "objectReference": {
           "objectType": 7,
-          "objectID": "EquipmentItem_T5_RadiantCrown"
+          "objectID": "EquipmentItem_T5_NightcrystRing"
         },
         "itemCount": 1,
         "dropOptionExtension": {
@@ -707,62 +707,61 @@
           "contentLevelModulus": 1,
           "accountLevelOffset": 0
         }
+      },
+      {
+        "objectReference": {
+          "objectType": 1,
+          "objectID": "MaterialItem_ClassMat_Sage"
+        },
+        "itemCount": 1,
+        "dropOptionExtension": {
+          "applyExtensions": 1,
+          "individualDropPercent": 10,
+          "maxDrop": 1,
+          "minDrop": 1
+        },
+        "activateAllExtensions": 1,
+        "equipmentDataExtension": {
+          "levelSelector": 0,
+          "fixedLevel": 1,
+          "contentLevelModulus": 1,
+          "accountLevelOffset": 0
+        }
       }
     ],
     "heroStoriesItemList": [],
-    "heroSkinItemList": [
-      {
-        "objectType": 17,
-        "objectID": "Alice_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Alice_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Alice_Skin3"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Alice_Skin4"
-      }
-    ]
+    "heroSkinItemList": []
   },
   "skinAssetNames": [
-    "UnitSkinAssets_Char0015_Alice",
-    "UnitSkinAssets_Char0015_Alice_Skin1",
-    "UnitSkinAssets_Char0015_Alice_Skin2",
-    "UnitSkinAssets_Char0015_Alice_Skin3",
-    "UnitSkinAssets_Char0015_Alice_Skin4"
+    "UnitSkinAssets_Char0085_Carbuncle"
   ],
   "storyDatas": [],
   "unitStatData": {
-    "id": "CHAR0015",
-    "displayName": "Alice",
+    "id": "CHAR0085",
+    "displayName": "Carbuncle",
     "portrait": {
       "m_FileID": 0,
       "m_PathID": 0
     },
-    "unitElement": 2,
-    "classType": 5,
-    "deployCost": 4,
+    "unitElement": 1,
+    "classType": 2,
+    "deployCost": 1,
     "hp": {
       "statType": 1,
-      "yIntercept": 1222.0,
+      "yIntercept": 500.0,
       "hasExponentialScale": 0
     },
     "attackDamage": {
-      "DamageType": 0,
+      "DamageType": 1,
       "damageScaling": {
         "statType": 1,
-        "yIntercept": 50.0,
+        "yIntercept": 15.0,
         "hasExponentialScale": 0
       }
     },
     "defense": {
       "statType": 1,
-      "yIntercept": 22.0,
+      "yIntercept": 15.0,
       "hasExponentialScale": 0
     },
     "critChance": 1.0,
@@ -770,16 +769,16 @@
     "hpAbsorb": 0.0,
     "physResist": 0.0,
     "magicResist": 0.0,
-    "baseEvasionPercent": 20.0,
+    "baseEvasionPercent": 0.0,
     "baseAccuracyPercent": 0.0,
     "resilience": 0.0,
-    "attackSpeed": 1.0,
-    "attackRange": 12.0,
-    "energyGainPerAttack": 10,
+    "attackSpeed": 0.5,
+    "attackRange": 8.0,
+    "energyGainPerAttack": 20,
     "moveSpeed": 15.0,
-    "targetZAlignment": 0.0,
-    "laneSearch": 3,
-    "aggroRange": 50.0,
+    "targetZAlignment": 1.0,
+    "laneSearch": 5,
+    "aggroRange": 60.0,
     "pushRadius": 0.0,
     "knockbackImmune": 0,
     "healReduction": 0,
@@ -792,25 +791,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 41538
+    "m_PathID": 41545
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 40721
-    },
-    {
-      "m_FileID": 0,
-      "m_PathID": 40720
+      "m_PathID": 40744
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 40719
+    "m_PathID": 40743
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 40718
+    "m_PathID": 40742
   },
   "Gender": 0,
   "Age": -1

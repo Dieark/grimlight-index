@@ -1,0 +1,125 @@
+
+SD_Pet_Carbuncle.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lear
+  rotate: true
+  xy: 280, 317
+  size: 89, 93
+  orig: 89, 93
+  offset: 0, 0
+  index: -1
+Rear
+  rotate: true
+  xy: 162, 303
+  size: 78, 91
+  orig: 78, 91
+  offset: 0, 0
+  index: -1
+back_Rleg
+  rotate: true
+  xy: 0, 292
+  size: 41, 74
+  orig: 141, 106
+  offset: 100, 1
+  index: -1
+back_lleg
+  rotate: 270
+  xy: 94, 285
+  size: 49, 92
+  orig: 49, 93
+  offset: 0, 1
+  index: -1
+eyes_closed
+  rotate: false
+  xy: 243, 297
+  size: 117, 19
+  orig: 117, 19
+  offset: 0, 0
+  index: -1
+eyes_mid
+  rotate: false
+  xy: 377, 485
+  size: 117, 27
+  orig: 117, 27
+  offset: 0, 0
+  index: -1
+eyes_open
+  rotate: false
+  xy: 0, 332
+  size: 117, 37
+  orig: 117, 37
+  offset: 0, 0
+  index: -1
+front_Lleg
+  rotate: true
+  xy: 163, 471
+  size: 41, 93
+  orig: 41, 93
+  offset: 0, 0
+  index: -1
+front_Rleg
+  rotate: true
+  xy: 369, 298
+  size: 42, 108
+  orig: 42, 108
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 0, 369
+  size: 163, 143
+  orig: 163, 143
+  offset: 0, 0
+  index: -1
+mouth_shout
+  rotate: false
+  xy: 255, 501
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+neck_frill
+  rotate: false
+  xy: 408, 340
+  size: 102, 51
+  orig: 102, 51
+  offset: 0, 0
+  index: -1
+neck_jewel
+  rotate: false
+  xy: 373, 359
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+neck_ribbonbottom
+  rotate: true
+  xy: 64, 287
+  size: 21, 63
+  orig: 21, 63
+  offset: 0, 0
+  index: -1
+neck_ribbontop
+  rotate: false
+  xy: 254, 341
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 163, 372
+  size: 140, 214
+  orig: 140, 214
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 347, 387
+  size: 165, 95
+  orig: 165, 95
+  offset: 0, 0
+  index: -1

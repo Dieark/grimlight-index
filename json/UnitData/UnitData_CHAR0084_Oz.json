@@ -8,7 +8,7 @@
     "m_FileID": 0,
     "m_PathID": 483
   },
-  "m_Name": "UnitData_CHAR0015_Alice",
+  "m_Name": "UnitData_CHAR0084_Oz",
   "removeFromGame": 0,
   "timeLimitSettings": {
     "limitByTime": 0,
@@ -30,7 +30,7 @@
     }
   },
   "unitData": {
-    "unitID": "CHAR0015",
+    "unitID": "CHAR0084",
     "startingTier": 5,
     "levelLimitBreakCosts": [
       {
@@ -45,14 +45,14 @@
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ElementShardHeart_Tier1"
+              "objectID": "MaterialItem_ElementShardNight_Tier1"
             },
             "itemCount": 15
           },
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ClassMat_Warrior"
+              "objectID": "MaterialItem_ClassMat_Mage"
             },
             "itemCount": 5
           }
@@ -71,14 +71,14 @@
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ElementShardHeart_Tier1"
+              "objectID": "MaterialItem_ElementShardNight_Tier1"
             },
             "itemCount": 30
           },
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ClassMat_Warrior"
+              "objectID": "MaterialItem_ClassMat_Mage"
             },
             "itemCount": 10
           },
@@ -104,14 +104,14 @@
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ElementShardHeart_Tier2"
+              "objectID": "MaterialItem_ElementShardNight_Tier2"
             },
             "itemCount": 10
           },
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ClassMat_Warrior"
+              "objectID": "MaterialItem_ClassMat_Mage"
             },
             "itemCount": 20
           },
@@ -137,14 +137,14 @@
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ElementShardHeart_Tier2"
+              "objectID": "MaterialItem_ElementShardNight_Tier2"
             },
             "itemCount": 15
           },
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ClassMat_Warrior"
+              "objectID": "MaterialItem_ClassMat_Mage"
             },
             "itemCount": 35
           },
@@ -170,14 +170,14 @@
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ElementShardHeart_Tier3"
+              "objectID": "MaterialItem_ElementShardNight_Tier3"
             },
             "itemCount": 20
           },
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ClassMat_Warrior"
+              "objectID": "MaterialItem_ClassMat_Mage"
             },
             "itemCount": 50
           },
@@ -203,14 +203,14 @@
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ElementShardHeart_Tier3"
+              "objectID": "MaterialItem_ElementShardNight_Tier3"
             },
             "itemCount": 30
           },
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ClassMat_Warrior"
+              "objectID": "MaterialItem_ClassMat_Mage"
             },
             "itemCount": 70
           },
@@ -228,7 +228,7 @@
     "duplicateReplacement": {
       "objectReference": {
         "objectType": 4,
-        "objectID": "UnitToken_CHAR0015"
+        "objectID": "UnitToken_CHAR0084"
       },
       "itemCount": 1,
       "dropOptionExtension": {
@@ -263,7 +263,7 @@
               {
                 "objectReference": {
                   "objectType": 4,
-                  "objectID": "UnitToken_CHAR0015"
+                  "objectID": "UnitToken_CHAR0084"
                 },
                 "itemCount": 1
               }
@@ -285,7 +285,7 @@
               {
                 "objectReference": {
                   "objectType": 4,
-                  "objectID": "UnitToken_CHAR0015"
+                  "objectID": "UnitToken_CHAR0084"
                 },
                 "itemCount": 1
               }
@@ -307,7 +307,7 @@
               {
                 "objectReference": {
                   "objectType": 4,
-                  "objectID": "UnitToken_CHAR0015"
+                  "objectID": "UnitToken_CHAR0084"
                 },
                 "itemCount": 1
               }
@@ -329,7 +329,7 @@
               {
                 "objectReference": {
                   "objectType": 4,
-                  "objectID": "UnitToken_CHAR0015"
+                  "objectID": "UnitToken_CHAR0084"
                 },
                 "itemCount": 1
               }
@@ -351,7 +351,7 @@
               {
                 "objectReference": {
                   "objectType": 4,
-                  "objectID": "UnitToken_CHAR0015"
+                  "objectID": "UnitToken_CHAR0084"
                 },
                 "itemCount": 1
               }
@@ -373,7 +373,7 @@
               {
                 "objectReference": {
                   "objectType": 4,
-                  "objectID": "UnitToken_CHAR0015"
+                  "objectID": "UnitToken_CHAR0084"
                 },
                 "itemCount": 1
               }
@@ -395,7 +395,7 @@
               {
                 "objectReference": {
                   "objectType": 4,
-                  "objectID": "UnitToken_CHAR0015"
+                  "objectID": "UnitToken_CHAR0084"
                 },
                 "itemCount": 1
               }
@@ -417,7 +417,7 @@
               {
                 "objectReference": {
                   "objectType": 4,
-                  "objectID": "UnitToken_CHAR0015"
+                  "objectID": "UnitToken_CHAR0084"
                 },
                 "itemCount": 1
               }
@@ -439,7 +439,7 @@
               {
                 "objectReference": {
                   "objectType": 4,
-                  "objectID": "UnitToken_CHAR0015"
+                  "objectID": "UnitToken_CHAR0084"
                 },
                 "itemCount": 1
               }
@@ -478,7 +478,7 @@
     "skillComponentData": {
       "skillDataList": [
         {
-          "skillID": "Ability_Alice_Active",
+          "skillID": "Ability_Oz_Active",
           "maxLevel": 0,
           "upgradeRequirements": [
             {
@@ -488,7 +488,7 @@
                   {
                     "objectReference": {
                       "objectType": 1,
-                      "objectID": "MaterialItem_ElementShardHeart_Tier1"
+                      "objectID": "MaterialItem_ElementShardNight_Tier1"
                     },
                     "itemCount": 10
                   },
@@ -510,7 +510,7 @@
                   {
                     "objectReference": {
                       "objectType": 1,
-                      "objectID": "MaterialItem_ElementShardHeart_Tier1"
+                      "objectID": "MaterialItem_ElementShardNight_Tier1"
                     },
                     "itemCount": 20
                   },
@@ -532,7 +532,7 @@
                   {
                     "objectReference": {
                       "objectType": 1,
-                      "objectID": "MaterialItem_ElementShardHeart_Tier2"
+                      "objectID": "MaterialItem_ElementShardNight_Tier2"
                     },
                     "itemCount": 15
                   },
@@ -554,7 +554,7 @@
                   {
                     "objectReference": {
                       "objectType": 1,
-                      "objectID": "MaterialItem_ElementShardHeart_Tier3"
+                      "objectID": "MaterialItem_ElementShardNight_Tier3"
                     },
                     "itemCount": 15
                   },
@@ -572,7 +572,7 @@
           ]
         },
         {
-          "skillID": "Ability_Alice_Passive1",
+          "skillID": "Ability_Oz_Passive1",
           "maxLevel": 0,
           "upgradeRequirements": [
             {
@@ -582,7 +582,7 @@
                   {
                     "objectReference": {
                       "objectType": 1,
-                      "objectID": "MaterialItem_ElementShardHeart_Tier1"
+                      "objectID": "MaterialItem_ElementShardNight_Tier1"
                     },
                     "itemCount": 10
                   },
@@ -604,7 +604,7 @@
                   {
                     "objectReference": {
                       "objectType": 1,
-                      "objectID": "MaterialItem_ElementShardHeart_Tier1"
+                      "objectID": "MaterialItem_ElementShardNight_Tier1"
                     },
                     "itemCount": 20
                   },
@@ -626,7 +626,7 @@
                   {
                     "objectReference": {
                       "objectType": 1,
-                      "objectID": "MaterialItem_ElementShardHeart_Tier2"
+                      "objectID": "MaterialItem_ElementShardNight_Tier2"
                     },
                     "itemCount": 15
                   },
@@ -648,7 +648,7 @@
                   {
                     "objectReference": {
                       "objectType": 1,
-                      "objectID": "MaterialItem_ElementShardHeart_Tier3"
+                      "objectID": "MaterialItem_ElementShardNight_Tier3"
                     },
                     "itemCount": 15
                   },
@@ -671,7 +671,7 @@
       {
         "objectReference": {
           "objectType": 1,
-          "objectID": "MaterialItem_HavenElementAffinityFire"
+          "objectID": "MaterialItem_HavenElementAffinityDark"
         },
         "itemCount": 1,
         "dropOptionExtension": {
@@ -691,7 +691,7 @@
       {
         "objectReference": {
           "objectType": 7,
-          "objectID": "EquipmentItem_T5_RadiantCrown"
+          "objectID": "EquipmentItem_T5_NightcrystRing"
         },
         "itemCount": 1,
         "dropOptionExtension": {
@@ -710,59 +710,38 @@
       }
     ],
     "heroStoriesItemList": [],
-    "heroSkinItemList": [
-      {
-        "objectType": 17,
-        "objectID": "Alice_Skin1"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Alice_Skin2"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Alice_Skin3"
-      },
-      {
-        "objectType": 17,
-        "objectID": "Alice_Skin4"
-      }
-    ]
+    "heroSkinItemList": []
   },
   "skinAssetNames": [
-    "UnitSkinAssets_Char0015_Alice",
-    "UnitSkinAssets_Char0015_Alice_Skin1",
-    "UnitSkinAssets_Char0015_Alice_Skin2",
-    "UnitSkinAssets_Char0015_Alice_Skin3",
-    "UnitSkinAssets_Char0015_Alice_Skin4"
+    "UnitSkinAssets_Char0084_Oz"
   ],
   "storyDatas": [],
   "unitStatData": {
-    "id": "CHAR0015",
-    "displayName": "Alice",
+    "id": "CHAR0084",
+    "displayName": "Oz",
     "portrait": {
       "m_FileID": 0,
       "m_PathID": 0
     },
-    "unitElement": 2,
-    "classType": 5,
+    "unitElement": 4,
+    "classType": 1,
     "deployCost": 4,
     "hp": {
       "statType": 1,
-      "yIntercept": 1222.0,
+      "yIntercept": 800.0,
       "hasExponentialScale": 0
     },
     "attackDamage": {
-      "DamageType": 0,
+      "DamageType": 1,
       "damageScaling": {
         "statType": 1,
-        "yIntercept": 50.0,
+        "yIntercept": 45.0,
         "hasExponentialScale": 0
       }
     },
     "defense": {
       "statType": 1,
-      "yIntercept": 22.0,
+      "yIntercept": 28.0,
       "hasExponentialScale": 0
     },
     "critChance": 1.0,
@@ -770,16 +749,16 @@
     "hpAbsorb": 0.0,
     "physResist": 0.0,
     "magicResist": 0.0,
-    "baseEvasionPercent": 20.0,
+    "baseEvasionPercent": 0.0,
     "baseAccuracyPercent": 0.0,
     "resilience": 0.0,
     "attackSpeed": 1.0,
-    "attackRange": 12.0,
-    "energyGainPerAttack": 10,
+    "attackRange": 50.0,
+    "energyGainPerAttack": 12,
     "moveSpeed": 15.0,
-    "targetZAlignment": 0.0,
-    "laneSearch": 3,
-    "aggroRange": 50.0,
+    "targetZAlignment": 1.0,
+    "laneSearch": 5,
+    "aggroRange": 60.0,
     "pushRadius": 0.0,
     "knockbackImmune": 0,
     "healReduction": 0,
@@ -792,26 +771,30 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 41538
+    "m_PathID": 41582
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 40721
+      "m_PathID": 40885
     },
     {
       "m_FileID": 0,
-      "m_PathID": 40720
+      "m_PathID": 40887
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 40886
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 40719
+    "m_PathID": 40884
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 40718
+    "m_PathID": 40883
   },
-  "Gender": 0,
+  "Gender": 1,
   "Age": -1
 }
