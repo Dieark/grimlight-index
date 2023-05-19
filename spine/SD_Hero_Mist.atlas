@@ -1,0 +1,264 @@
+
+SD_Hero_Mist.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rcape
+  rotate: 180
+  xy: 213, 78
+  size: 55, 118
+  orig: 99, 118
+  offset: 0, 0
+  index: -1
+Rwing
+  rotate: true
+  xy: 397, 77
+  size: 173, 110
+  orig: 173, 110
+  offset: 0, 0
+  index: -1
+backhair
+  rotate: false
+  xy: 213, 76
+  size: 242, 188
+  orig: 242, 188
+  offset: 0, 0
+  index: -1
+larmer
+  rotate: true
+  xy: 455, 21
+  size: 55, 48
+  orig: 55, 48
+  offset: 0, 0
+  index: -1
+larmstring
+  rotate: false
+  xy: 250, 143
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 224, 266
+  size: 17, 8
+  orig: 81, 62
+  offset: 33, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 213, 263
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 213, 198
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+rarmstring
+  rotate: false
+  xy: 483, 478
+  size: 11, 30
+  orig: 11, 30
+  offset: 0, 0
+  index: -1
+slash2
+  rotate: false
+  xy: 213, 8
+  size: 242, 68
+  orig: 247, 71
+  offset: 2, 2
+  index: -1
+slash3
+  rotate: true
+  xy: 0, 64
+  size: 209, 213
+  orig: 215, 216
+  offset: 3, 2
+  index: -1
+slash4
+  rotate: false
+  xy: 273, 263
+  size: 210, 245
+  orig: 215, 248
+  offset: 2, 1
+  index: -1
+slash5
+  rotate: false
+  xy: 0, 273
+  size: 273, 235
+  orig: 277, 238
+  offset: 1, 2
+  index: -1
+sword
+  rotate: true
+  xy: 0, 21
+  size: 43, 192
+  orig: 43, 192
+  offset: 0, 0
+  index: -1
+
+SD_Hero_Mist2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hat
+  rotate: false
+  xy: 0, 387
+  size: 236, 123
+  orig: 236, 123
+  offset: 0, 0
+  index: -1
+Larm
+  rotate: false
+  xy: 293, 335
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+Lbangs1
+  rotate: true
+  xy: 107, 149
+  size: 68, 180
+  orig: 68, 180
+  offset: 0, 0
+  index: -1
+Lbangs2
+  rotate: true
+  xy: 11, 277
+  size: 111, 237
+  orig: 181, 237
+  offset: 70, 0
+  index: -1
+Lbangsback
+  rotate: true
+  xy: 304, 145
+  size: 55, 123
+  orig: 161, 153
+  offset: 106, 0
+  index: -1
+Lcape
+  rotate: false
+  xy: 444, 136
+  size: 62, 115
+  orig: 62, 115
+  offset: 0, 0
+  index: -1
+Lwing
+  rotate: 180
+  xy: 248, 253
+  size: 173, 110
+  orig: 173, 110
+  offset: 0, 0
+  index: -1
+Mist_Blur
+  rotate: true
+  xy: 421, 251
+  size: 111, 88
+  orig: 111, 88
+  offset: 0, 0
+  index: -1
+body
+  rotate: 270
+  xy: 106, 230
+  size: 66, 91
+  orig: 66, 91
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 354, 188
+  size: 92, 64
+  orig: 92, 64
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 193, 321
+  size: 100, 63
+  orig: 100, 63
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 0, 134
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+eyesopen
+  rotate: true
+  xy: 449, 417
+  size: 94, 58
+  orig: 94, 58
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 235, 384
+  size: 126, 129
+  orig: 126, 129
+  offset: 0, 0
+  index: -1
+lforarm
+  rotate: true
+  xy: 449, 377
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+lleg
+  rotate: true
+  xy: 135, 123
+  size: 32, 92
+  orig: 32, 92
+  offset: 0, 0
+  index: -1
+mbangs
+  rotate: 180
+  xy: 0, 208
+  size: 104, 94
+  orig: 154, 107
+  offset: 15, 3
+  index: -1
+rarm
+  rotate: false
+  xy: 197, 232
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+rbangs
+  rotate: 270
+  xy: 158, 187
+  size: 88, 197
+  orig: 181, 224
+  offset: 0, 27
+  index: -1
+rforarm
+  rotate: false
+  xy: 143, 343
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+rleg
+  rotate: false
+  xy: 77, 116
+  size: 58, 92
+  orig: 58, 92
+  offset: 0, 0
+  index: -1
+slash1
+  rotate: true
+  xy: 364, 362
+  size: 148, 85
+  orig: 153, 89
+  offset: 3, 3
+  index: -1

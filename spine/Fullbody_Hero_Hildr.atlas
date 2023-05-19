@@ -1,0 +1,684 @@
+
+Fullbody_Hero_Hildr.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larmgoldcoin1
+  rotate: false
+  xy: 1819, 1943
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+Larmgoldcoin2
+  rotate: false
+  xy: 1840, 1994
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+Larmgoldcoin3
+  rotate: false
+  xy: 1819, 1545
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+Layer 62
+  rotate: false
+  xy: 1831, 998
+  size: 214, 122
+  orig: 214, 122
+  offset: 0, 0
+  index: -1
+Lbigring
+  rotate: false
+  xy: 1736, 660
+  size: 294, 337
+  orig: 294, 337
+  offset: 0, 0
+  index: -1
+Lbottomeyelid
+  rotate: false
+  xy: 1009, 461
+  size: 39, 15
+  orig: 39, 15
+  offset: 0, 0
+  index: -1
+Learring
+  rotate: false
+  xy: 1819, 1267
+  size: 18, 46
+  orig: 18, 46
+  offset: 0, 0
+  index: -1
+Leyebrow
+  rotate: false
+  xy: 0, 10
+  size: 38, 8
+  orig: 38, 8
+  offset: 0, 0
+  index: -1
+Leyelidskin
+  rotate: false
+  xy: 1890, 1431
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+Leyesparkle
+  rotate: false
+  xy: 1819, 1917
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+Leyewhite
+  rotate: false
+  xy: 1819, 1339
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+Lforearmarmorhorn
+  rotate: false
+  xy: 1803, 16
+  size: 232, 301
+  orig: 232, 301
+  offset: 0, 0
+  index: -1
+Lhairchunk1x
+  rotate: false
+  xy: 1987, 1959
+  size: 52, 90
+  orig: 52, 90
+  offset: 0, 0
+  index: -1
+Lhairstand2back
+  rotate: 180
+  xy: 1130, 259
+  size: 220, 86
+  orig: 266, 86
+  offset: 46, 0
+  index: -1
+Lhairstrand1
+  rotate: false
+  xy: 1158, 302
+  size: 82, 42
+  orig: 82, 42
+  offset: 0, 0
+  index: -1
+Lhairstrand1back
+  rotate: false
+  xy: 1008, 413
+  size: 32, 53
+  orig: 32, 53
+  offset: 0, 0
+  index: -1
+Lhairstrand3
+  rotate: true
+  xy: 988, 353
+  size: 125, 27
+  orig: 125, 34
+  offset: 0, 7
+  index: -1
+Lhairstrand3back
+  rotate: false
+  xy: 1349, 277
+  size: 98, 34
+  orig: 98, 34
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: true
+  xy: 1137, 344
+  size: 133, 99
+  orig: 133, 99
+  offset: 0, 0
+  index: -1
+Llegcoin1
+  rotate: false
+  xy: 988, 455
+  size: 6, 22
+  orig: 6, 22
+  offset: 0, 0
+  index: -1
+Llegcoin2
+  rotate: false
+  xy: 1819, 1923
+  size: 8, 21
+  orig: 8, 21
+  offset: 0, 0
+  index: -1
+Llegfoot
+  rotate: true
+  xy: 1488, 0
+  size: 82, 258
+  orig: 82, 258
+  offset: 0, 0
+  index: -1
+Llegshin
+  rotate: true
+  xy: 743, 1
+  size: 125, 216
+  orig: 125, 216
+  offset: 0, 0
+  index: -1
+Lpupil
+  rotate: false
+  xy: 2011, 1935
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+Ltopeyelid
+  rotate: false
+  xy: 1819, 1047
+  size: 51, 24
+  orig: 51, 24
+  offset: 0, 0
+  index: -1
+Ltorsoarmor
+  rotate: false
+  xy: 1819, 1364
+  size: 78, 77
+  orig: 78, 77
+  offset: 0, 0
+  index: -1
+Lwinggoldbar2
+  rotate: true
+  xy: 1995, 1119
+  size: 252, 40
+  orig: 252, 40
+  offset: 0, 0
+  index: -1
+Rarmgoldcoin1
+  rotate: false
+  xy: 1851, 2014
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+Rarmgoldcoin2
+  rotate: false
+  xy: 1819, 1447
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+Rbigring
+  rotate: false
+  xy: 1736, 316
+  size: 255, 345
+  orig: 255, 345
+  offset: 0, 0
+  index: -1
+Rbottomeyelid
+  rotate: true
+  xy: 1946, 1504
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+Rearring
+  rotate: false
+  xy: 1819, 2009
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+Reyebrow
+  rotate: false
+  xy: 1819, 1441
+  size: 24, 6
+  orig: 24, 6
+  offset: 0, 0
+  index: -1
+Reyelidskin
+  rotate: false
+  xy: 1819, 1066
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+Reyesparkle
+  rotate: false
+  xy: 1819, 1912
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+Reyewhite
+  rotate: false
+  xy: 1920, 1454
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+Rhairchunk1back
+  rotate: true
+  xy: 1990, 560
+  size: 100, 49
+  orig: 100, 49
+  offset: 0, 0
+  index: -1
+Rhairstrand1
+  rotate: false
+  xy: 1891, 1540
+  size: 88, 85
+  orig: 88, 85
+  offset: 0, 0
+  index: -1
+Rhairstrand2
+  rotate: 180
+  xy: 1070, 1
+  size: 79, 86
+  orig: 80, 98
+  offset: 1, 12
+  index: -1
+Rlegthigh
+  rotate: 180
+  xy: 988, 83
+  size: 149, 395
+  orig: 149, 395
+  offset: 0, 0
+  index: -1
+Rpupil
+  rotate: false
+  xy: 1837, 1289
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+Rtopeyelid
+  rotate: false
+  xy: 1195, 315
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+Rtorsoarmor
+  rotate: false
+  xy: 1691, 83
+  size: 93, 69
+  orig: 93, 69
+  offset: 0, 0
+  index: -1
+SS_bottomstar1
+  rotate: false
+  xy: 1243, 311
+  size: 493, 686
+  orig: 493, 688
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: true
+  xy: 959, 5
+  size: 79, 132
+  orig: 79, 132
+  offset: 0, 0
+  index: -1
+bgcloth1back
+  rotate: true
+  xy: 1819, 1542
+  size: 507, 215
+  orig: 570, 215
+  offset: 0, 0
+  index: -1
+bgcloth1bottomfront
+  rotate: 180
+  xy: 1106, 1
+  size: 698, 313
+  orig: 698, 313
+  offset: 0, 0
+  index: -1
+bgcloth1topfront
+  rotate: true
+  xy: 1819, 1052
+  size: 492, 217
+  orig: 492, 217
+  offset: 0, 0
+  index: -1
+collarcoin
+  rotate: false
+  xy: 1819, 1990
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+lightray1
+  rotate: true
+  xy: 0, 477
+  size: 520, 1243
+  orig: 520, 1243
+  offset: 0, 0
+  index: -1
+lightray2
+  rotate: true
+  xy: 0, 17
+  size: 110, 744
+  orig: 110, 744
+  offset: 0, 0
+  index: -1
+lightray3
+  rotate: true
+  xy: 0, 126
+  size: 351, 989
+  orig: 351, 989
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 1833, 1984
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+skirtcoin1
+  rotate: false
+  xy: 1819, 1312
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+skirtcoin2
+  rotate: false
+  xy: 1851, 2027
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+tophair
+  rotate: true
+  xy: 1819, 1440
+  size: 175, 152
+  orig: 175, 189
+  offset: 0, 25
+  index: -1
+torsocoin1
+  rotate: false
+  xy: 1855, 1311
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+torsocoin2
+  rotate: false
+  xy: 1819, 1962
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1
+torsocoin3
+  rotate: false
+  xy: 988, 435
+  size: 6, 20
+  orig: 6, 20
+  offset: 0, 0
+  index: -1
+weaponbottomhalf
+  rotate: false
+  xy: 0, 997
+  size: 1820, 1051
+  orig: 1820, 1051
+  offset: 0, 0
+  index: -1
+weapongoldcoin1
+  rotate: true
+  xy: 1863, 1328
+  size: 36, 21
+  orig: 36, 21
+  offset: 0, 0
+  index: -1
+weapongoldcoin2
+  rotate: false
+  xy: 1897, 1402
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+weapongoldcoin3
+  rotate: false
+  xy: 1942, 1479
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+
+Fullbody_Hero_Hildr2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lforearm
+  rotate: true
+  xy: 1682, 280
+  size: 193, 158
+  orig: 193, 158
+  offset: 0, 0
+  index: -1
+Lhairback
+  rotate: false
+  xy: 554, 545
+  size: 242, 129
+  orig: 349, 129
+  offset: 107, 0
+  index: -1
+Lhairchunk1
+  rotate: false
+  xy: 1013, 1221
+  size: 229, 152
+  orig: 229, 182
+  offset: 0, 30
+  index: -1
+Lhairchunk2
+  rotate: false
+  xy: 650, 1276
+  size: 77, 98
+  orig: 77, 98
+  offset: 0, 0
+  index: -1
+Lhairstand2
+  rotate: false
+  xy: 103, 774
+  size: 270, 68
+  orig: 270, 68
+  offset: 0, 0
+  index: -1
+Llegthigh
+  rotate: false
+  xy: 1448, 126
+  size: 254, 518
+  orig: 254, 518
+  offset: 0, 0
+  index: -1
+Lupperarm
+  rotate: true
+  xy: 1599, 663
+  size: 218, 242
+  orig: 218, 242
+  offset: 0, 0
+  index: -1
+Lwinggoldbar1
+  rotate: false
+  xy: 0, 1092
+  size: 317, 69
+  orig: 317, 69
+  offset: 0, 0
+  index: -1
+Lwinggoldbar3
+  rotate: false
+  xy: 1393, 864
+  size: 138, 257
+  orig: 180, 282
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 1665, 1122
+  size: 213, 150
+  orig: 213, 150
+  offset: 0, 0
+  index: -1
+Rhairchunk1
+  rotate: false
+  xy: 1351, 608
+  size: 136, 261
+  orig: 164, 261
+  offset: 0, 0
+  index: -1
+Rhairstrand3
+  rotate: false
+  xy: 0, 1294
+  size: 95, 80
+  orig: 95, 80
+  offset: 0, 0
+  index: -1
+Rlegshin
+  rotate: false
+  xy: 1634, 1411
+  size: 206, 569
+  orig: 206, 569
+  offset: 0, 0
+  index: -1
+Rwing
+  rotate: 180
+  xy: 1209, 881
+  size: 545, 492
+  orig: 545, 492
+  offset: 0, 0
+  index: -1
+SS_bottomstar2
+  rotate: false
+  xy: 554, 1
+  size: 555, 515
+  orig: 555, 515
+  offset: 0, 0
+  index: -1
+SS_bottomstar3
+  rotate: true
+  xy: 0, 232
+  size: 524, 554
+  orig: 524, 554
+  offset: 0, 0
+  index: -1
+SS_floorstar
+  rotate: false
+  xy: 0, 1374
+  size: 1001, 606
+  orig: 1001, 606
+  offset: 0, 0
+  index: -1
+backhair
+  rotate: true
+  xy: 369, 1130
+  size: 234, 265
+  orig: 234, 265
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: false
+  xy: 1418, 1826
+  size: 97, 154
+  orig: 97, 154
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: false
+  xy: 1745, 19
+  size: 82, 222
+  orig: 107, 223
+  offset: 25, 1
+  index: -1
+bgcloth2back
+  rotate: true
+  xy: 1080, 542
+  size: 650, 338
+  orig: 650, 338
+  offset: 0, 0
+  index: -1
+bgcloth2front
+  rotate: false
+  xy: 0, 1122
+  size: 595, 252
+  orig: 595, 252
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 0, 29
+  size: 180, 204
+  orig: 180, 204
+  offset: 0, 0
+  index: -1
+headgear
+  rotate: true
+  xy: 1418, 1522
+  size: 376, 252
+  orig: 376, 252
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 0, 757
+  size: 104, 99
+  orig: 104, 99
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: false
+  xy: 1354, 399
+  size: 246, 520
+  orig: 277, 520
+  offset: 31, 0
+  index: -1
+skirtback
+  rotate: 180
+  xy: 1477, 5
+  size: 275, 336
+  orig: 275, 336
+  offset: 0, 0
+  index: -1
+skirtbottomback
+  rotate: false
+  xy: 1109, 92
+  size: 340, 450
+  orig: 340, 450
+  offset: 0, 0
+  index: -1
+skirtbottomfront
+  rotate: true
+  xy: 172, 45
+  size: 188, 350
+  orig: 188, 377
+  offset: 0, 0
+  index: -1
+tophair2
+  rotate: false
+  xy: 622, 1215
+  size: 76, 96
+  orig: 76, 96
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 1418, 1185
+  size: 248, 350
+  orig: 250, 351
+  offset: 2, 1
+  index: -1
+weapontophalf
+  rotate: true
+  xy: 1001, 1372
+  size: 608, 418
+  orig: 608, 418
+  offset: 0, 0
+  index: -1
+wingsarmortop
+  rotate: false
+  xy: 0, 516
+  size: 1214, 858
+  orig: 1214, 858
+  offset: 0, 0
+  index: -1

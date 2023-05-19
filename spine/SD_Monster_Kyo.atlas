@@ -1,0 +1,265 @@
+
+SD_Monster_Kyo.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 125, 74
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: true
+  xy: 45, 16
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 483, 133
+  size: 28, 84
+  orig: 28, 84
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 0, 17
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 379, 359
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: 270
+  xy: 239, 86
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: 180
+  xy: 94, 24
+  size: 32, 83
+  orig: 32, 83
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 484, 336
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: 270
+  xy: 132, 38
+  size: 35, 87
+  orig: 35, 87
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: true
+  xy: 349, 23
+  size: 45, 101
+  orig: 45, 101
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: true
+  xy: 321, 98
+  size: 91, 114
+  orig: 91, 114
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: false
+  xy: 398, 157
+  size: 97, 109
+  orig: 97, 109
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: true
+  xy: 376, 58
+  size: 40, 122
+  orig: 40, 122
+  offset: 0, 0
+  index: -1
+bangs6
+  rotate: false
+  xy: 168, 192
+  size: 136, 127
+  orig: 136, 127
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 75, 106
+  size: 86, 58
+  orig: 86, 58
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 219, 40
+  size: 83, 45
+  orig: 83, 45
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 395, 325
+  size: 89, 56
+  orig: 89, 56
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 0, 42
+  size: 95, 47
+  orig: 95, 47
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 0, 88
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 379, 381
+  size: 129, 132
+  orig: 129, 132
+  offset: 0, 0
+  index: -1
+hairback
+  rotate: false
+  xy: 358, 171
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+hairback2
+  rotate: false
+  xy: 420, 243
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+mouthgrit
+  rotate: false
+  xy: 379, 352
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 379, 348
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 384, 371
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 420, 227
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 435, 98
+  size: 59, 35
+  orig: 59, 35
+  offset: 0, 0
+  index: -1
+shirt_spine
+  rotate: true
+  xy: 302, 35
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+slash1
+  rotate: false
+  xy: 304, 198
+  size: 116, 67
+  orig: 121, 71
+  offset: 3, 3
+  index: -1
+slash2
+  rotate: false
+  xy: 304, 265
+  size: 190, 54
+  orig: 195, 56
+  offset: 2, 1
+  index: -1
+slash3
+  rotate: true
+  xy: 0, 163
+  size: 164, 168
+  orig: 169, 171
+  offset: 2, 2
+  index: -1
+slash4
+  rotate: false
+  xy: 215, 319
+  size: 164, 193
+  orig: 169, 196
+  offset: 2, 1
+  index: -1
+slash5
+  rotate: false
+  xy: 0, 327
+  size: 215, 185
+  orig: 219, 188
+  offset: 1, 2
+  index: -1
+sword
+  rotate: false
+  xy: 168, 152
+  size: 154, 41
+  orig: 154, 41
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 161, 73
+  size: 109, 78
+  orig: 109, 78
+  offset: 0, 0
+  index: -1
+torso_shirt
+  rotate: false
+  xy: 458, 25
+  size: 54, 37
+  orig: 54, 37
+  offset: 0, 0
+  index: -1
+torso_top
+  rotate: 270
+  xy: 270, 64
+  size: 79, 105
+  orig: 79, 105
+  offset: 0, 0
+  index: -1

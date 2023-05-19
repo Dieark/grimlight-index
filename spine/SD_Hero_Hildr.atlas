@@ -1,0 +1,439 @@
+
+SD_Hero_Hildr.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lhand
+  rotate: true
+  xy: 426, 3
+  size: 31, 69
+  orig: 31, 69
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 172, 240
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 214, 168
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+Lwingdec
+  rotate: false
+  xy: 213, 184
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1
+Lwingdec2
+  rotate: false
+  xy: 486, 249
+  size: 18, 50
+  orig: 18, 50
+  offset: 0, 0
+  index: -1
+Rwingdec1
+  rotate: false
+  xy: 486, 218
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+Rwingdec2
+  rotate: false
+  xy: 418, 313
+  size: 6, 37
+  orig: 6, 37
+  offset: 0, 0
+  index: -1
+Rwingdec3
+  rotate: false
+  xy: 486, 299
+  size: 20, 51
+  orig: 20, 51
+  offset: 0, 0
+  index: -1
+body_armorR
+  rotate: false
+  xy: 486, 170
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+earrimgL
+  rotate: false
+  xy: 486, 191
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+earringR
+  rotate: false
+  xy: 205, 213
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: 180
+  xy: 172, 65
+  size: 73, 173
+  orig: 73, 173
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: 270
+  xy: 250, 14
+  size: 106, 176
+  orig: 106, 176
+  offset: 0, 0
+  index: -1
+headgear
+  rotate: false
+  xy: 0, 3
+  size: 195, 93
+  orig: 195, 93
+  offset: 0, 0
+  index: -1
+headwingR
+  rotate: true
+  xy: 418, 350
+  size: 162, 91
+  orig: 162, 91
+  offset: 0, 0
+  index: -1
+mouthgrit
+  rotate: false
+  xy: 233, 114
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 217, 261
+  size: 9, 4
+  orig: 9, 4
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 486, 159
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+scythehead
+  rotate: false
+  xy: 0, 265
+  size: 228, 246
+  orig: 228, 246
+  offset: 0, 0
+  index: -1
+slash1
+  rotate: true
+  xy: 426, 33
+  size: 121, 72
+  orig: 125, 77
+  offset: 2, 3
+  index: -1
+slash2
+  rotate: true
+  xy: 426, 154
+  size: 196, 60
+  orig: 200, 63
+  offset: 2, 2
+  index: -1
+slash3
+  rotate: true
+  xy: 0, 95
+  size: 170, 172
+  orig: 174, 176
+  offset: 2, 2
+  index: -1
+slash4
+  rotate: true
+  xy: 228, 120
+  size: 171, 198
+  orig: 175, 202
+  offset: 2, 2
+  index: -1
+slash5
+  rotate: true
+  xy: 228, 291
+  size: 220, 190
+  orig: 224, 195
+  offset: 2, 2
+  index: -1
+torso
+  rotate: false
+  xy: 194, 5
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+
+SD_Hero_Hildr2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm_armor
+  rotate: true
+  xy: 468, 381
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 201, 76
+  size: 30, 92
+  orig: 30, 92
+  offset: 0, 0
+  index: -1
+Lring
+  rotate: false
+  xy: 105, 263
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+Lwing
+  rotate: 180
+  xy: 274, 332
+  size: 238, 146
+  orig: 238, 146
+  offset: 0, 0
+  index: -1
+Rarm_armor
+  rotate: false
+  xy: 475, 470
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 344, 186
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+Rhand_armor
+  rotate: false
+  xy: 322, 123
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 331, 74
+  size: 32, 92
+  orig: 32, 92
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 86, 118
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+Rwing
+  rotate: false
+  xy: 137, 372
+  size: 43, 54
+  orig: 43, 54
+  offset: 0, 0
+  index: -1
+Rwingx
+  rotate: false
+  xy: 137, 366
+  size: 238, 146
+  orig: 238, 146
+  offset: 0, 0
+  index: -1
+bangR
+  rotate: true
+  xy: 252, 96
+  size: 60, 83
+  orig: 60, 83
+  offset: 0, 0
+  index: -1
+bangsL
+  rotate: true
+  xy: 163, 105
+  size: 51, 89
+  orig: 51, 89
+  offset: 0, 0
+  index: -1
+bangstrand
+  rotate: 270
+  xy: 97, 59
+  size: 33, 65
+  orig: 33, 65
+  offset: 0, 0
+  index: -1
+body_armorL
+  rotate: false
+  xy: 137, 493
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+cloth1
+  rotate: false
+  xy: 0, 258
+  size: 128, 86
+  orig: 128, 86
+  offset: 0, 0
+  index: -1
+cloth2
+  rotate: false
+  xy: 82, 74
+  size: 119, 58
+  orig: 119, 61
+  offset: 0, 3
+  index: -1
+cloth3
+  rotate: false
+  xy: 426, 302
+  size: 84, 31
+  orig: 84, 31
+  offset: 0, 0
+  index: -1
+cloth4
+  rotate: false
+  xy: 0, 82
+  size: 98, 32
+  orig: 98, 32
+  offset: 0, 0
+  index: -1
+dress
+  rotate: true
+  xy: 407, 241
+  size: 63, 105
+  orig: 63, 105
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 397, 179
+  size: 92, 61
+  orig: 92, 61
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 0, 120
+  size: 83, 46
+  orig: 83, 46
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 247, 200
+  size: 96, 59
+  orig: 96, 59
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 0, 166
+  size: 98, 57
+  orig: 98, 57
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 98, 145
+  size: 76, 72
+  orig: 76, 72
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 137, 257
+  size: 119, 112
+  orig: 119, 125
+  offset: 0, 0
+  index: -1
+fringeL
+  rotate: true
+  xy: 413, 55
+  size: 34, 98
+  orig: 34, 98
+  offset: 0, 0
+  index: -1
+fringeL2
+  rotate: 270
+  xy: 359, 101
+  size: 77, 145
+  orig: 77, 145
+  offset: 0, 0
+  index: -1
+fringeR
+  rotate: true
+  xy: 0, 216
+  size: 76, 180
+  orig: 76, 180
+  offset: 0, 0
+  index: -1
+hairback
+  rotate: true
+  xy: 392, 413
+  size: 100, 108
+  orig: 100, 108
+  offset: 0, 0
+  index: -1
+hairback2
+  rotate: true
+  xy: 257, 232
+  size: 64, 149
+  orig: 64, 149
+  offset: 0, 0
+  index: -1
+halo_back
+  rotate: false
+  xy: 257, 297
+  size: 169, 36
+  orig: 169, 36
+  offset: 0, 0
+  index: -1
+headwingL
+  rotate: false
+  xy: 179, 167
+  size: 62, 91
+  orig: 62, 91
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 234, 496
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+scytheglow
+  rotate: false
+  xy: 0, 344
+  size: 138, 168
+  orig: 138, 168
+  offset: 0, 0
+  index: -1
+scythestaff
+  rotate: true
+  xy: 241, 156
+  size: 23, 236
+  orig: 23, 236
+  offset: 0, 0
+  index: -1

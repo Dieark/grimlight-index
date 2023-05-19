@@ -1,0 +1,153 @@
+
+SD_Monster_ElderGargoyle.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Goblem slam
+  rotate: false
+  xy: 0, 369
+  size: 237, 143
+  orig: 237, 143
+  offset: 0, 0
+  index: -1
+Larm
+  rotate: true
+  xy: 335, 94
+  size: 144, 156
+  orig: 144, 156
+  offset: 0, 0
+  index: -1
+Lear
+  rotate: false
+  xy: 295, 467
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+Lfingers
+  rotate: false
+  xy: 237, 390
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: false
+  xy: 143, 309
+  size: 83, 61
+  orig: 83, 61
+  offset: 0, 0
+  index: -1
+Lthigh
+  rotate: true
+  xy: 0, 172
+  size: 84, 70
+  orig: 84, 70
+  offset: 0, 0
+  index: -1
+Lwing
+  rotate: 270
+  xy: 184, 64
+  size: 126, 158
+  orig: 126, 158
+  offset: 0, 0
+  index: -1
+Lwing2
+  rotate: 180
+  xy: 321, 155
+  size: 93, 170
+  orig: 93, 170
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 0, 72
+  size: 178, 99
+  orig: 178, 99
+  offset: 0, 0
+  index: -1
+Rear
+  rotate: false
+  xy: 177, 66
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: false
+  xy: 268, 209
+  size: 52, 74
+  orig: 52, 74
+  offset: 0, 0
+  index: -1
+Rhorn
+  rotate: false
+  xy: 0, 271
+  size: 28, 56
+  orig: 28, 56
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 410, 238
+  size: 76, 147
+  orig: 76, 147
+  offset: 0, 0
+  index: -1
+Rthigh
+  rotate: false
+  xy: 237, 438
+  size: 59, 74
+  orig: 59, 74
+  offset: 0, 0
+  index: -1
+Rwing
+  rotate: 270
+  xy: 0, 131
+  size: 238, 281
+  orig: 238, 281
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 237, 279
+  size: 175, 233
+  orig: 175, 233
+  offset: 0, 0
+  index: -1
+eyedark
+  rotate: false
+  xy: 486, 373
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 412, 385
+  size: 93, 128
+  orig: 93, 128
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: false
+  xy: 468, 117
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+jaw_back
+  rotate: false
+  xy: 281, 178
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+tail
+  rotate: 180
+  xy: 276, 42
+  size: 188, 88
+  orig: 188, 88
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+SD_NightmareThrall.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 1
+  size: 228, 481
+  orig: 228, 481
+  offset: 0, 0
+  index: -1
+eyedark
+  rotate: false
+  xy: 228, 5
+  size: 86, 38
+  orig: 86, 38
+  offset: 0, 0
+  index: -1
+gem
+  rotate: false
+  xy: 228, 130
+  size: 98, 158
+  orig: 98, 158
+  offset: 0, 0
+  index: -1
+rock1
+  rotate: false
+  xy: 313, 2
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+rock2
+  rotate: false
+  xy: 228, 288
+  size: 97, 194
+  orig: 97, 194
+  offset: 0, 0
+  index: -1
+rock3
+  rotate: false
+  xy: 228, 42
+  size: 56, 87
+  orig: 56, 87
+  offset: 0, 0
+  index: -1
+rock4
+  rotate: false
+  xy: 325, 279
+  size: 68, 202
+  orig: 68, 202
+  offset: 0, 0
+  index: -1
+rock5
+  rotate: false
+  xy: 284, 52
+  size: 35, 78
+  orig: 35, 78
+  offset: 0, 0
+  index: -1
