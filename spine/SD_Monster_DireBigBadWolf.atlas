@@ -1,0 +1,251 @@
+
+SD_Monster_DireBigBadWolf.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer13
+  rotate: 180
+  xy: 132, 131
+  size: 251, 231
+  orig: 251, 231
+  offset: 0, 0
+  index: -1
+Layer30
+  rotate: false
+  xy: 0, 216
+  size: 113, 127
+  orig: 113, 127
+  offset: 0, 0
+  index: -1
+Lear
+  rotate: false
+  xy: 228, 5
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+Lear_back
+  rotate: true
+  xy: 444, 25
+  size: 54, 52
+  orig: 64, 52
+  offset: 0, 0
+  index: -1
+Lear_fluff
+  rotate: false
+  xy: 61, 6
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+Lfoot_chain
+  rotate: false
+  xy: 266, 348
+  size: 40, 16
+  orig: 40, 16
+  offset: 0, 0
+  index: -1
+Lfoot_chainback
+  rotate: false
+  xy: 155, 292
+  size: 42, 16
+  orig: 42, 16
+  offset: 0, 0
+  index: -1
+Lfoot_gold
+  rotate: false
+  xy: 0, 482
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+Rear
+  rotate: false
+  xy: 383, 18
+  size: 54, 41
+  orig: 54, 41
+  offset: 0, 0
+  index: -1
+Rfoot_chain
+  rotate: false
+  xy: 455, 152
+  size: 40, 14
+  orig: 40, 14
+  offset: 0, 0
+  index: -1
+Rfoot_chain2
+  rotate: false
+  xy: 0, 35
+  size: 62, 28
+  orig: 62, 28
+  offset: 0, 0
+  index: -1
+Rfootchain_back
+  rotate: false
+  xy: 102, 3
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+Rfootchain_back2
+  rotate: false
+  xy: 0, 344
+  size: 43, 14
+  orig: 43, 14
+  offset: 0, 0
+  index: -1
+Rfootgold
+  rotate: false
+  xy: 455, 273
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+WolfFuzzy
+  rotate: true
+  xy: 306, 270
+  size: 234, 149
+  orig: 234, 149
+  offset: 0, 0
+  index: -1
+backL_leg
+  rotate: 270
+  xy: 368, 76
+  size: 90, 120
+  orig: 90, 120
+  offset: 0, 0
+  index: -1
+backL_leg2
+  rotate: true
+  xy: 86, 29
+  size: 53, 93
+  orig: 53, 93
+  offset: 0, 0
+  index: -1
+backR_leg
+  rotate: true
+  xy: 190, 82
+  size: 72, 117
+  orig: 72, 117
+  offset: 0, 0
+  index: -1
+backR_leg2
+  rotate: false
+  xy: 407, 20
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1
+backspikes
+  rotate: false
+  xy: 112, 148
+  size: 105, 133
+  orig: 105, 133
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 274, 465
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 272, 482
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+frontL_leg
+  rotate: true
+  xy: 0, 61
+  size: 67, 87
+  orig: 67, 87
+  offset: 0, 0
+  index: -1
+frontL_leg2
+  rotate: true
+  xy: 291, 13
+  size: 83, 115
+  orig: 83, 115
+  offset: 0, 0
+  index: -1
+frontR_leg
+  rotate: false
+  xy: 322, 203
+  size: 47, 67
+  orig: 47, 67
+  offset: 0, 0
+  index: -1
+frontR_leg2
+  rotate: true
+  xy: 182, 1
+  size: 97, 97
+  orig: 97, 97
+  offset: 0, 0
+  index: -1
+head_top
+  rotate: false
+  xy: 382, 165
+  size: 102, 105
+  orig: 102, 105
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: false
+  xy: 92, 82
+  size: 83, 66
+  orig: 83, 66
+  offset: 0, 0
+  index: -1
+jewlery
+  rotate: false
+  xy: 0, 128
+  size: 93, 88
+  orig: 93, 88
+  offset: 0, 0
+  index: -1
+scarf
+  rotate: 270
+  xy: 291, 59
+  size: 66, 95
+  orig: 66, 110
+  offset: 0, 0
+  index: -1
+scarf_chain1
+  rotate: false
+  xy: 455, 293
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+scarf_chain2
+  rotate: true
+  xy: 201, 479
+  size: 26, 71
+  orig: 26, 71
+  offset: 0, 0
+  index: -1
+scarf_deco
+  rotate: false
+  xy: 455, 415
+  size: 46, 89
+  orig: 46, 89
+  offset: 0, 0
+  index: -1
+scarf_top
+  rotate: false
+  xy: 455, 332
+  size: 45, 83
+  orig: 45, 83
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 0, 343
+  size: 306, 162
+  orig: 306, 162
+  offset: 0, 0
+  index: -1

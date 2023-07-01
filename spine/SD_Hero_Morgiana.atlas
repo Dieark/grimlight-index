@@ -1,0 +1,376 @@
+
+SD_Hero_Morgiana.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+-
+  rotate: true
+  xy: 116, 7
+  size: 37, 106
+  orig: 37, 106
+  offset: 0, 0
+  index: -1
+Larmchain
+  rotate: false
+  xy: 190, 123
+  size: 18, 40
+  orig: 18, 40
+  offset: 0, 0
+  index: -1
+Lfootchain
+  rotate: false
+  xy: 422, 423
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 392, 210
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 190, 107
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 422, 300
+  size: 45, 52
+  orig: 45, 52
+  offset: 0, 0
+  index: -1
+Rarm_chain
+  rotate: false
+  xy: 0, 163
+  size: 12, 40
+  orig: 12, 40
+  offset: 0, 0
+  index: -1
+Rfootchain
+  rotate: false
+  xy: 392, 276
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 0, 113
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 466, 296
+  size: 33, 57
+  orig: 33, 57
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 422, 404
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: true
+  xy: 0, 4
+  size: 41, 116
+  orig: 41, 116
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: false
+  xy: 461, 23
+  size: 49, 116
+  orig: 49, 116
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: false
+  xy: 422, 351
+  size: 89, 162
+  orig: 109, 162
+  offset: 0, 0
+  index: -1
+bangs4_strand
+  rotate: false
+  xy: 392, 235
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 212, 15
+  size: 108, 97
+  orig: 108, 97
+  offset: 0, 0
+  index: -1
+braidchain_back
+  rotate: false
+  xy: 160, 104
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+headjewelry3
+  rotate: false
+  xy: 422, 445
+  size: 22, 66
+  orig: 22, 66
+  offset: 0, 0
+  index: -1
+mouthgrit
+  rotate: false
+  xy: 210, 299
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 0, 204
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 392, 265
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 0, 144
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+slash2
+  rotate: false
+  xy: 0, 44
+  size: 212, 60
+  orig: 217, 62
+  offset: 2, 1
+  index: -1
+slash3
+  rotate: false
+  xy: 210, 111
+  size: 182, 186
+  orig: 188, 190
+  offset: 3, 2
+  index: -1
+slash4
+  rotate: false
+  xy: 239, 297
+  size: 183, 215
+  orig: 188, 218
+  offset: 2, 1
+  index: -1
+slash5
+  rotate: false
+  xy: 0, 306
+  size: 239, 206
+  orig: 243, 209
+  offset: 1, 2
+  index: -1
+veilR
+  rotate: false
+  xy: 334, 21
+  size: 178, 263
+  orig: 178, 263
+  offset: 0, 0
+  index: -1
+veilback
+  rotate: false
+  xy: 0, 104
+  size: 211, 202
+  orig: 211, 202
+  offset: 0, 0
+  index: -1
+
+SD_Hero_Morgiana2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 93, 443
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 473, 90
+  size: 33, 55
+  orig: 33, 55
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 367, 100
+  size: 51, 106
+  orig: 51, 106
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: 180
+  xy: 374, 212
+  size: 95, 170
+  orig: 185, 187
+  offset: 0, 17
+  index: -1
+braid
+  rotate: false
+  xy: 0, 223
+  size: 187, 290
+  orig: 195, 290
+  offset: 0, 0
+  index: -1
+braidchain
+  rotate: true
+  xy: 91, 122
+  size: 33, 73
+  orig: 33, 73
+  offset: 0, 0
+  index: -1
+cape
+  rotate: 270
+  xy: 303, 215
+  size: 167, 114
+  orig: 167, 114
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 0, 167
+  size: 102, 57
+  orig: 102, 57
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: true
+  xy: 464, 144
+  size: 95, 48
+  orig: 95, 48
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: true
+  xy: 431, 405
+  size: 107, 66
+  orig: 107, 66
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 167, 116
+  size: 109, 53
+  orig: 109, 53
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 0, 433
+  size: 93, 80
+  orig: 93, 80
+  offset: 0, 0
+  index: -1
+faceveil
+  rotate: false
+  xy: 276, 101
+  size: 91, 50
+  orig: 91, 50
+  offset: 0, 0
+  index: -1
+fringeL
+  rotate: true
+  xy: 91, 83
+  size: 34, 124
+  orig: 34, 124
+  offset: 0, 0
+  index: -1
+fringeR
+  rotate: true
+  xy: 215, 70
+  size: 31, 112
+  orig: 31, 112
+  offset: 0, 0
+  index: -1
+hairback
+  rotate: false
+  xy: 186, 337
+  size: 118, 175
+  orig: 118, 175
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 303, 381
+  size: 132, 127
+  orig: 132, 127
+  offset: 0, 0
+  index: -1
+headjewelry1
+  rotate: false
+  xy: 0, 107
+  size: 92, 60
+  orig: 92, 60
+  offset: 0, 0
+  index: -1
+headjewelry2
+  rotate: false
+  xy: 207, 170
+  size: 125, 59
+  orig: 125, 59
+  offset: 0, 0
+  index: -1
+knife1
+  rotate: false
+  xy: 331, 151
+  size: 121, 60
+  orig: 121, 60
+  offset: 0, 0
+  index: -1
+knife1 copy
+  rotate: false
+  xy: 331, 151
+  size: 121, 60
+  orig: 121, 60
+  offset: 0, 0
+  index: -1
+slash1
+  rotate: false
+  xy: 163, 263
+  size: 129, 74
+  orig: 134, 79
+  offset: 3, 3
+  index: -1
+veilL
+  rotate: true
+  xy: 102, 154
+  size: 109, 156
+  orig: 109, 156
+  offset: 0, 0
+  index: -1
+veilback2
+  rotate: false
+  xy: 468, 287
+  size: 36, 119
+  orig: 36, 119
+  offset: 0, 0
+  index: -1
