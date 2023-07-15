@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 454
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0083_Jinjur",
   "removeFromGame": 0,
@@ -771,25 +771,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3236
+    "m_PathID": 1417004134756286297
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2742
+      "m_PathID": 7784231899447771803
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2743
+      "m_PathID": 7426737853777254312
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2741
+    "m_PathID": -4426361384432522262
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2740
+    "m_PathID": -1494845647741401577
   },
   "Gender": 0,
   "Age": -1

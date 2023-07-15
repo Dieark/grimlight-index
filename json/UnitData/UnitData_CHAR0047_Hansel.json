@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 454
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0047_Hansel",
   "removeFromGame": 0,
@@ -677,16 +677,16 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3230
+    "m_PathID": -4697470282574282661
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2712
+      "m_PathID": -4603819286340887687
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2713
+      "m_PathID": -7231370655830755166
     }
   ],
   "passiveAbility": {
@@ -695,7 +695,7 @@
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2711
+    "m_PathID": 8845286357202656958
   },
   "Gender": 1,
   "Age": 16

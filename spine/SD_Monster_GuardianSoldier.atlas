@@ -1,0 +1,132 @@
+
+SD_Monster_GuardianSoldier.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 93, 117
+  size: 35, 65
+  orig: 35, 65
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: true
+  xy: 158, 119
+  size: 33, 66
+  orig: 33, 66
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: true
+  xy: 158, 119
+  size: 33, 66
+  orig: 33, 66
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 353, 133
+  size: 47, 74
+  orig: 47, 74
+  offset: 0, 0
+  index: -1
+Lpauldron
+  rotate: true
+  xy: 224, 115
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+Lpauldron_button
+  rotate: false
+  xy: 491, 400
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+Lthigh
+  rotate: true
+  xy: 93, 152
+  size: 55, 98
+  orig: 55, 98
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 494, 495
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 219, 281
+  size: 31, 63
+  orig: 31, 63
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 384, 281
+  size: 54, 83
+  orig: 54, 83
+  offset: 0, 0
+  index: -1
+Rpauldron
+  rotate: false
+  xy: 289, 149
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+Rthigh
+  rotate: true
+  xy: 191, 152
+  size: 55, 98
+  orig: 55, 98
+  offset: 0, 0
+  index: -1
+cape
+  rotate: 180
+  xy: 420, 152
+  size: 92, 201
+  orig: 92, 201
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1, 280
+  size: 218, 232
+  orig: 218, 232
+  offset: 0, 0
+  index: -1
+loincloth
+  rotate: true
+  xy: 1, 147
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 384, 364
+  size: 110, 148
+  orig: 110, 148
+  offset: 0, 0
+  index: -1
+visor
+  rotate: true
+  xy: 219, 312
+  size: 200, 165
+  orig: 200, 165
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 1, 207
+  size: 73, 433
+  orig: 73, 433
+  offset: 0, 0
+  index: -1

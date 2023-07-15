@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 478
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0072_RatKing",
   "removeFromGame": 0,
@@ -771,25 +771,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 41559
+    "m_PathID": 6068007409622016962
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 40891
+      "m_PathID": -979376481117958803
     },
     {
       "m_FileID": 0,
-      "m_PathID": 40890
+      "m_PathID": -2186397149948251268
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 40889
+    "m_PathID": 7780465572616082871
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 40888
+    "m_PathID": -1369438391569448632
   },
   "Gender": 1,
   "Age": -1

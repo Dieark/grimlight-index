@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 454
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0037_Caterpillar",
   "removeFromGame": 0,
@@ -777,21 +777,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3217
+    "m_PathID": 3426529814327989216
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2665
+      "m_PathID": -8475951453302872535
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2664
+    "m_PathID": -1544132349702248116
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2663
+    "m_PathID": -3330355782897264181
   },
   "Gender": 0,
   "Age": -1

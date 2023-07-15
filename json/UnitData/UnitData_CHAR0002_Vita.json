@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 478
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0002_Vita",
   "removeFromGame": 0,
@@ -750,23 +750,23 @@
   "storyDatas": [
     {
       "m_FileID": 0,
-      "m_PathID": 42638
+      "m_PathID": 1769780415916580945
     },
     {
       "m_FileID": 0,
-      "m_PathID": 42639
+      "m_PathID": 9152209912720062343
     },
     {
       "m_FileID": 0,
-      "m_PathID": 42640
+      "m_PathID": 1889705506986611235
     },
     {
       "m_FileID": 0,
-      "m_PathID": 42641
+      "m_PathID": 7142819975176471511
     },
     {
       "m_FileID": 0,
-      "m_PathID": 42642
+      "m_PathID": -1971273346359235845
     }
   ],
   "unitStatData": {
@@ -824,21 +824,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 41582
+    "m_PathID": -40363875576844128
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 40974
+      "m_PathID": 5164024625694459215
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 40973
+    "m_PathID": -1297293485033237098
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 40972
+    "m_PathID": 2460889917049099341
   },
   "Gender": 0,
   "Age": -1

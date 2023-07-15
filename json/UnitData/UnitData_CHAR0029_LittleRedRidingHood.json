@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 478
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0029_LittleRedRidingHood",
   "removeFromGame": 0,
@@ -777,21 +777,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 41563
+    "m_PathID": -5805804782333993174
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 40906
+      "m_PathID": -8071314237572099160
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 40905
+    "m_PathID": 3338078408009021137
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 40904
+    "m_PathID": 6355886773748532410
   },
   "Gender": 0,
   "Age": 17

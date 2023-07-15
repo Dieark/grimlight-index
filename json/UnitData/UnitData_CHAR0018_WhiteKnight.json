@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 454
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0018_WhiteKnight",
   "removeFromGame": 0,
@@ -771,21 +771,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3284
+    "m_PathID": 3224385801918402160
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2917
+      "m_PathID": -3438440465498672819
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2916
+    "m_PathID": 8727629807184709180
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2915
+    "m_PathID": 3222718264565951472
   },
   "Gender": 0,
   "Age": 28

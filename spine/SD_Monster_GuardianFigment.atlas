@@ -1,0 +1,83 @@
+
+SD_Monster_GuardianFigment.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer1
+  rotate: true
+  xy: 0, 101
+  size: 113, 178
+  orig: 113, 178
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 0, 214
+  size: 181, 239
+  orig: 181, 239
+  offset: 0, 0
+  index: -1
+ring1
+  rotate: false
+  xy: 181, 227
+  size: 67, 94
+  orig: 67, 94
+  offset: 0, 0
+  index: -1
+ring2
+  rotate: false
+  xy: 248, 278
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+ring3
+  rotate: false
+  xy: 193, 0
+  size: 47, 110
+  orig: 47, 110
+  offset: 0, 0
+  index: -1
+ring3_back
+  rotate: true
+  xy: 181, 321
+  size: 132, 82
+  orig: 132, 82
+  offset: 0, 0
+  index: -1
+ring4
+  rotate: false
+  xy: 240, 11
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+ring5
+  rotate: false
+  xy: 248, 214
+  size: 50, 64
+  orig: 50, 64
+  offset: 0, 0
+  index: -1
+ring6
+  rotate: false
+  xy: 0, 1
+  size: 193, 100
+  orig: 193, 100
+  offset: 0, 0
+  index: -1
+ring7
+  rotate: true
+  xy: 240, 29
+  size: 81, 61
+  orig: 81, 61
+  offset: 0, 0
+  index: -1
+ring8
+  rotate: false
+  xy: 178, 110
+  size: 90, 104
+  orig: 90, 104
+  offset: 0, 0
+  index: -1

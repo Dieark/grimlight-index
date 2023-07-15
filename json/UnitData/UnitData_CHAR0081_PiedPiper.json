@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 478
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0081_PiedPiper",
   "removeFromGame": 0,
@@ -771,25 +771,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 41555
+    "m_PathID": -3230594975371457494
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 40876
+      "m_PathID": -5326153244303701200
     },
     {
       "m_FileID": 0,
-      "m_PathID": 40877
+      "m_PathID": -6954689713696648973
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 40875
+    "m_PathID": -7696829028656170439
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 40874
+    "m_PathID": -7408618204113534501
   },
   "Gender": 1,
   "Age": -1

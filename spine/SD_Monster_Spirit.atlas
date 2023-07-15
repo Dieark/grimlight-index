@@ -1,0 +1,83 @@
+
+SD_Monster_Spirit.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 242, 302
+  size: 130, 197
+  orig: 130, 197
+  offset: 0, 0
+  index: -1
+body2
+  rotate: 180
+  xy: 0, 299
+  size: 139, 200
+  orig: 139, 200
+  offset: 0, 0
+  index: -1
+body3
+  rotate: 180
+  xy: 366, 298
+  size: 131, 201
+  orig: 131, 201
+  offset: 0, 0
+  index: -1
+body4
+  rotate: 180
+  xy: 0, 90
+  size: 134, 214
+  orig: 134, 214
+  offset: 0, 0
+  index: -1
+body5
+  rotate: true
+  xy: 285, 147
+  size: 132, 213
+  orig: 132, 213
+  offset: 0, 0
+  index: -1
+body6
+  rotate: true
+  xy: 148, 187
+  size: 127, 201
+  orig: 127, 201
+  offset: 0, 0
+  index: -1
+body7
+  rotate: false
+  xy: 120, 299
+  size: 134, 200
+  orig: 134, 200
+  offset: 0, 0
+  index: -1
+body8
+  rotate: true
+  xy: 94, 41
+  size: 131, 201
+  orig: 131, 201
+  offset: 0, 0
+  index: -1
+faceattack
+  rotate: false
+  xy: 46, 244
+  size: 69, 41
+  orig: 69, 41
+  offset: 0, 0
+  index: -1
+facehurt
+  rotate: false
+  xy: 115, 235
+  size: 69, 32
+  orig: 69, 32
+  offset: 0, 0
+  index: -1
+faceidle
+  rotate: false
+  xy: 115, 267
+  size: 69, 37
+  orig: 69, 37
+  offset: 0, 0
+  index: -1

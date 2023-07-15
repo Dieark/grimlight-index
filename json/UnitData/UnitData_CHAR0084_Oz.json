@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 483
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0084_Oz",
   "removeFromGame": 0,
@@ -771,29 +771,29 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 41582
+    "m_PathID": 1729168603215462433
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 40885
+      "m_PathID": 3843777376091803029
     },
     {
       "m_FileID": 0,
-      "m_PathID": 40887
+      "m_PathID": -7991153645389154054
     },
     {
       "m_FileID": 0,
-      "m_PathID": 40886
+      "m_PathID": -1574541461625370201
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 40884
+    "m_PathID": 6990618288495016013
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 40883
+    "m_PathID": -7702057495133172257
   },
   "Gender": 1,
   "Age": -1

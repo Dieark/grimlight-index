@@ -6,12 +6,12 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 454
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0080_Rothbart",
   "removeFromGame": 0,
   "timeLimitSettings": {
-    "limitByTime": 1,
+    "limitByTime": 0,
     "startTime": {
       "year": 2023,
       "month": 2,
@@ -771,25 +771,25 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 3266
+    "m_PathID": -1601634133667106120
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 2852
+      "m_PathID": -1181549371471795929
     },
     {
       "m_FileID": 0,
-      "m_PathID": 2853
+      "m_PathID": 6246905535678029851
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 2851
+    "m_PathID": 8125574402648578697
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 2850
+    "m_PathID": -8412552746158901280
   },
   "Gender": 1,
   "Age": -1

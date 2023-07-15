@@ -1,0 +1,146 @@
+
+SD_Monster_GuardianGolem.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 303, 233
+  size: 89, 116
+  orig: 89, 116
+  offset: 0, 0
+  index: -1
+Lfinger
+  rotate: true
+  xy: 0, 20
+  size: 27, 54
+  orig: 27, 54
+  offset: 0, 0
+  index: -1
+Lfinger2
+  rotate: false
+  xy: 390, 3
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: true
+  xy: 217, 287
+  size: 62, 85
+  orig: 62, 85
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 322, 118
+  size: 85, 115
+  orig: 85, 115
+  offset: 0, 0
+  index: -1
+Lpauldron
+  rotate: true
+  xy: 197, 163
+  size: 119, 106
+  orig: 119, 106
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: true
+  xy: 54, 21
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 0, 48
+  size: 110, 125
+  orig: 110, 125
+  offset: 0, 0
+  index: -1
+Rfingers
+  rotate: false
+  xy: 392, 305
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: false
+  xy: 325, 373
+  size: 63, 92
+  orig: 63, 92
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 230, 31
+  size: 92, 131
+  orig: 92, 131
+  offset: 0, 0
+  index: -1
+Rpauldron
+  rotate: true
+  xy: 125, 36
+  size: 122, 105
+  orig: 122, 105
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 103, 1
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+eye_dark
+  rotate: false
+  xy: 325, 352
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 217, 349
+  size: 109, 116
+  orig: 109, 116
+  offset: 0, 0
+  index: -1
+orb
+  rotate: false
+  xy: 390, 48
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+pelvis_back
+  rotate: true
+  xy: 388, 357
+  size: 108, 48
+  orig: 108, 48
+  offset: 0, 0
+  index: -1
+pelvis_front
+  rotate: true
+  xy: 322, 0
+  size: 117, 68
+  orig: 117, 68
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 0, 282
+  size: 217, 184
+  orig: 217, 184
+  offset: 0, 0
+  index: -1
+torso2
+  rotate: false
+  xy: 0, 158
+  size: 197, 125
+  orig: 197, 125
+  offset: 0, 0
+  index: -1

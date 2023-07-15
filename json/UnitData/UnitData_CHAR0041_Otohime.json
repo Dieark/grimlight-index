@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 478
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0041_Otohime",
   "removeFromGame": 0,
@@ -771,16 +771,16 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 41552
+    "m_PathID": 4169681529421273993
   },
   "traits": [],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 40864
+    "m_PathID": 7151350991690998872
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 40863
+    "m_PathID": 4159470088369841208
   },
   "Gender": 0,
   "Age": -1

@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 483
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0085_Carbuncle",
   "removeFromGame": 0,
@@ -791,21 +791,21 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 41545
+    "m_PathID": 6280764080327553068
   },
   "traits": [
     {
       "m_FileID": 0,
-      "m_PathID": 40744
+      "m_PathID": -3464056554225514472
     }
   ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 40743
+    "m_PathID": 4217043707040677066
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 40742
+    "m_PathID": -3486940782705618752
   },
   "Gender": 0,
   "Age": -1
