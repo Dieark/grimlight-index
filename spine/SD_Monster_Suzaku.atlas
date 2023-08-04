@@ -1,0 +1,223 @@
+
+SD_Monster_Suzaku.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Suzaku_Blur
+  rotate: false
+  xy: 673, 757
+  size: 236, 247
+  orig: 236, 247
+  offset: 0, 0
+  index: -1
+Suzaku_Blur2
+  rotate: false
+  xy: 0, 609
+  size: 316, 395
+  orig: 316, 456
+  offset: 0, 61
+  index: -1
+body
+  rotate: 180
+  xy: 400, 284
+  size: 255, 182
+  orig: 255, 182
+  offset: 0, 0
+  index: -1
+bottomleg1
+  rotate: false
+  xy: 113, 231
+  size: 48, 102
+  orig: 48, 102
+  offset: 0, 0
+  index: -1
+bottomleg2
+  rotate: false
+  xy: 407, 42
+  size: 48, 102
+  orig: 48, 102
+  offset: 0, 0
+  index: -1
+foot1
+  rotate: false
+  xy: 300, 543
+  size: 103, 38
+  orig: 103, 38
+  offset: 0, 0
+  index: -1
+foot2
+  rotate: false
+  xy: 403, 539
+  size: 103, 38
+  orig: 103, 38
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 585, 932
+  size: 87, 72
+  orig: 87, 72
+  offset: 0, 0
+  index: -1
+longfeather1
+  rotate: false
+  xy: 141, 16
+  size: 48, 125
+  orig: 48, 125
+  offset: 0, 0
+  index: -1
+longfeather10
+  rotate: 180
+  xy: 186, 11
+  size: 221, 99
+  orig: 221, 99
+  offset: 0, 0
+  index: -1
+longfeather2
+  rotate: false
+  xy: 316, 700
+  size: 33, 72
+  orig: 33, 72
+  offset: 0, 0
+  index: -1
+longfeather3
+  rotate: false
+  xy: 739, 6
+  size: 213, 174
+  orig: 213, 174
+  offset: 0, 0
+  index: -1
+longfeather4
+  rotate: true
+  xy: 898, 667
+  size: 91, 94
+  orig: 91, 94
+  offset: 0, 0
+  index: -1
+longfeather5
+  rotate: false
+  xy: 13, 334
+  size: 412, 199
+  orig: 412, 199
+  offset: 0, 0
+  index: -1
+longfeather6
+  rotate: 270
+  xy: 857, 286
+  size: 387, 126
+  orig: 387, 126
+  offset: 0, 0
+  index: -1
+longfeather7
+  rotate: false
+  xy: 42, 132
+  size: 358, 254
+  orig: 358, 254
+  offset: 0, 0
+  index: -1
+longfeather8
+  rotate: 180
+  xy: 590, 156
+  size: 343, 267
+  orig: 343, 267
+  offset: 0, 0
+  index: -1
+longfeather9
+  rotate: false
+  xy: 500, 227
+  size: 199, 95
+  orig: 199, 95
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 909, 731
+  size: 94, 274
+  orig: 94, 274
+  offset: 0, 0
+  index: -1
+necklace
+  rotate: false
+  xy: 0, 179
+  size: 113, 155
+  orig: 113, 155
+  offset: 0, 0
+  index: -1
+tail1
+  rotate: 270
+  xy: 214, 67
+  size: 170, 168
+  orig: 170, 168
+  offset: 0, 0
+  index: -1
+tail2
+  rotate: 270
+  xy: 776, 110
+  size: 143, 192
+  orig: 143, 192
+  offset: 0, 0
+  index: -1
+tail3
+  rotate: false
+  xy: 784, 633
+  size: 116, 125
+  orig: 116, 125
+  offset: 0, 0
+  index: -1
+topleg1
+  rotate: true
+  xy: 0, 30
+  size: 102, 142
+  orig: 102, 142
+  offset: 0, 0
+  index: -1
+topleg2
+  rotate: false
+  xy: 493, 21
+  size: 97, 142
+  orig: 97, 142
+  offset: 0, 0
+  index: -1
+wing1bottom
+  rotate: false
+  xy: 0, 387
+  size: 301, 223
+  orig: 301, 223
+  offset: 0, 0
+  index: -1
+wing1open
+  rotate: true
+  xy: 316, 577
+  size: 428, 357
+  orig: 428, 357
+  offset: 0, 0
+  index: -1
+wing1top
+  rotate: false
+  xy: 425, 415
+  size: 359, 343
+  orig: 359, 343
+  offset: 0, 0
+  index: -1
+wing2bottom
+  rotate: false
+  xy: 316, 762
+  size: 111, 242
+  orig: 111, 242
+  offset: 0, 0
+  index: -1
+wing2open
+  rotate: true
+  xy: 655, 388
+  size: 216, 295
+  orig: 216, 304
+  offset: 0, 9
+  index: -1
+wing2top
+  rotate: true
+  xy: 283, 145
+  size: 126, 218
+  orig: 126, 218
+  offset: 0, 0
+  index: -1
