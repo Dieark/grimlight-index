@@ -776,25 +776,25 @@
     "objectID": "CHAR0033"
   },
   "talkData": {
-    "m_FileID": 0,
+    "m_FileID": 2,
     "m_PathID": 8420076665984281634
   },
   "traits": [
     {
-      "m_FileID": 0,
+      "m_FileID": 3,
       "m_PathID": -1536587608622023855
     },
     {
-      "m_FileID": 0,
+      "m_FileID": 3,
       "m_PathID": -536346794316233833
     }
   ],
   "passiveAbility": {
-    "m_FileID": 0,
+    "m_FileID": 3,
     "m_PathID": 4289241429791239480
   },
   "activeAbility": {
-    "m_FileID": 0,
+    "m_FileID": 3,
     "m_PathID": -1271938083508020994
   },
   "Gender": 0,

@@ -1,0 +1,307 @@
+
+SD_Hero_Scheherazade.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Learring
+  rotate: false
+  xy: 386, 490
+  size: 9, 22
+  orig: 9, 22
+  offset: 0, 0
+  index: -1
+Rearring
+  rotate: false
+  xy: 386, 490
+  size: 9, 22
+  orig: 9, 22
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: true
+  xy: 462, 296
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+Lhood
+  rotate: true
+  xy: 267, 223
+  size: 98, 121
+  orig: 98, 121
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 482, 186
+  size: 22, 68
+  orig: 22, 68
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 341, 50
+  size: 24, 50
+  orig: 24, 50
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 246, 131
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+Rhood
+  rotate: true
+  xy: 396, 455
+  size: 57, 99
+  orig: 57, 99
+  offset: 0, 0
+  index: -1
+Rjewelry
+  rotate: false
+  xy: 69, 161
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 486, 124
+  size: 21, 61
+  orig: 21, 61
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 328, 422
+  size: 26, 51
+  orig: 26, 51
+  offset: 0, 0
+  index: -1
+bangsL
+  rotate: 270
+  xy: 104, 220
+  size: 99, 169
+  orig: 99, 169
+  offset: 0, 0
+  index: -1
+bangsR
+  rotate: true
+  xy: 343, 253
+  size: 99, 159
+  orig: 99, 159
+  offset: 0, 0
+  index: -1
+bangsR2
+  rotate: true
+  xy: 169, 102
+  size: 69, 151
+  orig: 69, 151
+  offset: 0, 0
+  index: -1
+bangsR3
+  rotate: false
+  xy: 100, 304
+  size: 21, 82
+  orig: 21, 82
+  offset: 0, 0
+  index: -1
+book1
+  rotate: false
+  xy: 314, 181
+  size: 68, 42
+  orig: 68, 42
+  offset: 0, 0
+  index: -1
+book2
+  rotate: false
+  xy: 0, 61
+  size: 62, 58
+  orig: 62, 58
+  offset: 0, 0
+  index: -1
+book3
+  rotate: true
+  xy: 105, 40
+  size: 37, 56
+  orig: 37, 56
+  offset: 0, 0
+  index: -1
+book4
+  rotate: false
+  xy: 355, 382
+  size: 40, 57
+  orig: 40, 57
+  offset: 0, 0
+  index: -1
+bookglow
+  rotate: false
+  xy: 388, 170
+  size: 94, 84
+  orig: 94, 84
+  offset: 0, 0
+  index: -1
+braid
+  rotate: false
+  xy: 213, 320
+  size: 183, 192
+  orig: 183, 192
+  offset: 0, 0
+  index: -1
+dress
+  rotate: false
+  xy: 427, 90
+  size: 59, 79
+  orig: 59, 79
+  offset: 0, 0
+  index: -1
+dressL
+  rotate: true
+  xy: 70, 70
+  size: 70, 100
+  orig: 70, 100
+  offset: 0, 0
+  index: -1
+dressR
+  rotate: 270
+  xy: 0, 118
+  size: 70, 102
+  orig: 70, 102
+  offset: 0, 0
+  index: -1
+dresschains
+  rotate: false
+  xy: 169, 170
+  size: 45, 51
+  orig: 45, 51
+  offset: 0, 0
+  index: -1
+dresschains2
+  rotate: true
+  xy: 293, 45
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+dresschains3
+  rotate: false
+  xy: 161, 58
+  size: 82, 47
+  orig: 82, 47
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 224, 165
+  size: 91, 60
+  orig: 91, 60
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 414, 45
+  size: 81, 45
+  orig: 81, 45
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 0, 193
+  size: 95, 58
+  orig: 95, 58
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 319, 74
+  size: 95, 50
+  orig: 95, 50
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 94, 150
+  size: 74, 71
+  orig: 74, 71
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 395, 326
+  size: 117, 116
+  orig: 117, 116
+  offset: 0, 0
+  index: -1
+hoodchains
+  rotate: false
+  xy: 314, 125
+  size: 112, 45
+  orig: 112, 45
+  offset: 0, 0
+  index: -1
+hoodcharm
+  rotate: false
+  xy: 258, 496
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+hoodcharm2
+  rotate: false
+  xy: 213, 475
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+mouthgrit
+  rotate: false
+  xy: 365, 506
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 495, 508
+  size: 13, 5
+  orig: 13, 5
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 282, 502
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 213, 459
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 243, 50
+  size: 56, 55
+  orig: 56, 55
+  offset: 0, 0
+  index: -1
+veilL
+  rotate: false
+  xy: 115, 267
+  size: 97, 246
+  orig: 97, 246
+  offset: 0, 0
+  index: -1
+veilR
+  rotate: false
+  xy: 0, 250
+  size: 116, 262
+  orig: 116, 262
+  offset: 0, 0
+  index: -1

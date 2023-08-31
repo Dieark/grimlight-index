@@ -776,25 +776,25 @@
     "objectID": "Coin"
   },
   "talkData": {
-    "m_FileID": 0,
+    "m_FileID": 2,
     "m_PathID": 3548803993644060214
   },
   "traits": [
     {
-      "m_FileID": 0,
+      "m_FileID": 3,
       "m_PathID": -8856412361129407431
     },
     {
-      "m_FileID": 0,
+      "m_FileID": 3,
       "m_PathID": -5103305436243152266
     }
   ],
   "passiveAbility": {
-    "m_FileID": 0,
+    "m_FileID": 3,
     "m_PathID": -3530466154130129830
   },
   "activeAbility": {
-    "m_FileID": 0,
+    "m_FileID": 3,
     "m_PathID": -2750070996045520651
   },
   "Gender": 0,

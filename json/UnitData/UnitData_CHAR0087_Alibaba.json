@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 225
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0087_Alibaba",
   "removeFromGame": 0,
@@ -771,20 +771,20 @@
   },
   "talkData": {
     "m_FileID": 0,
-    "m_PathID": 1851
+    "m_PathID": 1234528329161870730
   },
   "traits": [
     {
-      "m_FileID": 25,
+      "m_FileID": 43,
       "m_PathID": -6891470427058022353
     }
   ],
   "passiveAbility": {
-    "m_FileID": 25,
+    "m_FileID": 43,
     "m_PathID": 3867846717348742133
   },
   "activeAbility": {
-    "m_FileID": 25,
+    "m_FileID": 43,
     "m_PathID": -3697886984202337480
   },
   "Gender": 1,

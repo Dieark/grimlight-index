@@ -9,7 +9,7 @@
     "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0005_Nyx",
-  "removeFromGame": 1,
+  "removeFromGame": 0,
   "timeLimitSettings": {
     "limitByTime": 0,
     "startTime": {
@@ -45,7 +45,7 @@
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ElementShardMind_Tier1"
+              "objectID": "MaterialItem_ElementShardNight_Tier1"
             },
             "itemCount": 15
           },
@@ -71,7 +71,7 @@
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ElementShardMind_Tier1"
+              "objectID": "MaterialItem_ElementShardNight_Tier1"
             },
             "itemCount": 30
           },
@@ -104,7 +104,7 @@
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ElementShardMind_Tier2"
+              "objectID": "MaterialItem_ElementShardNight_Tier2"
             },
             "itemCount": 10
           },
@@ -137,7 +137,7 @@
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ElementShardMind_Tier2"
+              "objectID": "MaterialItem_ElementShardNight_Tier2"
             },
             "itemCount": 15
           },
@@ -170,7 +170,7 @@
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ElementShardMind_Tier3"
+              "objectID": "MaterialItem_ElementShardNight_Tier3"
             },
             "itemCount": 20
           },
@@ -203,7 +203,7 @@
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ElementShardMind_Tier3"
+              "objectID": "MaterialItem_ElementShardNight_Tier3"
             },
             "itemCount": 30
           },
@@ -476,13 +476,202 @@
       }
     },
     "skillComponentData": {
-      "skillDataList": []
+      "skillDataList": [
+        {
+          "skillID": "Ability_Nyx_Active",
+          "maxLevel": 0,
+          "upgradeRequirements": [
+            {
+              "levelRequirement": 15,
+              "costData": {
+                "primaryCosts": [
+                  {
+                    "objectReference": {
+                      "objectType": 1,
+                      "objectID": "MaterialItem_ElementShardNight_Tier1"
+                    },
+                    "itemCount": 10
+                  },
+                  {
+                    "objectReference": {
+                      "objectType": 2,
+                      "objectID": "Coin"
+                    },
+                    "itemCount": 1000
+                  }
+                ],
+                "replacementCost": []
+              }
+            },
+            {
+              "levelRequirement": 30,
+              "costData": {
+                "primaryCosts": [
+                  {
+                    "objectReference": {
+                      "objectType": 1,
+                      "objectID": "MaterialItem_ElementShardNight_Tier1"
+                    },
+                    "itemCount": 20
+                  },
+                  {
+                    "objectReference": {
+                      "objectType": 2,
+                      "objectID": "Coin"
+                    },
+                    "itemCount": 2500
+                  }
+                ],
+                "replacementCost": []
+              }
+            },
+            {
+              "levelRequirement": 45,
+              "costData": {
+                "primaryCosts": [
+                  {
+                    "objectReference": {
+                      "objectType": 1,
+                      "objectID": "MaterialItem_ElementShardNight_Tier2"
+                    },
+                    "itemCount": 15
+                  },
+                  {
+                    "objectReference": {
+                      "objectType": 2,
+                      "objectID": "Coin"
+                    },
+                    "itemCount": 5000
+                  }
+                ],
+                "replacementCost": []
+              }
+            },
+            {
+              "levelRequirement": 60,
+              "costData": {
+                "primaryCosts": [
+                  {
+                    "objectReference": {
+                      "objectType": 1,
+                      "objectID": "MaterialItem_ElementShardNight_Tier3"
+                    },
+                    "itemCount": 15
+                  },
+                  {
+                    "objectReference": {
+                      "objectType": 2,
+                      "objectID": "Coin"
+                    },
+                    "itemCount": 10000
+                  }
+                ],
+                "replacementCost": []
+              }
+            }
+          ]
+        },
+        {
+          "skillID": "Ability_Nyx_Passive1",
+          "maxLevel": 0,
+          "upgradeRequirements": [
+            {
+              "levelRequirement": 15,
+              "costData": {
+                "primaryCosts": [
+                  {
+                    "objectReference": {
+                      "objectType": 1,
+                      "objectID": "MaterialItem_ElementShardNight_Tier1"
+                    },
+                    "itemCount": 10
+                  },
+                  {
+                    "objectReference": {
+                      "objectType": 2,
+                      "objectID": "Coin"
+                    },
+                    "itemCount": 1000
+                  }
+                ],
+                "replacementCost": []
+              }
+            },
+            {
+              "levelRequirement": 30,
+              "costData": {
+                "primaryCosts": [
+                  {
+                    "objectReference": {
+                      "objectType": 1,
+                      "objectID": "MaterialItem_ElementShardNight_Tier1"
+                    },
+                    "itemCount": 20
+                  },
+                  {
+                    "objectReference": {
+                      "objectType": 2,
+                      "objectID": "Coin"
+                    },
+                    "itemCount": 2500
+                  }
+                ],
+                "replacementCost": []
+              }
+            },
+            {
+              "levelRequirement": 45,
+              "costData": {
+                "primaryCosts": [
+                  {
+                    "objectReference": {
+                      "objectType": 1,
+                      "objectID": "MaterialItem_ElementShardNight_Tier2"
+                    },
+                    "itemCount": 15
+                  },
+                  {
+                    "objectReference": {
+                      "objectType": 2,
+                      "objectID": "Coin"
+                    },
+                    "itemCount": 5000
+                  }
+                ],
+                "replacementCost": []
+              }
+            },
+            {
+              "levelRequirement": 60,
+              "costData": {
+                "primaryCosts": [
+                  {
+                    "objectReference": {
+                      "objectType": 1,
+                      "objectID": "MaterialItem_ElementShardNight_Tier3"
+                    },
+                    "itemCount": 15
+                  },
+                  {
+                    "objectReference": {
+                      "objectType": 2,
+                      "objectID": "Coin"
+                    },
+                    "itemCount": 10000
+                  }
+                ],
+                "replacementCost": []
+              }
+            }
+          ]
+        }
+      ]
     },
     "havenRewards": [
       {
         "objectReference": {
           "objectType": 1,
-          "objectID": "MaterialItem_HavenElementAffinityWater"
+          "objectID": "MaterialItem_HavenElementAffinityDark"
         },
         "itemCount": 1,
         "dropOptionExtension": {
@@ -521,10 +710,16 @@
       }
     ],
     "heroStoriesItemList": [],
-    "heroSkinItemList": []
+    "heroSkinItemList": [
+      {
+        "objectType": 17,
+        "objectID": "Nyx_Skin1"
+      }
+    ]
   },
   "skinAssetNames": [
-    "UnitSkinAssets_Char0005_Nyx"
+    "UnitSkinAssets_Char0005_Nyx",
+    "UnitSkinAssets_Char0005_Nyx_Skin1"
   ],
   "storyDatas": [],
   "unitStatData": {
@@ -534,25 +729,25 @@
       "m_FileID": 0,
       "m_PathID": 0
     },
-    "unitElement": 1,
+    "unitElement": 4,
     "classType": 1,
-    "deployCost": 4,
+    "deployCost": 3,
     "hp": {
       "statType": 1,
-      "yIntercept": 750.0,
+      "yIntercept": 650.0,
       "hasExponentialScale": 0
     },
     "attackDamage": {
       "DamageType": 1,
       "damageScaling": {
         "statType": 1,
-        "yIntercept": 38.0,
+        "yIntercept": 35.0,
         "hasExponentialScale": 0
       }
     },
     "defense": {
       "statType": 1,
-      "yIntercept": 22.0,
+      "yIntercept": 27.0,
       "hasExponentialScale": 0
     },
     "critChance": 1.0,
@@ -563,9 +758,9 @@
     "baseEvasionPercent": 0.0,
     "baseAccuracyPercent": 0.0,
     "resilience": 0.0,
-    "attackSpeed": 1.2,
+    "attackSpeed": 1.0,
     "attackRange": 50.0,
-    "energyGainPerAttack": 10,
+    "energyGainPerAttack": 15,
     "moveSpeed": 15.0,
     "targetZAlignment": 0.0,
     "laneSearch": 5,
@@ -581,17 +776,30 @@
     "objectID": "CHAR0049"
   },
   "talkData": {
-    "m_FileID": 0,
+    "m_FileID": 2,
     "m_PathID": 4072552488918650907
   },
-  "traits": [],
+  "traits": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7577006841762198549
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4684463090955360420
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2605909336117232739
+    }
+  ],
   "passiveAbility": {
     "m_FileID": 0,
-    "m_PathID": 0
+    "m_PathID": -8798571229693156828
   },
   "activeAbility": {
     "m_FileID": 0,
-    "m_PathID": 0
+    "m_PathID": -6746961216153323865
   },
   "Gender": 0,
   "Age": 0

@@ -709,7 +709,28 @@
         }
       }
     ],
-    "heroStoriesItemList": [],
+    "heroStoriesItemList": [
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStorySaffi_1"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStorySaffi_2"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStorySaffi_3"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStorySaffi_4"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStorySaffi_5"
+      }
+    ],
     "heroSkinItemList": [
       {
         "objectType": 17,
@@ -721,7 +742,28 @@
     "UnitSkinAssets_Char0003_Saffi",
     "UnitSkinAssets_Char0003_Saffi_Skin1"
   ],
-  "storyDatas": [],
+  "storyDatas": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3001812209496205951
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6549974767111528649
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2395408440595230238
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8198985348826812810
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6055996939956691227
+    }
+  ],
   "unitStatData": {
     "id": "CHAR0003",
     "displayName": "Saffi",
@@ -776,29 +818,29 @@
     "objectID": "CHAR0003"
   },
   "talkData": {
-    "m_FileID": 0,
+    "m_FileID": 2,
     "m_PathID": 634965640441660756
   },
   "traits": [
     {
-      "m_FileID": 0,
+      "m_FileID": 3,
       "m_PathID": -3926119281046473721
     },
     {
-      "m_FileID": 0,
+      "m_FileID": 3,
       "m_PathID": 2163805749292513106
     },
     {
-      "m_FileID": 0,
+      "m_FileID": 3,
       "m_PathID": 3499358410063688670
     }
   ],
   "passiveAbility": {
-    "m_FileID": 0,
+    "m_FileID": 3,
     "m_PathID": 6954703350709374735
   },
   "activeAbility": {
-    "m_FileID": 0,
+    "m_FileID": 3,
     "m_PathID": 554684084032778169
   },
   "Gender": 0,

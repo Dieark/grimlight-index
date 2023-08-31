@@ -676,16 +676,16 @@
     "objectID": "CHAR0000"
   },
   "talkData": {
-    "m_FileID": 0,
+    "m_FileID": 2,
     "m_PathID": -4697470282574282661
   },
   "traits": [
     {
-      "m_FileID": 0,
+      "m_FileID": 3,
       "m_PathID": -4603819286340887687
     },
     {
-      "m_FileID": 0,
+      "m_FileID": 3,
       "m_PathID": -7231370655830755166
     }
   ],
@@ -694,7 +694,7 @@
     "m_PathID": 0
   },
   "activeAbility": {
-    "m_FileID": 0,
+    "m_FileID": 3,
     "m_PathID": 8845286357202656958
   },
   "Gender": 1,

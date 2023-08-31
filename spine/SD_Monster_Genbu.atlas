@@ -1,0 +1,125 @@
+
+SD_Monster_Genbu.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Genbu_Effect
+  rotate: false
+  xy: 0, 8
+  size: 276, 207
+  orig: 276, 207
+  offset: 0, 0
+  index: -1
+backleg1
+  rotate: false
+  xy: 579, 425
+  size: 148, 215
+  orig: 148, 215
+  offset: 0, 0
+  index: -1
+backleg2
+  rotate: false
+  xy: 736, 290
+  size: 139, 152
+  orig: 139, 152
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 316, 164
+  size: 476, 263
+  orig: 476, 263
+  offset: 0, 0
+  index: -1
+frontleg1
+  rotate: false
+  xy: 579, 239
+  size: 157, 186
+  orig: 157, 186
+  offset: 0, 0
+  index: -1
+frontleg2
+  rotate: false
+  xy: 841, 487
+  size: 168, 174
+  orig: 168, 174
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 832, 661
+  size: 224, 143
+  orig: 224, 143
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 605, 37
+  size: 131, 114
+  orig: 131, 114
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 605, 648
+  size: 227, 237
+  orig: 227, 237
+  offset: 0, 0
+  index: -1
+shell
+  rotate: false
+  xy: 0, 640
+  size: 605, 376
+  orig: 605, 376
+  offset: 0, 0
+  index: -1
+shellbehind
+  rotate: true
+  xy: 875, 337
+  size: 150, 141
+  orig: 150, 141
+  offset: 0, 0
+  index: -1
+snakebody1
+  rotate: false
+  xy: 0, 215
+  size: 316, 425
+  orig: 316, 425
+  offset: 0, 0
+  index: -1
+snakebody2
+  rotate: true
+  xy: 605, 885
+  size: 131, 386
+  orig: 131, 386
+  offset: 0, 0
+  index: -1
+snakebody3
+  rotate: false
+  xy: 579, 168
+  size: 133, 71
+  orig: 133, 71
+  offset: 0, 0
+  index: -1
+snakehead
+  rotate: false
+  xy: 736, 217
+  size: 80, 73
+  orig: 80, 73
+  offset: 0, 0
+  index: -1
+snaketail1
+  rotate: true
+  xy: 276, 50
+  size: 114, 329
+  orig: 114, 329
+  offset: 0, 0
+  index: -1
+snaketail2
+  rotate: true
+  xy: 727, 442
+  size: 206, 114
+  orig: 206, 114
+  offset: 0, 0
+  index: -1

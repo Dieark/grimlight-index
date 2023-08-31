@@ -691,7 +691,7 @@
       {
         "objectReference": {
           "objectType": 4,
-          "objectID": "UI_HeroShard_Tin"
+          "objectID": "UnitToken_CHAR0040"
         },
         "itemCount": 1,
         "dropOptionExtension": {
@@ -770,25 +770,25 @@
     "objectID": "CHAR0000"
   },
   "talkData": {
-    "m_FileID": 0,
+    "m_FileID": 21,
     "m_PathID": 1858537707376022619
   },
   "traits": [
     {
-      "m_FileID": 0,
+      "m_FileID": 22,
       "m_PathID": -4450947582862247426
     },
     {
-      "m_FileID": 0,
+      "m_FileID": 22,
       "m_PathID": 855843083387651527
     }
   ],
   "passiveAbility": {
-    "m_FileID": 0,
+    "m_FileID": 22,
     "m_PathID": 6122161787999795720
   },
   "activeAbility": {
-    "m_FileID": 0,
+    "m_FileID": 22,
     "m_PathID": -2449762876624235385
   },
   "Gender": 0,
