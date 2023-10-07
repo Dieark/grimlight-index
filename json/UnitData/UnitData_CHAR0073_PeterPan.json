@@ -242,7 +242,8 @@
         "levelSelector": 0,
         "fixedLevel": 1,
         "contentLevelModulus": 1,
-        "accountLevelOffset": 0
+        "accountLevelOffset": 0,
+        "honingEffect": ""
       }
     },
     "randomStatGridOverride": {
@@ -685,7 +686,8 @@
           "levelSelector": 0,
           "fixedLevel": 1,
           "contentLevelModulus": 1,
-          "accountLevelOffset": 0
+          "accountLevelOffset": 0,
+          "honingEffect": ""
         }
       },
       {
@@ -705,7 +707,8 @@
           "levelSelector": 0,
           "fixedLevel": 1,
           "contentLevelModulus": 1,
-          "accountLevelOffset": 0
+          "accountLevelOffset": 0,
+          "honingEffect": ""
         }
       }
     ],

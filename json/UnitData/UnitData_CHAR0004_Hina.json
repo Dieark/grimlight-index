@@ -242,7 +242,8 @@
         "levelSelector": 0,
         "fixedLevel": 1,
         "contentLevelModulus": 1,
-        "accountLevelOffset": 0
+        "accountLevelOffset": 0,
+        "honingEffect": ""
       }
     },
     "randomStatGridOverride": {
@@ -685,7 +686,8 @@
           "levelSelector": 0,
           "fixedLevel": 1,
           "contentLevelModulus": 1,
-          "accountLevelOffset": 0
+          "accountLevelOffset": 0,
+          "honingEffect": ""
         }
       },
       {
@@ -705,17 +707,60 @@
           "levelSelector": 0,
           "fixedLevel": 1,
           "contentLevelModulus": 1,
-          "accountLevelOffset": 0
+          "accountLevelOffset": 0,
+          "honingEffect": ""
         }
       }
     ],
-    "heroStoriesItemList": [],
+    "heroStoriesItemList": [
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryHina_1"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryHina_2"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryHina_3"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryHina_4"
+      },
+      {
+        "objectType": 18,
+        "objectID": "UnlockableKey_LibraryStoryHina_5"
+      }
+    ],
     "heroSkinItemList": []
   },
   "skinAssetNames": [
     "UnitSkinAssets_Char0004_Hina"
   ],
-  "storyDatas": [],
+  "storyDatas": [
+    {
+      "m_FileID": 1,
+      "m_PathID": 3866376134216952063
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": -4471994591868101934
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": -852951480692454259
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": -2673814312426647764
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": -6141226962527724178
+    }
+  ],
   "unitStatData": {
     "id": "CHAR0004",
     "displayName": "Hina",

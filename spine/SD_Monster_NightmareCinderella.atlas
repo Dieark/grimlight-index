@@ -1,0 +1,453 @@
+
+SD_Monster_NightmareCinderella.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 382, 380
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 486, 415
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+backhair2
+  rotate: true
+  xy: 182, 169
+  size: 67, 120
+  orig: 67, 120
+  offset: 0, 0
+  index: -1
+backhair5
+  rotate: 180
+  xy: 305, 74
+  size: 122, 128
+  orig: 122, 128
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: false
+  xy: 427, 83
+  size: 34, 76
+  orig: 34, 76
+  offset: 0, 0
+  index: -1
+clock
+  rotate: false
+  xy: 0, 236
+  size: 266, 276
+  orig: 266, 276
+  offset: 0, 0
+  index: -1
+crown
+  rotate: true
+  xy: 426, 159
+  size: 127, 72
+  orig: 127, 72
+  offset: 0, 0
+  index: -1
+dress2
+  rotate: 180
+  xy: 0, 65
+  size: 24, 106
+  orig: 24, 106
+  offset: 0, 0
+  index: -1
+dressleg
+  rotate: true
+  xy: 0, 99
+  size: 138, 300
+  orig: 138, 300
+  offset: 0, 0
+  index: -1
+dressleg2
+  rotate: false
+  xy: 265, 202
+  size: 159, 310
+  orig: 159, 310
+  offset: 0, 0
+  index: -1
+dressleg3
+  rotate: true
+  xy: 30, 36
+  size: 98, 274
+  orig: 98, 274
+  offset: 0, 0
+  index: -1
+dresstail
+  rotate: 180
+  xy: 402, 286
+  size: 89, 227
+  orig: 89, 227
+  offset: 0, 0
+  index: -1
+earring1
+  rotate: false
+  xy: 492, 464
+  size: 13, 49
+  orig: 13, 49
+  offset: 0, 0
+  index: -1
+earring2
+  rotate: false
+  xy: 392, 431
+  size: 13, 47
+  orig: 13, 47
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 347, 509
+  size: 11, 4
+  orig: 11, 4
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 337, 503
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 388, 503
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: true
+  xy: 343, 410
+  size: 103, 49
+  orig: 103, 49
+  offset: 0, 0
+  index: -1
+spear1 glow
+  rotate: false
+  xy: 265, 238
+  size: 31, 140
+  orig: 31, 140
+  offset: 0, 0
+  index: -1
+spear3
+  rotate: false
+  xy: 0, 8
+  size: 132, 23
+  orig: 132, 23
+  offset: 0, 0
+  index: -1
+spear3 glow
+  rotate: true
+  xy: 465, 20
+  size: 140, 30
+  orig: 140, 30
+  offset: 0, 0
+  index: -1
+spear6
+  rotate: false
+  xy: 151, 15
+  size: 144, 21
+  orig: 144, 21
+  offset: 0, 0
+  index: -1
+spear6glow
+  rotate: false
+  xy: 0, 30
+  size: 151, 29
+  orig: 151, 29
+  offset: 0, 0
+  index: -1
+spear8
+  rotate: true
+  xy: 305, 22
+  size: 52, 161
+  orig: 52, 161
+  offset: 0, 0
+  index: -1
+tendrilL3
+  rotate: true
+  xy: 483, 249
+  size: 67, 28
+  orig: 67, 28
+  offset: 0, 0
+  index: -1
+tendrilR3
+  rotate: 270
+  xy: 297, 169
+  size: 87, 35
+  orig: 87, 35
+  offset: 0, 0
+  index: -1
+
+SD_Monster_NightmareCinderella2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lleg
+  rotate: false
+  xy: 0, 257
+  size: 29, 80
+  orig: 29, 80
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 452, 423
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 367, 427
+  size: 29, 76
+  orig: 29, 76
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 445, 123
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+backhair1
+  rotate: true
+  xy: 112, 144
+  size: 123, 87
+  orig: 123, 87
+  offset: 0, 0
+  index: -1
+backhair3
+  rotate: false
+  xy: 450, 225
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+backhair4
+  rotate: false
+  xy: 363, 293
+  size: 64, 121
+  orig: 64, 121
+  offset: 0, 0
+  index: -1
+backribbon
+  rotate: false
+  xy: 302, 159
+  size: 119, 50
+  orig: 119, 50
+  offset: 0, 0
+  index: -1
+backtendrilL
+  rotate: true
+  xy: 211, 46
+  size: 82, 47
+  orig: 82, 47
+  offset: 0, 0
+  index: -1
+backtendrilL2
+  rotate: true
+  xy: 56, 457
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+backtendrilL3
+  rotate: 180
+  xy: 296, 1
+  size: 85, 39
+  orig: 85, 39
+  offset: 0, 0
+  index: -1
+backtendrilR
+  rotate: true
+  xy: 390, 71
+  size: 97, 72
+  orig: 97, 72
+  offset: 0, 0
+  index: -1
+backtendrilR2
+  rotate: true
+  xy: 421, 170
+  size: 54, 37
+  orig: 54, 37
+  offset: 0, 0
+  index: -1
+backtendrilR3
+  rotate: true
+  xy: 422, 345
+  size: 79, 52
+  orig: 79, 52
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: false
+  xy: 339, 185
+  size: 70, 108
+  orig: 70, 108
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: 180
+  xy: 347, 39
+  size: 69, 118
+  orig: 69, 118
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: true
+  xy: 282, 321
+  size: 89, 81
+  orig: 89, 81
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 416, 15
+  size: 43, 51
+  orig: 43, 51
+  offset: 0, 0
+  index: -1
+dress1
+  rotate: false
+  xy: 425, 390
+  size: 30, 112
+  orig: 30, 112
+  offset: 0, 0
+  index: -1
+dressleg4
+  rotate: false
+  xy: 0, 243
+  size: 90, 259
+  orig: 90, 259
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 0, 130
+  size: 112, 114
+  orig: 112, 114
+  offset: 0, 0
+  index: -1
+mask
+  rotate: true
+  xy: 298, 213
+  size: 107, 66
+  orig: 107, 66
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: true
+  xy: 364, 302
+  size: 51, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: -1
+spear1
+  rotate: false
+  xy: 402, 372
+  size: 23, 131
+  orig: 23, 131
+  offset: 0, 0
+  index: -1
+spear2
+  rotate: true
+  xy: 277, 409
+  size: 94, 90
+  orig: 94, 90
+  offset: 0, 0
+  index: -1
+spear2 glow
+  rotate: true
+  xy: 199, 179
+  size: 102, 99
+  orig: 102, 99
+  offset: 0, 0
+  index: -1
+spear4
+  rotate: true
+  xy: 189, 280
+  size: 111, 92
+  orig: 111, 92
+  offset: 0, 0
+  index: -1
+spear4 glow
+  rotate: true
+  xy: 90, 267
+  size: 118, 100
+  orig: 118, 100
+  offset: 0, 0
+  index: -1
+spear5
+  rotate: true
+  xy: 0, 22
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+spear5glow
+  rotate: false
+  xy: 109, 28
+  size: 102, 103
+  orig: 102, 103
+  offset: 0, 0
+  index: -1
+spear7
+  rotate: true
+  xy: 184, 391
+  size: 112, 93
+  orig: 112, 93
+  offset: 0, 0
+  index: -1
+spear7glow
+  rotate: true
+  xy: 84, 384
+  size: 118, 100
+  orig: 118, 100
+  offset: 0, 0
+  index: -1
+tendrilL
+  rotate: true
+  xy: 402, 210
+  size: 107, 64
+  orig: 107, 64
+  offset: 0, 0
+  index: -1
+tendrilL2
+  rotate: 270
+  xy: 451, 463
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+tendrilR
+  rotate: 270
+  xy: 289, 55
+  size: 124, 96
+  orig: 124, 96
+  offset: 0, 0
+  index: -1
+tendrilR2
+  rotate: true
+  xy: 432, 317
+  size: 60, 48
+  orig: 60, 48
+  offset: 0, 0
+  index: -1
+veil
+  rotate: 270
+  xy: 198, 4
+  size: 167, 127
+  orig: 167, 127
+  offset: 0, 0
+  index: -1

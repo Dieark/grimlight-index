@@ -1,0 +1,838 @@
+
+Fullbody_Hero_ThreeBears.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EF_flame1
+  rotate: false
+  xy: 1287, 1172
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+EF_flame5
+  rotate: false
+  xy: 769, 1175
+  size: 91, 84
+  orig: 91, 84
+  offset: 0, 0
+  index: -1
+EF_flame6
+  rotate: false
+  xy: 276, 552
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+EF_flame7
+  rotate: false
+  xy: 1965, 1965
+  size: 77, 83
+  orig: 77, 83
+  offset: 0, 0
+  index: -1
+EF_flame8
+  rotate: false
+  xy: 0, 522
+  size: 58, 38
+  orig: 58, 38
+  offset: 0, 0
+  index: -1
+EF_flower1
+  rotate: false
+  xy: 1506, 1162
+  size: 54, 70
+  orig: 54, 70
+  offset: 0, 0
+  index: -1
+EF_flower2
+  rotate: false
+  xy: 142, 1180
+  size: 103, 80
+  orig: 103, 80
+  offset: 0, 0
+  index: -1
+EF_flower5
+  rotate: false
+  xy: 882, 39
+  size: 67, 69
+  orig: 67, 69
+  offset: 0, 0
+  index: -1
+EF_flower6
+  rotate: false
+  xy: 1718, 1163
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+EF_flower7
+  rotate: false
+  xy: 1373, 586
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+EF_soot3
+  rotate: false
+  xy: 1601, 1004
+  size: 83, 82
+  orig: 83, 82
+  offset: 0, 0
+  index: -1
+Lapronstrap_mom
+  rotate: 270
+  xy: 1737, 384
+  size: 170, 290
+  orig: 183, 290
+  offset: 13, 0
+  index: -1
+Larm_mom
+  rotate: true
+  xy: 1841, 1600
+  size: 347, 201
+  orig: 347, 201
+  offset: 0, 0
+  index: -1
+Leyespark_mom
+  rotate: false
+  xy: 245, 1213
+  size: 105, 46
+  orig: 105, 46
+  offset: 0, 0
+  index: -1
+Lhand_dad
+  rotate: true
+  xy: 411, 23
+  size: 182, 150
+  orig: 182, 150
+  offset: 0, 0
+  index: -1
+Lhandback_mom
+  rotate: false
+  xy: 350, 1238
+  size: 43, 22
+  orig: 43, 22
+  offset: 0, 0
+  index: -1
+Lleg_baby
+  rotate: false
+  xy: 1561, 1085
+  size: 157, 147
+  orig: 157, 147
+  offset: 0, 0
+  index: -1
+Lleg_dad
+  rotate: true
+  xy: 16, 205
+  size: 439, 565
+  orig: 439, 565
+  offset: 0, 0
+  index: -1
+Lpaw_baby
+  rotate: true
+  xy: 0, 1137
+  size: 123, 143
+  orig: 123, 143
+  offset: 0, 0
+  index: -1
+Lpawback_baby
+  rotate: false
+  xy: 840, 793
+  size: 50, 85
+  orig: 50, 85
+  offset: 0, 0
+  index: -1
+Rapronstrap_mom
+  rotate: true
+  xy: 903, 282
+  size: 86, 161
+  orig: 86, 161
+  offset: 0, 0
+  index: -1
+Rclaw1_dad
+  rotate: false
+  xy: 1298, 608
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+Rclaw2_dad
+  rotate: false
+  xy: 0, 284
+  size: 34, 74
+  orig: 34, 74
+  offset: 0, 0
+  index: -1
+Rclaw3_dad
+  rotate: false
+  xy: 840, 890
+  size: 37, 70
+  orig: 37, 70
+  offset: 0, 0
+  index: -1
+Rear_mom
+  rotate: false
+  xy: 1961, 514
+  size: 86, 89
+  orig: 86, 89
+  offset: 0, 0
+  index: -1
+Reyespark_mom
+  rotate: true
+  xy: 1968, 1011
+  size: 154, 72
+  orig: 154, 72
+  offset: 0, 0
+  index: -1
+Rhand_mom
+  rotate: 180
+  xy: 1443, 504
+  size: 158, 164
+  orig: 158, 164
+  offset: 0, 0
+  index: -1
+Rleg_dad
+  rotate: true
+  xy: 1213, 268
+  size: 332, 526
+  orig: 332, 526
+  offset: 0, 0
+  index: -1
+Rleg_mom
+  rotate: true
+  xy: 949, 7
+  size: 261, 412
+  orig: 261, 412
+  offset: 0, 0
+  index: -1
+Rpaw_baby
+  rotate: true
+  xy: 1841, 1957
+  size: 92, 124
+  orig: 92, 124
+  offset: 0, 0
+  index: -1
+Rpawback_baby
+  rotate: false
+  xy: 840, 1007
+  size: 21, 39
+  orig: 21, 39
+  offset: 0, 0
+  index: -1
+Rthumb_dad
+  rotate: true
+  xy: 1064, 277
+  size: 91, 119
+  orig: 91, 119
+  offset: 0, 0
+  index: -1
+Rupperarm_mom
+  rotate: true
+  xy: 1366, 1136
+  size: 95, 140
+  orig: 95, 140
+  offset: 0, 0
+  index: -1
+SS_BG_fire12
+  rotate: false
+  xy: 0, 1107
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+SS_BG_fire13
+  rotate: false
+  xy: 1992, 1600
+  size: 55, 64
+  orig: 55, 64
+  offset: 0, 0
+  index: -1
+SS_BG_fire3
+  rotate: false
+  xy: 949, 1220
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+SS_BG_fire4
+  rotate: false
+  xy: 1601, 923
+  size: 56, 80
+  orig: 56, 80
+  offset: 0, 0
+  index: -1
+SS_BG_fire5
+  rotate: false
+  xy: 989, 711
+  size: 58, 43
+  orig: 58, 43
+  offset: 0, 0
+  index: -1
+SS_BG_fire6
+  rotate: false
+  xy: 676, 701
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+SS_BG_fire7
+  rotate: false
+  xy: 142, 1149
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+SS_BG_fire8
+  rotate: false
+  xy: 890, 768
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+SS_EF_flamesparks
+  rotate: true
+  xy: 1104, 1231
+  size: 817, 737
+  orig: 819, 737
+  offset: 1, 0
+  index: -1
+angry_baby
+  rotate: false
+  xy: 1361, 28
+  size: 304, 240
+  orig: 304, 240
+  offset: 0, 0
+  index: -1
+apron_mom
+  rotate: 180
+  xy: 1549, 553
+  size: 499, 612
+  orig: 501, 612
+  offset: 0, 0
+  index: -1
+bandanaknot_dad
+  rotate: false
+  xy: 1213, 624
+  size: 85, 59
+  orig: 85, 59
+  offset: 0, 0
+  index: -1
+bandanda_dad
+  rotate: false
+  xy: 0, 11
+  size: 412, 295
+  orig: 412, 295
+  offset: 0, 0
+  index: -1
+body_mom
+  rotate: true
+  xy: 840, 653
+  size: 578, 761
+  orig: 578, 765
+  offset: 0, 0
+  index: -1
+ear_dad
+  rotate: false
+  xy: 285, 118
+  size: 123, 100
+  orig: 123, 100
+  offset: 0, 0
+  index: -1
+ground_stew1_baby
+  rotate: false
+  xy: 0, 559
+  size: 122, 42
+  orig: 123, 42
+  offset: 1, 0
+  index: -1
+ground_stew2_baby
+  rotate: false
+  xy: 245, 1198
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+gun_dad
+  rotate: false
+  xy: 0, 1259
+  size: 1105, 789
+  orig: 1105, 789
+  offset: 0, 0
+  index: -1
+hatbottom_dad
+  rotate: false
+  xy: 860, 1208
+  size: 89, 51
+  orig: 89, 51
+  offset: 0, 0
+  index: -1
+nosedrop_baby
+  rotate: false
+  xy: 175, 1152
+  size: 8, 28
+  orig: 8, 28
+  offset: 0, 0
+  index: -1
+pan_mom
+  rotate: true
+  xy: 581, 369
+  size: 332, 631
+  orig: 332, 631
+  offset: 0, 0
+  index: -1
+pot_stew2_baby
+  rotate: false
+  xy: 283, 1251
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+rock_dad
+  rotate: true
+  xy: 1841, 1164
+  size: 436, 204
+  orig: 440, 204
+  offset: 4, 0
+  index: -1
+shy_dad
+  rotate: false
+  xy: 564, 14
+  size: 385, 354
+  orig: 385, 354
+  offset: 0, 0
+  index: -1
+straw_dad
+  rotate: false
+  xy: 727, 700
+  size: 262, 61
+  orig: 262, 61
+  offset: 0, 0
+  index: -1
+torso_baby
+  rotate: true
+  xy: 1679, 14
+  size: 402, 369
+  orig: 404, 369
+  offset: 2, 0
+  index: -1
+torso_dad
+  rotate: true
+  xy: 0, 585
+  size: 675, 841
+  orig: 675, 907
+  offset: 0, 0
+  index: -1
+
+Fullbody_Hero_ThreeBears2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EF_flame2
+  rotate: true
+  xy: 45, 1150
+  size: 390, 436
+  orig: 390, 436
+  offset: 0, 0
+  index: -1
+EF_flame3
+  rotate: true
+  xy: 1728, 570
+  size: 314, 320
+  orig: 314, 320
+  offset: 0, 0
+  index: -1
+EF_flame4
+  rotate: true
+  xy: 256, 133
+  size: 232, 341
+  orig: 232, 341
+  offset: 0, 0
+  index: -1
+EF_flower3
+  rotate: false
+  xy: 1213, 1332
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+EF_flower4
+  rotate: false
+  xy: 1315, 1615
+  size: 96, 97
+  orig: 96, 97
+  offset: 0, 0
+  index: -1
+EF_soot1
+  rotate: false
+  xy: 770, 1264
+  size: 99, 94
+  orig: 99, 94
+  offset: 0, 0
+  index: -1
+EF_soot5
+  rotate: false
+  xy: 770, 1264
+  size: 99, 94
+  orig: 99, 94
+  offset: 0, 0
+  index: -1
+EF_soot10
+  rotate: false
+  xy: 1954, 1418
+  size: 93, 92
+  orig: 93, 92
+  offset: 0, 0
+  index: -1
+EF_soot2
+  rotate: false
+  xy: 770, 1171
+  size: 99, 94
+  orig: 99, 94
+  offset: 0, 0
+  index: -1
+EF_soot4
+  rotate: false
+  xy: 1899, 214
+  size: 140, 138
+  orig: 140, 138
+  offset: 0, 0
+  index: -1
+EF_soot6
+  rotate: false
+  xy: 783, 369
+  size: 252, 184
+  orig: 252, 184
+  offset: 0, 0
+  index: -1
+EF_soot7
+  rotate: true
+  xy: 304, 352
+  size: 208, 232
+  orig: 208, 232
+  offset: 0, 0
+  index: -1
+EF_soot8
+  rotate: false
+  xy: 354, 1873
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+EF_soot9
+  rotate: false
+  xy: 536, 364
+  size: 247, 189
+  orig: 247, 189
+  offset: 0, 0
+  index: -1
+Lear_baby
+  rotate: false
+  xy: 123, 1401
+  size: 104, 87
+  orig: 104, 87
+  offset: 0, 0
+  index: -1
+Lear_mom
+  rotate: false
+  xy: 354, 1762
+  size: 118, 111
+  orig: 118, 111
+  offset: 0, 0
+  index: -1
+Leyespark_dad
+  rotate: false
+  xy: 935, 198
+  size: 129, 171
+  orig: 129, 171
+  offset: 0, 0
+  index: -1
+Lfingers_dad
+  rotate: false
+  xy: 150, 217
+  size: 158, 127
+  orig: 158, 127
+  offset: 0, 0
+  index: -1
+Lfoot_baby
+  rotate: false
+  xy: 1309, 170
+  size: 143, 163
+  orig: 143, 163
+  offset: 0, 0
+  index: -1
+Lhand_mom
+  rotate: false
+  xy: 1695, 205
+  size: 205, 147
+  orig: 205, 147
+  offset: 0, 0
+  index: -1
+Lleg_mom
+  rotate: 270
+  xy: 510, 1358
+  size: 306, 373
+  orig: 306, 373
+  offset: 0, 0
+  index: -1
+Llowerarm_dad
+  rotate: true
+  xy: 1092, 785
+  size: 237, 378
+  orig: 237, 378
+  offset: 0, 0
+  index: -1
+Lupperarm_dad
+  rotate: true
+  xy: 1092, 547
+  size: 238, 323
+  orig: 238, 323
+  offset: 0, 0
+  index: -1
+Rear_baby
+  rotate: false
+  xy: 346, 1103
+  size: 102, 91
+  orig: 102, 91
+  offset: 0, 0
+  index: -1
+Reyespark_dad
+  rotate: true
+  xy: 1415, 332
+  size: 232, 280
+  orig: 232, 280
+  offset: 0, 0
+  index: -1
+Rfingers_dad
+  rotate: false
+  xy: 1035, 395
+  size: 259, 152
+  orig: 259, 152
+  offset: 0, 0
+  index: -1
+Rfingers_mom
+  rotate: false
+  xy: 1527, 1169
+  size: 120, 145
+  orig: 120, 145
+  offset: 0, 0
+  index: -1
+Rfoot_baby
+  rotate: false
+  xy: 1451, 182
+  size: 140, 150
+  orig: 140, 150
+  offset: 0, 0
+  index: -1
+Rleg_baby
+  rotate: false
+  xy: 0, 166
+  size: 151, 178
+  orig: 151, 178
+  offset: 0, 0
+  index: -1
+Rlowerarm_dad
+  rotate: false
+  xy: 1666, 1160
+  size: 285, 336
+  orig: 285, 336
+  offset: 0, 0
+  index: -1
+Rupperarm_dad
+  rotate: true
+  xy: 1300, 1313
+  size: 273, 366
+  orig: 273, 366
+  offset: 0, 0
+  index: -1
+SS_BG_fire1
+  rotate: true
+  xy: 1089, 200
+  size: 215, 274
+  orig: 215, 274
+  offset: 0, 0
+  index: -1
+SS_BG_fire10
+  rotate: false
+  xy: 0, 1433
+  size: 685, 616
+  orig: 685, 616
+  offset: 0, 0
+  index: -1
+SS_BG_fire11
+  rotate: true
+  xy: 619, 204
+  size: 165, 316
+  orig: 165, 319
+  offset: 0, 3
+  index: -1
+SS_BG_fire2
+  rotate: false
+  xy: 0, 1375
+  size: 123, 169
+  orig: 123, 169
+  offset: 0, 0
+  index: -1
+angry_dad
+  rotate: false
+  xy: 919, 1366
+  size: 385, 354
+  orig: 385, 354
+  offset: 0, 0
+  index: -1
+angry_mom
+  rotate: false
+  xy: 883, 1074
+  size: 322, 291
+  orig: 322, 291
+  offset: 0, 0
+  index: -1
+annoyed_baby
+  rotate: false
+  xy: 0, 619
+  size: 304, 240
+  orig: 304, 240
+  offset: 0, 0
+  index: -1
+annoyed_dad
+  rotate: 180
+  xy: 1662, 1496
+  size: 385, 354
+  orig: 385, 354
+  offset: 0, 0
+  index: -1
+annoyed_mom
+  rotate: false
+  xy: 448, 1069
+  size: 322, 291
+  orig: 322, 291
+  offset: 0, 0
+  index: -1
+bow_mom
+  rotate: false
+  xy: 897, 1961
+  size: 102, 88
+  orig: 102, 88
+  offset: 0, 0
+  index: -1
+bowl_baby
+  rotate: false
+  xy: 1849, 1001
+  size: 172, 159
+  orig: 172, 159
+  offset: 0, 0
+  index: -1
+happy_baby
+  rotate: true
+  xy: 1470, 564
+  size: 304, 240
+  orig: 304, 240
+  offset: 0, 0
+  index: -1
+happy_dad
+  rotate: 270
+  xy: 1371, 1663
+  size: 385, 354
+  orig: 385, 354
+  offset: 0, 0
+  index: -1
+happy_mom
+  rotate: false
+  xy: 1205, 1022
+  size: 322, 291
+  orig: 322, 291
+  offset: 0, 0
+  index: -1
+hattop_dad
+  rotate: false
+  xy: 1726, 1874
+  size: 274, 175
+  orig: 274, 175
+  offset: 0, 0
+  index: -1
+head_baby
+  rotate: false
+  xy: 304, 561
+  size: 304, 218
+  orig: 304, 218
+  offset: 0, 0
+  index: -1
+head_dad
+  rotate: true
+  xy: 0, 1663
+  size: 385, 354
+  orig: 385, 354
+  offset: 0, 0
+  index: -1
+head_mom
+  rotate: false
+  xy: 1527, 869
+  size: 322, 291
+  orig: 322, 291
+  offset: 0, 0
+  index: -1
+pot_stew1_baby
+  rotate: false
+  xy: 948, 609
+  size: 142, 174
+  orig: 142, 174
+  offset: 0, 0
+  index: -1
+sad_baby
+  rotate: false
+  xy: 1709, 353
+  size: 304, 218
+  orig: 304, 218
+  offset: 0, 0
+  index: -1
+sad_dad
+  rotate: true
+  xy: 1020, 1662
+  size: 386, 354
+  orig: 386, 354
+  offset: 0, 0
+  index: -1
+sad_mom
+  rotate: false
+  xy: 0, 859
+  size: 322, 291
+  orig: 322, 291
+  offset: 0, 0
+  index: -1
+shy_baby
+  rotate: false
+  xy: 0, 343
+  size: 304, 218
+  orig: 304, 218
+  offset: 0, 0
+  index: -1
+shy_mom
+  rotate: false
+  xy: 770, 783
+  size: 322, 291
+  orig: 322, 291
+  offset: 0, 0
+  index: -1
+surprise_baby
+  rotate: false
+  xy: 644, 553
+  size: 304, 230
+  orig: 304, 230
+  offset: 0, 0
+  index: -1
+surprise_dad
+  rotate: 270
+  xy: 666, 1663
+  size: 385, 354
+  orig: 385, 354
+  offset: 0, 0
+  index: -1
+surprise_mom
+  rotate: false
+  xy: 322, 778
+  size: 322, 291
+  orig: 322, 291
+  offset: 0, 0
+  index: -1

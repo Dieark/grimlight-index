@@ -1,0 +1,335 @@
+
+SD_Monster_Guardian_Aurora.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 231, 28
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+Lcape
+  rotate: false
+  xy: 232, 89
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: false
+  xy: 384, 26
+  size: 24, 45
+  orig: 24, 45
+  offset: 0, 0
+  index: -1
+Lhip
+  rotate: false
+  xy: 370, 298
+  size: 31, 67
+  orig: 31, 67
+  offset: 0, 0
+  index: -1
+Lneckcloth
+  rotate: false
+  xy: 280, 491
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 250, 190
+  size: 27, 45
+  orig: 27, 45
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 470, 261
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+Rcape
+  rotate: false
+  xy: 101, 203
+  size: 45, 62
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: false
+  xy: 21, 44
+  size: 26, 54
+  orig: 26, 54
+  offset: 0, 0
+  index: -1
+Rhip
+  rotate: false
+  xy: 480, 307
+  size: 32, 68
+  orig: 32, 68
+  offset: 0, 0
+  index: -1
+Rneckcloth
+  rotate: false
+  xy: 250, 478
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 460, 30
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+backhair1
+  rotate: 270
+  xy: 378, 388
+  size: 124, 108
+  orig: 124, 108
+  offset: 0, 0
+  index: -1
+backhair1x
+  rotate: true
+  xy: 277, 186
+  size: 70, 234
+  orig: 70, 234
+  offset: 0, 0
+  index: -1
+backhair2
+  rotate: 270
+  xy: 145, 230
+  size: 84, 196
+  orig: 84, 196
+  offset: 0, 0
+  index: -1
+backhair2x
+  rotate: 270
+  xy: 120, 284
+  size: 96, 253
+  orig: 96, 253
+  offset: 0, 0
+  index: -1
+backhair3
+  rotate: false
+  xy: 0, 27
+  size: 21, 72
+  orig: 21, 72
+  offset: 0, 0
+  index: -1
+backhair3xx
+  rotate: false
+  xy: 0, 260
+  size: 120, 252
+  orig: 120, 252
+  offset: 0, 0
+  index: -1
+backhair4
+  rotate: false
+  xy: 487, 410
+  size: 20, 102
+  orig: 20, 102
+  offset: 0, 0
+  index: -1
+backskirt1
+  rotate: 270
+  xy: 53, 53
+  size: 73, 98
+  orig: 73, 98
+  offset: 0, 0
+  index: -1
+backskirt2
+  rotate: true
+  xy: 295, 24
+  size: 51, 88
+  orig: 51, 88
+  offset: 0, 0
+  index: -1
+backskirt3x
+  rotate: true
+  xy: 250, 348
+  size: 164, 156
+  orig: 164, 156
+  offset: 0, 0
+  index: -1
+backskirt4
+  rotate: false
+  xy: 187, 147
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+backskirt5
+  rotate: true
+  xy: 137, 85
+  size: 77, 95
+  orig: 77, 95
+  offset: 0, 0
+  index: -1
+behind
+  rotate: 270
+  xy: 0, 184
+  size: 78, 99
+  orig: 78, 99
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 406, 270
+  size: 78, 118
+  orig: 78, 118
+  offset: 0, 0
+  index: -1
+crown1
+  rotate: false
+  xy: 0, 99
+  size: 53, 85
+  orig: 53, 85
+  offset: 0, 0
+  index: -1
+crown2
+  rotate: false
+  xy: 0, 349
+  size: 10, 48
+  orig: 10, 48
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 134, 191
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 74, 127
+  size: 88, 65
+  orig: 88, 65
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 342, 238
+  size: 84, 46
+  orig: 84, 46
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 232, 129
+  size: 95, 57
+  orig: 95, 57
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 337, 130
+  size: 97, 56
+  orig: 97, 56
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 435, 125
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 120, 380
+  size: 130, 132
+  orig: 130, 132
+  offset: 0, 0
+  index: -1
+gem
+  rotate: false
+  xy: 387, 433
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: 270
+  xy: 161, 171
+  size: 84, 89
+  orig: 84, 89
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: 270
+  xy: 262, 46
+  size: 60, 100
+  orig: 60, 100
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: true
+  xy: 46, 29
+  size: 42, 77
+  orig: 42, 77
+  offset: 0, 0
+  index: -1
+hair4
+  rotate: true
+  xy: 99, 70
+  size: 54, 166
+  orig: 54, 166
+  offset: 0, 0
+  index: -1
+hair5
+  rotate: true
+  xy: 265, 57
+  size: 72, 154
+  orig: 72, 154
+  offset: 0, 0
+  index: -1
+hairribbon1
+  rotate: true
+  xy: 419, 77
+  size: 48, 83
+  orig: 48, 83
+  offset: 0, 0
+  index: -1
+hiarribbon2
+  rotate: true
+  xy: 362, 48
+  size: 44, 99
+  orig: 44, 99
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 312, 509
+  size: 10, 4
+  orig: 10, 4
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 301, 502
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 250, 396
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 250, 359
+  size: 60, 30
+  orig: 60, 30
+  offset: 0, 0
+  index: -1

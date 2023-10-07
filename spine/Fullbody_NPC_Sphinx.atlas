@@ -1,0 +1,258 @@
+
+Fullbody_NPC_Sphinx.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lleg
+  rotate: false
+  xy: 0, 0
+  size: 235, 835
+  orig: 235, 835
+  offset: 0, 0
+  index: -1
+Lwing
+  rotate: true
+  xy: 1085, 1042
+  size: 315, 598
+  orig: 315, 598
+  offset: 0, 0
+  index: -1
+Lwing2
+  rotate: true
+  xy: 235, 177
+  size: 256, 1033
+  orig: 256, 1033
+  offset: 0, 0
+  index: -1
+Lwingarmor
+  rotate: true
+  xy: 1148, 477
+  size: 242, 378
+  orig: 242, 378
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 235, 433
+  size: 260, 913
+  orig: 260, 913
+  offset: 0, 0
+  index: -1
+Rwing
+  rotate: false
+  xy: 1623, 1378
+  size: 400, 653
+  orig: 400, 653
+  offset: 0, 0
+  index: -1
+Rwing2
+  rotate: false
+  xy: 0, 835
+  size: 428, 1196
+  orig: 428, 1196
+  offset: 0, 0
+  index: -1
+Rwingarmor
+  rotate: false
+  xy: 1683, 1020
+  size: 344, 358
+  orig: 344, 358
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 428, 1166
+  size: 657, 865
+  orig: 657, 865
+  offset: 0, 0
+  index: -1
+feathers
+  rotate: false
+  xy: 1684, 800
+  size: 80, 86
+  orig: 80, 86
+  offset: 0, 0
+  index: -1
+feathers10
+  rotate: true
+  xy: 1673, 886
+  size: 53, 146
+  orig: 53, 146
+  offset: 0, 0
+  index: -1
+feathers11
+  rotate: false
+  xy: 1038, 719
+  size: 501, 323
+  orig: 501, 323
+  offset: 0, 0
+  index: -1
+feathers12
+  rotate: false
+  xy: 416, 66
+  size: 57, 45
+  orig: 57, 45
+  offset: 0, 0
+  index: -1
+feathers2
+  rotate: true
+  xy: 1038, 1050
+  size: 116, 36
+  orig: 116, 36
+  offset: 0, 0
+  index: -1
+feathers3
+  rotate: false
+  xy: 633, 112
+  size: 153, 65
+  orig: 153, 65
+  offset: 0, 0
+  index: -1
+feathers4
+  rotate: true
+  xy: 1526, 573
+  size: 146, 82
+  orig: 146, 82
+  offset: 0, 0
+  index: -1
+feathers5
+  rotate: false
+  xy: 235, 66
+  size: 181, 111
+  orig: 181, 111
+  offset: 0, 0
+  index: -1
+feathers6
+  rotate: false
+  xy: 786, 108
+  size: 147, 69
+  orig: 147, 69
+  offset: 0, 0
+  index: -1
+feathers7
+  rotate: true
+  xy: 1526, 462
+  size: 111, 85
+  orig: 111, 85
+  offset: 0, 0
+  index: -1
+feathers8
+  rotate: true
+  xy: 1521, 224
+  size: 113, 100
+  orig: 113, 100
+  offset: 0, 0
+  index: -1
+feathers9
+  rotate: true
+  xy: 1521, 106
+  size: 118, 63
+  orig: 118, 63
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1268, 116
+  size: 253, 361
+  orig: 253, 361
+  offset: 0, 0
+  index: -1
+headfeather
+  rotate: true
+  xy: 1073, 87
+  size: 90, 130
+  orig: 90, 130
+  offset: 0, 0
+  index: -1
+headfeather2
+  rotate: false
+  xy: 1148, 436
+  size: 107, 41
+  orig: 107, 41
+  offset: 0, 0
+  index: -1
+headfeather3
+  rotate: true
+  xy: 1627, 762
+  size: 114, 57
+  orig: 114, 57
+  offset: 0, 0
+  index: -1
+headfeather4
+  rotate: false
+  xy: 416, 111
+  size: 217, 66
+  orig: 217, 66
+  offset: 0, 0
+  index: -1
+headfeatherL2
+  rotate: false
+  xy: 933, 101
+  size: 140, 76
+  orig: 140, 76
+  offset: 0, 0
+  index: -1
+headfeatherL3
+  rotate: true
+  xy: 235, 709
+  size: 126, 179
+  orig: 126, 179
+  offset: 0, 0
+  index: -1
+headfeatherL4
+  rotate: true
+  xy: 1521, 337
+  size: 125, 91
+  orig: 125, 91
+  offset: 0, 0
+  index: -1
+headfeathersL
+  rotate: true
+  xy: 1539, 876
+  size: 166, 134
+  orig: 166, 134
+  offset: 0, 0
+  index: -1
+headfeathersR
+  rotate: false
+  xy: 1539, 719
+  size: 88, 157
+  orig: 88, 157
+  offset: 0, 0
+  index: -1
+headstar
+  rotate: true
+  xy: 1853, 936
+  size: 84, 171
+  orig: 84, 171
+  offset: 0, 0
+  index: -1
+headstar2
+  rotate: true
+  xy: 235, 13
+  size: 53, 171
+  orig: 53, 171
+  offset: 0, 0
+  index: -1
+mane
+  rotate: false
+  xy: 1085, 1357
+  size: 538, 674
+  orig: 538, 674
+  offset: 0, 0
+  index: -1
+maneback
+  rotate: true
+  xy: 1673, 939
+  size: 81, 180
+  orig: 81, 180
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 428, 693
+  size: 610, 473
+  orig: 610, 473
+  offset: 0, 0
+  index: -1

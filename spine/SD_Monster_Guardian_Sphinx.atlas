@@ -1,0 +1,173 @@
+
+SD_Monster_Guardian_Sphinx.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rwing_top
+  rotate: false
+  xy: 261, 218
+  size: 252, 253
+  orig: 253, 253
+  offset: 1, 0
+  index: -1
+backLband
+  rotate: false
+  xy: 0, 308
+  size: 56, 23
+  orig: 56, 23
+  offset: 0, 0
+  index: -1
+backRband
+  rotate: false
+  xy: 55, 302
+  size: 49, 23
+  orig: 49, 23
+  offset: 0, 0
+  index: -1
+backwing2
+  rotate: 180
+  xy: 334, 55
+  size: 177, 233
+  orig: 177, 233
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 325
+  size: 371, 188
+  orig: 371, 188
+  offset: 0, 0
+  index: -1
+headfeathers
+  rotate: false
+  xy: 181, 9
+  size: 134, 180
+  orig: 134, 180
+  offset: 0, 0
+  index: -1
+headmask
+  rotate: true
+  xy: 0, 7
+  size: 123, 173
+  orig: 123, 173
+  offset: 0, 0
+  index: -1
+mane
+  rotate: 270
+  xy: 44, 131
+  size: 198, 218
+  orig: 198, 218
+  offset: 0, 0
+  index: -1
+
+SD_Monster_Guardian_Sphinx2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rwing
+  rotate: false
+  xy: 0, 313
+  size: 182, 191
+  orig: 182, 191
+  offset: 0, 0
+  index: -1
+Rwing_armor
+  rotate: false
+  xy: 384, 338
+  size: 118, 166
+  orig: 118, 166
+  offset: 0, 0
+  index: -1
+backL_leg
+  rotate: true
+  xy: 384, 237
+  size: 101, 111
+  orig: 101, 111
+  offset: 0, 0
+  index: -1
+backL_leg2
+  rotate: true
+  xy: 27, 169
+  size: 86, 148
+  orig: 86, 148
+  offset: 0, 0
+  index: -1
+backR_leg
+  rotate: false
+  xy: 149, 91
+  size: 79, 84
+  orig: 79, 84
+  offset: 0, 0
+  index: -1
+backR_leg2
+  rotate: true
+  xy: 325, 84
+  size: 78, 140
+  orig: 78, 140
+  offset: 0, 0
+  index: -1
+backwing
+  rotate: false
+  xy: 163, 338
+  size: 221, 166
+  orig: 221, 166
+  offset: 0, 0
+  index: -1
+frontL_leg1
+  rotate: false
+  xy: 348, 144
+  size: 102, 94
+  orig: 102, 197
+  offset: 0, 103
+  index: -1
+frontL_leg2
+  rotate: 270
+  xy: 212, 285
+  size: 80, 172
+  orig: 80, 172
+  offset: 0, 0
+  index: -1
+frontR_leg
+  rotate: false
+  xy: 0, 89
+  size: 82, 80
+  orig: 82, 80
+  offset: 0, 0
+  index: -1
+frontR_leg2
+  rotate: true
+  xy: 0, 240
+  size: 84, 153
+  orig: 84, 153
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 227, 155
+  size: 86, 96
+  orig: 86, 96
+  offset: 0, 0
+  index: -1
+headfeathers2
+  rotate: false
+  xy: 227, 85
+  size: 76, 70
+  orig: 76, 70
+  offset: 0, 0
+  index: -1
+headstar
+  rotate: false
+  xy: 81, 55
+  size: 57, 81
+  orig: 57, 81
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 120, 134
+  size: 233, 157
+  orig: 233, 157
+  offset: 0, 0
+  index: -1

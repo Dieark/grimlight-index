@@ -1,0 +1,230 @@
+
+SD_Monster_DreamlessWerewolf.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 101, 1
+  size: 84, 89
+  orig: 84, 89
+  offset: 0, 0
+  index: -1
+Lchain
+  rotate: true
+  xy: 106, 226
+  size: 15, 52
+  orig: 15, 52
+  offset: 0, 0
+  index: -1
+Lear
+  rotate: true
+  xy: 230, 368
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+Lfinger
+  rotate: true
+  xy: 167, 227
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+Lfinger2
+  rotate: true
+  xy: 78, 224
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+Lfinger3
+  rotate: false
+  xy: 265, 89
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: true
+  xy: 267, 150
+  size: 79, 71
+  orig: 79, 71
+  offset: 0, 0
+  index: -1
+Lthigh
+  rotate: false
+  xy: 190, 4
+  size: 68, 82
+  orig: 68, 82
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: true
+  xy: 160, 369
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 0, 224
+  size: 78, 140
+  orig: 78, 140
+  offset: 0, 0
+  index: -1
+Rchain
+  rotate: true
+  xy: 134, 86
+  size: 23, 51
+  orig: 23, 51
+  offset: 0, 0
+  index: -1
+Rear
+  rotate: true
+  xy: 195, 365
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+Rfinger
+  rotate: true
+  xy: 185, 86
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: true
+  xy: 204, 86
+  size: 43, 61
+  orig: 43, 61
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 110, 364
+  size: 50, 31
+  orig: 50, 31
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 236, 411
+  size: 58, 101
+  orig: 58, 101
+  offset: 0, 0
+  index: -1
+Rshoulderfur
+  rotate: true
+  xy: 258, 4
+  size: 82, 40
+  orig: 82, 40
+  offset: 0, 0
+  index: -1
+Rshoulderx
+  rotate: false
+  xy: 159, 253
+  size: 89, 111
+  orig: 89, 111
+  offset: 0, 0
+  index: -1
+Rthigh
+  rotate: false
+  xy: 176, 402
+  size: 60, 110
+  orig: 60, 110
+  offset: 0, 0
+  index: -1
+WerewolfYell
+  rotate: false
+  xy: 248, 275
+  size: 88, 93
+  orig: 90, 95
+  offset: 1, 0
+  index: -1
+aura
+  rotate: false
+  xy: 110, 395
+  size: 66, 117
+  orig: 66, 117
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 158, 232
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+eyeblack
+  rotate: true
+  xy: 111, 85
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 285, 94
+  size: 56, 70
+  orig: 61, 88
+  offset: 5, 18
+  index: -1
+headdrop
+  rotate: true
+  xy: 248, 229
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+mane
+  rotate: false
+  xy: 78, 241
+  size: 81, 123
+  orig: 81, 123
+  offset: 0, 0
+  index: -1
+mane2
+  rotate: true
+  xy: 111, 109
+  size: 117, 80
+  orig: 117, 80
+  offset: 0, 0
+  index: -1
+ribs
+  rotate: false
+  xy: 0, 0
+  size: 101, 85
+  orig: 101, 85
+  offset: 0, 0
+  index: -1
+ribsback
+  rotate: true
+  xy: 191, 129
+  size: 98, 76
+  orig: 98, 76
+  offset: 0, 0
+  index: -1
+skull
+  rotate: false
+  xy: 298, 20
+  size: 70, 74
+  orig: 70, 74
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 0, 85
+  size: 139, 111
+  orig: 139, 111
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 0, 364
+  size: 110, 148
+  orig: 110, 148
+  offset: 0, 0
+  index: -1

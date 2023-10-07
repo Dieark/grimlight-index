@@ -1,0 +1,132 @@
+
+SD_Monster_DreamlessWolf.png
+size: 416,416
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_LLeg
+  rotate: true
+  xy: 0, 261
+  size: 60, 166
+  orig: 60, 166
+  offset: 0, 0
+  index: -1
+back_Rleg
+  rotate: true
+  xy: 64, 321
+  size: 54, 131
+  orig: 54, 131
+  offset: 0, 0
+  index: -1
+ear_L
+  rotate: false
+  xy: 271, 364
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+ear_R
+  rotate: true
+  xy: 54, 378
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 0, 397
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+eyeblack
+  rotate: false
+  xy: 16, 379
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+front_Lleg
+  rotate: true
+  xy: 166, 248
+  size: 62, 150
+  orig: 62, 150
+  offset: 0, 0
+  index: -1
+front_Rleg
+  rotate: true
+  xy: 195, 310
+  size: 54, 133
+  orig: 54, 133
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 154, 140
+  size: 121, 108
+  orig: 121, 108
+  offset: 0, 0
+  index: -1
+mane
+  rotate: false
+  xy: 0, 24
+  size: 150, 167
+  orig: 150, 167
+  offset: 0, 0
+  index: -1
+mane2
+  rotate: false
+  xy: 104, 375
+  size: 98, 38
+  orig: 98, 38
+  offset: 0, 0
+  index: -1
+manespike
+  rotate: false
+  xy: 328, 296
+  size: 83, 68
+  orig: 83, 68
+  offset: 0, 0
+  index: -1
+mouth_closed
+  rotate: false
+  xy: 320, 364
+  size: 80, 49
+  orig: 80, 49
+  offset: 0, 0
+  index: -1
+mouth_mid
+  rotate: false
+  xy: 202, 369
+  size: 69, 44
+  orig: 69, 44
+  offset: 0, 0
+  index: -1
+mouth_open
+  rotate: false
+  xy: 0, 328
+  size: 64, 50
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+skull
+  rotate: true
+  xy: 275, 133
+  size: 115, 122
+  orig: 115, 122
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 0, 191
+  size: 70, 154
+  orig: 70, 154
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 150, 0
+  size: 241, 133
+  orig: 241, 133
+  offset: 0, 0
+  index: -1

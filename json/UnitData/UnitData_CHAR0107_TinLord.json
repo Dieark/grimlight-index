@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 225
   },
   "m_Name": "UnitData_CHAR0107_TinLord",
   "removeFromGame": 0,
@@ -770,26 +770,26 @@
     "objectID": "CHAR0000"
   },
   "talkData": {
-    "m_FileID": 21,
-    "m_PathID": 1858537707376022619
+    "m_FileID": 0,
+    "m_PathID": 1853
   },
   "traits": [
     {
-      "m_FileID": 22,
-      "m_PathID": -4450947582862247426
+      "m_FileID": 0,
+      "m_PathID": 1837
     },
     {
-      "m_FileID": 22,
-      "m_PathID": 855843083387651527
+      "m_FileID": 0,
+      "m_PathID": 1838
     }
   ],
   "passiveAbility": {
-    "m_FileID": 22,
-    "m_PathID": 6122161787999795720
+    "m_FileID": 0,
+    "m_PathID": 1836
   },
   "activeAbility": {
-    "m_FileID": 22,
-    "m_PathID": -2449762876624235385
+    "m_FileID": 0,
+    "m_PathID": 1835
   },
   "Gender": 0,
   "Age": -1

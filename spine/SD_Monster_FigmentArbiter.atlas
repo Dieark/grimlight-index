@@ -1,0 +1,278 @@
+
+SD_Monster_FigmentArbiter.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lconstellationshoulder
+  rotate: true
+  xy: 0, 79
+  size: 182, 300
+  orig: 182, 300
+  offset: 0, 0
+  index: -1
+Lshieldarm5
+  rotate: false
+  xy: 491, 221
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+blade4
+  rotate: false
+  xy: 495, 480
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+bladerock1
+  rotate: false
+  xy: 495, 466
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+bladerock2
+  rotate: false
+  xy: 491, 187
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+bladerock3
+  rotate: false
+  xy: 495, 452
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+bodyrock2
+  rotate: false
+  xy: 300, 84
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+constellationsword
+  rotate: true
+  xy: 0, 22
+  size: 56, 353
+  orig: 56, 353
+  offset: 0, 0
+  index: -1
+crystalglow
+  rotate: true
+  xy: 300, 115
+  size: 145, 191
+  orig: 145, 191
+  offset: 0, 0
+  index: -1
+slash1
+  rotate: false
+  xy: 352, 22
+  size: 154, 93
+  orig: 159, 98
+  offset: 2, 3
+  index: -1
+slash4
+  rotate: false
+  xy: 279, 259
+  size: 216, 253
+  orig: 222, 257
+  offset: 3, 2
+  index: -1
+slash5
+  rotate: false
+  xy: 0, 270
+  size: 279, 242
+  orig: 285, 247
+  offset: 3, 2
+  index: -1
+
+SD_Monster_FigmentArbiter2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lconstellationarm
+  rotate: true
+  xy: 341, 173
+  size: 88, 120
+  orig: 88, 120
+  offset: 0, 0
+  index: -1
+Lhelmwing
+  rotate: false
+  xy: 266, 185
+  size: 72, 68
+  orig: 72, 68
+  offset: 0, 0
+  index: -1
+Lshieldarm1
+  rotate: true
+  xy: 0, 189
+  size: 102, 165
+  orig: 102, 165
+  offset: 0, 0
+  index: -1
+Lshieldarm2
+  rotate: false
+  xy: 216, 90
+  size: 42, 63
+  orig: 42, 63
+  offset: 0, 0
+  index: -1
+Lshieldarm3
+  rotate: false
+  xy: 479, 84
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+Lshieldarm4
+  rotate: true
+  xy: 358, 53
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+Lshieldarm6
+  rotate: false
+  xy: 164, 270
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+Lshieldclaw1
+  rotate: false
+  xy: 103, 105
+  size: 48, 85
+  orig: 48, 85
+  offset: 0, 0
+  index: -1
+Lshieldclaw2
+  rotate: false
+  xy: 358, 123
+  size: 88, 50
+  orig: 88, 50
+  offset: 0, 0
+  index: -1
+Rconstellationarm
+  rotate: true
+  xy: 0, 106
+  size: 83, 103
+  orig: 83, 103
+  offset: 0, 0
+  index: -1
+Rconstellationshoulder
+  rotate: false
+  xy: 164, 153
+  size: 102, 100
+  orig: 102, 100
+  offset: 0, 0
+  index: -1
+blade1
+  rotate: false
+  xy: 461, 145
+  size: 34, 142
+  orig: 34, 142
+  offset: 0, 0
+  index: -1
+blade2
+  rotate: true
+  xy: 358, 92
+  size: 31, 121
+  orig: 31, 121
+  offset: 0, 0
+  index: -1
+blade3
+  rotate: true
+  xy: 126, 62
+  size: 32, 82
+  orig: 32, 82
+  offset: 0, 0
+  index: -1
+bladehandle
+  rotate: true
+  xy: 0, 51
+  size: 55, 63
+  orig: 55, 63
+  offset: 0, 0
+  index: -1
+bodyrock1
+  rotate: false
+  xy: 63, 51
+  size: 63, 54
+  orig: 63, 54
+  offset: 0, 0
+  index: -1
+bodyrock3
+  rotate: false
+  xy: 216, 482
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+chest
+  rotate: false
+  xy: 266, 84
+  size: 92, 90
+  orig: 92, 90
+  offset: 0, 0
+  index: -1
+chestrock1
+  rotate: false
+  xy: 411, 64
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+chestrock2
+  rotate: false
+  xy: 417, 262
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+constellationbody
+  rotate: false
+  xy: 216, 253
+  size: 126, 258
+  orig: 126, 258
+  offset: 0, 0
+  index: -1
+crystal
+  rotate: false
+  xy: 417, 288
+  size: 74, 117
+  orig: 74, 117
+  offset: 0, 0
+  index: -1
+eyedark
+  rotate: false
+  xy: 151, 94
+  size: 65, 59
+  orig: 65, 59
+  offset: 0, 0
+  index: -1
+helm
+  rotate: false
+  xy: 417, 404
+  size: 92, 106
+  orig: 92, 106
+  offset: 0, 0
+  index: -1
+slash2
+  rotate: true
+  xy: 341, 261
+  size: 249, 76
+  orig: 254, 80
+  offset: 2, 2
+  index: -1
+slash3
+  rotate: false
+  xy: 0, 291
+  size: 216, 219
+  orig: 221, 224
+  offset: 2, 3
+  index: -1

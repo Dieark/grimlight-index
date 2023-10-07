@@ -242,7 +242,8 @@
         "levelSelector": 0,
         "fixedLevel": 1,
         "contentLevelModulus": 1,
-        "accountLevelOffset": 0
+        "accountLevelOffset": 0,
+        "honingEffect": ""
       }
     },
     "randomStatGridOverride": {
@@ -685,7 +686,8 @@
           "levelSelector": 0,
           "fixedLevel": 1,
           "contentLevelModulus": 1,
-          "accountLevelOffset": 0
+          "accountLevelOffset": 0,
+          "honingEffect": ""
         }
       },
       {
@@ -705,7 +707,8 @@
           "levelSelector": 0,
           "fixedLevel": 1,
           "contentLevelModulus": 1,
-          "accountLevelOffset": 0
+          "accountLevelOffset": 0,
+          "honingEffect": ""
         }
       }
     ],
@@ -770,12 +773,12 @@
     "objectID": "CHAR0000"
   },
   "talkData": {
-    "m_FileID": 21,
+    "m_FileID": 8,
     "m_PathID": 6728740033027020023
   },
   "traits": [
     {
-      "m_FileID": 43,
+      "m_FileID": 12,
       "m_PathID": -8550828990025788468
     },
     {

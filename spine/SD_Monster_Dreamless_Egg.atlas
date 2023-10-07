@@ -1,0 +1,104 @@
+
+SD_Monster_Dreamless_Egg.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 100, 23
+  size: 46, 37
+  orig: 46, 37
+  offset: 0, 0
+  index: -1
+Lear
+  rotate: false
+  xy: 378, 14
+  size: 100, 166
+  orig: 100, 166
+  offset: 0, 0
+  index: -1
+Lwing
+  rotate: true
+  xy: 0, 7
+  size: 71, 100
+  orig: 71, 100
+  offset: 0, 0
+  index: -1
+Rear
+  rotate: true
+  xy: 378, 180
+  size: 98, 131
+  orig: 98, 131
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 478, 0
+  size: 22, 44
+  orig: 22, 44
+  offset: 0, 0
+  index: -1
+Rwing
+  rotate: true
+  xy: 146, 13
+  size: 40, 83
+  orig: 40, 83
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 194, 99
+  size: 184, 179
+  orig: 184, 179
+  offset: 0, 0
+  index: -1
+bottom
+  rotate: false
+  xy: 0, 175
+  size: 194, 103
+  orig: 194, 103
+  offset: 0, 0
+  index: -1
+centerlight
+  rotate: false
+  xy: 333, 44
+  size: 43, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+eyeangry
+  rotate: true
+  xy: 478, 44
+  size: 68, 23
+  orig: 68, 23
+  offset: 0, 0
+  index: -1
+eyedeath
+  rotate: false
+  xy: 100, 60
+  size: 65, 18
+  orig: 65, 18
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: true
+  xy: 478, 112
+  size: 68, 25
+  orig: 68, 25
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 180, 53
+  size: 153, 46
+  orig: 153, 46
+  offset: 0, 0
+  index: -1
+top
+  rotate: false
+  xy: 0, 78
+  size: 180, 97
+  orig: 180, 97
+  offset: 0, 0
+  index: -1

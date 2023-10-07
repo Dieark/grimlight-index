@@ -1,0 +1,208 @@
+
+SD_Monster_AlphaWerewolf.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AlphaWerewolfYell
+  rotate: false
+  xy: 341, 331
+  size: 155, 179
+  orig: 155, 191
+  offset: 0, 0
+  index: -1
+Lchain
+  rotate: true
+  xy: 285, 16
+  size: 26, 89
+  orig: 26, 89
+  offset: 0, 0
+  index: -1
+Lear
+  rotate: false
+  xy: 0, 23
+  size: 58, 44
+  orig: 58, 44
+  offset: 0, 0
+  index: -1
+Lfinger
+  rotate: false
+  xy: 448, 35
+  size: 44, 74
+  orig: 44, 74
+  offset: 0, 0
+  index: -1
+Lfinger2
+  rotate: false
+  xy: 280, 273
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+Lfinger3
+  rotate: true
+  xy: 411, 9
+  size: 34, 68
+  orig: 34, 68
+  offset: 0, 0
+  index: -1
+Lthigh
+  rotate: false
+  xy: 169, 6
+  size: 116, 140
+  orig: 116, 140
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 0, 451
+  size: 45, 59
+  orig: 45, 59
+  offset: 0, 0
+  index: -1
+Rchain
+  rotate: true
+  xy: 186, 282
+  size: 39, 87
+  orig: 39, 87
+  offset: 0, 0
+  index: -1
+Rear
+  rotate: true
+  xy: 249, 82
+  size: 65, 56
+  orig: 65, 56
+  offset: 0, 0
+  index: -1
+Rfinger
+  rotate: false
+  xy: 0, 419
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 448, 109
+  size: 86, 53
+  orig: 86, 53
+  offset: 0, 0
+  index: -1
+Rshoulderx
+  rotate: false
+  xy: 188, 321
+  size: 153, 190
+  orig: 153, 190
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 0, 395
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 0, 245
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 306, 41
+  size: 142, 153
+  orig: 142, 153
+  offset: 0, 0
+  index: -1
+mane
+  rotate: 270
+  xy: 99, 146
+  size: 141, 210
+  orig: 141, 210
+  offset: 0, 0
+  index: -1
+mane2
+  rotate: 180
+  xy: 309, 194
+  size: 200, 137
+  orig: 200, 137
+  offset: 0, 0
+  index: -1
+tail
+  rotate: 270
+  xy: 0, 19
+  size: 238, 191
+  orig: 238, 191
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 0, 257
+  size: 188, 254
+  orig: 188, 254
+  offset: 0, 0
+  index: -1
+
+SD_Monster_AlphaWerewolf2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: 270
+  xy: 359, 293
+  size: 145, 152
+  orig: 145, 152
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: 180
+  xy: 73, 263
+  size: 136, 122
+  orig: 136, 122
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 0, 379
+  size: 133, 240
+  orig: 133, 240
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: false
+  xy: 0, 276
+  size: 74, 104
+  orig: 74, 104
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 162, 311
+  size: 99, 173
+  orig: 99, 173
+  offset: 0, 0
+  index: -1
+Rshoulderfur
+  rotate: false
+  xy: 204, 242
+  size: 140, 69
+  orig: 140, 69
+  offset: 0, 0
+  index: -1
+Rthigh
+  rotate: true
+  xy: 240, 410
+  size: 103, 189
+  orig: 103, 189
+  offset: 0, 0
+  index: -1
+headdrop
+  rotate: true
+  xy: 405, 216
+  size: 78, 95
+  orig: 78, 95
+  offset: 0, 0
+  index: -1

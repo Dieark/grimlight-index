@@ -1,0 +1,244 @@
+
+SD_Hero_ThreeBears_PapaBear.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lear
+  rotate: false
+  xy: 244, 302
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Leyespark
+  rotate: false
+  xy: 102, 267
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+Lforearmx
+  rotate: false
+  xy: 102, 161
+  size: 86, 82
+  orig: 86, 82
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: true
+  xy: 418, 60
+  size: 81, 63
+  orig: 81, 63
+  offset: 0, 0
+  index: -1
+Lhandx
+  rotate: false
+  xy: 0, 37
+  size: 82, 68
+  orig: 82, 68
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: 270
+  xy: 244, 179
+  size: 68, 111
+  orig: 68, 111
+  offset: 0, 0
+  index: -1
+Lthumbx
+  rotate: true
+  xy: 0, 6
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+Lupperarm
+  rotate: true
+  xy: 378, 210
+  size: 83, 97
+  orig: 83, 97
+  offset: 0, 0
+  index: -1
+Rear
+  rotate: false
+  xy: 189, 198
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+Reyespark
+  rotate: false
+  xy: 149, 242
+  size: 95, 87
+  orig: 95, 87
+  offset: 0, 0
+  index: -1
+Rforearm
+  rotate: true
+  xy: 383, 292
+  size: 87, 103
+  orig: 87, 103
+  offset: 0, 0
+  index: -1
+Rhandgun
+  rotate: false
+  xy: 0, 233
+  size: 103, 80
+  orig: 103, 80
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 271, 245
+  size: 88, 107
+  orig: 88, 107
+  offset: 0, 0
+  index: -1
+Rupperarm
+  rotate: true
+  xy: 355, 142
+  size: 68, 100
+  orig: 68, 100
+  offset: 0, 0
+  index: -1
+Rupperarm2
+  rotate: true
+  xy: 0, 161
+  size: 71, 98
+  orig: 71, 98
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 0, 448
+  size: 291, 61
+  orig: 291, 61
+  offset: 0, 0
+  index: -1
+angry
+  rotate: true
+  xy: 383, 379
+  size: 131, 87
+  orig: 131, 87
+  offset: 0, 0
+  index: -1
+babybear projectile
+  rotate: false
+  xy: 271, 333
+  size: 112, 115
+  orig: 112, 115
+  offset: 0, 0
+  index: -1
+bandana
+  rotate: false
+  xy: 189, 113
+  size: 97, 67
+  orig: 97, 67
+  offset: 0, 0
+  index: -1
+bandanaback
+  rotate: false
+  xy: 244, 290
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+bandanaknot
+  rotate: false
+  xy: 0, 429
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+flash1
+  rotate: false
+  xy: 102, 244
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+flash2
+  rotate: false
+  xy: 184, 1
+  size: 62, 56
+  orig: 62, 56
+  offset: 0, 0
+  index: -1
+flash3
+  rotate: true
+  xy: 105, 69
+  size: 91, 62
+  orig: 91, 62
+  offset: 0, 0
+  index: -1
+flash4
+  rotate: false
+  xy: 166, 57
+  size: 101, 55
+  orig: 101, 55
+  offset: 0, 0
+  index: -1
+flash5
+  rotate: false
+  xy: 0, 105
+  size: 105, 55
+  orig: 105, 55
+  offset: 0, 0
+  index: -1
+flash6
+  rotate: false
+  xy: 81, 18
+  size: 103, 39
+  orig: 103, 39
+  offset: 0, 0
+  index: -1
+hattop
+  rotate: false
+  xy: 285, 88
+  size: 133, 74
+  orig: 133, 74
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 150, 329
+  size: 121, 119
+  orig: 121, 119
+  offset: 0, 0
+  index: -1
+hurt
+  rotate: false
+  xy: 291, 449
+  size: 79, 60
+  orig: 79, 60
+  offset: 0, 0
+  index: -1
+idle
+  rotate: true
+  xy: 268, 20
+  size: 79, 63
+  orig: 79, 63
+  offset: 0, 0
+  index: -1
+shocked
+  rotate: false
+  xy: 331, 26
+  size: 57, 61
+  orig: 57, 61
+  offset: 0, 0
+  index: -1
+straw
+  rotate: false
+  xy: 43, 3
+  size: 76, 15
+  orig: 76, 15
+  offset: 0, 0
+  index: -1
+torso
+  rotate: true
+  xy: 0, 312
+  size: 136, 151
+  orig: 136, 151
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+SD_Hero_ThreeBears_BabyBear.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effect
+  rotate: true
+  xy: 95, 37
+  size: 206, 164
+  orig: 206, 164
+  offset: 0, 0
+  index: -1
+Lear
+  rotate: true
+  xy: 95, 99
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+Lforearm
+  rotate: true
+  xy: 198, 146
+  size: 53, 61
+  orig: 53, 61
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: 180
+  xy: 221, 247
+  size: 43, 67
+  orig: 43, 67
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: true
+  xy: 204, 200
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+Lupperarm
+  rotate: true
+  xy: 101, 2
+  size: 43, 59
+  orig: 43, 59
+  offset: 0, 0
+  index: -1
+Rear
+  rotate: false
+  xy: 130, 211
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+Rforearm
+  rotate: false
+  xy: 172, 242
+  size: 50, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 194, 75
+  size: 50, 71
+  orig: 50, 71
+  offset: 0, 0
+  index: -1
+Rupperarm
+  rotate: false
+  xy: 155, 119
+  size: 43, 71
+  orig: 43, 71
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 101, 46
+  size: 63, 54
+  orig: 63, 54
+  offset: 0, 0
+  index: -1
+angry
+  rotate: true
+  xy: 245, 75
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+angry_ALT
+  rotate: true
+  xy: 233, 2
+  size: 54, 30
+  orig: 54, 30
+  offset: 0, 0
+  index: -1
+babybear projectile
+  rotate: false
+  xy: 0, 179
+  size: 130, 134
+  orig: 130, 134
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 0, 93
+  size: 95, 86
+  orig: 95, 86
+  offset: 0, 0
+  index: -1
+hurt
+  rotate: false
+  xy: 160, 1
+  size: 58, 35
+  orig: 58, 35
+  offset: 0, 0
+  index: -1
+idle
+  rotate: true
+  xy: 259, 192
+  size: 53, 22
+  orig: 53, 22
+  offset: 0, 0
+  index: -1
+shocked
+  rotate: true
+  xy: 259, 127
+  size: 64, 24
+  orig: 64, 24
+  offset: 0, 0
+  index: -1
+shocked_ALT
+  rotate: true
+  xy: 130, 249
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+torso
+  rotate: true
+  xy: 0, 12
+  size: 82, 102
+  orig: 82, 102
+  offset: 0, 0
+  index: -1
