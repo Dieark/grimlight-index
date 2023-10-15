@@ -1,0 +1,95 @@
+{
+    "StoryName": "Campaign_SideStory_FrostDrake_1",
+    "background": [
+        "icepalace.png",
+        "icepalace.png",
+        "icepalace.png",
+        "icepalace.png",
+        "icepalace.png",
+        "icepalace.png",
+        "icepalace.png",
+        "icepalace.png",
+        "icepalace.png"
+    ],
+    "character": [
+        [
+            "",
+            "",
+            "",
+            "Esme",
+            "Celeste",
+            "Aurora",
+            "",
+            "",
+            "Celeste"
+        ],
+        [
+            "",
+            "",
+            "",
+            "에스메",
+            "셀레스티",
+            "오로라",
+            "",
+            "",
+            "셀레스티"
+        ],
+        [
+            "",
+            "",
+            "",
+            "エスメ",
+            "セレステ",
+            "オーロラ",
+            "",
+            "",
+            "セレステ"
+        ]
+    ],
+    "dialogueText": [
+        [
+            "Near the end of this path, an ominous blanket of uncertainty weighs down upon you.",
+            "Have you taken a wrong turn?",
+            "The chilling air nips away at you and your party. You get a feeling that even death itself could be preserved in these absolute zero conditions",
+            "B-brrrrr! I can't even feel my own flame burning inside me anymore! Th-This is bad, isn't it?",
+            "I am inclined to agree, perhaps we should turn back.",
+            "There used to be a way towards the throne room through this path. But something doesn't feel right... like there's a powerful obstruction ahead.",
+            "At that moment, a loud roar reverbrates throughout the halls, shattering delicate ice stalactites all over the ceiling.",
+            "A cloud of frozen mist washes over your party as heavy echoing footsteps get louder.",
+            "There's no turning back now... Dreamer, we can handle this, right?"
+        ],
+        [
+            "길의 막바지에 다다랐을 때, 불길한 느낌이 우리를 짓누르기 시작했다.",
+            "무겁게 깔린 서늘한 공기가 몸 안으로 스며들었다.",
+            "죽음조차도 이 혹한의 땅에서 살아남을 수 없으리라.",
+            "에, 에취! 이거 느낌이 안 좋은데...",
+            "그렇구나, 돌아가는 게 좋겠는 걸.",
+            "예전에는 이 길이 왕좌의 방과 연결되어 있었는데, 이상하네요.",
+            "오로라의 작은 속삭임이 고드름 깨지는 소리에 묻혔다.",
+            "멀리서 바닥이 갈라지는 듯 한 무거운 발소리가 성채를 울리며 다가온다.",
+            "꿈꾸는 자, 싸울 수 있겠니? 주의하는 게 좋겠구나."
+        ],
+        [
+            "道の行き止まりに来ると、嫌な予感に襲われた。",
+            "背筋の凍るような空気が体にしみる。",
+            "死んでもなお、この極寒の地で生き残ることはできないのだろう。",
+            "ハックション！ これはまずいわね...",
+            "引き返したほうがよさそうだな。",
+            "変ですね。この道は、王座の部屋に繋がっていたはずなのですが。",
+            "オーロラの小さな声が、つららの割れる音にかき消される。",
+            "遠くから聞こえる、地面を揺らすような重たい足音が城塞鳴り響き、こちらに近づいて来る。",
+            "ドリーマー、戦いの準備を。気をつけて。"
+        ]
+    ],
+    "music": [
+        "music_threateningbattle.wav",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ]
+}

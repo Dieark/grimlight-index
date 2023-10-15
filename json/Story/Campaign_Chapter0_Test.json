@@ -1,0 +1,69 @@
+{
+    "StoryName": "Campaign_Chapter0_Test",
+    "background": [
+        "woodlands.png",
+        "woodlands.png",
+        "woodlands.png",
+        "woodlands.png",
+        "woodlands.png",
+        "woodlands.png",
+        "woodlands.png",
+        ""
+    ],
+    "character": [
+        [
+            "Cheshire Cat",
+            "Dorothy",
+            "Snow White",
+            "Cheshire Cat",
+            "",
+            "Dorothy",
+            "Snow White",
+            ""
+        ],
+        [
+            "체셔 캣",
+            "도로시",
+            "백설공주",
+            "체셔 캣",
+            "",
+            "도로시",
+            "백설공주",
+            ""
+        ],
+        [
+            "チェシャ猫",
+            "ドロシー",
+            "白雪姫",
+            "チェシャ猫",
+            "",
+            "ドロシー",
+            "白雪姫",
+            ""
+        ]
+    ],
+    "dialogueText": [
+        [
+            "Hey, girls! Come check this out!",
+            "Oh, what is it, Cheshire?",
+            "It better be important!",
+            "I can disappear!",
+            "...",
+            "*Sigh*... Not that again...",
+            "She never changes.",
+            "And thus, Cheshire was never seen again."
+        ],
+        [],
+        []
+    ],
+    "music": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ]
+}

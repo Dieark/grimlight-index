@@ -1,0 +1,103 @@
+{
+    "StoryName": "Campaign_LibraryStory_PrincessOzma_1",
+    "background": [
+        "library.png",
+        "library.png",
+        "library.png",
+        "library.png",
+        "library.png",
+        "library.png",
+        "library.png",
+        "library.png",
+        "library.png",
+        "library.png"
+    ],
+    "character": [
+        [
+            "",
+            "",
+            "Aurora",
+            "Ozma",
+            "",
+            "",
+            "",
+            "Ozma",
+            "Ozma",
+            ""
+        ],
+        [
+            "",
+            "",
+            "오로라",
+            "왕녀 오즈마",
+            "",
+            "",
+            "",
+            "왕녀 오즈마",
+            "왕녀 오즈마",
+            ""
+        ],
+        [
+            "",
+            "",
+            "オーロラ",
+            "オズマ",
+            "",
+            "",
+            "",
+            "オズマ",
+            "オズマ",
+            ""
+        ]
+    ],
+    "dialogueText": [
+        [
+            "While you aren't involved in the day to day running of Haven, being kept up to date with developments in the city is always important when planning your next expedition.",
+            "Aurora is briefing you on supplies and reports from the patrols on safe routes out of the city, when she is suddenly interrupted by the door to your room flying open!",
+            "What the-",
+            "...",
+            "It's Princess Ozma, the ruler of the lost Realm of Oz.",
+            "She has a slightly wild look in her eye that is most unlike her.",
+            "The princess is normally reserved and quiet... but standing before you now, you can see the passion... no, the <i>desperation</i> burning in her eyes.",
+            "Dreamer...",
+            "Dreamer! Please, I beg you to help me!",
+            "What on earth could have happened?"
+        ],
+        [
+            "안식의 도시를 유지하는 일에 보통은 관여하지 않지만, 다음 일을 계획할 때는 반드시 정보가 필요하다.",
+            "곁에 서있던 오로라가 신중한 얼굴로 순찰대의 보고를 설명하던 중 누군가 급히 문을 열었다.",
+            "오즈마?",
+            "안녕, 오로라. 마침 함께 있었구나.",
+            "긴장된 얼굴로 인사를 건네온 사람은 이미 잊혀진 영역, 오즈의 세계의 왕녀 오즈마였다.",
+            "표정변화가 적은 평소와 달리 살짝 인상을 찡그린 그녀가 안으로 들어섰다.",
+            "테이블 앞으로 다가온 그녀가 오로라와 나를 번갈아 바라본다. 그 눈동자에 열기가 일렁였다.",
+            "나는 네가 오는 걸 기다리는 걸 더 좋아하지만...",
+            "오늘은 어쩔 수 없었어, 꿈꾸는 자. 네 도움이 필요해.",
+            "차분한 목소리로 말한 오즈마가 손을 내밀었다."
+        ],
+        [
+            "普段、安息の都市の運営には関与していないが、次の仕事を計画する時には情報が必要だ。",
+            "隣に立っていたオーロラが、真面目にパトロール隊の報告を伝えていたところ、<br>誰かが急いでドアを開けた。",
+            "オズマ？",
+            "こんにちは、オーロラ。ちょうど一緒だったのね。",
+            "緊張した顔で挨拶をした人物は、<br>すでに忘れられた場所、オズの世界の王女オズマだった。",
+            "表情の変化が少ない普段とは違い、軽くしかめっ面をした彼女が中へ入ってきた。",
+            "テーブルの前にやってきた彼女がオーロラと私を交互に見つめる。<br>その瞳には熱気が宿っていた。",
+            "私はあんたが来るのを待つほうが好きだけど...",
+            "今日は仕方なかったのよ。ドリーマー、あんたの助けが必要なの。",
+            "落ち着いた声でそう言い、オズマは手を差しだした。"
+        ]
+    ],
+    "music": [
+        "music_sanctuary.wav",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "StoryName": "EventStory_EvilQueen_6",
+    "background": [
+        "woodlandscreepy.png",
+        "woodlandscreepy.png",
+        "storyqueenvssnow.png",
+        "storyqueenvssnow.png",
+        "storyqueenvssnow.png",
+        "storyqueenvssnow.png",
+        "storyqueenvssnow.png",
+        "storyqueenvssnow.png",
+        "storyqueenvssnow.png",
+        "storyqueenvssnow.png",
+        "storyqueenvssnow.png",
+        "storyqueenvssnow.png"
+    ],
+    "character": [
+        [
+            "",
+            "",
+            "",
+            "Evil Queen",
+            "",
+            "",
+            "Snow White",
+            "Evil Queen",
+            "",
+            "Snow White",
+            "Evil Queen",
+            "Evil Queen"
+        ],
+        [
+            "",
+            "",
+            "",
+            "이블 퀸",
+            "",
+            "",
+            "백설공주",
+            "이블 퀸",
+            "",
+            "백설공주",
+            "이블 퀸",
+            "이블 퀸"
+        ],
+        [
+            "",
+            "",
+            "",
+            "邪悪な女王",
+            "",
+            "",
+            "白雪姫",
+            "邪悪な女王",
+            "",
+            "白雪姫",
+            "邪悪な女王",
+            "邪悪な女王"
+        ]
+    ],
+    "dialogueText": [
+        [
+            "With a combination of shotgun blast and flashing blade, you carve a path to the enemy commander.",
+            "You have no idea who she is or what issue she has with Snow White, but she can't be allowed to prevail today or Haven will be left almost defenceless once more.",
+            "The Evil Queen faces you on her shadowy throne through the morass of brawling bodies. She sneers.",
+            "You think you can challenge me, Dreamer?",
+            "No, you don't have that right, but you know someone else who does.",
+            "Snow White stalks forward, raising her mace as the Huntsman and your allies engage the Dreamless, keeping them away from his princess.",
+            "I never expected to see you again, Narcissa.",
+            "Well, well. Mirror, mirror, on the wall, at last I'll see my rival <i>fall!</i>",
+            "Snow White raises her mace and points it at her nemesis.",
+            "You were always obsessed with me, but we never had to be enemies!",
+            "You took my place, wench!",
+            "Now I'll take EVERYTHING from you!"
+        ],
+        [
+            "산탄총과 날카롭고 무거운 검들이 드림리스들을 물리치고 있다.",
+            "이블 퀸. 나르시사가 누구인지 백설공주와 어떤 관계가 있는지까지 자세히 알 수는 없지만, 그녀를 내버려 둘 수는 없다.",
+            "드림리스의 시체더미 꼭대기에 앉아 일행들을 내려다보던 이블 퀸이 낮게 웃었다.",
+            "나를 이길 수 있다고 생각하니? 꿈꾸는 자. 내 발 아래 복종하는 게 좋을텐데.",
+            "느긋한 목소리가 여유로웠다.",
+            "앞을 막아서는 드림리스를 뚫고 나타난 백설공주가 이블 퀸을 물끄러미 바라보고 있었다.",
+            "당신과 다시 만나게 될 줄은 몰랐어요, 나르시사.",
+            "후훗, 거울아. 넌 알고 있었니? 드디어 내 숙적이 파멸하는 날을 보게 되는구나.",
+            "백설공주의 메이스가 자신의 숙적을 향한다.",
+            "당신은 알고 있을지 모르겠지만, 우린 적이 될 필요가 없었어요. 처음부터요!",
+            "아니, 넌 내 모든 것을 빼앗아갔어. 내 자리, 나를 사랑하는 사람들, 나의 아름다움까지!",
+            "그러니 이제 네 모든 것을 빼앗아줄게, 내 발 아래 복종하도록 해!"
+        ],
+        []
+    ],
+    "music": [
+        "music_threateningbattle.wav",
+        "",
+        "music_ominous.wav",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ]
+}

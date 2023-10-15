@@ -1,0 +1,87 @@
+{
+    "StoryName": "Campaign_Chapter14_Part5",
+    "background": [
+        "castledungeon",
+        "castledungeon",
+        "castledungeon",
+        "castledungeon",
+        "castledungeon",
+        "castledungeon",
+        "castledungeon",
+        "castledungeon",
+        "castledungeon",
+        "castledungeon",
+        "castledungeon"
+    ],
+    "character": [
+        [
+            "",
+            "Vita",
+            "Vita",
+            "Rat King",
+            "Rat King",
+            "",
+            "Rat King",
+            "",
+            "Aurora",
+            "",
+            ""
+        ],
+        [
+            "",
+            "비타",
+            "비타",
+            "쥐마왕",
+            "쥐마왕",
+            "",
+            "쥐마왕",
+            "",
+            "오로라",
+            "",
+            ""
+        ],
+        [
+            "",
+            "ヴィータ",
+            "ヴィータ",
+            "ネズミ魔王",
+            "ネズミ魔王",
+            "",
+            "ネズミ魔王",
+            "",
+            "オーロラ",
+            "",
+            ""
+        ]
+    ],
+    "dialogueText": [
+        [
+            "You manage to put down the hordes of rats the Rat King sends against you... but in the confusion, he darts forward and snatches the Lifestone from your grasp.",
+            "Dreamer!",
+            "Help!",
+            "Ssss sss sss! Ssstupid heroes!",
+            "The Lifestone is mine!",
+            "Van Helsing lifts his crossbow and aims it at the Rat King, but the cowardly rodent sees and ducks behind a stone pillar, before retreating, still clutching his prize!",
+            "Sss sss sss! You won't catch me!",
+            "As he flees, a fresh wave of his rat troops block your path.",
+            "Dreamer! Vita –",
+            "You know, but these monsters won't let you through easily!",
+            "Vita will just have to await rescue with the rest of her sisters..."
+        ],
+        [],
+        []
+    ],
+    "music": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ]
+}

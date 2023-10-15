@@ -1,0 +1,78 @@
+{
+    "StoryName": "EventStory_ChristmasEvent1_12",
+    "background": [
+        "christmastree.png",
+        "christmastree.png",
+        "christmastree.png",
+        "christmastree.png",
+        "christmastree.png",
+        "christmastree.png",
+        "christmastree.png",
+        "christmastree.png"
+    ],
+    "character": [
+        [
+            "",
+            "Rat King",
+            "",
+            "",
+            "Rat King",
+            "Rat King",
+            "",
+            ""
+        ],
+        [
+            "",
+            "쥐마왕",
+            "",
+            "",
+            "쥐마왕",
+            "쥐마왕",
+            "",
+            ""
+        ],
+        [
+            "",
+            "ネズミ魔王",
+            "",
+            "",
+            "ネズミ魔王",
+            "ネズミ魔王",
+            "",
+            ""
+        ]
+    ],
+    "dialogueText": [
+        [
+            "The Rat King and Krampus are beaten back by Santa's furious assault.",
+            "I'm not done yet!",
+            "The Rat King staggers to his feet and puts his fingers to his lips, issuing a piercing whistle from them.",
+            "Something stirs the ranks of Dreamless...",
+            "You think you've beaten me?!",
+            "Try this on for size!",
+            "From the midst of the Rat King's ranks, a huge beast emerges.",
+            "It's heading straight for you!"
+        ],
+        [
+            "산타의 공격에 크람푸스와 군단이 크게 휘청였다.",
+            "... 큭, 이 건방진 놈들! 저주를 피한 것으로 여를 이겼다 생각하지 마라!",
+            "쥐마왕이 손가락을 입에 대고 휘파람을 불었다.",
+            "일순 고요해진 군단 사이에서 무언가 거대한 것이 솟구쳐 올랐다.",
+            "여의 야망은 끝나지 않는다!",
+            "이 몸이 승리할 것이다, 반드시! 크하하하!",
+            "쥐마왕의 군단 가운데에서 거대한 드림리스가 나타났다.",
+            "드림리스가 거대한 팔을 휘둘러 온다!"
+        ],
+        []
+    ],
+    "music": [
+        "music_heroicboss.wav",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "music_ominous.wav",
+        ""
+    ]
+}

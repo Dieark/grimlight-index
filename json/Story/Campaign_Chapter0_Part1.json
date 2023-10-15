@@ -1,0 +1,87 @@
+{
+    "StoryName": "Campaign_Chapter0_Part1",
+    "background": [
+        "narrationwhite.png",
+        "narrationwhite.png",
+        "narrationwhite.png",
+        "narrationwhite.png",
+        "narrationwhite.png",
+        "narrationwhite.png",
+        "narrationwhite.png",
+        "dreamrealm.png"
+    ],
+    "character": [
+        [
+            "Aurora",
+            "Aurora",
+            "Aurora",
+            "Aurora",
+            "Aurora",
+            "Aurora",
+            "Aurora",
+            "Aurora"
+        ],
+        [
+            "오로라",
+            "오로라",
+            "오로라",
+            "오로라",
+            "오로라",
+            "오로라",
+            "오로라",
+            "오로라"
+        ],
+        [
+            "オーロラ",
+            "オーロラ",
+            "オーロラ",
+            "オーロラ",
+            "オーロラ",
+            "オーロラ",
+            "オーロラ",
+            "オーロラ"
+        ]
+    ],
+    "dialogueText": [
+        [
+            "And so we come again, as we always do, to a world of darkness.",
+            "Where hopes of a better future fade and in its place madness and emptiness rises.",
+            "It is a place where dreams go to die and tyranny reigns over all peoples – the good and the bad alike.",
+            "Though, even this is merely a prelude, played out before all falls into the inevitability of oblivion.",
+            "And yet, even in such dark times, the spark of hope refuses to die.",
+            "Those who would stand against the darkness take their places and await the one who will unite them and lead them to salvation... or destruction.",
+            "And, in their turn, those with darker designs will work in secret for the undoing of the world.",
+            "For now, as ever, my Dreamer must awaken..."
+        ],
+        [
+            "결국... 다시 오게 되었군요, 언제나처럼. 이 어두운 세계로.",
+            "언젠가 나아질 거란 희망도 없이, 광기와 공허만이 가득하고",
+            "꿈들이 신음과 함께 죽어가며 선인과 악인 모두 폭정에 지배당하는 이곳.",
+            "그러나 이마저도 단지 시작에 불과하겠죠.<br>결국에는 모든 것들이... 망각의 심연 속에 삼켜져버릴 거예요.",
+            "하지만 저는 끝까지 희망을 버리지 않을 거예요.",
+            "어둠이 이 세상을 파멸시키기 위해 날뛸지라도,",
+            "어둠에 맞설 이들이 그들을 단결시켜 세상을 구원할 자를 기다리고 있으니까.",
+            "그러니 지금 당장은, 소중한 꿈꾸는 자가 잠에서 깨어나셔야만 해요."
+        ],
+        [
+            "結局...また来ることになりましたね、いつものように。この暗い世界に。",
+            "いつかよくなるという希望もなく、狂気と空虚でいっぱいで",
+            "夢がうめき声と共に死んでいき、善人と悪人みなが暴政に支配されているこの場所...",
+            "ですがこれすらただの始まりに過ぎませんでした。<br>結局全てが...忘却の深淵の中に飲み込まれてしまうでしょう。",
+            "しかし私は最後まで希望を捨てません。",
+            "闇がこの世界を破滅させるために暴れるとしても、",
+            "闇に立ち向かう者たちを団結させ、世界を救う者を待っているからです。",
+            "なので今はすぐに、大切なドリーマーには起きてもらわなければなりません。"
+        ]
+    ],
+    "music": [
+        "music_realmoflostdreams.wav",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ]
+}

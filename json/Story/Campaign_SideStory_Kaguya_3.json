@@ -1,0 +1,103 @@
+{
+    "StoryName": "Campaign_SideStory_Kaguya_3",
+    "background": [
+        "realmofendlessnight.png",
+        "realmofendlessnight.png",
+        "realmofendlessnight.png",
+        "realmofendlessnight.png",
+        "realmofendlessnight.png",
+        "realmofendlessnight.png",
+        "realmofendlessnight.png",
+        "realmofendlessnight.png",
+        "realmofendlessnight.png",
+        "realmofendlessnight.png"
+    ],
+    "character": [
+        [
+            "",
+            "",
+            "Kaguya",
+            "",
+            "Kaguya",
+            "Kaguya",
+            "Kaguya",
+            "Kaguya",
+            "Kaguya",
+            ""
+        ],
+        [
+            "",
+            "",
+            "카구야",
+            "",
+            "카구야",
+            "카구야",
+            "카구야",
+            "카구야",
+            "카구야",
+            ""
+        ],
+        [
+            "",
+            "",
+            "かぐや姫",
+            "",
+            "かぐや姫",
+            "かぐや姫",
+            "かぐや姫",
+            "かぐや姫",
+            "かぐや姫",
+            ""
+        ]
+    ],
+    "dialogueText": [
+        [
+            "The Nightmares are defeated and you stand in front of Kaguya once more.",
+            "You ask the princess to please stop running away; you aren't a 'moon person' and you aren't trying to sacrifice her, or take her soul.",
+            "I'm willing to believe you. You fought these monsters. They are the same monsters that accompanied the Shadowed Man when he sacrificed me.",
+            "Well, they certainly aren't 'Moon People'. You've been fighting them since you came to Phantasia",
+            "You aren't from Phantasia? Curious...",
+            "Are you sure you aren't a Moon Person?",
+            "Or perhaps the Shadowed Man is a Moon Person himself...",
+            "It doesn't matter. You aren't strong enough to defeat him.",
+            "If you won't let me leave, I will make you release me.",
+            "No longer disorientated from her long sleep, Kaguya's attacks are much more precise and you find yourself fighting for your life once more!"
+        ],
+        [
+            "드림리스들을 서둘러 해치우고 카구야를 따라잡았다.",
+            "카구야에게 우리는 달의 주민이 아니며, 누군가를 제물로 바치는 일도 없을거라고 설명했다.",
+            "이 괴물과 함께 맞서 싸웠으니 믿을게요.<br>그 남자가 날 습격했을 때 옆에 있던 이들과 같은 이들이에요.",
+            "드림리스에 대해 이야기하자 카구야의 시선이 가늘어진다.",
+            "... 흐응? 그대, 이 세계 출신이 아닌건가요?",
+            "그럼, 그 남자는 대체...",
+            "... 아니, 지금은 상관 없겠지요.",
+            "어차피 그대를 이길만큼 강한 사람은 아닐테니까.",
+            "저를 놓아주지 않겠다면<br> 스스로 포기할 수 있도록 거들어 드리지요.",
+            "카구야의 칼날이 위협적인 빛을 내며 반짝인다.<br>평정을 되찾은 그녀의 검이 날카로웠다."
+        ],
+        [
+            "急いでドリームレスを倒し、かぐや姫に追いついた。",
+            "自分達は月の住民ではなく、生贄にすることもないと、かぐや姫に説明した。",
+            "あの怪物を倒すなんて... 信じましょう。<br>あの男に襲われた時にいた怪物と同じです。",
+            "ドリームレスについて説明すると、かぐや姫は目を細めた。",
+            "...あなた、この世界の人ではないのですか？",
+            "では、あの男はいったい...",
+            "...いえ、今はどうでもいいこと。",
+            "いずれにせよ、あなたのほうが強いはずですから。",
+            "私を逃がさないつもりなら<br>諦めてもらいましょう。",
+            "かぐや姫の刀剣が鋭く光る。<br>平常心を取り戻した彼女の眼は、すごみを増した。"
+        ]
+    ],
+    "music": [
+        "music_haunted.wav",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "music_threateningbattle.wav",
+        "",
+        ""
+    ]
+}

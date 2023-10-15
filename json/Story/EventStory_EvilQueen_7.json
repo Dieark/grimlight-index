@@ -1,0 +1,113 @@
+{
+    "StoryName": "EventStory_EvilQueen_7",
+    "background": [
+        "woodlandscreepy.png",
+        "woodlandscreepy.png",
+        "woodlandscreepy.png",
+        "woodlandscreepy.png",
+        "woodlandscreepy.png",
+        "woodlandscreepy.png",
+        "woodlandscreepy.png",
+        "woodlandscreepy.png",
+        "woodlandscreepy.png",
+        "woodlandscreepy.png",
+        "woodlandscreepy.png",
+        "woodlandscreepy.png",
+        "woodlandscreepy.png"
+    ],
+    "character": [
+        [
+            "",
+            "",
+            "Evil Queen",
+            "",
+            "Snow White",
+            "Snow White",
+            "Evil Queen",
+            "Evil Queen",
+            "Evil Queen",
+            "",
+            "",
+            "",
+            "Evil Queen"
+        ],
+        [
+            "",
+            "",
+            "이블 퀸",
+            "",
+            "백설공주",
+            "백설공주",
+            "이블 퀸",
+            "이블 퀸",
+            "이블 퀸",
+            "",
+            "",
+            "",
+            "이블 퀸"
+        ],
+        [
+            "",
+            "",
+            "邪悪な女王",
+            "",
+            "白雪姫",
+            "白雪姫",
+            "邪悪な女王",
+            "邪悪な女王",
+            "邪悪な女王",
+            "",
+            "",
+            "",
+            "邪悪な女王"
+        ]
+    ],
+    "dialogueText": [
+        [
+            "The Dreamless minions surrounding the Evil Queen are vanquished and Snow White engages her nemesis directly.",
+            "The battle between the two beings is titanic, albeit brief and ends with Snow White's mace finding its mark.",
+            "Nooo!",
+            "The mace connects heavily and the queen is battered to the ground, where she lies defeated, panting heavily.",
+            "It's over, Narcissa. Please stop torturing yourself and everyone else!",
+            "We don't have to fight!",
+            "NO! It's never over!",
+            "I just need more power! More!",
+            "I <i>will</i> be the fairest!",
+            "The Evil Queen begins drawing in power from her surroundings, from the fallen Dreamless still fizzling away into oblivion, drinking in the last dregs of their essence.",
+            "But the power is already corrupted, poisoned, like the apple she once gave to Snow.",
+            "She swells with the power, but is also consumed by it, losing her mind as the Dreamless corruption begins to transform her into a new, hideously beautiful form!",
+            "I WILL ALWAYS BE THE FAIREST!"
+        ],
+        [
+            "이블 퀸을 보호하던 드림리스들이 쓰러지고, 마침내 일대일 대결이 시작되었다.",
+            "강력한 두 존재의 싸움은 순식간에 끝났지만, 그 여파는 숲 속에 오래도록 메아리쳤다.",
+            "... 용납할 수 없어.",
+            "백설공주의 메이스가 이블 퀸의 목을 노리고 있다.",
+            "다 끝났어요, 나르시사. 그러니 이제 제발... 더 이상 자신과 다른 사람들을 괴롭히지 마세요.",
+            "우리는 굳이 싸울 필요가 없어요.",
+            "아니, 아니야! 아무것도 끝나지 않았어!",
+            "난 내가 사랑하는 모든 것을 너 때문에 잃었어! 그런데 너는?",
+            "넌 여전히 널 사랑해 마지않는 것들과 함께 하고 있지, 용서할 수 없어!",
+            "이블 퀸이 쓰러진 드림리스로부터 검은 힘을 흡수하기 시작했다.",
+            "이블 퀸의 손끝이 그녀가 백설공주에게 내밀었던 독이 든 사과처럼 검게 물들였다.",
+            "새로운 힘이 이블 퀸의 몸 속에서 넘실거린다. 이성을 잃어버린 여왕이 소름끼치게 미소지었다.",
+            "이 세상에서 가장 아름다운 건 나야. 그렇지 않니? 모두 날 사랑해야 해, 네가 아닌 나를!"
+        ],
+        []
+    ],
+    "music": [
+        "music_threateningbattle.wav",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "music_ominous.wav",
+        "",
+        "",
+        ""
+    ]
+}

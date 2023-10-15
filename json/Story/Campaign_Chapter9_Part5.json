@@ -1,0 +1,71 @@
+{
+    "StoryName": "Campaign_Chapter9_Part5",
+    "background": [
+        "snowymountains.png",
+        "snowymountains.png",
+        "snowymountains.png",
+        "snowymountains.png",
+        "snowymountains.png",
+        "snowymountains.png"
+    ],
+    "character": [
+        [
+            "Lis",
+            "Celeste",
+            "",
+            "Mal",
+            "Aurora",
+            ""
+        ],
+        [
+            "리즈",
+            "셀레스티",
+            "",
+            "말",
+            "오로라",
+            ""
+        ],
+        [
+            "リズ",
+            "セレステ",
+            "",
+            "マル",
+            "オーロラ",
+            ""
+        ]
+    ],
+    "dialogueText": [
+        [
+            "Are we there yet?",
+            "The citadel is not far off now. You can see it over the the trees up ahead.",
+            "As you cross the snowy fields, you suddenly hear the ground rumble.",
+            "What was that?!",
+            "Something big and dangerous is coming this way. Prepare yourselves!",
+            "You call upon your heroes and steel yourself for battle!"
+        ],
+        [
+            "아직 더 가야겠지? 보기에는 가까워 보이는데...",
+            "걱정 말려무나, 리즈. 이 숲만 지나면 겨울의 성채란다.",
+            "꼬마들을 달래며 숲 속으로 진입하자 땅이 큰 소리를 내며 울렸다.",
+            "우왓!?",
+            "꿈꾸는 자, 무언가 다가오고 있어요. 다들 조심하세요!",
+            "말과 리즈를 뒤로 물리며 서둘러 메르헨을 소환했다."
+        ],
+        [
+            "まだもうちょっと行かないといけないよね？近くに見えるけど...",
+            "心配しないで、リズ。この森さえ越えれば冬の城塞よ。",
+            "ちびっ子たちをなだめながら森の中に入ると、地面が大きな音を立てた。",
+            "うわぁっ！？",
+            "ドリーマー、何かが近づいてきています。みなさん、気をつけてください！",
+            "マルとリズを下がらせ、急いでメルヘンを召喚した。"
+        ]
+    ],
+    "music": [
+        "music_peacefuldays.wav",
+        "",
+        "none",
+        "music_threateningbattle.wav",
+        "",
+        ""
+    ]
+}

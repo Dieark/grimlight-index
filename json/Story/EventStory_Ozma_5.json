@@ -1,0 +1,71 @@
+{
+    "StoryName": "EventStory_Ozma_5",
+    "background": [
+        "queenspalace.png",
+        "queenspalace.png",
+        "queenspalace.png",
+        "queenspalace.png",
+        "queenspalace.png",
+        "queenspalace.png",
+        "queenspalace.png"
+    ],
+    "character": [
+        [
+            "",
+            "Ozma",
+            "Ozma",
+            "",
+            "Ozma",
+            "Ozma",
+            "Ozma"
+        ],
+        [
+            "",
+            "왕녀 오즈마",
+            "왕녀 오즈마",
+            "",
+            "왕녀 오즈마",
+            "왕녀 오즈마",
+            "왕녀 오즈마"
+        ],
+        [
+            "",
+            "オズマ",
+            "オズマ",
+            "",
+            "オズマ",
+            "オズマ",
+            "オズマ"
+        ]
+    ],
+    "dialogueText": [
+        [
+            "Having gotten over the many tests of skill that Ozma has presented to you and your heroes, she finally seems ready.",
+            "H-How do I look, Dreamer? I've prepared all week for this.",
+            "I'm finally ready to dance again!",
+            "She looks more confident, nearly glowing with excitement.",
+            "I've seen all of your heroes putting in so much effort dancing. Now it's finally time for myself to get some practice.",
+            "Dancing is a test of endurance, remember that. Your feet must move precisely and not tire out, lest you trip and fall.",
+            "Come now, show me all you've learned, Dreamer."
+        ],
+        [
+            "결국 한주 내내 무도회를 준비했다. 오즈마도 어느정도 준비가 된 모양이다.",
+            "네 눈에 어떻게 보일지 모르겠네. 마음에 들어?",
+            "모두 널 위해 준비한거야. 넌 나와 도로시의 친구니까.",
+            "평소 오즈마는 늘 표정변화가 적은 편이었는데, 오늘은 조금 즐거워 보인다.",
+            "오늘 있을 무도회도 분명 대단할거야.",
+            "그동안 연습은 많이 했니? 파트너의 발을 밟지 않도록 조심하렴, 꿈꾸는 자.",
+            "잠깐 이리 올래? 내가 연습한 춤을 네가 봐줬으면 좋겠어."
+        ],
+        []
+    ],
+    "music": [
+        "music_sentimentalmemories.wav",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ]
+}

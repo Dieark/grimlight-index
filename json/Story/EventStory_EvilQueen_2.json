@@ -1,0 +1,50 @@
+{
+    "StoryName": "EventStory_EvilQueen_2",
+    "background": [
+        "woodlandscreepy.png",
+        "woodlandscreepy.png",
+        "woodlandscreepy.png",
+        "woodlandscreepy.png"
+    ],
+    "character": [
+        [
+            "Bathory",
+            "Evil Queen",
+            "Bathory",
+            "Evil Queen"
+        ],
+        [
+            "엘리자베스 바토리",
+            "이블 퀸",
+            "엘리자베스 바토리",
+            "이블 퀸"
+        ],
+        [
+            "バートリー",
+            "邪悪な女王",
+            "バートリー",
+            "邪悪な女王"
+        ]
+    ],
+    "dialogueText": [
+        [
+            "Are you satisfied with your newfound power?",
+            "Hmph... who do you think I am? It has been many moons since I needed to use even a fragment of my magic powers.",
+            "Oh? I can sense fear stirring in these woods. ",
+            "Then it seems this is the perfect time for me to put these newfound powers to the test."
+        ],
+        [
+            "아핫! 어때요? 새로운 힘은 쓸만한가요?",
+            "언제까지 나를 따라올 셈이니? 그만 눈 앞에서 사라져라.",
+            "좋은 구경을 놓칠 수 있나요, 음? 저 숲에 재미있는 게 있는 모양인데.",
+            "후훗... 그래, 공포가 무엇인지 아둔한 네게 직접 보여줄게."
+        ],
+        []
+    ],
+    "music": [
+        "music_haunted.wav",
+        "",
+        "",
+        ""
+    ]
+}

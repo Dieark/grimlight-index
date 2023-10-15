@@ -1,0 +1,50 @@
+{
+    "StoryName": "EventStory_EvilQueen_5",
+    "background": [
+        "woodlandscreepy.png",
+        "woodlandscreepy.png",
+        "woodlandscreepy.png",
+        "woodlandscreepy.png"
+    ],
+    "character": [
+        [
+            "Evil Queen",
+            "Rothbart",
+            "Evil Queen",
+            "Evil Queen"
+        ],
+        [
+            "이블 퀸",
+            "악인 로트바르트",
+            "이블 퀸",
+            "이블 퀸"
+        ],
+        [
+            "邪悪な女王",
+            "ロートバルト",
+            "邪悪な女王",
+            "邪悪な女王"
+        ]
+    ],
+    "dialogueText": [
+        [
+            "It seems the enemy is more resilient than I expected.",
+            "You shouldn't use the power of the Dreamless so recklessly. If you aren't careful, they will consume you.",
+            "Nonsense! My power is absolute!",
+            "Advance my legions! Crush them all!"
+        ],
+        [
+            "후훗, 그래. 재미있구나, 예상대로야.",
+            "여왕이여, 드림리스의 힘을 무리하게 쓰지 않도록 해라. 주의하지 않으면 그들이 널 삼킬테니...",
+            "상관없어. 이 아름다움이 영원할 수만 있다면...",
+            "백설공주를 쓰러트릴 수만 있다면... 진격해라, 군단이여!"
+        ],
+        []
+    ],
+    "music": [
+        "music_threateningbattle.wav",
+        "",
+        "",
+        ""
+    ]
+}

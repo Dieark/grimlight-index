@@ -1,0 +1,64 @@
+{
+    "StoryName": "Campaign_Chapter12_Part4c",
+    "background": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "character": [
+        [
+            "Aurora",
+            "Aurora",
+            "Aurora",
+            "",
+            "",
+            ""
+        ],
+        [
+            "오로라",
+            "오로라",
+            "오로라",
+            "",
+            "",
+            ""
+        ],
+        [
+            "オーロラ",
+            "オーロラ",
+            "オーロラ",
+            "",
+            "",
+            ""
+        ]
+    ],
+    "dialogueText": [
+        [
+            "Dreamer! You came!",
+            "I was so scared that he would take you, too!",
+            "I should have known you wouldn't be defeated by the likes of him!",
+            "Don't count your chickens just yet – you've yet to meet Dracula face to face in battle.",
+            "There is one World Stone the Count seems to be fighting particularly hard to keep hold of.",
+            "And you think you know why..."
+        ],
+        [
+            "꿈꾸는 자! 오셨군요!",
+            "백작에게 지지 않으실 줄 믿고 있었답니다!",
+            "하지만 만에 하나라도 당신한테 무슨 일이 생겼을까 봐, 너무 무서웠어요...",
+            "오로라가 믿어준 건 고맙지만, 아직 드라큘라와 제대로 붙어본 적도 없는걸.",
+            "하지만 이제 히나만 구한다면 우리 모두가 다시 모일 수 있어.",
+            "게다가 히나의 능력을 생각한다면, 드라큘라 백작이 그녀를 꽤 벅차 할지도 몰라."
+        ],
+        []
+    ],
+    "music": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ]
+}

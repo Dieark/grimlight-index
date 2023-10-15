@@ -1,0 +1,111 @@
+{
+    "StoryName": "Campaign_LibraryStory_Scarecrow_2",
+    "background": [
+        "havennight.png",
+        "havennight.png",
+        "havennight.png",
+        "havennight.png",
+        "havennight.png",
+        "havennight.png",
+        "",
+        "woodlandscreepy.png",
+        "woodlandscreepy.png",
+        "woodlandscreepy.png",
+        "woodlandscreepy.png"
+    ],
+    "character": [
+        [
+            "",
+            "",
+            "",
+            "Scarecrow",
+            "",
+            "",
+            "",
+            "",
+            "Scarecrow",
+            "",
+            ""
+        ],
+        [
+            "",
+            "",
+            "",
+            "허수아비",
+            "",
+            "",
+            "",
+            "",
+            "허수아비",
+            "",
+            ""
+        ],
+        [
+            "",
+            "",
+            "",
+            "かかし",
+            "",
+            "",
+            "",
+            "",
+            "かかし",
+            "",
+            ""
+        ]
+    ],
+    "dialogueText": [
+        [
+            "You get up super early the next morning, before the sun has even risen, then you head to the city gate you saw Scarecrow returning through the night before.",
+            "Once there, you conceal yourself nearby and wait.",
+            "About half an hour before the sun comes up, Scarecrow appears.",
+            "...",
+            "She doesn't seem to be trying hard to conceal herself, but she's obviously being quiet.",
+            "You watch as she lets herself out through the little side gate, then you rise from your hiding place and follow her.",
+            "...",
+            "She certainly does seem to be heading deeper into the forest.",
+            "Hmmm hmm hmmmmm...",
+            "And she's humming as she goes. She doesn't seem to be worried by the darkened forest, nor does she seem to be doing anything illicit.",
+            "You follow her at a distance as she leads you through the woods..."
+        ],
+        [
+            "이른 시간이었지만 어제 본 모습 때문에 서두를 수 밖에 없었다.",
+            "어제 허수아비가 들어갔던 쪽문 앞에 서 그녀를 기다렸다.",
+            "해가 막 떠오르기 시작했을 때, 허수아비가 모습을 드러냈다.",
+            "...",
+            "느긋한 태도로 여유롭게 걷고 있다. 그녀는 나를 발견하지 못한 듯 쪽문을 통해 밖으로 나섰다.",
+            "기척을 내지 않으려 주의하며 그녀의 뒤를 따라 나섰다.",
+            "...",
+            "오로라의 말대로 숲 방향이다. 허수아비가 막힘없이 숲 속으로 들어갔다.",
+            "흠, 흠~ 흐흐흥.",
+            "가벼운 콧노래 소리가 조용한 숲길에 울려퍼진다. 위험한 일을 하려는 사람처럼 보이지는 않지만...",
+            "아무래도 조금 더 따라가 보는 게 좋을 것 같다."
+        ],
+        [
+            "早朝だったが、昨日見た姿のせいで急がざるを得なかった。",
+            "昨日かかしが通ったドアの前に立ち、彼女を待った。",
+            "ちょうど日が昇り始めた時、かかしが姿を現した。",
+            "...",
+            "のんびりと歩いている。彼女は私に気づいていない様子で、ドアから外に出た。",
+            "音を立てぬよう注意しながら、彼女の後を追った。",
+            "...",
+            "オーロラの言うとおり森のほうだ。かかしは迷わず森の中へ入っていった。",
+            "ふん、ふん～ふん～♪",
+            "楽しそうな鼻歌が静かな森に鳴り響いた。危ないことをしそうには見えないが...",
+            "もう少しついていったほうがいいだろう。"
+        ]
+    ],
+    "music": [
+        "music_sentimentalmemories.wav",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ]
+}

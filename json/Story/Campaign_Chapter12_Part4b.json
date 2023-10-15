@@ -1,0 +1,50 @@
+{
+    "StoryName": "Campaign_Chapter12_Part4b",
+    "background": [
+        "",
+        "",
+        "",
+        ""
+    ],
+    "character": [
+        [
+            "Esme",
+            "Esme",
+            "",
+            "Esme"
+        ],
+        [
+            "에스메",
+            "에스메",
+            "",
+            "에스메"
+        ],
+        [
+            "エスメ",
+            "エスメ",
+            "",
+            "エスメ"
+        ]
+    ],
+    "dialogueText": [
+        [
+            "Dreamer! Thank goodness!",
+            "I thought I'd be wandering around in my own mind forever.",
+            "It's not over yet. There are more monsters to defeat and more World Stones to rescue!",
+            "Of course! Let's save my sisters!"
+        ],
+        [
+            "꿈꾸는 자! 와 주었구나!",
+            "이 미로 속에 갇혀서 영원히 나 혼자 헤멜 줄 알았어...",
+            "에스메, 늦어서 미안. 하지만 아직 한숨 돌릴 틈은 없어. 어서 가자!",
+            "응!"
+        ],
+        []
+    ],
+    "music": [
+        "",
+        "",
+        "",
+        ""
+    ]
+}

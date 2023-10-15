@@ -1,0 +1,57 @@
+{
+    "StoryName": "Campaign_Chapter12_Part4a",
+    "background": [
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "character": [
+        [
+            "Vita",
+            "Vita",
+            "Vita",
+            "",
+            ""
+        ],
+        [
+            "비타",
+            "비타",
+            "비타",
+            "",
+            ""
+        ],
+        [
+            "ヴィータ",
+            "ヴィータ",
+            "ヴィータ",
+            "",
+            ""
+        ]
+    ],
+    "dialogueText": [
+        [
+            "Filthy monsters! Take that!",
+            "You took your time, Sleepy!",
+            "You didn’t actually fall asleep again, did you?",
+            "You grin at the feisty little girl. But there's no time to chat.",
+            "Her sisters still need rescuing!"
+        ],
+        [
+            "이 더러운 괴물아! 이거나 먹어라!",
+            "...흥, 참 오래도 걸렸네 잠탱아!",
+            "또 잠들기라도 했었던 거냐고!",
+            "여전히 기운 넘치는 비타를 보니 마음이 놓였다. 하지만 계속 수다를 떨고 있을 시간은 없다.",
+            "비타, 네 언니들도 어서 구하러 가자!"
+        ],
+        []
+    ],
+    "music": [
+        "",
+        "",
+        "",
+        "",
+        ""
+    ]
+}
