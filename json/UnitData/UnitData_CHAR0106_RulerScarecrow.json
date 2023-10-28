@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 225
+    "m_PathID": 6839594166661548410
   },
   "m_Name": "UnitData_CHAR0106_RulerScarecrow",
   "removeFromGame": 0,
@@ -223,6 +223,39 @@
           }
         ],
         "replacementCost": []
+      },
+      {
+        "primaryCosts": [
+          {
+            "objectReference": {
+              "objectType": 2,
+              "objectID": "Coin"
+            },
+            "itemCount": 100000
+          },
+          {
+            "objectReference": {
+              "objectType": 1,
+              "objectID": "MaterialItem_LimitBreak_OmniStone"
+            },
+            "itemCount": 3
+          },
+          {
+            "objectReference": {
+              "objectType": 1,
+              "objectID": "MaterialItem_ElementShardNight_Tier3"
+            },
+            "itemCount": 50
+          },
+          {
+            "objectReference": {
+              "objectType": 1,
+              "objectID": "MaterialItem_LimitBreakMat80"
+            },
+            "itemCount": 1
+          }
+        ],
+        "replacementCost": []
       }
     ],
     "duplicateReplacement": {
@@ -242,7 +275,8 @@
         "levelSelector": 0,
         "fixedLevel": 1,
         "contentLevelModulus": 1,
-        "accountLevelOffset": 0
+        "accountLevelOffset": 0,
+        "honingEffect": ""
       }
     },
     "randomStatGridOverride": {
@@ -685,7 +719,8 @@
           "levelSelector": 0,
           "fixedLevel": 1,
           "contentLevelModulus": 1,
-          "accountLevelOffset": 0
+          "accountLevelOffset": 0,
+          "honingEffect": ""
         }
       },
       {
@@ -705,7 +740,8 @@
           "levelSelector": 0,
           "fixedLevel": 1,
           "contentLevelModulus": 1,
-          "accountLevelOffset": 0
+          "accountLevelOffset": 0,
+          "honingEffect": ""
         }
       }
     ],
@@ -770,26 +806,26 @@
     "objectID": "CHAR0000"
   },
   "talkData": {
-    "m_FileID": 0,
-    "m_PathID": 1852
+    "m_FileID": 2,
+    "m_PathID": -638390255642745832
   },
   "traits": [
     {
-      "m_FileID": 0,
-      "m_PathID": 1834
+      "m_FileID": 3,
+      "m_PathID": 2335262611576935540
     },
     {
-      "m_FileID": 0,
-      "m_PathID": 1833
+      "m_FileID": 3,
+      "m_PathID": 7474401674391376560
     }
   ],
   "passiveAbility": {
-    "m_FileID": 0,
-    "m_PathID": 1832
+    "m_FileID": 3,
+    "m_PathID": 3834335240260409023
   },
   "activeAbility": {
-    "m_FileID": 0,
-    "m_PathID": 1831
+    "m_FileID": 3,
+    "m_PathID": -1816389595130521587
   },
   "Gender": 0,
   "Age": -1

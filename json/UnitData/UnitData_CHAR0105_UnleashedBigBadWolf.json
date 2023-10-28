@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 6839594166661548410
+    "m_PathID": 225
   },
   "m_Name": "UnitData_CHAR0105_UnleashedBigBadWolf",
   "removeFromGame": 0,
@@ -242,8 +242,7 @@
         "levelSelector": 0,
         "fixedLevel": 1,
         "contentLevelModulus": 1,
-        "accountLevelOffset": 0,
-        "honingEffect": ""
+        "accountLevelOffset": 0
       }
     },
     "randomStatGridOverride": {
@@ -686,8 +685,7 @@
           "levelSelector": 0,
           "fixedLevel": 1,
           "contentLevelModulus": 1,
-          "accountLevelOffset": 0,
-          "honingEffect": ""
+          "accountLevelOffset": 0
         }
       },
       {
@@ -707,8 +705,7 @@
           "levelSelector": 0,
           "fixedLevel": 1,
           "contentLevelModulus": 1,
-          "accountLevelOffset": 0,
-          "honingEffect": ""
+          "accountLevelOffset": 0
         }
       }
     ],
@@ -773,26 +770,26 @@
     "objectID": "CHAR0000"
   },
   "talkData": {
-    "m_FileID": 8,
+    "m_FileID": 25,
     "m_PathID": 2857232696298295308
   },
   "traits": [
     {
-      "m_FileID": 9,
-      "m_PathID": -649055106597998131
+      "m_FileID": 0,
+      "m_PathID": 1841
     },
     {
-      "m_FileID": 42,
-      "m_PathID": -8871391112813784166
+      "m_FileID": 0,
+      "m_PathID": 1842
     }
   ],
   "passiveAbility": {
-    "m_FileID": 9,
-    "m_PathID": 681929817421173395
+    "m_FileID": 0,
+    "m_PathID": 1840
   },
   "activeAbility": {
-    "m_FileID": 9,
-    "m_PathID": 7464426893995728358
+    "m_FileID": 0,
+    "m_PathID": 1839
   },
   "Gender": 0,
   "Age": -1

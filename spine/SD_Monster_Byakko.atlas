@@ -1,0 +1,153 @@
+
+SD_Monster_Byakko.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Byakko_Blur
+  rotate: false
+  xy: 678, 522
+  size: 305, 203
+  orig: 305, 203
+  offset: 0, 0
+  index: -1
+Lear
+  rotate: false
+  xy: 0, 928
+  size: 69, 61
+  orig: 69, 61
+  offset: 0, 0
+  index: -1
+Rear
+  rotate: false
+  xy: 576, 890
+  size: 92, 66
+  orig: 92, 66
+  offset: 0, 0
+  index: -1
+chestfluff1
+  rotate: 180
+  xy: 0, 402
+  size: 313, 272
+  orig: 313, 272
+  offset: 0, 0
+  index: -1
+chestfluff2
+  rotate: false
+  xy: 180, 148
+  size: 204, 115
+  orig: 204, 115
+  offset: 0, 0
+  index: -1
+flame1
+  rotate: false
+  xy: 324, 310
+  size: 54, 136
+  orig: 54, 136
+  offset: 0, 0
+  index: -1
+flame2
+  rotate: false
+  xy: 476, 559
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+flame3
+  rotate: true
+  xy: 140, 520
+  size: 95, 230
+  orig: 95, 230
+  offset: 0, 0
+  index: -1
+flame4
+  rotate: true
+  xy: 414, 907
+  size: 83, 164
+  orig: 83, 164
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 682, 725
+  size: 265, 239
+  orig: 265, 239
+  offset: 0, 0
+  index: -1
+leg2fluff
+  rotate: false
+  xy: 180, 278
+  size: 86, 123
+  orig: 86, 123
+  offset: 0, 0
+  index: -1
+leg3
+  rotate: true
+  xy: 752, 163
+  size: 198, 236
+  orig: 198, 236
+  offset: 0, 0
+  index: -1
+lowerleg1
+  rotate: false
+  xy: 379, 257
+  size: 265, 221
+  orig: 265, 221
+  offset: 0, 0
+  index: -1
+lowerleg2
+  rotate: true
+  xy: 540, 63
+  size: 144, 212
+  orig: 144, 212
+  offset: 0, 0
+  index: -1
+lowerleg4
+  rotate: false
+  xy: 0, 41
+  size: 166, 197
+  orig: 166, 197
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 370, 555
+  size: 105, 97
+  orig: 105, 97
+  offset: 0, 0
+  index: -1
+tail
+  rotate: 180
+  xy: 281, 263
+  size: 481, 279
+  orig: 481, 279
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 0, 635
+  size: 682, 355
+  orig: 682, 355
+  offset: 0, 0
+  index: -1
+upperleg1
+  rotate: true
+  xy: 0, 239
+  size: 163, 181
+  orig: 163, 181
+  offset: 0, 0
+  index: -1
+upperleg2
+  rotate: false
+  xy: 754, 293
+  size: 194, 213
+  orig: 194, 213
+  offset: 0, 0
+  index: -1
+upperleg4
+  rotate: false
+  xy: 385, 118
+  size: 156, 145
+  orig: 156, 145
+  offset: 0, 0
+  index: -1

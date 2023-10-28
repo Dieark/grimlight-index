@@ -1,0 +1,342 @@
+
+SD_Hero_PrinceCharming.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lcape
+  rotate: true
+  xy: 0, 168
+  size: 46, 138
+  orig: 46, 138
+  offset: 0, 0
+  index: -1
+Lepaulette
+  rotate: true
+  xy: 290, 106
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 488, 421
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 74, 139
+  size: 30, 91
+  orig: 30, 91
+  offset: 0, 0
+  index: -1
+Llowerarm
+  rotate: false
+  xy: 322, 215
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+Lshoulderbow
+  rotate: false
+  xy: 493, 266
+  size: 12, 26
+  orig: 12, 26
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 293, 374
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+Lupperarm
+  rotate: false
+  xy: 478, 125
+  size: 28, 45
+  orig: 28, 45
+  offset: 0, 0
+  index: -1
+Rcape
+  rotate: true
+  xy: 359, 292
+  size: 60, 143
+  orig: 60, 143
+  offset: 0, 0
+  index: -1
+Repaulettebottom
+  rotate: true
+  xy: 438, 104
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+Repaulettestrand1
+  rotate: true
+  xy: 74, 128
+  size: 10, 107
+  orig: 10, 107
+  offset: 0, 0
+  index: -1
+Repaulettestrand2
+  rotate: true
+  xy: 412, 359
+  size: 10, 92
+  orig: 10, 92
+  offset: 0, 0
+  index: -1
+Repaulettetop
+  rotate: true
+  xy: 306, 365
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 321, 106
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: 270
+  xy: 252, 130
+  size: 33, 92
+  orig: 33, 92
+  offset: 0, 0
+  index: -1
+Rlowerarm
+  rotate: true
+  xy: 222, 215
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 280, 368
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+Rupperarm
+  rotate: false
+  xy: 174, 281
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+backhair
+  rotate: true
+  xy: 0, 122
+  size: 47, 75
+  orig: 47, 75
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: false
+  xy: 358, 184
+  size: 52, 97
+  orig: 52, 97
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: true
+  xy: 70, 267
+  size: 63, 103
+  orig: 63, 103
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: false
+  xy: 488, 373
+  size: 22, 9
+  orig: 22, 9
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: true
+  xy: 152, 169
+  size: 46, 108
+  orig: 46, 108
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: true
+  xy: 410, 169
+  size: 49, 98
+  orig: 49, 98
+  offset: 0, 0
+  index: -1
+bangs6
+  rotate: true
+  xy: 186, 111
+  size: 58, 104
+  orig: 58, 104
+  offset: 0, 0
+  index: -1
+bangs7
+  rotate: false
+  xy: 412, 369
+  size: 75, 143
+  orig: 75, 143
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 259, 210
+  size: 63, 84
+  orig: 63, 84
+  offset: 0, 0
+  index: -1
+bodybelt1
+  rotate: false
+  xy: 219, 368
+  size: 61, 21
+  orig: 61, 21
+  offset: 0, 0
+  index: -1
+bodybelt2
+  rotate: false
+  xy: 488, 444
+  size: 20, 69
+  orig: 20, 69
+  offset: 0, 0
+  index: -1
+bottomhair
+  rotate: 180
+  xy: 212, 247
+  size: 147, 121
+  orig: 147, 135
+  offset: 0, 14
+  index: -1
+capeback
+  rotate: false
+  xy: 0, 275
+  size: 71, 103
+  orig: 71, 103
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 195, 214
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 260, 163
+  size: 93, 47
+  orig: 93, 47
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 353, 119
+  size: 85, 50
+  orig: 85, 50
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 0, 214
+  size: 98, 54
+  orig: 98, 54
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 97, 214
+  size: 98, 54
+  orig: 98, 54
+  offset: 0, 0
+  index: -1
+eyshocked
+  rotate: false
+  xy: 410, 219
+  size: 83, 73
+  orig: 83, 73
+  offset: 0, 0
+  index: -1
+hairtail
+  rotate: true
+  xy: 219, 388
+  size: 124, 117
+  orig: 124, 117
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 0, 377
+  size: 133, 135
+  orig: 133, 135
+  offset: 0, 0
+  index: -1
+mouthgrit
+  rotate: false
+  xy: 447, 353
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 230, 364
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 219, 357
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 488, 383
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 70, 346
+  size: 61, 31
+  orig: 61, 31
+  offset: 0, 0
+  index: -1
+rosehead
+  rotate: false
+  xy: 488, 399
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+rosestem
+  rotate: false
+  xy: 438, 134
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 132, 330
+  size: 182, 86
+  orig: 182, 86
+  offset: 0, 0
+  index: -1
+weaponglow
+  rotate: true
+  xy: 336, 352
+  size: 161, 77
+  orig: 161, 77
+  offset: 0, 0
+  index: -1

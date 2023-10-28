@@ -1,0 +1,355 @@
+
+SD_Hero_VanHelsing_Skin2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Glasses
+  rotate: false
+  xy: 286, 22
+  size: 152, 45
+  orig: 152, 45
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 492, 247
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+Rcollar
+  rotate: true
+  xy: 0, 3
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 492, 231
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: true
+  xy: 0, 3
+  size: 114, 166
+  orig: 114, 166
+  offset: 0, 0
+  index: -1
+cross
+  rotate: true
+  xy: 298, 66
+  size: 188, 194
+  orig: 188, 194
+  offset: 0, 0
+  index: -1
+crossbow2
+  rotate: false
+  xy: 244, 132
+  size: 43, 119
+  orig: 43, 119
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: true
+  xy: 441, 390
+  size: 120, 69
+  orig: 120, 69
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: true
+  xy: 441, 266
+  size: 124, 66
+  orig: 124, 66
+  offset: 0, 0
+  index: -1
+glowcross1
+  rotate: true
+  xy: 0, 116
+  size: 132, 244
+  orig: 132, 244
+  offset: 0, 0
+  index: -1
+glowcross2
+  rotate: false
+  xy: 298, 254
+  size: 143, 256
+  orig: 155, 268
+  offset: 6, 6
+  index: -1
+glowcross3
+  rotate: false
+  xy: 150, 251
+  size: 148, 259
+  orig: 156, 270
+  offset: 4, 5
+  index: -1
+glowcross4
+  rotate: false
+  xy: 0, 248
+  size: 150, 262
+  orig: 156, 270
+  offset: 3, 4
+  index: -1
+mouthgrit
+  rotate: false
+  xy: 441, 258
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 460, 262
+  size: 10, 4
+  orig: 10, 4
+  offset: 0, 0
+  index: -1
+mouthshock
+  rotate: false
+  xy: 492, 218
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 83, 98
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+shot1
+  rotate: false
+  xy: 438, 19
+  size: 58, 47
+  orig: 62, 50
+  offset: 2, 2
+  index: -1
+shot4
+  rotate: false
+  xy: 165, 24
+  size: 121, 92
+  orig: 125, 94
+  offset: 1, 1
+  index: -1
+
+SD_Hero_VanHelsing_Skin22.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 473, 465
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 264, 388
+  size: 34, 55
+  orig: 34, 55
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: 270
+  xy: 229, 108
+  size: 42, 121
+  orig: 46, 121
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 272, 72
+  size: 35, 65
+  orig: 35, 65
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 336, 60
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 0, 60
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 110, 140
+  size: 42, 120
+  orig: 42, 120
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 83, 104
+  size: 37, 65
+  orig: 37, 65
+  offset: 0, 0
+  index: -1
+Rstrap
+  rotate: true
+  xy: 384, 64
+  size: 67, 106
+  orig: 67, 106
+  offset: 0, 0
+  index: -1
+bangs
+  rotate: true
+  xy: 163, 352
+  size: 161, 178
+  orig: 161, 179
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: true
+  xy: 218, 207
+  size: 82, 132
+  orig: 82, 132
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: false
+  xy: 453, 131
+  size: 58, 102
+  orig: 58, 102
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 231, 295
+  size: 89, 119
+  orig: 89, 138
+  offset: 0, 0
+  index: -1
+coatback
+  rotate: 180
+  xy: 297, 390
+  size: 214, 120
+  orig: 214, 120
+  offset: 0, 0
+  index: -1
+coatedgeL
+  rotate: true
+  xy: 120, 77
+  size: 64, 104
+  orig: 64, 104
+  offset: 0, 0
+  index: -1
+coatedgeR
+  rotate: true
+  xy: 0, 60
+  size: 101, 125
+  orig: 101, 125
+  offset: 0, 0
+  index: -1
+collarback
+  rotate: false
+  xy: 115, 182
+  size: 85, 74
+  orig: 85, 74
+  offset: 0, 0
+  index: -1
+crossbow1
+  rotate: true
+  xy: 0, 160
+  size: 54, 110
+  orig: 54, 110
+  offset: 0, 0
+  index: -1
+crossbow_arrow1
+  rotate: true
+  xy: 350, 119
+  size: 68, 81
+  orig: 68, 81
+  offset: 0, 0
+  index: -1
+crossbow_arrow2
+  rotate: false
+  xy: 464, 260
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 350, 246
+  size: 114, 69
+  orig: 114, 69
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 350, 188
+  size: 105, 58
+  orig: 105, 58
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 127, 256
+  size: 96, 90
+  orig: 96, 90
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 0, 346
+  size: 163, 166
+  orig: 163, 166
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 197, 73
+  size: 74, 42
+  orig: 74, 45
+  offset: 0, 3
+  index: -1
+pelvisdetail
+  rotate: false
+  xy: 215, 167
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+shot2
+  rotate: false
+  xy: 0, 214
+  size: 115, 59
+  orig: 118, 61
+  offset: 1, 1
+  index: -1
+shot3
+  rotate: false
+  xy: 0, 273
+  size: 127, 73
+  orig: 130, 75
+  offset: 2, 1
+  index: -1
+shot5
+  rotate: false
+  xy: 350, 314
+  size: 133, 87
+  orig: 136, 90
+  offset: 2, 2
+  index: -1
+shot6
+  rotate: true
+  xy: 261, 151
+  size: 62, 89
+  orig: 68, 93
+  offset: 2, 3
+  index: -1

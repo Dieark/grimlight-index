@@ -223,6 +223,39 @@
           }
         ],
         "replacementCost": []
+      },
+      {
+        "primaryCosts": [
+          {
+            "objectReference": {
+              "objectType": 2,
+              "objectID": "Coin"
+            },
+            "itemCount": 100000
+          },
+          {
+            "objectReference": {
+              "objectType": 1,
+              "objectID": "MaterialItem_LimitBreak_OmniStone"
+            },
+            "itemCount": 3
+          },
+          {
+            "objectReference": {
+              "objectType": 1,
+              "objectID": "MaterialItem_ElementShardDay_Tier3"
+            },
+            "itemCount": 50
+          },
+          {
+            "objectReference": {
+              "objectType": 1,
+              "objectID": "MaterialItem_LimitBreakMat80"
+            },
+            "itemCount": 1
+          }
+        ],
+        "replacementCost": []
       }
     ],
     "duplicateReplacement": {
@@ -713,10 +746,16 @@
       }
     ],
     "heroStoriesItemList": [],
-    "heroSkinItemList": []
+    "heroSkinItemList": [
+      {
+        "objectType": 17,
+        "objectID": "VanHelsing_Skin2"
+      }
+    ]
   },
   "skinAssetNames": [
-    "UnitSkinAssets_Char0057_VanHelsing"
+    "UnitSkinAssets_Char0057_VanHelsing",
+    "UnitSkinAssets_Char0057_VanHelsing_Skin2"
   ],
   "storyDatas": [],
   "unitStatData": {
