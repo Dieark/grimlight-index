@@ -1,0 +1,118 @@
+
+SD_Monster_Shade_Vanguard.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: 180
+  xy: 336, 207
+  size: 81, 122
+  orig: 81, 122
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 211, 14
+  size: 92, 166
+  orig: 92, 166
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 312, 327
+  size: 81, 130
+  orig: 81, 130
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 130, 326
+  size: 99, 164
+  orig: 99, 164
+  offset: 0, 0
+  index: -1
+beak
+  rotate: 270
+  xy: 349, 292
+  size: 153, 116
+  orig: 153, 116
+  offset: 0, 0
+  index: -1
+brooch
+  rotate: true
+  xy: 138, 30
+  size: 73, 46
+  orig: 73, 46
+  offset: 0, 0
+  index: -1
+cape
+  rotate: true
+  xy: 0, 1
+  size: 190, 139
+  orig: 190, 139
+  offset: 0, 0
+  index: -1
+chain
+  rotate: false
+  xy: 229, 344
+  size: 69, 26
+  orig: 69, 26
+  offset: 0, 0
+  index: -1
+chain2
+  rotate: false
+  xy: 392, 17
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+eyedeath
+  rotate: false
+  xy: 317, 469
+  size: 57, 21
+  orig: 57, 21
+  offset: 0, 0
+  index: -1
+fur
+  rotate: true
+  xy: 121, 102
+  size: 225, 103
+  orig: 225, 103
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 303, 113
+  size: 90, 96
+  orig: 90, 96
+  offset: 0, 0
+  index: -1
+hood
+  rotate: true
+  xy: 229, 370
+  size: 121, 88
+  orig: 121, 88
+  offset: 0, 0
+  index: -1
+hoodback
+  rotate: true
+  xy: 303, 17
+  size: 95, 89
+  orig: 95, 89
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 223, 208
+  size: 90, 119
+  orig: 90, 119
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 0, 191
+  size: 130, 299
+  orig: 130, 299
+  offset: 0, 0
+  index: -1

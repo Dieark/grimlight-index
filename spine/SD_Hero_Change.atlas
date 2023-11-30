@@ -1,0 +1,432 @@
+
+SD_Hero_Change.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 461, 6
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+Learring
+  rotate: false
+  xy: 277, 95
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 486, 25
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 465, 427
+  size: 28, 85
+  orig: 28, 85
+  offset: 0, 0
+  index: -1
+Lsleeve_back
+  rotate: true
+  xy: 461, 123
+  size: 62, 48
+  orig: 62, 48
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 0, 5
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: 180
+  xy: 484, 260
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 284, 11
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 196, 4
+  size: 31, 88
+  orig: 31, 88
+  offset: 0, 0
+  index: -1
+chestdec
+  rotate: false
+  xy: 465, 347
+  size: 26, 81
+  orig: 26, 81
+  offset: 0, 0
+  index: -1
+collar
+  rotate: true
+  xy: 461, 51
+  size: 71, 27
+  orig: 71, 27
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: true
+  xy: 259, 165
+  size: 83, 46
+  orig: 83, 46
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 196, 34
+  size: 98, 59
+  orig: 98, 59
+  offset: 0, 0
+  index: -1
+fan
+  rotate: true
+  xy: 461, 181
+  size: 78, 28
+  orig: 78, 28
+  offset: 0, 0
+  index: -1
+fan_tassel
+  rotate: false
+  xy: 298, 129
+  size: 6, 37
+  orig: 6, 37
+  offset: 0, 0
+  index: -1
+fringeL2
+  rotate: false
+  xy: 465, 264
+  size: 36, 84
+  orig: 36, 84
+  offset: 0, 0
+  index: -1
+hair4
+  rotate: false
+  xy: 491, 357
+  size: 19, 38
+  orig: 19, 38
+  offset: 0, 0
+  index: -1
+hairbun
+  rotate: true
+  xy: 259, 111
+  size: 55, 40
+  orig: 55, 40
+  offset: 0, 0
+  index: -1
+hairdec
+  rotate: false
+  xy: 0, 21
+  size: 197, 72
+  orig: 197, 72
+  offset: 0, 0
+  index: -1
+hairjingle1
+  rotate: false
+  xy: 304, 110
+  size: 8, 57
+  orig: 8, 57
+  offset: 0, 0
+  index: -1
+hairjingle10
+  rotate: false
+  xy: 294, 53
+  size: 14, 57
+  orig: 14, 57
+  offset: 0, 0
+  index: -1
+hairjingle2
+  rotate: false
+  xy: 488, 202
+  size: 6, 58
+  orig: 6, 58
+  offset: 0, 0
+  index: -1
+hairjingle3
+  rotate: false
+  xy: 488, 202
+  size: 6, 58
+  orig: 6, 58
+  offset: 0, 0
+  index: -1
+hairjingle4
+  rotate: false
+  xy: 488, 202
+  size: 6, 58
+  orig: 6, 58
+  offset: 0, 0
+  index: -1
+hairjingle5
+  rotate: false
+  xy: 492, 398
+  size: 9, 58
+  orig: 9, 58
+  offset: 0, 0
+  index: -1
+hairjingle6
+  rotate: false
+  xy: 502, 398
+  size: 8, 57
+  orig: 8, 57
+  offset: 0, 0
+  index: -1
+hairjingle7
+  rotate: false
+  xy: 304, 190
+  size: 6, 57
+  orig: 6, 57
+  offset: 0, 0
+  index: -1
+hairjingle8
+  rotate: true
+  xy: 0, 251
+  size: 9, 57
+  orig: 9, 57
+  offset: 0, 0
+  index: -1
+hairjingle9
+  rotate: false
+  xy: 492, 455
+  size: 11, 57
+  orig: 11, 57
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 68, 257
+  size: 11, 4
+  orig: 11, 4
+  offset: 0, 0
+  index: -1
+mouthshock
+  rotate: false
+  xy: 57, 250
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 259, 94
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+portal
+  rotate: false
+  xy: 313, 0
+  size: 148, 259
+  orig: 152, 261
+  offset: 2, 1
+  index: -1
+ringglow2
+  rotate: true
+  xy: 0, 92
+  size: 155, 259
+  orig: 159, 261
+  offset: 2, 1
+  index: -1
+ringglow3
+  rotate: false
+  xy: 161, 247
+  size: 152, 265
+  orig: 154, 267
+  offset: 1, 1
+  index: -1
+ringglow4
+  rotate: false
+  xy: 0, 260
+  size: 161, 252
+  orig: 163, 255
+  offset: 1, 1
+  index: -1
+ringglow5
+  rotate: false
+  xy: 313, 259
+  size: 152, 253
+  orig: 154, 255
+  offset: 1, 1
+  index: -1
+
+SD_Hero_Change2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lsleeve
+  rotate: true
+  xy: 222, 14
+  size: 62, 70
+  orig: 62, 72
+  offset: 0, 2
+  index: -1
+Rsleeve
+  rotate: 270
+  xy: 165, 47
+  size: 65, 73
+  orig: 65, 73
+  offset: 0, 0
+  index: -1
+Rsleeve_back
+  rotate: false
+  xy: 147, 296
+  size: 66, 38
+  orig: 66, 38
+  offset: 0, 0
+  index: -1
+bangs
+  rotate: true
+  xy: 0, 160
+  size: 105, 118
+  orig: 120, 160
+  offset: 15, 37
+  index: -1
+body
+  rotate: 180
+  xy: 78, 101
+  size: 86, 96
+  orig: 86, 96
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 393, 178
+  size: 94, 60
+  orig: 94, 60
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 393, 122
+  size: 98, 57
+  orig: 98, 57
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 243, 104
+  size: 76, 72
+  orig: 76, 72
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 317, 239
+  size: 118, 127
+  orig: 118, 127
+  offset: 0, 0
+  index: -1
+fringeL
+  rotate: 270
+  xy: 353, 23
+  size: 72, 158
+  orig: 72, 158
+  offset: 0, 0
+  index: -1
+fringeR
+  rotate: true
+  xy: 242, 149
+  size: 95, 151
+  orig: 95, 151
+  offset: 0, 0
+  index: -1
+fringeR2
+  rotate: false
+  xy: 476, 467
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: true
+  xy: 0, 45
+  size: 98, 161
+  orig: 98, 161
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: true
+  xy: 98, 149
+  size: 98, 144
+  orig: 98, 144
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: true
+  xy: 147, 244
+  size: 90, 163
+  orig: 90, 163
+  offset: 0, 0
+  index: -1
+hair5
+  rotate: true
+  xy: 147, 334
+  size: 178, 175
+  orig: 178, 175
+  offset: 0, 0
+  index: -1
+hairknotL
+  rotate: false
+  xy: 444, 277
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1
+hairknotR
+  rotate: false
+  xy: 0, 26
+  size: 71, 74
+  orig: 71, 74
+  offset: 0, 0
+  index: -1
+headback
+  rotate: true
+  xy: 321, 357
+  size: 156, 123
+  orig: 156, 123
+  offset: 0, 0
+  index: -1
+ringglow1
+  rotate: false
+  xy: 0, 264
+  size: 147, 248
+  orig: 149, 250
+  offset: 1, 1
+  index: -1
+veilL
+  rotate: false
+  xy: 444, 341
+  size: 56, 171
+  orig: 56, 171
+  offset: 0, 0
+  index: -1
+veilR
+  rotate: true
+  xy: 294, 40
+  size: 83, 196
+  orig: 83, 196
+  offset: 0, 0
+  index: -1
+veil_back
+  rotate: false
+  xy: 165, 77
+  size: 193, 69
+  orig: 193, 69
+  offset: 0, 0
+  index: -1
