@@ -1,0 +1,516 @@
+
+SD_Monster_BefanaOverload.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lfrill
+  rotate: false
+  xy: 489, 246
+  size: 22, 46
+  orig: 22, 46
+  offset: 0, 0
+  index: -1
+Lfrillback
+  rotate: false
+  xy: 322, 404
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 322, 360
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 0, 249
+  size: 44, 116
+  orig: 44, 117
+  offset: 0, 1
+  index: -1
+Rthumb
+  rotate: false
+  xy: 322, 380
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: 270
+  xy: 0, 11
+  size: 33, 133
+  orig: 33, 133
+  offset: 0, 0
+  index: -1
+bangs6
+  rotate: false
+  xy: 426, 92
+  size: 30, 64
+  orig: 30, 64
+  offset: 0, 0
+  index: -1
+bangs7
+  rotate: false
+  xy: 351, 3
+  size: 161, 153
+  orig: 161, 153
+  offset: 0, 0
+  index: -1
+bangs7x
+  rotate: false
+  xy: 232, 77
+  size: 201, 163
+  orig: 201, 163
+  offset: 0, 0
+  index: -1
+broom
+  rotate: false
+  xy: 0, 432
+  size: 344, 81
+  orig: 344, 81
+  offset: 0, 0
+  index: -1
+broompiece2
+  rotate: true
+  xy: 489, 291
+  size: 58, 22
+  orig: 58, 22
+  offset: 0, 0
+  index: -1
+dress
+  rotate: false
+  xy: 0, 33
+  size: 153, 112
+  orig: 153, 112
+  offset: 0, 0
+  index: -1
+dress_sit
+  rotate: false
+  xy: 232, 148
+  size: 155, 94
+  orig: 155, 97
+  offset: 0, 0
+  index: -1
+ear
+  rotate: true
+  xy: 121, 254
+  size: 34, 64
+  orig: 34, 64
+  offset: 0, 0
+  index: -1
+eflashB4
+  rotate: false
+  xy: 433, 156
+  size: 75, 85
+  orig: 75, 85
+  offset: 0, 0
+  index: -1
+eflashC2
+  rotate: true
+  xy: 296, 10
+  size: 61, 55
+  orig: 61, 55
+  offset: 0, 0
+  index: -1
+flash4
+  rotate: false
+  xy: 139, 14
+  size: 157, 74
+  orig: 157, 74
+  offset: 0, 0
+  index: -1
+hairback
+  rotate: false
+  xy: 0, 287
+  size: 186, 146
+  orig: 186, 146
+  offset: 0, 0
+  index: -1
+hairbow
+  rotate: false
+  xy: 216, 87
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 0, 145
+  size: 233, 104
+  orig: 233, 104
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 344, 349
+  size: 163, 166
+  orig: 163, 166
+  offset: 0, 0
+  index: -1
+horns
+  rotate: true
+  xy: 185, 250
+  size: 182, 137
+  orig: 182, 137
+  offset: 0, 0
+  index: -1
+maskshine
+  rotate: false
+  xy: 322, 241
+  size: 167, 109
+  orig: 167, 109
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 165, 428
+  size: 10, 4
+  orig: 10, 4
+  offset: 0, 0
+  index: -1
+windup
+  rotate: false
+  xy: 152, 87
+  size: 63, 58
+  orig: 63, 58
+  offset: 0, 0
+  index: -1
+
+SD_Monster_BefanaOverload2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 112, 148
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 408, 99
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 0, 324
+  size: 38, 110
+  orig: 38, 110
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 340, 97
+  size: 35, 64
+  orig: 35, 64
+  offset: 0, 0
+  index: -1
+Rarrm
+  rotate: false
+  xy: 59, 93
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 196, 69
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 0, 103
+  size: 36, 59
+  orig: 36, 59
+  offset: 0, 0
+  index: -1
+apron
+  rotate: false
+  xy: 263, 346
+  size: 90, 88
+  orig: 90, 88
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: 270
+  xy: 162, 268
+  size: 78, 174
+  orig: 78, 174
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: true
+  xy: 330, 271
+  size: 54, 147
+  orig: 54, 147
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: true
+  xy: 109, 311
+  size: 74, 190
+  orig: 74, 190
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: true
+  xy: 0, 235
+  size: 78, 158
+  orig: 78, 158
+  offset: 0, 0
+  index: -1
+bangs8
+  rotate: true
+  xy: 349, 132
+  size: 37, 96
+  orig: 126, 118
+  offset: 5, 0
+  index: -1
+bowback
+  rotate: false
+  xy: 294, 96
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+broomexhaust1
+  rotate: false
+  xy: 0, 139
+  size: 113, 26
+  orig: 113, 26
+  offset: 0, 0
+  index: -1
+broomexhaust2
+  rotate: false
+  xy: 0, 363
+  size: 110, 77
+  orig: 110, 77
+  offset: 0, 0
+  index: -1
+broomexhaust3
+  rotate: false
+  xy: 263, 434
+  size: 110, 78
+  orig: 110, 78
+  offset: 0, 0
+  index: -1
+broomexhaustbar
+  rotate: false
+  xy: 444, 78
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+broomexhaustbar2
+  rotate: false
+  xy: 0, 289
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+broompiece
+  rotate: false
+  xy: 109, 402
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+broompiece3
+  rotate: true
+  xy: 248, 206
+  size: 63, 26
+  orig: 63, 26
+  offset: 0, 0
+  index: -1
+broompiece4
+  rotate: true
+  xy: 483, 311
+  size: 66, 28
+  orig: 66, 28
+  offset: 0, 0
+  index: -1
+broompiece5
+  rotate: false
+  xy: 164, 98
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+eflash1
+  rotate: false
+  xy: 477, 280
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+eflash2
+  rotate: false
+  xy: 112, 92
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+eflash3
+  rotate: true
+  xy: 158, 143
+  size: 62, 82
+  orig: 62, 82
+  offset: 0, 0
+  index: -1
+eflash4
+  rotate: true
+  xy: 79, 195
+  size: 69, 79
+  orig: 69, 79
+  offset: 0, 0
+  index: -1
+eflash5
+  rotate: true
+  xy: 444, 109
+  size: 52, 56
+  orig: 52, 56
+  offset: 0, 0
+  index: -1
+eflashB1
+  rotate: true
+  xy: 404, 71
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+eflashB2
+  rotate: true
+  xy: 296, 143
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1
+eflashB3
+  rotate: true
+  xy: 158, 204
+  size: 64, 86
+  orig: 64, 86
+  offset: 0, 0
+  index: -1
+eflashB5
+  rotate: false
+  xy: 240, 144
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+eflashC1
+  rotate: true
+  xy: 164, 69
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+eflashC3
+  rotate: false
+  xy: 353, 192
+  size: 68, 79
+  orig: 68, 79
+  offset: 0, 0
+  index: -1
+eflashC4
+  rotate: true
+  xy: 273, 200
+  size: 73, 80
+  orig: 73, 80
+  offset: 0, 0
+  index: -1
+eflashC5
+  rotate: false
+  xy: 240, 91
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+flash1
+  rotate: true
+  xy: 479, 74
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+flash2
+  rotate: false
+  xy: 429, 202
+  size: 82, 75
+  orig: 82, 75
+  offset: 0, 0
+  index: -1
+flash3
+  rotate: false
+  xy: 141, 430
+  size: 122, 82
+  orig: 122, 82
+  offset: 0, 0
+  index: -1
+flash5
+  rotate: false
+  xy: 0, 439
+  size: 142, 74
+  orig: 142, 74
+  offset: 0, 0
+  index: -1
+flash6
+  rotate: false
+  xy: 352, 324
+  size: 130, 52
+  orig: 130, 52
+  offset: 0, 0
+  index: -1
+hairtail
+  rotate: true
+  xy: 159, 346
+  size: 84, 98
+  orig: 84, 98
+  offset: 0, 0
+  index: -1
+hairtail1
+  rotate: true
+  xy: 421, 161
+  size: 40, 82
+  orig: 40, 82
+  offset: 0, 0
+  index: -1
+hairtail2
+  rotate: true
+  xy: 0, 74
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+mask
+  rotate: false
+  xy: 372, 444
+  size: 124, 68
+  orig: 124, 68
+  offset: 0, 0
+  index: -1
+maskdark
+  rotate: false
+  xy: 372, 376
+  size: 124, 68
+  orig: 124, 68
+  offset: 0, 0
+  index: -1
+torso
+  rotate: true
+  xy: 0, 166
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1

@@ -8,7 +8,7 @@
     "m_FileID": 0,
     "m_PathID": 6839594166661548410
   },
-  "m_Name": "UnitData_CHAR0107_TinLord",
+  "m_Name": "UnitData_CHAR0096_Befana",
   "removeFromGame": 0,
   "timeLimitSettings": {
     "limitByTime": 0,
@@ -30,7 +30,7 @@
     }
   },
   "unitData": {
-    "unitID": "CHAR0107",
+    "unitID": "CHAR0096",
     "startingTier": 5,
     "levelLimitBreakCosts": [
       {
@@ -45,14 +45,14 @@
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ElementShardDay_Tier1"
+              "objectID": "MaterialItem_ElementShardLife_Tier1"
             },
             "itemCount": 15
           },
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ClassMat_Guardian"
+              "objectID": "MaterialItem_ClassMat_Ranger"
             },
             "itemCount": 5
           }
@@ -71,14 +71,14 @@
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ElementShardDay_Tier1"
+              "objectID": "MaterialItem_ElementShardLife_Tier1"
             },
             "itemCount": 30
           },
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ClassMat_Guardian"
+              "objectID": "MaterialItem_ClassMat_Ranger"
             },
             "itemCount": 10
           },
@@ -104,14 +104,14 @@
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ElementShardDay_Tier2"
+              "objectID": "MaterialItem_ElementShardLife_Tier2"
             },
             "itemCount": 10
           },
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ClassMat_Guardian"
+              "objectID": "MaterialItem_ClassMat_Ranger"
             },
             "itemCount": 20
           },
@@ -137,14 +137,14 @@
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ElementShardDay_Tier2"
+              "objectID": "MaterialItem_ElementShardLife_Tier2"
             },
             "itemCount": 15
           },
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ClassMat_Guardian"
+              "objectID": "MaterialItem_ClassMat_Ranger"
             },
             "itemCount": 35
           },
@@ -170,14 +170,14 @@
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ElementShardDay_Tier3"
+              "objectID": "MaterialItem_ElementShardLife_Tier3"
             },
             "itemCount": 20
           },
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ClassMat_Guardian"
+              "objectID": "MaterialItem_ClassMat_Ranger"
             },
             "itemCount": 50
           },
@@ -203,14 +203,14 @@
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ElementShardDay_Tier3"
+              "objectID": "MaterialItem_ElementShardLife_Tier3"
             },
             "itemCount": 30
           },
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ClassMat_Guardian"
+              "objectID": "MaterialItem_ClassMat_Ranger"
             },
             "itemCount": 70
           },
@@ -243,7 +243,7 @@
           {
             "objectReference": {
               "objectType": 1,
-              "objectID": "MaterialItem_ElementShardDay_Tier3"
+              "objectID": "MaterialItem_ElementShardLife_Tier3"
             },
             "itemCount": 50
           },
@@ -261,7 +261,7 @@
     "duplicateReplacement": {
       "objectReference": {
         "objectType": 4,
-        "objectID": "UnitToken_CHAR0107"
+        "objectID": "UnitToken_CHAR0096"
       },
       "itemCount": 1,
       "dropOptionExtension": {
@@ -297,7 +297,7 @@
               {
                 "objectReference": {
                   "objectType": 4,
-                  "objectID": "UnitToken_CHAR0107"
+                  "objectID": "UnitToken_CHAR0096"
                 },
                 "itemCount": 1
               }
@@ -319,7 +319,7 @@
               {
                 "objectReference": {
                   "objectType": 4,
-                  "objectID": "UnitToken_CHAR0107"
+                  "objectID": "UnitToken_CHAR0096"
                 },
                 "itemCount": 1
               }
@@ -341,7 +341,7 @@
               {
                 "objectReference": {
                   "objectType": 4,
-                  "objectID": "UnitToken_CHAR0107"
+                  "objectID": "UnitToken_CHAR0096"
                 },
                 "itemCount": 1
               }
@@ -363,7 +363,7 @@
               {
                 "objectReference": {
                   "objectType": 4,
-                  "objectID": "UnitToken_CHAR0107"
+                  "objectID": "UnitToken_CHAR0096"
                 },
                 "itemCount": 1
               }
@@ -385,7 +385,7 @@
               {
                 "objectReference": {
                   "objectType": 4,
-                  "objectID": "UnitToken_CHAR0107"
+                  "objectID": "UnitToken_CHAR0096"
                 },
                 "itemCount": 1
               }
@@ -407,7 +407,7 @@
               {
                 "objectReference": {
                   "objectType": 4,
-                  "objectID": "UnitToken_CHAR0107"
+                  "objectID": "UnitToken_CHAR0096"
                 },
                 "itemCount": 1
               }
@@ -429,7 +429,7 @@
               {
                 "objectReference": {
                   "objectType": 4,
-                  "objectID": "UnitToken_CHAR0107"
+                  "objectID": "UnitToken_CHAR0096"
                 },
                 "itemCount": 1
               }
@@ -451,7 +451,7 @@
               {
                 "objectReference": {
                   "objectType": 4,
-                  "objectID": "UnitToken_CHAR0107"
+                  "objectID": "UnitToken_CHAR0096"
                 },
                 "itemCount": 1
               }
@@ -473,7 +473,7 @@
               {
                 "objectReference": {
                   "objectType": 4,
-                  "objectID": "UnitToken_CHAR0107"
+                  "objectID": "UnitToken_CHAR0096"
                 },
                 "itemCount": 1
               }
@@ -512,7 +512,7 @@
     "skillComponentData": {
       "skillDataList": [
         {
-          "skillID": "Ability_TinLord_Active",
+          "skillID": "Ability_Befana_Active",
           "maxLevel": 0,
           "upgradeRequirements": [
             {
@@ -522,7 +522,7 @@
                   {
                     "objectReference": {
                       "objectType": 1,
-                      "objectID": "MaterialItem_ElementShardDay_Tier1"
+                      "objectID": "MaterialItem_ElementShardLife_Tier1"
                     },
                     "itemCount": 10
                   },
@@ -544,7 +544,7 @@
                   {
                     "objectReference": {
                       "objectType": 1,
-                      "objectID": "MaterialItem_ElementShardDay_Tier1"
+                      "objectID": "MaterialItem_ElementShardLife_Tier1"
                     },
                     "itemCount": 20
                   },
@@ -566,7 +566,7 @@
                   {
                     "objectReference": {
                       "objectType": 1,
-                      "objectID": "MaterialItem_ElementShardDay_Tier2"
+                      "objectID": "MaterialItem_ElementShardLife_Tier2"
                     },
                     "itemCount": 15
                   },
@@ -588,7 +588,7 @@
                   {
                     "objectReference": {
                       "objectType": 1,
-                      "objectID": "MaterialItem_ElementShardDay_Tier3"
+                      "objectID": "MaterialItem_ElementShardLife_Tier3"
                     },
                     "itemCount": 15
                   },
@@ -606,7 +606,7 @@
           ]
         },
         {
-          "skillID": "Ability_TinLord_Passive1",
+          "skillID": "Ability_Befana_Passive1",
           "maxLevel": 0,
           "upgradeRequirements": [
             {
@@ -616,7 +616,7 @@
                   {
                     "objectReference": {
                       "objectType": 1,
-                      "objectID": "MaterialItem_ElementShardDay_Tier1"
+                      "objectID": "MaterialItem_ElementShardLife_Tier1"
                     },
                     "itemCount": 10
                   },
@@ -638,7 +638,7 @@
                   {
                     "objectReference": {
                       "objectType": 1,
-                      "objectID": "MaterialItem_ElementShardDay_Tier1"
+                      "objectID": "MaterialItem_ElementShardLife_Tier1"
                     },
                     "itemCount": 20
                   },
@@ -660,7 +660,7 @@
                   {
                     "objectReference": {
                       "objectType": 1,
-                      "objectID": "MaterialItem_ElementShardDay_Tier2"
+                      "objectID": "MaterialItem_ElementShardLife_Tier2"
                     },
                     "itemCount": 15
                   },
@@ -682,7 +682,7 @@
                   {
                     "objectReference": {
                       "objectType": 1,
-                      "objectID": "MaterialItem_ElementShardDay_Tier3"
+                      "objectID": "MaterialItem_ElementShardLife_Tier3"
                     },
                     "itemCount": 15
                   },
@@ -705,7 +705,7 @@
       {
         "objectReference": {
           "objectType": 1,
-          "objectID": "MaterialItem_HavenElementAffinityLight"
+          "objectID": "MaterialItem_HavenElementAffinityNature"
         },
         "itemCount": 1,
         "dropOptionExtension": {
@@ -725,13 +725,13 @@
       },
       {
         "objectReference": {
-          "objectType": 4,
-          "objectID": "UnitToken_CHAR0040"
+          "objectType": 7,
+          "objectID": "EquipmentItem_T4_Weapon_WitchesBroom"
         },
         "itemCount": 1,
         "dropOptionExtension": {
           "applyExtensions": 1,
-          "individualDropPercent": 1,
+          "individualDropPercent": 10,
           "maxDrop": 1,
           "minDrop": 1
         },
@@ -749,52 +749,52 @@
     "heroSkinItemList": []
   },
   "skinAssetNames": [
-    "UnitSkinAssets_Char0107_TinLord"
+    "UnitSkinAssets_Char0096_Befana"
   ],
   "storyDatas": [],
   "unitStatData": {
-    "id": "CHAR0107",
-    "displayName": "TinLord",
+    "id": "CHAR0096",
+    "displayName": "Befana",
     "portrait": {
       "m_FileID": 0,
       "m_PathID": 0
     },
-    "unitElement": 3,
-    "classType": 0,
+    "unitElement": 0,
+    "classType": 4,
     "deployCost": 3,
     "hp": {
       "statType": 1,
-      "yIntercept": 1200.0,
+      "yIntercept": 720.0,
       "hasExponentialScale": 0
     },
     "attackDamage": {
-      "DamageType": 0,
+      "DamageType": 1,
       "damageScaling": {
         "statType": 1,
-        "yIntercept": 27.0,
+        "yIntercept": 42.0,
         "hasExponentialScale": 0
       }
     },
     "defense": {
       "statType": 1,
-      "yIntercept": 32.0,
+      "yIntercept": 20.0,
       "hasExponentialScale": 0
     },
     "critChance": 1.0,
-    "critDamage": 50.0,
+    "critDamage": 100.0,
     "hpAbsorb": 0.0,
     "physResist": 0.0,
-    "magicResist": 25.0,
+    "magicResist": 0.0,
     "baseEvasionPercent": 0.0,
     "baseAccuracyPercent": 0.0,
     "resilience": 0.0,
-    "attackSpeed": 0.9,
-    "attackRange": 10.0,
+    "attackSpeed": 1.0,
+    "attackRange": 50.0,
     "energyGainPerAttack": 15,
     "moveSpeed": 15.0,
-    "targetZAlignment": 0.0,
+    "targetZAlignment": 1.0,
     "laneSearch": 5,
-    "aggroRange": 40.0,
+    "aggroRange": 50.0,
     "pushRadius": 0.0,
     "knockbackImmune": 0,
     "healReduction": 0,
@@ -803,29 +803,33 @@
   },
   "awakeningRareMat": {
     "objectType": 0,
-    "objectID": "CHAR0000"
+    "objectID": ""
   },
   "talkData": {
-    "m_FileID": 22,
-    "m_PathID": 1858537707376022619
+    "m_FileID": 2,
+    "m_PathID": -1951803014255837026
   },
   "traits": [
     {
-      "m_FileID": 23,
-      "m_PathID": -4450947582862247426
+      "m_FileID": 0,
+      "m_PathID": -2058787676219851186
     },
     {
-      "m_FileID": 23,
-      "m_PathID": 855843083387651527
+      "m_FileID": 0,
+      "m_PathID": 920959514113246853
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": -556361861483708752
     }
   ],
   "passiveAbility": {
-    "m_FileID": 23,
-    "m_PathID": 6122161787999795720
+    "m_FileID": 3,
+    "m_PathID": -916243764127643828
   },
   "activeAbility": {
-    "m_FileID": 23,
-    "m_PathID": -2449762876624235385
+    "m_FileID": 3,
+    "m_PathID": 7345023503826131546
   },
   "Gender": 0,
   "Age": -1

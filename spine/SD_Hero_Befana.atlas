@@ -1,0 +1,551 @@
+
+SD_Hero_Befana.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 156, 102
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+Lfrill
+  rotate: false
+  xy: 489, 163
+  size: 22, 46
+  orig: 22, 46
+  offset: 0, 0
+  index: -1
+Lfrillback
+  rotate: false
+  xy: 322, 404
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 322, 360
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 0, 249
+  size: 44, 116
+  orig: 44, 117
+  offset: 0, 1
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 126, 252
+  size: 36, 59
+  orig: 36, 59
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 322, 380
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: true
+  xy: 156, 27
+  size: 74, 190
+  orig: 74, 190
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: 270
+  xy: 124, 4
+  size: 33, 133
+  orig: 33, 133
+  offset: 0, 0
+  index: -1
+bangs6
+  rotate: true
+  xy: 366, 320
+  size: 30, 64
+  orig: 30, 64
+  offset: 0, 0
+  index: -1
+bangs7
+  rotate: false
+  xy: 232, 168
+  size: 201, 163
+  orig: 201, 163
+  offset: 0, 0
+  index: -1
+broom
+  rotate: false
+  xy: 0, 432
+  size: 344, 81
+  orig: 344, 81
+  offset: 0, 0
+  index: -1
+broomexhaustbar
+  rotate: false
+  xy: 124, 39
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+broompiece3
+  rotate: false
+  xy: 297, 5
+  size: 63, 26
+  orig: 63, 26
+  offset: 0, 0
+  index: -1
+broompiece4
+  rotate: true
+  xy: 484, 35
+  size: 66, 28
+  orig: 66, 28
+  offset: 0, 0
+  index: -1
+broompiece5
+  rotate: true
+  xy: 322, 298
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+dress
+  rotate: 180
+  xy: 359, 94
+  size: 153, 112
+  orig: 153, 112
+  offset: 0, 0
+  index: -1
+dress_sit
+  rotate: 180
+  xy: 205, 73
+  size: 155, 94
+  orig: 155, 97
+  offset: 0, 0
+  index: -1
+eflash1
+  rotate: false
+  xy: 322, 267
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+eflashB1
+  rotate: false
+  xy: 482, 2
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 0, 10
+  size: 124, 62
+  orig: 124, 62
+  offset: 0, 0
+  index: -1
+flash3
+  rotate: false
+  xy: 360, 12
+  size: 122, 82
+  orig: 122, 82
+  offset: 0, 0
+  index: -1
+flash4
+  rotate: false
+  xy: 0, 72
+  size: 157, 74
+  orig: 157, 74
+  offset: 0, 0
+  index: -1
+flash5
+  rotate: true
+  xy: 433, 208
+  size: 142, 74
+  orig: 142, 74
+  offset: 0, 0
+  index: -1
+hairback
+  rotate: false
+  xy: 0, 287
+  size: 186, 146
+  orig: 186, 146
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 0, 145
+  size: 233, 104
+  orig: 233, 104
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 344, 349
+  size: 163, 166
+  orig: 163, 166
+  offset: 0, 0
+  index: -1
+horns
+  rotate: true
+  xy: 185, 250
+  size: 182, 137
+  orig: 182, 137
+  offset: 0, 0
+  index: -1
+mouthgrit
+  rotate: false
+  xy: 322, 352
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 171, 414
+  size: 10, 4
+  orig: 10, 4
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 169, 419
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 232, 175
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+
+SD_Hero_Befana2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lhand
+  rotate: false
+  xy: 475, 92
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 162, 161
+  size: 38, 110
+  orig: 38, 110
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 82, 272
+  size: 35, 64
+  orig: 35, 64
+  offset: 0, 0
+  index: -1
+Rarrm
+  rotate: false
+  xy: 95, 74
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 133, 165
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+apron
+  rotate: true
+  xy: 316, 423
+  size: 90, 88
+  orig: 90, 88
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: 270
+  xy: 338, 314
+  size: 78, 174
+  orig: 78, 174
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: 270
+  xy: 6, 308
+  size: 54, 147
+  orig: 54, 147
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: 270
+  xy: 353, 265
+  size: 78, 158
+  orig: 78, 158
+  offset: 0, 0
+  index: -1
+bangs7x
+  rotate: false
+  xy: 0, 360
+  size: 161, 153
+  orig: 161, 153
+  offset: 0, 0
+  index: -1
+bangs8
+  rotate: true
+  xy: 0, 106
+  size: 37, 96
+  orig: 126, 118
+  offset: 5, 0
+  index: -1
+bowback
+  rotate: false
+  xy: 429, 78
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+broomexhaust1
+  rotate: false
+  xy: 388, 124
+  size: 113, 26
+  orig: 113, 26
+  offset: 0, 0
+  index: -1
+broomexhaust2
+  rotate: true
+  xy: 239, 403
+  size: 110, 77
+  orig: 110, 77
+  offset: 0, 0
+  index: -1
+broomexhaust3
+  rotate: true
+  xy: 160, 403
+  size: 110, 78
+  orig: 110, 78
+  offset: 0, 0
+  index: -1
+broomexhaustbar2
+  rotate: false
+  xy: 270, 368
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+broompiece
+  rotate: false
+  xy: 136, 92
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+broompiece2
+  rotate: false
+  xy: 0, 83
+  size: 58, 22
+  orig: 58, 22
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 404, 472
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+eflash2
+  rotate: false
+  xy: 377, 74
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+eflash3
+  rotate: true
+  xy: 395, 151
+  size: 62, 82
+  orig: 62, 82
+  offset: 0, 0
+  index: -1
+eflash4
+  rotate: true
+  xy: 247, 194
+  size: 69, 79
+  orig: 69, 79
+  offset: 0, 0
+  index: -1
+eflash5
+  rotate: true
+  xy: 267, 76
+  size: 52, 56
+  orig: 52, 56
+  offset: 0, 0
+  index: -1
+eflashB2
+  rotate: true
+  xy: 214, 103
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1
+eflashB3
+  rotate: true
+  xy: 162, 203
+  size: 64, 86
+  orig: 64, 86
+  offset: 0, 0
+  index: -1
+eflashB4
+  rotate: true
+  xy: 153, 267
+  size: 75, 85
+  orig: 75, 85
+  offset: 0, 0
+  index: -1
+eflashB5
+  rotate: false
+  xy: 332, 127
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+eflashC1
+  rotate: false
+  xy: 477, 181
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+eflashC2
+  rotate: false
+  xy: 272, 128
+  size: 61, 55
+  orig: 61, 55
+  offset: 0, 0
+  index: -1
+eflashC3
+  rotate: false
+  xy: 327, 183
+  size: 68, 79
+  orig: 68, 79
+  offset: 0, 0
+  index: -1
+eflashC4
+  rotate: true
+  xy: 82, 195
+  size: 73, 80
+  orig: 73, 80
+  offset: 0, 0
+  index: -1
+eflashC5
+  rotate: false
+  xy: 323, 74
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 153, 343
+  size: 117, 61
+  orig: 117, 61
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 399, 212
+  size: 105, 58
+  orig: 105, 58
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 316, 361
+  size: 122, 62
+  orig: 122, 62
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 8, 436
+  size: 96, 76
+  orig: 96, 76
+  offset: 0, 0
+  index: -1
+flash1
+  rotate: false
+  xy: 59, 74
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+flash2
+  rotate: false
+  xy: 0, 232
+  size: 82, 75
+  orig: 82, 75
+  offset: 0, 0
+  index: -1
+flash6
+  rotate: true
+  xy: 438, 382
+  size: 130, 52
+  orig: 130, 52
+  offset: 0, 0
+  index: -1
+hairbow
+  rotate: false
+  xy: 0, 350
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+hairtail
+  rotate: 180
+  xy: 249, 262
+  size: 84, 98
+  orig: 84, 98
+  offset: 0, 0
+  index: -1
+hairtail1
+  rotate: true
+  xy: 133, 120
+  size: 40, 82
+  orig: 40, 82
+  offset: 0, 0
+  index: -1
+hairtail2
+  rotate: false
+  xy: 404, 438
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 0, 154
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+windup
+  rotate: false
+  xy: 70, 136
+  size: 63, 58
+  orig: 63, 58
+  offset: 0, 0
+  index: -1

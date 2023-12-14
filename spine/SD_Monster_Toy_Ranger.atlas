@@ -1,0 +1,125 @@
+
+SD_Monster_Toy_Ranger.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lhand
+  rotate: false
+  xy: 281, 381
+  size: 78, 48
+  orig: 78, 48
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 0, 162
+  size: 48, 107
+  orig: 48, 107
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 118, 225
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 410, 257
+  size: 74, 106
+  orig: 74, 106
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 191, 167
+  size: 47, 94
+  orig: 47, 99
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 465, 231
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+fluff
+  rotate: true
+  xy: 0, 210
+  size: 55, 118
+  orig: 55, 118
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 0, 265
+  size: 168, 164
+  orig: 168, 164
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 365, 363
+  size: 143, 113
+  orig: 143, 113
+  offset: 0, 0
+  index: -1
+muzzle1
+  rotate: true
+  xy: 478, 475
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+muzzle2
+  rotate: false
+  xy: 118, 154
+  size: 73, 67
+  orig: 73, 67
+  offset: 0, 0
+  index: -1
+muzzle3
+  rotate: false
+  xy: 168, 221
+  size: 107, 73
+  orig: 107, 73
+  offset: 0, 0
+  index: -1
+muzzle4
+  rotate: false
+  xy: 281, 271
+  size: 129, 92
+  orig: 129, 92
+  offset: 0, 0
+  index: -1
+muzzle5
+  rotate: true
+  xy: 275, 199
+  size: 72, 96
+  orig: 72, 96
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 371, 201
+  size: 94, 56
+  orig: 94, 56
+  offset: 0, 0
+  index: -1
+rifle
+  rotate: false
+  xy: 0, 429
+  size: 365, 77
+  orig: 365, 77
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 168, 294
+  size: 113, 135
+  orig: 113, 135
+  offset: 0, 0
+  index: -1

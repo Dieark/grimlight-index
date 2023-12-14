@@ -1,0 +1,118 @@
+
+SD_Monster_Toy_RabbitMage.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: 180
+  xy: 349, 131
+  size: 100, 177
+  orig: 100, 177
+  offset: 0, 0
+  index: -1
+Lear
+  rotate: 180
+  xy: 394, 25
+  size: 55, 159
+  orig: 55, 159
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: 180
+  xy: 271, 226
+  size: 98, 172
+  orig: 98, 172
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 294, 414
+  size: 133, 95
+  orig: 133, 95
+  offset: 0, 0
+  index: -1
+Rear
+  rotate: true
+  xy: 298, 345
+  size: 92, 130
+  orig: 92, 130
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 427, 402
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: 180
+  xy: 260, 46
+  size: 92, 180
+  orig: 92, 180
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 119, 285
+  size: 180, 224
+  orig: 180, 224
+  offset: 0, 0
+  index: -1
+bow2
+  rotate: false
+  xy: 425, 161
+  size: 23, 43
+  orig: 23, 43
+  offset: 0, 0
+  index: -1
+bow3
+  rotate: false
+  xy: 369, 304
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+bow_top
+  rotate: true
+  xy: 414, 324
+  size: 71, 61
+  orig: 71, 61
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 119, 137
+  size: 145, 149
+  orig: 145, 149
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 0, 2
+  size: 110, 53
+  orig: 110, 53
+  offset: 0, 0
+  index: -1
+redglow
+  rotate: false
+  xy: 424, 457
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+staff
+  rotate: false
+  xy: 0, 54
+  size: 119, 456
+  orig: 119, 456
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 119, 12
+  size: 125, 129
+  orig: 125, 129
+  offset: 0, 0
+  index: -1

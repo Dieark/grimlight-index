@@ -1,0 +1,167 @@
+
+SD_Monster_Puppet_Large.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 334, 166
+  size: 81, 83
+  orig: 81, 83
+  offset: 0, 0
+  index: -1
+Larm2
+  rotate: false
+  xy: 424, 52
+  size: 37, 110
+  orig: 37, 110
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: false
+  xy: 0, 14
+  size: 71, 50
+  orig: 71, 50
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: true
+  xy: 261, 62
+  size: 85, 98
+  orig: 85, 98
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 143, 23
+  size: 31, 98
+  orig: 31, 98
+  offset: 0, 0
+  index: -1
+Lshin
+  rotate: true
+  xy: 394, 372
+  size: 46, 90
+  orig: 46, 90
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 394, 418
+  size: 81, 58
+  orig: 81, 58
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 359, 74
+  size: 65, 93
+  orig: 65, 93
+  offset: 0, 0
+  index: -1
+Rarm2
+  rotate: false
+  xy: 394, 249
+  size: 63, 93
+  orig: 63, 93
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: false
+  xy: 70, 16
+  size: 73, 48
+  orig: 73, 48
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 154, 54
+  size: 92, 107
+  orig: 92, 107
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 456, 275
+  size: 31, 98
+  orig: 31, 98
+  offset: 0, 0
+  index: -1
+Rshin
+  rotate: false
+  xy: 424, 162
+  size: 48, 88
+  orig: 48, 88
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 261, 12
+  size: 70, 50
+  orig: 70, 50
+  offset: 0, 0
+  index: -1
+bow
+  rotate: true
+  xy: 452, 419
+  size: 80, 38
+  orig: 80, 38
+  offset: 0, 0
+  index: -1
+feather
+  rotate: false
+  xy: 359, 2
+  size: 73, 72
+  orig: 73, 72
+  offset: 0, 0
+  index: -1
+hatbrim
+  rotate: true
+  xy: 162, 241
+  size: 257, 120
+  orig: 257, 120
+  offset: 0, 0
+  index: -1
+hatbrimback
+  rotate: true
+  xy: 283, 249
+  size: 250, 111
+  orig: 250, 111
+  offset: 0, 0
+  index: -1
+hattop
+  rotate: false
+  xy: 156, 147
+  size: 178, 95
+  orig: 178, 95
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 0, 159
+  size: 157, 143
+  orig: 157, 143
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 461, 103
+  size: 58, 34
+  orig: 58, 34
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 0, 64
+  size: 155, 94
+  orig: 155, 94
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 0, 301
+  size: 163, 198
+  orig: 163, 198
+  offset: 0, 0
+  index: -1

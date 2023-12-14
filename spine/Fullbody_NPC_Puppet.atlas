@@ -1,0 +1,132 @@
+
+Fullbody_NPC_Puppet.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 1142, 158
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+Leye
+  rotate: false
+  xy: 847, 1192
+  size: 158, 136
+  orig: 158, 136
+  offset: 0, 0
+  index: -1
+Leyescrew
+  rotate: false
+  xy: 439, 644
+  size: 94, 132
+  orig: 94, 132
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: true
+  xy: 1329, 144
+  size: 311, 386
+  orig: 311, 386
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 1142, 359
+  size: 424, 505
+  orig: 424, 505
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 625, 1183
+  size: 223, 146
+  orig: 223, 146
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 1566, 777
+  size: 199, 191
+  orig: 199, 191
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: false
+  xy: 276, 319
+  size: 164, 457
+  orig: 164, 457
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 494, 312
+  size: 552, 649
+  orig: 600, 710
+  offset: 48, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 276, 144
+  size: 238, 176
+  orig: 238, 176
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 776
+  size: 552, 625
+  orig: 552, 625
+  offset: 0, 0
+  index: -1
+bowtie
+  rotate: false
+  xy: 718, 145
+  size: 255, 166
+  orig: 255, 166
+  offset: 0, 0
+  index: -1
+feather
+  rotate: true
+  xy: 1593, 455
+  size: 332, 100
+  orig: 332, 100
+  offset: 0, 0
+  index: -1
+hatback
+  rotate: false
+  xy: 625, 863
+  size: 960, 318
+  orig: 960, 318
+  offset: 0, 0
+  index: -1
+hatbrim
+  rotate: false
+  xy: 0, 1328
+  size: 1054, 438
+  orig: 1054, 438
+  offset: 0, 0
+  index: -1
+hattop
+  rotate: true
+  xy: 0, 128
+  size: 648, 276
+  orig: 648, 276
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1054, 1181
+  size: 696, 586
+  orig: 696, 586
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 514, 153
+  size: 204, 202
+  orig: 204, 202
+  offset: 0, 0
+  index: -1

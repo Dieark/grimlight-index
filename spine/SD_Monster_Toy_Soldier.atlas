@@ -1,0 +1,90 @@
+
+SD_Monster_Toy_Soldier.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 260, 389
+  size: 44, 66
+  orig: 44, 66
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: true
+  xy: 77, 0
+  size: 68, 80
+  orig: 68, 80
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 259, 54
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 0, 25
+  size: 75, 77
+  orig: 75, 77
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 239, 185
+  size: 46, 109
+  orig: 48, 112
+  offset: 0, 3
+  index: -1
+hat
+  rotate: true
+  xy: 96, 293
+  size: 168, 164
+  orig: 168, 164
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 96, 181
+  size: 143, 112
+  orig: 143, 112
+  offset: 0, 0
+  index: -1
+headfluff
+  rotate: true
+  xy: 157, 13
+  size: 55, 118
+  orig: 55, 118
+  offset: 0, 0
+  index: -1
+legs
+  rotate: false
+  xy: 260, 291
+  size: 48, 99
+  orig: 111, 103
+  offset: 0, 4
+  index: -1
+pelvis
+  rotate: true
+  xy: 231, 91
+  size: 90, 56
+  orig: 90, 56
+  offset: 0, 0
+  index: -1
+sword
+  rotate: false
+  xy: 0, 100
+  size: 96, 361
+  orig: 96, 361
+  offset: 0, 0
+  index: -1
+torso
+  rotate: true
+  xy: 96, 68
+  size: 113, 135
+  orig: 113, 135
+  offset: 0, 0
+  index: -1
