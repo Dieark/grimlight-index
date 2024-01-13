@@ -806,7 +806,7 @@
     "objectID": "CHAR0000"
   },
   "talkData": {
-    "m_FileID": 2,
+    "m_FileID": 3,
     "m_PathID": 3223463833121107703
   },
   "traits": [
@@ -815,7 +815,7 @@
       "m_PathID": -8492487845418143412
     },
     {
-      "m_FileID": 3,
+      "m_FileID": 4,
       "m_PathID": -2720379495240371884
     },
     {

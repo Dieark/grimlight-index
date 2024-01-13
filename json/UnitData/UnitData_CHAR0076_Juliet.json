@@ -806,29 +806,29 @@
     "objectID": "CHAR0000"
   },
   "talkData": {
-    "m_FileID": 2,
+    "m_FileID": 3,
     "m_PathID": 5110752583332766065
   },
   "traits": [
     {
-      "m_FileID": 3,
+      "m_FileID": 4,
       "m_PathID": -1503766382738611897
     },
     {
-      "m_FileID": 3,
+      "m_FileID": 4,
       "m_PathID": 461992620180192363
     },
     {
-      "m_FileID": 3,
+      "m_FileID": 4,
       "m_PathID": -5527021233025070932
     }
   ],
   "passiveAbility": {
-    "m_FileID": 3,
+    "m_FileID": 4,
     "m_PathID": 7388217413081691033
   },
   "activeAbility": {
-    "m_FileID": 3,
+    "m_FileID": 4,
     "m_PathID": -21384021644277655
   },
   "Gender": 0,

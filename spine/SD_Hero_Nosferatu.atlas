@@ -1,0 +1,376 @@
+
+SD_Hero_Nosferatu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ltailcoat
+  rotate: true
+  xy: 379, 5
+  size: 16, 49
+  orig: 16, 49
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: true
+  xy: 239, 5
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+Nasferatu_Blur1
+  rotate: false
+  xy: 0, 236
+  size: 250, 276
+  orig: 277, 281
+  offset: 0, 3
+  index: -1
+Nasferatu_Blur2
+  rotate: false
+  xy: 250, 229
+  size: 208, 283
+  orig: 219, 287
+  offset: 11, 3
+  index: -1
+Rshoulderplate
+  rotate: true
+  xy: 466, 12
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+backcollar
+  rotate: false
+  xy: 427, 2
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+backhair3
+  rotate: true
+  xy: 239, 18
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: false
+  xy: 466, 134
+  size: 40, 119
+  orig: 40, 119
+  offset: 0, 0
+  index: -1
+chain
+  rotate: false
+  xy: 293, 1
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: true
+  xy: 458, 341
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+eyefurious
+  rotate: true
+  xy: 458, 428
+  size: 85, 49
+  orig: 85, 49
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: true
+  xy: 466, 55
+  size: 79, 43
+  orig: 79, 43
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: true
+  xy: 458, 252
+  size: 88, 45
+  orig: 88, 45
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 145, 1
+  size: 94, 46
+  orig: 94, 46
+  offset: 0, 0
+  index: -1
+monaclestring2
+  rotate: false
+  xy: 496, 242
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+mouthgrit
+  rotate: false
+  xy: 0, 230
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 14, 232
+  size: 16, 4
+  orig: 16, 4
+  offset: 0, 0
+  index: -1
+mouthshock
+  rotate: true
+  xy: 500, 232
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: true
+  xy: 458, 236
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+mouthstars
+  rotate: false
+  xy: 263, 5
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+slash1
+  rotate: false
+  xy: 303, 21
+  size: 163, 208
+  orig: 178, 210
+  offset: 4, 0
+  index: -1
+slash4
+  rotate: false
+  xy: 0, 46
+  size: 303, 183
+  orig: 306, 185
+  offset: 1, 1
+  index: -1
+slash5
+  rotate: false
+  xy: 0, 0
+  size: 145, 46
+  orig: 148, 48
+  offset: 1, 1
+  index: -1
+swordhandle
+  rotate: false
+  xy: 452, 4
+  size: 47, 8
+  orig: 47, 8
+  offset: 0, 0
+  index: -1
+whiteflap
+  rotate: true
+  xy: 329, 7
+  size: 14, 49
+  orig: 14, 49
+  offset: 0, 0
+  index: -1
+
+SD_Hero_Nosferatu2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 356, 228
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 411, 321
+  size: 26, 82
+  orig: 26, 82
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 430, 79
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+Lthumbx
+  rotate: false
+  xy: 333, 244
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 146, 79
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+Rarmplate
+  rotate: true
+  xy: 408, 108
+  size: 89, 104
+  orig: 89, 104
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 367, 79
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 245, 80
+  size: 30, 85
+  orig: 30, 85
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 401, 72
+  size: 29, 46
+  orig: 29, 46
+  offset: 0, 0
+  index: -1
+Rtailcoat
+  rotate: true
+  xy: 304, 335
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+backcape
+  rotate: true
+  xy: 304, 316
+  size: 196, 115
+  orig: 196, 115
+  offset: 0, 0
+  index: -1
+backhair1
+  rotate: true
+  xy: 286, 147
+  size: 119, 122
+  orig: 119, 122
+  offset: 0, 0
+  index: -1
+backhair2
+  rotate: true
+  xy: 71, 71
+  size: 94, 119
+  orig: 94, 119
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: true
+  xy: 286, 104
+  size: 79, 146
+  orig: 79, 146
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: true
+  xy: 460, 77
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+blade
+  rotate: true
+  xy: 418, 347
+  size: 165, 76
+  orig: 165, 76
+  offset: 0, 0
+  index: -1
+buckle
+  rotate: false
+  xy: 72, 141
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 330, 79
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 0, 97
+  size: 72, 68
+  orig: 72, 68
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 389, 197
+  size: 122, 125
+  orig: 122, 125
+  offset: 0, 0
+  index: -1
+monacle
+  rotate: false
+  xy: 304, 484
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1
+monaclestring1
+  rotate: false
+  xy: 494, 487
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 275, 101
+  size: 55, 29
+  orig: 55, 29
+  offset: 0, 0
+  index: -1
+slash2
+  rotate: false
+  xy: 0, 164
+  size: 286, 178
+  orig: 299, 181
+  offset: 1, 2
+  index: -1
+slash3
+  rotate: false
+  xy: 0, 342
+  size: 304, 170
+  orig: 308, 173
+  offset: 2, 1
+  index: -1
+tailcoatback
+  rotate: 270
+  xy: 286, 265
+  size: 75, 87
+  orig: 75, 87
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 190, 92
+  size: 59, 72
+  orig: 59, 72
+  offset: 0, 0
+  index: -1

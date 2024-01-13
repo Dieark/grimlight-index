@@ -806,25 +806,25 @@
     "objectID": "CHAR0000"
   },
   "talkData": {
-    "m_FileID": 2,
+    "m_FileID": 3,
     "m_PathID": 1684283568782226856
   },
   "traits": [
     {
-      "m_FileID": 3,
+      "m_FileID": 4,
       "m_PathID": 4476213009786355705
     },
     {
-      "m_FileID": 3,
+      "m_FileID": 4,
       "m_PathID": 4873736541896342764
     }
   ],
   "passiveAbility": {
-    "m_FileID": 5,
+    "m_FileID": 6,
     "m_PathID": -1680748879054779522
   },
   "activeAbility": {
-    "m_FileID": 3,
+    "m_FileID": 4,
     "m_PathID": 8984526778260856821
   },
   "Gender": 0,

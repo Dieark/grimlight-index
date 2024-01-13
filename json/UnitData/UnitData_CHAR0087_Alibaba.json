@@ -811,16 +811,16 @@
   },
   "traits": [
     {
-      "m_FileID": 9,
+      "m_FileID": 4,
       "m_PathID": -6891470427058022353
     }
   ],
   "passiveAbility": {
-    "m_FileID": 9,
+    "m_FileID": 4,
     "m_PathID": 3867846717348742133
   },
   "activeAbility": {
-    "m_FileID": 9,
+    "m_FileID": 4,
     "m_PathID": -3697886984202337480
   },
   "Gender": 1,

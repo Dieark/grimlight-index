@@ -728,10 +728,10 @@
           "objectType": 7,
           "objectID": "EquipmentItem_T4_NightstoneNecklace"
         },
-        "itemCount": 10,
+        "itemCount": 1,
         "dropOptionExtension": {
           "applyExtensions": 1,
-          "individualDropPercent": 1,
+          "individualDropPercent": 5,
           "maxDrop": 1,
           "minDrop": 1
         },
@@ -806,29 +806,29 @@
     "objectID": "CHAR0000"
   },
   "talkData": {
-    "m_FileID": 2,
+    "m_FileID": 3,
     "m_PathID": 2121338739529043161
   },
   "traits": [
     {
-      "m_FileID": 3,
+      "m_FileID": 4,
       "m_PathID": -5482849133598130372
     },
     {
-      "m_FileID": 3,
+      "m_FileID": 4,
       "m_PathID": -7565528417348264758
     },
     {
-      "m_FileID": 3,
+      "m_FileID": 4,
       "m_PathID": 8373578891352270787
     }
   ],
   "passiveAbility": {
-    "m_FileID": 3,
+    "m_FileID": 4,
     "m_PathID": -8961379497653096406
   },
   "activeAbility": {
-    "m_FileID": 3,
+    "m_FileID": 4,
     "m_PathID": -2261909288713661385
   },
   "Gender": 0,

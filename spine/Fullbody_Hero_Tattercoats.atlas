@@ -1,0 +1,272 @@
+
+Fullbody_Hero_Tattercoats.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BangsL
+  rotate: false
+  xy: 1652, 325
+  size: 103, 273
+  orig: 207, 343
+  offset: 104, 70
+  index: -1
+BangsM
+  rotate: false
+  xy: 1970, 1370
+  size: 79, 162
+  orig: 189, 347
+  offset: 80, 185
+  index: -1
+BangsR
+  rotate: true
+  xy: 0, 537
+  size: 180, 348
+  orig: 180, 348
+  offset: 0, 0
+  index: -1
+Larm
+  rotate: false
+  xy: 992, 933
+  size: 386, 217
+  orig: 415, 328
+  offset: 0, 111
+  index: -1
+Larmribbon2
+  rotate: false
+  xy: 1756, 1914
+  size: 108, 134
+  orig: 108, 134
+  offset: 0, 0
+  index: -1
+LarnRibbon1
+  rotate: false
+  xy: 739, 1591
+  size: 222, 256
+  orig: 308, 256
+  offset: 86, 0
+  index: -1
+Lbicep
+  rotate: false
+  xy: 1370, 1542
+  size: 153, 194
+  orig: 153, 194
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: 270
+  xy: 0, 571
+  size: 282, 965
+  orig: 295, 965
+  offset: 13, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 1313, 259
+  size: 332, 350
+  orig: 332, 350
+  offset: 0, 0
+  index: -1
+RarmRibbon2
+  rotate: false
+  xy: 1966, 1923
+  size: 81, 83
+  orig: 174, 158
+  offset: 93, 38
+  index: -1
+RarmString1
+  rotate: false
+  xy: 0, 1933
+  size: 35, 116
+  orig: 89, 116
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 1595, 1851
+  size: 109, 88
+  orig: 109, 88
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 59, 821
+  size: 202, 1091
+  orig: 202, 1091
+  offset: 0, 0
+  index: -1
+SkirtBack
+  rotate: false
+  xy: 1046, 1264
+  size: 360, 76
+  orig: 360, 76
+  offset: 0, 0
+  index: -1
+angry
+  rotate: false
+  xy: 573, 1939
+  size: 164, 109
+  orig: 164, 109
+  offset: 0, 0
+  index: -1
+annoy
+  rotate: false
+  xy: 598, 720
+  size: 164, 102
+  orig: 164, 102
+  offset: 0, 0
+  index: -1
+capeL
+  rotate: 180
+  xy: 1248, 1070
+  size: 800, 843
+  orig: 800, 843
+  offset: 0, 0
+  index: -1
+capeL_back
+  rotate: false
+  xy: 291, 1514
+  size: 119, 114
+  orig: 119, 114
+  offset: 0, 0
+  index: -1
+capeR
+  rotate: true
+  xy: 931, 532
+  size: 444, 768
+  orig: 444, 768
+  offset: 0, 0
+  index: -1
+capebackR
+  rotate: true
+  xy: 1606, 747
+  size: 322, 442
+  orig: 322, 442
+  offset: 0, 0
+  index: -1
+coatstrings
+  rotate: 270
+  xy: 0, 259
+  size: 417, 709
+  orig: 417, 709
+  offset: 0, 0
+  index: -1
+coattail
+  rotate: false
+  xy: 0, 1263
+  size: 875, 785
+  orig: 875, 785
+  offset: 0, 0
+  index: -1
+dress
+  rotate: 180
+  xy: 757, 1419
+  size: 638, 629
+  orig: 644, 629
+  offset: 6, 0
+  index: -1
+faceidle
+  rotate: false
+  xy: 287, 999
+  size: 164, 107
+  orig: 164, 107
+  offset: 0, 0
+  index: -1
+hairback
+  rotate: false
+  xy: 159, 1106
+  size: 232, 105
+  orig: 232, 105
+  offset: 0, 0
+  index: -1
+happy
+  rotate: false
+  xy: 1251, 919
+  size: 164, 105
+  orig: 164, 105
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 0, 1086
+  size: 159, 179
+  orig: 159, 180
+  offset: 0, 1
+  index: -1
+hood
+  rotate: 180
+  xy: 1576, 370
+  size: 421, 377
+  orig: 421, 437
+  offset: 0, 0
+  index: -1
+hoodback
+  rotate: false
+  xy: 1261, 1735
+  size: 334, 314
+  orig: 334, 314
+  offset: 0, 0
+  index: -1
+knife
+  rotate: false
+  xy: 43, 1816
+  size: 531, 232
+  orig: 531, 232
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 875, 1955
+  size: 116, 93
+  orig: 116, 93
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 1595, 1939
+  size: 164, 109
+  orig: 164, 109
+  offset: 0, 0
+  index: -1
+shawlback2
+  rotate: 180
+  xy: 1356, 844
+  size: 691, 488
+  orig: 691, 488
+  offset: 0, 0
+  index: -1
+shawlback3
+  rotate: true
+  xy: 1587, 1618
+  size: 431, 417
+  orig: 431, 417
+  offset: 0, 0
+  index: -1
+shawlbackR
+  rotate: false
+  xy: 63, 1627
+  size: 396, 189
+  orig: 396, 189
+  offset: 0, 0
+  index: -1
+shawltop
+  rotate: false
+  xy: 313, 959
+  size: 985, 462
+  orig: 985, 462
+  offset: 0, 0
+  index: -1
+shy
+  rotate: false
+  xy: 1150, 816
+  size: 164, 103
+  orig: 164, 103
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: false
+  xy: 842, 1846
+  size: 164, 109
+  orig: 164, 109
+  offset: 0, 0
+  index: -1

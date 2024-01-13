@@ -806,12 +806,12 @@
     "objectID": "CHAR0000"
   },
   "talkData": {
-    "m_FileID": 22,
+    "m_FileID": 3,
     "m_PathID": 6728740033027020023
   },
   "traits": [
     {
-      "m_FileID": 44,
+      "m_FileID": 0,
       "m_PathID": -8550828990025788468
     },
     {

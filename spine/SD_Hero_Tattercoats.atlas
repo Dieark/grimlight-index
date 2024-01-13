@@ -1,0 +1,362 @@
+
+SD_Hero_Tattercoats.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Head
+  rotate: true
+  xy: 239, 15
+  size: 106, 109
+  orig: 106, 109
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 480, 1
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 15, 4
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 347, 4
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+Tattercoats_Blur
+  rotate: false
+  xy: 0, 278
+  size: 337, 234
+  orig: 389, 269
+  offset: 42, 1
+  index: -1
+bangs
+  rotate: 270
+  xy: 393, 5
+  size: 32, 87
+  orig: 32, 87
+  offset: 0, 0
+  index: -1
+dust2
+  rotate: true
+  xy: 398, 36
+  size: 238, 107
+  orig: 238, 107
+  offset: 0, 0
+  index: -1
+dust3
+  rotate: false
+  xy: 0, 17
+  size: 239, 104
+  orig: 240, 105
+  offset: 1, 1
+  index: -1
+dust4
+  rotate: false
+  xy: 0, 130
+  size: 221, 148
+  orig: 222, 148
+  offset: 1, 0
+  index: -1
+dust5
+  rotate: true
+  xy: 337, 274
+  size: 238, 161
+  orig: 239, 161
+  offset: 0, 0
+  index: -1
+knife
+  rotate: false
+  xy: 347, 24
+  size: 46, 97
+  orig: 46, 97
+  offset: 0, 0
+  index: -1
+mouthgrit
+  rotate: false
+  xy: 9, 125
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 221, 275
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 0, 122
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 0, 4
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+slash5
+  rotate: false
+  xy: 221, 121
+  size: 177, 153
+  orig: 180, 155
+  offset: 1, 1
+  index: -1
+
+SD_Hero_Tattercoats2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 115, 39
+  size: 35, 60
+  orig: 35, 60
+  offset: 0, 0
+  index: -1
+Lcape
+  rotate: false
+  xy: 372, 19
+  size: 75, 50
+  orig: 75, 50
+  offset: 0, 0
+  index: -1
+Lcape2
+  rotate: 180
+  xy: 32, 64
+  size: 84, 93
+  orig: 84, 93
+  offset: 0, 0
+  index: -1
+Lcapeback
+  rotate: false
+  xy: 366, 65
+  size: 72, 56
+  orig: 72, 56
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 176, 43
+  size: 23, 74
+  orig: 23, 74
+  offset: 0, 0
+  index: -1
+Rcape
+  rotate: 270
+  xy: 2, 55
+  size: 79, 60
+  orig: 79, 60
+  offset: 0, 0
+  index: -1
+Rcape2
+  rotate: 180
+  xy: 410, 169
+  size: 101, 102
+  orig: 101, 102
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 422, 218
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+Rhand_bandage
+  rotate: false
+  xy: 387, 338
+  size: 18, 36
+  orig: 18, 36
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 133, 385
+  size: 26, 72
+  orig: 26, 72
+  offset: 0, 0
+  index: -1
+Torso
+  rotate: true
+  xy: 296, 138
+  size: 81, 83
+  orig: 81, 83
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: true
+  xy: 98, 74
+  size: 45, 100
+  orig: 45, 101
+  offset: 0, 1
+  index: -1
+bangs3
+  rotate: true
+  xy: 0, 133
+  size: 71, 155
+  orig: 71, 155
+  offset: 0, 0
+  index: -1
+capeback
+  rotate: false
+  xy: 264, 274
+  size: 148, 103
+  orig: 148, 103
+  offset: 0, 0
+  index: -1
+dust1
+  rotate: false
+  xy: 0, 411
+  size: 216, 101
+  orig: 217, 101
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: true
+  xy: 458, 103
+  size: 76, 50
+  orig: 76, 50
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 437, 65
+  size: 68, 37
+  orig: 68, 37
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 378, 121
+  size: 80, 48
+  orig: 80, 48
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 76, 118
+  size: 79, 49
+  orig: 79, 49
+  offset: 0, 0
+  index: -1
+eyshocked
+  rotate: false
+  xy: 154, 110
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+fringe
+  rotate: true
+  xy: 269, 60
+  size: 31, 104
+  orig: 31, 104
+  offset: 0, 0
+  index: -1
+hairback
+  rotate: true
+  xy: 411, 262
+  size: 112, 81
+  orig: 112, 81
+  offset: 0, 0
+  index: -1
+hood
+  rotate: false
+  xy: 133, 250
+  size: 131, 127
+  orig: 131, 127
+  offset: 0, 0
+  index: -1
+hoodback
+  rotate: false
+  xy: 0, 282
+  size: 134, 129
+  orig: 134, 129
+  offset: 0, 0
+  index: -1
+hoodbottom
+  rotate: false
+  xy: 217, 120
+  size: 74, 52
+  orig: 74, 52
+  offset: 0, 0
+  index: -1
+hoodbottom2
+  rotate: false
+  xy: 291, 92
+  size: 74, 50
+  orig: 74, 50
+  offset: 0, 0
+  index: -1
+knifeshine
+  rotate: true
+  xy: 198, 172
+  size: 46, 97
+  orig: 46, 97
+  offset: 0, 0
+  index: -1
+knifeshine2
+  rotate: true
+  xy: 0, 212
+  size: 71, 103
+  orig: 71, 103
+  offset: 0, 0
+  index: -1
+slash1
+  rotate: false
+  xy: 102, 194
+  size: 96, 56
+  orig: 100, 59
+  offset: 2, 2
+  index: -1
+slash2
+  rotate: false
+  xy: 264, 218
+  size: 158, 44
+  orig: 161, 46
+  offset: 1, 1
+  index: -1
+slash3
+  rotate: false
+  xy: 376, 374
+  size: 136, 138
+  orig: 140, 141
+  offset: 2, 2
+  index: -1
+slash4
+  rotate: true
+  xy: 216, 376
+  size: 136, 160
+  orig: 140, 162
+  offset: 2, 1
+  index: -1
+strand
+  rotate: false
+  xy: 269, 31
+  size: 59, 35
+  orig: 59, 35
+  offset: 0, 0
+  index: -1
+strand2
+  rotate: false
+  xy: 217, 65
+  size: 52, 55
+  orig: 52, 55
+  offset: 0, 0
+  index: -1

@@ -785,23 +785,23 @@
   ],
   "storyDatas": [
     {
-      "m_FileID": 1,
+      "m_FileID": 2,
       "m_PathID": -6846277760974493154
     },
     {
-      "m_FileID": 1,
+      "m_FileID": 2,
       "m_PathID": -7707893830869207138
     },
     {
-      "m_FileID": 1,
+      "m_FileID": 2,
       "m_PathID": 2429166458893985604
     },
     {
-      "m_FileID": 1,
+      "m_FileID": 2,
       "m_PathID": 3236165226897864668
     },
     {
-      "m_FileID": 1,
+      "m_FileID": 2,
       "m_PathID": -2761079625576867605
     }
   ],
@@ -859,21 +859,21 @@
     "objectID": "CHAR0000"
   },
   "talkData": {
-    "m_FileID": 2,
+    "m_FileID": 3,
     "m_PathID": -6636423325376549260
   },
   "traits": [
     {
-      "m_FileID": 3,
+      "m_FileID": 4,
       "m_PathID": -2362266857782986021
     }
   ],
   "passiveAbility": {
-    "m_FileID": 3,
+    "m_FileID": 4,
     "m_PathID": 4703092857223096255
   },
   "activeAbility": {
-    "m_FileID": 3,
+    "m_FileID": 4,
     "m_PathID": 6699227868808882675
   },
   "Gender": 0,

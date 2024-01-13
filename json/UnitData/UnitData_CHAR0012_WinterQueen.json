@@ -817,29 +817,29 @@
     "objectID": "CHAR0000"
   },
   "talkData": {
-    "m_FileID": 2,
+    "m_FileID": 3,
     "m_PathID": 5187519216838387983
   },
   "traits": [
     {
-      "m_FileID": 3,
+      "m_FileID": 4,
       "m_PathID": -2233390395453660317
     },
     {
-      "m_FileID": 3,
+      "m_FileID": 4,
       "m_PathID": 7644838709703675466
     },
     {
-      "m_FileID": 3,
+      "m_FileID": 4,
       "m_PathID": -2240751746397883674
     }
   ],
   "passiveAbility": {
-    "m_FileID": 3,
+    "m_FileID": 4,
     "m_PathID": -2432581518960351362
   },
   "activeAbility": {
-    "m_FileID": 3,
+    "m_FileID": 4,
     "m_PathID": 1610986427710965989
   },
   "Gender": 0,
